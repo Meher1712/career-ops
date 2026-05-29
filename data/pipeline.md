@@ -397,6 +397,11 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Sr-Product-Manager---Payments-Platform_R0074312 | eBay | Sr. Product Manager - Payments Platform | posted=2026-05-07
 - [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Sr-Product-Manager_R0073737 | eBay | Sr Product Manager | posted=2026-05-07
 
+- [ ] https://www.linkedin.com/jobs/view/4421241417 | Optum India | Technical Product Manager | posted=2026-05-29
+
+- [ ] https://www.linkedin.com/jobs/view/4422052880 | JoVE | Product Manager | posted=2026-05-29
+- [ ] https://www.linkedin.com/jobs/view/4421233727 | Optum India | Technical Product Manager | posted=2026-05-29
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

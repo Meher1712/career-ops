@@ -18,8 +18,8 @@ const shown = jobs.slice(0, MAX);
 
 const lines = shown.map((j, i) => {
   const loc = j.location ? ` • ${j.location}` : '';
-  // Format: "1. [Product Manager • Google • Bengaluru](https://...)"
-  return `${i + 1}\\. [${j.title} • ${j.company}${loc}](${j.url})`;
+  // Two-line format: number+label on line 1, bare URL on line 2 (Telegram auto-links it)
+  return `${i + 1}. ${j.title} • ${j.company}${loc}\n${j.url}`;
 });
 
 if (jobs.length > MAX) {

@@ -25,8 +25,16 @@ count_pipeline() {
   [[ -f "$PIPELINE" ]] && grep -c '^- \[' "$PIPELINE" 2>/dev/null || echo 0
 }
 
-BEFORE=$(count_pipeline)
 header "career-ops scan @ $(date '+%Y-%m-%d %H:%M:%S')"
+
+# Pull latest from GitHub before scanning so local pipeline.md stays in sync
+# with hourly GH Actions commits. Skipped if no remote or offline.
+if git remote get-url origin &>/dev/null; then
+  log "syncing pipeline from GitHub…"
+  git pull --rebase --autostash origin main 2>&1 | grep -v "^$" | while IFS= read -r l; do log "  git: $l"; done || log "(git pull failed — continuing with local copy)"
+fi
+
+BEFORE=$(count_pipeline)
 log "pipeline before: $BEFORE entries"
 log "log file:        $LOG_FILE"
 

@@ -370,6 +370,17 @@ async function main() {
     appendToScanHistory(newOffers, date);
   }
 
+  // Always write new-jobs.json (even empty) for GH Actions notification step.
+  writeFileSync('new-jobs.json', JSON.stringify(
+    newOffers.map(o => ({
+      title: o.title,
+      company: o.company,
+      location: o.location || '',
+      url: o.url,
+    })),
+    null, 2
+  ), 'utf-8');
+
   // 7. Print summary
   console.log(`\n${'━'.repeat(45)}`);
   console.log(`Portal Scan — ${date}`);

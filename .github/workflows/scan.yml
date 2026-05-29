@@ -2,9 +2,9 @@ name: Career Ops Scan
 
 on:
   schedule:
-    # Every hour — pairs with r3600 LinkedIn filter for near-real-time alerts.
-    # Free tier: ~1.5 min/run x 24/day x 30 days ≈ 1,080 min/month (limit: 2,000)
-    - cron: '0 * * * *'
+    # Every hour, IST daytime only: UTC 03–16 = IST 08:30 – 21:30
+    # Free tier: ~1.5 min/run x 14/day x 30 days ≈ 630 min/month (limit: 2,000)
+    - cron: '0 3-16 * * *'
   workflow_dispatch:
 
 jobs:
@@ -34,13 +34,8 @@ jobs:
           SKIP_INSTAHYRE: '1'
         run: |
           node scan.mjs 2>&1 | tee scan-output.txt
-          ADDED=$(grep -oP '(?<=New offers added:\s{6})\d+' scan-output.txt || echo "0")
+          ADDED=$(node -e "try{const j=JSON.parse(require('fs').readFileSync('new-jobs.json','utf-8'));process.stdout.write(String(j.length));}catch(e){process.stdout.write('0');}" 2>/dev/null || echo "0")
           echo "added=$ADDED" >> $GITHUB_OUTPUT
-          if [[ "$ADDED" -gt 0 ]]; then
-            grep -A 999 'New offers:' scan-output.txt | grep '^\s*+' | head -10 | sed 's/^\s*+\s*/• /' > new-jobs.txt
-          else
-            touch new-jobs.txt
-          fi
 
       - name: Fix LinkedIn labels
         if: steps.scan.outputs.added > 0
@@ -68,9 +63,9 @@ jobs:
           REPO: ${{ github.repository }}
         run: |
           DATE=$(TZ=Asia/Kolkata date '+%d %b %Y, %I:%M %p IST')
-          SUMMARY=$(cat new-jobs.txt)
           PIPELINE_URL="https://github.com/${REPO}/blob/main/data/pipeline.md"
-          MSG=$(printf "🎯 *%s new PM jobs* — %s\n\n%s\n\n[View pipeline →](%s)" "$ADDED" "$DATE" "$SUMMARY" "$PIPELINE_URL")
+          JOB_LIST=$(node format-notification.mjs)
+          MSG=$(printf "🎯 *%s new PM jobs* — %s\n\n%s\n\n[View all in pipeline →](%s)" "$ADDED" "$DATE" "$JOB_LIST" "$PIPELINE_URL")
           curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
             -d "chat_id=${CHAT_ID}" \
             -d "parse_mode=Markdown" \

@@ -270,6 +270,10 @@ tracked_companies:
     max_pages: 5
     enabled: true
 
+  - name: eBay
+    careers_url: https://ebay.wd5.myworkdayjobs.com/apply
+    enabled: true
+
   # ==========================================================================
   # Indian large enterprises & listed
   # ==========================================================================

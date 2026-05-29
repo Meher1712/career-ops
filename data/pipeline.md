@@ -387,6 +387,16 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Senior-Product-Manager_111399-JOB | Sprinklr | Senior Product Manager
 - [ ] https://www.zoominfo.com/careers?gh_jid=8525092002 | ZoomInfo | Product Manager III
 
+- [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Remote-Georgia/Sr-Product-Manager--Caramel_R0074296 | eBay | Sr. Product Manager, Caramel | posted=2026-05-27
+- [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Product-Manager---Assisted-Service_R0074176 | eBay | Product Manager - Assisted Service | posted=2026-05-22
+- [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Product-Manager---Tax-Platform_R0072974 | eBay | Product Manager – Tax Platform | posted=2026-05-19
+- [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Group-Product-Manager--Product-Knowledge_R0069759 | eBay | Group Product Manager, Product Knowledge | posted=2026-05-18
+- [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Senior-Product-Manager_R0074236 | eBay | Senior Product Manager | posted=2026-05-07
+- [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Sr-Product-Manager---Seller-Payments_R0073729 | eBay | Sr Product Manager - Seller Payments | posted=2026-05-07
+- [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Senior-Product-Manager---Mobile_R0073659-1 | eBay | Senior Product Manager - Mobile | posted=2026-05-07
+- [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Sr-Product-Manager---Payments-Platform_R0074312 | eBay | Sr. Product Manager - Payments Platform | posted=2026-05-07
+- [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Sr-Product-Manager_R0073737 | eBay | Sr Product Manager | posted=2026-05-07
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

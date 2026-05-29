@@ -7,25 +7,18 @@ on:
     # (GitHub free tier = 2,000 min/month for private repos — safely within limit)
     - cron: '0 * * * *'
   workflow_dispatch:
-    inputs:
-      dry_run:
-        description: 'Dry run (no file writes)'
-        type: boolean
-        default: false
 
 jobs:
   scan:
     runs-on: ubuntu-latest
     permissions:
-      contents: write   # needed to commit results back
+      contents: write
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          # Use PAT so the commit can trigger downstream workflows if needed.
-          # Falls back to GITHUB_TOKEN (no downstream triggers).
-          token: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -39,40 +32,29 @@ jobs:
       - name: Run ATS + LinkedIn scan
         id: scan
         env:
-          SKIP_LINKEDIN: '0'         # LinkedIn now runs via guest API (no auth)
-          SKIP_INSTAHYRE: '1'        # Instahyre is India-only and rate-limited; enable if needed
-          DRY_RUN: ${{ inputs.dry_run && '1' || '0' }}
+          SKIP_LINKEDIN: '0'
+          SKIP_INSTAHYRE: '1'
         run: |
-          if [[ "$DRY_RUN" == "1" ]]; then
-            node scan.mjs --dry-run 2>&1 | tee scan-output.txt
-          else
-            node scan.mjs 2>&1 | tee scan-output.txt
-          fi
+          node scan.mjs 2>&1 | tee scan-output.txt
 
-          # Extract counts from scan output
           ADDED=$(grep -oP '(?<=New offers added:\s{6})\d+' scan-output.txt || echo "0")
-          TOTAL=$(grep -oP '(?<=Total jobs found:\s{6})\d+' scan-output.txt || echo "0")
           echo "added=$ADDED" >> $GITHUB_OUTPUT
-          echo "total=$TOTAL" >> $GITHUB_OUTPUT
 
-          # Build a short summary of new jobs for the notification
           if [[ "$ADDED" -gt 0 ]]; then
             SUMMARY=$(grep -A 999 'New offers:' scan-output.txt \
               | grep '^\s*+' \
               | head -10 \
-              | sed 's/^\s*+\s*/• /' \
-              | head -c 2000)
+              | sed 's/^\s*+\s*/• /')
             echo "summary<<EOF" >> $GITHUB_OUTPUT
             echo "$SUMMARY" >> $GITHUB_OUTPUT
             echo "EOF" >> $GITHUB_OUTPUT
           fi
 
       - name: Fix LinkedIn labels
-        if: steps.scan.outputs.added > 0 && inputs.dry_run != true
+        if: steps.scan.outputs.added > 0
         run: node fix-linkedin-labels.mjs 2>&1 | tail -5
 
       - name: Commit results
-        if: inputs.dry_run != true
         run: |
           git config user.name  "career-ops-bot"
           git config user.email "bot@career-ops.local"
@@ -87,18 +69,18 @@ jobs:
           fi
 
       - name: Notify via Telegram
-        if: steps.scan.outputs.added > 0 && secrets.TELEGRAM_BOT_TOKEN != '' && inputs.dry_run != true
+        if: steps.scan.outputs.added > 0
         env:
           BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
           ADDED="${{ steps.scan.outputs.added }}"
           SUMMARY="${{ steps.scan.outputs.summary }}"
-          DATE=$(date '+%d %b %Y, %I:%M %p IST' --date='+5 hours 30 minutes')
+          DATE=$(TZ=Asia/Kolkata date '+%d %b %Y, %I:%M %p IST')
 
-          MSG="🎯 *$ADDED new PM jobs* — $DATE
+          MSG="🎯 *${ADDED} new PM jobs* — ${DATE}
 
-$SUMMARY
+${SUMMARY}
 
 [View pipeline →](https://github.com/${{ github.repository }}/blob/main/data/pipeline.md)"
 

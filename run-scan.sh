@@ -54,19 +54,15 @@ else
   log "Step A2: Instahyre disabled (SKIP_INSTAHYRE=1 default); set SKIP_INSTAHYRE=0 to re-enable"
 fi
 
-header "Step B — LinkedIn scan (claude -p, headless)"
-# LinkedIn runs once per day (morning slot only) to avoid pattern-detection.
-# The 6pm ATS+Instahyre re-scan is sufficient for afternoon freshness.
-# SCAN_MODE=quick (set by dashboard button) → minimal 1-search Product Manager
-# India past_24h scan; cron uses default (full) mode.
-SCAN_MODE="${SCAN_MODE:-full}"
-log "Step B: SCAN_MODE=$SCAN_MODE"
-if [[ "${SKIP_LINKEDIN:-0}" == "1" ]]; then
-  log "Step B: skipping LinkedIn (SKIP_LINKEDIN=1 — ATS-only slot)"
-elif ! command -v claude >/dev/null 2>&1; then
-  log "ERROR: claude CLI not on PATH; skipping Step B"
-elif [[ ! -f "$SCRIPT_DIR/.mcp.json" ]]; then
-  log "ERROR: .mcp.json missing; skipping Step B"
+header "Step B — LinkedIn scan (guest API, no auth)"
+# LinkedIn is now handled by providers/linkedin.mjs inside Step A (node scan.mjs).
+# The public guest API (no cookies, no MCP, no Claude tokens) runs every hour
+# via GitHub Actions. Step B is kept as a label for log readability only.
+log "Step B: LinkedIn handled by providers/linkedin.mjs in Step A — no separate step needed"
+if false; then
+  # Dead code block — preserved so the 'fi' below closes cleanly.
+  # Previously: claude -p headless MCP scraper (removed 2026-05-30, replaced by guest API provider).
+  true
 else
   # Quick mode: skip jitter (user is watching live), full mode: jitter to avoid bot patterns.
   if [[ "$SCAN_MODE" != "quick" ]]; then

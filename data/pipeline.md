@@ -374,6 +374,19 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013369044 | Nielsen | Senior Product Manager II | posted=2026-05-29
 - [ ] https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Senior-Product-Manager---Customer-Health-Platform_JR342995 | Salesforce | Senior Product Manager - Customer Health Platform | posted=2026-05-29
 
+- [ ] https://www.linkedin.com/jobs/view/4422049669 | hackajob | Digital Product Owner — Pune Division, Maharashtra, India | seen_ts=2026-05-29T22:00Z
+- [ ] https://www.linkedin.com/jobs/view/4421253132 | Optum India | Senior Technical Product Manager — Noida, Uttar Pradesh, India | seen_ts=2026-05-29T22:00Z
+- [ ] https://www.linkedin.com/jobs/view/4421239142 | MSD | Associate Director, Financial Sharing Area(FSA) Product Owner — Hyderabad, Telangana, India | seen_ts=2026-05-29T22:00Z
+- [ ] https://www.linkedin.com/jobs/view/4421232839 | Optum India | Technical Product Manager — Pune Division, Maharashtra, India | seen_ts=2026-05-29T22:00Z
+- [ ] https://job-boards.greenhouse.io/sumologic/jobs/7927075 | Sumo Logic | Senior Product Manager I
+- [ ] https://job-boards.eu.greenhouse.io/valtech/jobs/4799830101 | Valtech | Product Owner
+- [ ] https://jobs.lever.co/kobie/ae307bae-dd2b-4873-99b4-66373dc349a5 | Kobie | Product Owner
+- [ ] https://job-boards.greenhouse.io/arcanaanalytics/jobs/4005209009 | Arcana | Lead Product Manager
+- [ ] https://job-boards.greenhouse.io/ethoslife/jobs/8567760002 | Ethos | Director, Product Management
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013368701 | Nielsen | Senior Product Manager II
+- [ ] https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Senior-Product-Manager_111399-JOB | Sprinklr | Senior Product Manager
+- [ ] https://www.zoominfo.com/careers?gh_jid=8525092002 | ZoomInfo | Product Manager III
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

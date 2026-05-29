@@ -1,0 +1,895 @@
+# Pipeline
+
+Pending offer URLs to evaluate. Format: `- [ ] URL — note`
+
+
+## Pendientes
+
+- [ ] https://job-boards.greenhouse.io/phonepe/jobs/7690461003 | PhonePe | Product Manager
+- [ ] https://job-boards.greenhouse.io/phonepe/jobs/7662554003 | PhonePe | Senior Product Manager
+- [ ] https://stripe.com/jobs/search?gh_jid=7561551 | Stripe | Product Manager, Commerce Systems
+- [ ] https://stripe.com/jobs/search?gh_jid=7392697 | Stripe | Product Manager, Link Consumer Product
+- [ ] https://stripe.com/jobs/search?gh_jid=7176530 | Stripe | Product Manager, Payments
+- [ ] https://stripe.com/jobs/search?gh_jid=7625842 | Stripe | Product Manager, Risk & Compliance
+- [ ] https://stripe.com/jobs/search?gh_jid=6651889 | Stripe | Product Manager, Stripe Infrastructure
+- [ ] https://stripe.com/jobs/search?gh_jid=7913702 | Stripe | Staff Product Manager, Dashboard
+- [ ] https://stripe.com/jobs/search?gh_jid=7812856 | Stripe | Staff Product Manager, Enterprise (Industries) 
+- [ ] https://stripe.com/jobs/search?gh_jid=7819059 | Stripe | Staff Product Manager, Payments
+- [ ] https://jobs.ashbyhq.com/supabase/47282e37-34dc-401d-a1cd-dbe85fdd1c22 | Supabase | Product Manager - Pricing & Billing
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8489126002 | GitLab | Principal Product Manager, Security - GTM
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8512220002 | GitLab | Senior Product Manager, Tenant Scale
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8536109002 | GitLab | Staff Product Manager, AI Agent Orchestration
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8539288002 | GitLab | VP of Product Security 
+- [ ] https://pubmatic.com/job/?gh_jid=5148551008 | PubMatic | Director, Product Management - Mobile Monetization
+- [ ] https://careers.airbnb.com/positions/7586592?gh_jid=7586592 | Airbnb | Lead Advanced Analytics, Digital & AI Products
+- [ ] https://www.okta.com/company/careers/opportunity/7254769?gh_jid=7254769 | Okta | Sr. Product Manager, Identity Management
+- [ ] https://www.okta.com/company/careers/opportunity/7633452?gh_jid=7633452 | Okta | Staff Product Manager, AI & Automation Platforms
+- [ ] https://jobs.ashbyhq.com/rasa/a80e960f-ea30-413b-b79d-c37a7df4c658 | Rasa | Senior Product Manager - Infrastructure
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7851080 | MongoDB | Senior Product Manager
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7922824 | MongoDB | Staff Product Manager
+- [ ] https://jobs.lever.co/meesho/3b6ea0f7-cde7-4034-a862-232a177a4c95 | Meesho | Product Manager I
+
+
+- [ ] https://pubmatic.com/job/?gh_jid=5148544008 | PubMatic | Director, Product Management - Mobile Monetization
+
+- [ ] https://jobs.ashbyhq.com/lumos/1220dfcc-cd8c-4683-a590-f1067c4d3284 | Lumos | Product Manager, Integrations
+- [ ] https://job-boards.eu.greenhouse.io/sportygroup/jobs/4748864101 | Sporty Group | Product Manager
+- [ ] https://job-boards.greenhouse.io/glance/jobs/7845760 | Glance | Product Manager - TV Shopping
+- [ ] https://job-boards.greenhouse.io/glance/jobs/7585549 | Glance | Senior Product Manager- TV Platform & Partner Integrations
+- [ ] https://jobs.ashbyhq.com/sarvam/9e197c29-5164-42eb-8e74-4f691a794517 | Sarvam AI | Product Manager (Models)
+- [ ] https://jobs.ashbyhq.com/sarvam/c4bb3b2c-7608-4d57-8761-650b4222ac13 | Sarvam AI | Product Manager
+- [ ] https://jobs.ashbyhq.com/sarvam/f462051e-ec76-45cf-96c5-e0192dd4dcc6 | Sarvam AI | Product Manager On-Device & Edge AI
+- [ ] https://jobs.ashbyhq.com/pearl/c806304c-9b6f-4b8b-8561-609ea43e53ae | Pearl | Principal Product Manager
+- [ ] https://jobs.ashbyhq.com/reflexai/739dd656-cc41-47fa-b259-6ee69b96c936 | ReflexAI | Sr. Product Manager
+- [ ] https://www.highradius.com/about/careers-list/?gh_jid=7718212003 | HighRadius | Agent Product Builder
+- [ ] https://www.highradius.com/about/careers-list/?gh_jid=7620165003 | HighRadius | Product Manager
+- [ ] https://www.highradius.com/about/careers-list/?gh_jid=7707536003 | HighRadius | Senior Product Manager
+- [ ] https://job-boards.greenhouse.io/zenoti/jobs/7514080003 | Zenoti | Director, Product Management (SaaS B2B)
+- [ ] https://job-boards.greenhouse.io/zenoti/jobs/7730069003 | Zenoti | Lead Product Manager - Accounting Integrations
+- [ ] https://job-boards.greenhouse.io/zenoti/jobs/7589589003 | Zenoti | Lead Product Manager (APIs + Partner Ecosystem)
+- [ ] https://job-boards.greenhouse.io/zenoti/jobs/7514083003 | Zenoti | Lead Product Manager (Marketplace + Billing)
+- [ ] https://job-boards.greenhouse.io/zenoti/jobs/6275932003 | Zenoti | Lead Product Manager (Product B2B SaaS)
+- [ ] https://job-boards.greenhouse.io/zenoti/jobs/7729933003 | Zenoti | Senior Manager - Product Management (AI Workflows)
+- [ ] https://job-boards.greenhouse.io/zenoti/jobs/7513859003 | Zenoti | Senior Manager - Product Management (Payments/Fintech)
+- [ ] https://jobs.lever.co/mindtickle/b96342a2-a4a5-4281-8ccf-324b28a2e962 | MindTickle | Group Product Manager
+- [ ] https://jobs.lever.co/mindtickle/e55245fd-983c-4564-9b3f-491b7d16b8e8 | MindTickle | Senior Product Manager
+- [ ] https://jobs.lever.co/mindtickle/37ce31ba-9a5b-4890-a06a-8d0edacee7cc | MindTickle | Technical Product Owner - II
+- [ ] https://jobs.lever.co/mindtickle/26a82fb8-52a1-4526-997a-3c62eec4afa6 | MindTickle | Technical Product Owner - II (Devops)
+
+- [ ] https://job-boards.greenhouse.io/zenoti/jobs/6083519003 | Zenoti | Senior Manager - Product Management (AI Workflows)
+
+- [ ] https://job-boards.greenhouse.io/learneo/jobs/7626200 | Learneo | Senior Product Manager, Design Tools
+- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/7746709 | Smartsheet | Sr, Product Manager II - Gantt View (Hybrid in Bangalore)
+- [ ] https://job-boards.greenhouse.io/conga/jobs/5112515007 | Conga | Principal Product Manager
+- [ ] https://job-boards.greenhouse.io/conga/jobs/4944608007 | Conga | Senior Product Manager
+- [ ] https://job-boards.greenhouse.io/conga/jobs/5128604007 | Conga | Senior Technical Product Owner
+- [ ] https://job-boards.greenhouse.io/conga/jobs/4944622007 | Conga | Staff Product Manager
+- [ ] https://job-boards.greenhouse.io/sumologic/jobs/7618459 | Sumo Logic | Senior Product Manager 
+- [ ] https://job-boards.greenhouse.io/sumologic/jobs/7808591 | Sumo Logic | Senior Product Manager II - SecOps
+- [ ] https://job-boards.greenhouse.io/quillbot/jobs/7590173 | QuillBot | Senior Product Manager, Design Tools
+- [ ] https://jobs.ashbyhq.com/bureau/660a0bbc-d266-4b9b-b3e1-c93310562555 | Bureau | Product Manager (Transaction Monitoring)
+
+- [ ] https://job-boards.greenhouse.io/conga/jobs/5121467007 | Conga | Principal Product Manager
+- [ ] https://job-boards.greenhouse.io/sumologic/jobs/7580284 | Sumo Logic | Senior Product Manager 
+
+- [ ] https://job-boards.greenhouse.io/nanonets/jobs/5116804008 | Nanonets | AI Product Generalist 
+- [ ] https://job-boards.greenhouse.io/nanonets/jobs/5058002008 | Nanonets | Product Manager 
+- [ ] https://job-boards.eu.greenhouse.io/risalabs/jobs/4751825101 | RISA Labs | Associate Product Manager
+- [ ] https://join.jfrog.com/job/?job=7480148&gh_jid=7480148 | JFrog | Senior Technical Product Manager
+- [ ] https://join.jfrog.com/job/?job=6638800&gh_jid=6638800 | JFrog | Technical Product Manager
+
+- [ ] https://job-boards.greenhouse.io/newrelic/jobs/5211229008 | New Relic | Principal Product Manager
+- [ ] https://job-boards.greenhouse.io/newrelic/jobs/5211232008 | New Relic | R0000564 - Principal Product Manager
+- [ ] https://job-boards.greenhouse.io/newrelic/jobs/5171026008 | New Relic | Senior Product Manager
+- [ ] https://job-boards.greenhouse.io/newrelic/jobs/4944794008 | New Relic | Senior Product Manager - R115
+
+- [ ] https://job-boards.greenhouse.io/tekion/jobs/6317217003 | Tekion Corp | Director, GTM Product Management
+- [ ] https://job-boards.greenhouse.io/tekion/jobs/7651163003 | Tekion Corp | Senior Product Manager
+- [ ] https://job-boards.greenhouse.io/tekion/jobs/7650947003 | Tekion Corp | Staff Product Manager
+- [ ] https://job-boards.greenhouse.io/openfx/jobs/5121568008 | OpenFX | Head of Product Design
+- [ ] https://job-boards.greenhouse.io/openfx/jobs/4925597008 | OpenFX | Product Manager, API
+- [ ] https://job-boards.greenhouse.io/openfx/jobs/5071725008 | OpenFX | Product Manager, Payments
+- [ ] https://jobs.ashbyhq.com/confluent/2966b333-863b-4620-b0f5-220fafe76958 | Confluent | Staff Product Manager, Confluent Cloud Kafka
+- [ ] https://jobs.ashbyhq.com/confluent/c3fd5156-d339-4082-b6bd-2aba8b404188 | Confluent | Senior Product Manager – Pricing & Monetization
+- [ ] https://jobs.ashbyhq.com/confluent/f60bba87-9470-4238-bf6f-dce1b4da8006 | Confluent | Senior Product Manager, Cluster Linking
+- [ ] https://jobs.ashbyhq.com/confluent/21082b9f-440a-4ba6-a469-c70d339d1aa9 | Confluent | Staff Product Manager, Kafka Connect
+- [ ] https://jobs.ashbyhq.com/confluent/1946b144-eaa5-482f-b235-63cc06104ecc | Confluent | Senior Product Manager, Cloud Networking 
+- [ ] https://jobs.ashbyhq.com/confluent/9f49b470-2f9c-42c0-a7cb-2aabeb669da8 | Confluent | Staff Product Manager, Flink Cloud Platform
+- [ ] https://jobs.ashbyhq.com/confluent/dc52dfa1-1649-442c-9344-609b8f01ed4b | Confluent | Senior Product Manager, Cloud Networking
+- [ ] https://jobs.ashbyhq.com/confluent/81b94a4e-53d3-40d5-9c04-af57bd01961c | Confluent | Staff Product Manager, Real Time Data Analytics Platform 
+- [ ] https://jobs.lever.co/nium/78af3df0-9ee6-43f4-85d4-e4eabfa2d576 | Nium | Sr. Product Manager
+- [ ] https://jobs.lever.co/nium/c1bdb6eb-2ee5-410d-aa96-985401fa57b9 | Nium | Staff Product Manager
+- [ ] https://jobs.lever.co/acceldata/f4243124-48cd-48a8-919f-edc8c7c0722d | Acceldata | Senior Product Manager
+
+- [ ] https://www.rubrik.com/company/careers/departments/job.7634214?gh_jid=7634214 | Rubrik | Senior Product Manager-Data Discovery & Classification
+- [ ] https://www.rubrik.com/company/careers/departments/job.7540806?gh_jid=7540806 | Rubrik | Staff Product Manager-Cloud Data Protection
+- [ ] https://www.rubrik.com/company/careers/departments/job.7508965?gh_jid=7508965 | Rubrik | Technical Product Manager
+- [ ] https://job-boards.eu.greenhouse.io/valtech/jobs/4746289101 | Valtech | Product Owner - Connected Cars
+- [ ] https://www.inovalon.com/careers/job/?gh_jid=7664343003 | Inovalon | Senior Product Manager (RWD)
+- [ ] https://www.inovalon.com/careers/job/?gh_jid=7733443003 | Inovalon | VP, Product Management 
+
+- [ ] https://job-boards.greenhouse.io/sumologic/jobs/7927074 | Sumo Logic | Senior Product Manager I
+- [ ] https://jobs.lever.co/clari/2109d11d-058b-4cff-9946-3accaaef1f15 | Clari | Senior Product Manager - Data and Analytics
+
+- [ ] https://job-boards.greenhouse.io/sumologic/jobs/7927113 | Sumo Logic | Product Manager
+- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/7941950 | Smartsheet | Sr. Product Manager, Audit & History (Hybrid, Bangalore)
+- [ ] https://www.highradius.com/about/careers-list/?gh_jid=7719385003 | HighRadius | Senior Product Manager
+- [ ] https://jobs.lever.co/jobgether/53bd180d-ad90-4bf0-a652-3691ebf190a2 | Jobgether | AI Product Manager
+- [ ] https://jobs.lever.co/jobgether/9e0ec451-8d5a-4f17-95e2-afd9cf55f2f5 | Jobgether | Operations Product Manager (Sport) (Remote from India)
+- [ ] https://jobs.lever.co/jobgether/42195087-d80a-42ae-9284-8869ecd1b2ea | Jobgether | Technical Product Manager QVAC
+
+- [ ] https://www.highradius.com/about/careers-list/?gh_jid=7589664003 | HighRadius | Senior Product Manager
+- [ ] https://job-boards.greenhouse.io/sumologic/jobs/7927112 | Sumo Logic | Product Manager
+
+- [ ] https://stripe.com/jobs/search?gh_jid=7809139 | Stripe | Product Manager, Growth AI Outreach Motion 
+- [ ] https://jobs.ashbyhq.com/confluent/e70deb8a-3308-49dd-b9c7-b537333c5645 | Confluent | Staff Product Manager, Cloud Networking 
+- [ ] https://job-boards.greenhouse.io/anaplan/jobs/8388068002 | Anaplan | Anaplan Model Builder
+- [ ] https://job-boards.greenhouse.io/anaplan/jobs/8504843002 | Anaplan | Director Product Manager, Applications (FP&A)
+- [ ] https://job-boards.greenhouse.io/anaplan/jobs/8535252002 | Anaplan | Product Owner-Administration and Permission Management
+- [ ] https://job-boards.greenhouse.io/anaplan/jobs/8535251002 | Anaplan | Product Owner-Anaplan Data Hub/Analytics
+- [ ] https://job-boards.greenhouse.io/anaplan/jobs/8535253002 | Anaplan | Product Owner-Identity
+- [ ] https://job-boards.greenhouse.io/anaplan/jobs/8538804002 | Anaplan | Senior Manager-Product Management
+- [ ] https://job-boards.greenhouse.io/anaplan/jobs/8525847002 | Anaplan | Senior Product Manager
+- [ ] https://job-boards.greenhouse.io/zinnia/jobs/4680884006 | Zinnia | Product Manager II (Technical) - Compliance Workflow Automation
+- [ ] https://job-boards.greenhouse.io/zinnia/jobs/4639087006 | Zinnia | Product Manager (Technical)
+- [ ] https://job-boards.greenhouse.io/zinnia/jobs/4654195006 | Zinnia | Senior Product Manager (Technical)
+- [ ] https://job-boards.greenhouse.io/zinnia/jobs/4682509006 | Zinnia | Senior Product Manager (Technical) - Case Management
+- [ ] https://job-boards.greenhouse.io/capco/jobs/7892716 | Capco | Azure Product Manager 
+- [ ] https://job-boards.greenhouse.io/capco/jobs/7621525 | Capco | LEA Product Manager
+- [ ] https://job-boards.greenhouse.io/capco/jobs/7850996 | Capco | Product Manager - DB
+- [ ] https://job-boards.greenhouse.io/capco/jobs/7823972 | Capco | Product Owner-Payments
+- [ ] https://job-boards.greenhouse.io/capco/jobs/7621537 | Capco | VACE Product Manager
+- [ ] https://hginsights.com/hg-insights-careers/current-opportunities/?gh_jid=7692871003 | HG Insights | Principal Product Manager, Platform
+- [ ] https://hginsights.com/hg-insights-careers/current-opportunities/?gh_jid=7538183003 | HG Insights | Senior Product Manager
+- [ ] https://jobs.ashbyhq.com/telus-digital/732c9470-5dbe-4707-890b-30c3ebc374fb | TELUS Digital | Senior Account Executive, AGI/GenAI Builders
+- [ ] https://jobs.ashbyhq.com/telus-digital/72ae0662-ba8d-45aa-9ea0-b79aa51e6be9 | TELUS Digital | Strategy & Product Owner Conversational AI (Non-Technical)
+
+- [ ] https://job-boards.eu.greenhouse.io/groww/jobs/4707429101 | Groww | Associate Product Manager
+- [ ] https://job-boards.greenhouse.io/anaplan/jobs/8365829002 | Anaplan | Anaplan Model Builder
+- [ ] https://job-boards.greenhouse.io/anaplan/jobs/8552018002 | Anaplan | Product Owner
+- [ ] https://job-boards.greenhouse.io/anaplan/jobs/8533377002 | Anaplan | Senior Product Manager
+- [ ] https://job-boards.greenhouse.io/anaplan/jobs/8525842002 | Anaplan | Senior Product Manager-3rd Party Integration (Informatica, Mulesoft, PowerBI etc) 
+- [ ] https://job-boards.greenhouse.io/appian/jobs/7748642 | Appian | Product Manager II - Cloud Infrastructure
+- [ ] https://job-boards.greenhouse.io/appian/jobs/7735561 | Appian | Senior Product Manager - API's
+- [ ] https://jobs.ashbyhq.com/josys/6f88d5de-acdb-42c9-9c7b-da2a3c916b05 | Josys | Senior Product Manager
+- [ ] https://www.storable.com/about-us/culture/careers/?gh_jid=5826419004 | Storable | Product Manager
+- [ ] https://jobs.ashbyhq.com/ema/74540ab2-9782-476f-ad0d-78cc2e7717ed | Ema | Product Manager
+- [ ] https://jobs.lever.co/tandems/be4d74b7-a068-4c2f-b9d2-d53b442c30d5 | Tandems | Senior Product Manager
+- [ ] https://jobs.lever.co/jobgether/f7e0c5a9-f0a2-48b0-a24f-a0bdb8f105d1 | Jobgether | Product Owner
+- [ ] https://jobs.lever.co/jobgether/09ff7946-b0da-4f2e-b7ef-a191e1e1c356 | Jobgether | Sr. Technical Product Manager
+
+- [ ] https://job-boards.greenhouse.io/phonepe/jobs/7735149003 | PhonePe | AI Production Lead
+- [ ] https://job-boards.greenhouse.io/hackerrank/jobs/7650215 | HackerRank | Principal Product Manager 
+- [ ] https://jobs.ashbyhq.com/sarvam/929e2e12-7a2f-4e28-9d27-f220910b2125 | Sarvam AI | Product Manager, Growth
+- [ ] https://jobs.ashbyhq.com/sarvam/6390e602-7b98-4700-baa9-ced5be8b1651 | Sarvam AI | Product Manager, Monetization & Retention
+- [ ] https://jobs.lever.co/meesho/58d87507-0cbb-4db7-a4eb-fd8f9ec353f4 | Meesho | Product Manager I - Fulfillment
+- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/7951915 | Smartsheet | Product Manager II - Growth (Remote Eligible)
+- [ ] https://job-boards.greenhouse.io/anaplan/jobs/8535257002 | Anaplan | Product Owner-Anaplan Connect
+
+- [ ] https://jobs.lever.co/jobgether/ec7111f8-0459-4546-bc18-b27681868f58 | Jobgether | Senior Technical Product Manager
+
+- [ ] https://api.smartrecruiters.com/v1/companies/ixigo/postings/744000128191241 | ixigo | Associate Product Manager 
+
+- [ ] https://apply.workable.com/j/67B4C0793B | Wati | Senior Product Manager - PLG
+- [ ] https://apply.workable.com/j/0054C594F5 | Wati | Senior Product Manager/Product Manager - Platform
+- [ ] https://apply.workable.com/j/99F31A2507 | Wati | Staff/ Lead Product Manager
+
+- [ ] https://job-boards.greenhouse.io/scopely/jobs/5205960008 | Scopely | Head of Product
+- [ ] https://job-boards.greenhouse.io/scopely/jobs/5191999008 | Scopely | Lead Product Manager - Star Trek Fleet Command
+- [ ] https://job-boards.greenhouse.io/scopely/jobs/5180566008 | Scopely | Product Manager Performance - Star Trek Fleet Command 
+- [ ] https://job-boards.greenhouse.io/scopely/jobs/5205958008 | Scopely | Senior Product Manager, Performance
+- [ ] https://job-boards.greenhouse.io/scopely/jobs/5204525008 | Scopely | Senior Product Manager, Roadmap
+- [ ] https://jobs.ashbyhq.com/altimate/bafa3310-7dbd-4761-a9c9-4e21c6634547 | Altimate AI | Product Manager
+- [ ] https://jobs.ashbyhq.com/metaforms/a3bcfe69-97fa-4e6e-99da-c2bd05058217 | Metaforms | Senior Product Manager
+- [ ] https://job-boards.greenhouse.io/onetrust/jobs/7825607 | OneTrust | Principal Product Manager
+- [ ] https://job-boards.greenhouse.io/winhomeinspection/jobs/4680488006 | WIN | Product Manager
+- [ ] https://jobs.lever.co/fampay/fe282b22-d821-4f8b-94ac-12363ec802b2 | Fam | Principal Product Manager
+- [ ] https://jobs.lever.co/fampay/10e190e6-a558-45d5-a83e-a2c10bb1a208 | Fam | Product Manager
+- [ ] https://jobs.lever.co/fampay/bc1060ed-d15a-4f62-a560-856cc344201e | Fam | Senior Product Manager
+- [ ] https://job-boards.greenhouse.io/arkoselabs/jobs/7684173003 | Arkose Labs | Senior Product Manager
+- [ ] https://job-boards.greenhouse.io/oportun/jobs/4685270005 | Oportun | Principal Product Manager (R13970)
+- [ ] https://job-boards.greenhouse.io/oportun/jobs/4695535005 | Oportun | Principal Product Manager (R14014)
+- [ ] https://job-boards.greenhouse.io/oportun/jobs/4690516005 | Oportun | Principal Product Manager, Savings (R13997)
+- [ ] https://jobs.ashbyhq.com/parspec/30e88ced-0dae-4e28-ac47-1ef70a523634 | Parspec | Product Manager (AI/ML)
+- [ ] https://jobs.ashbyhq.com/kong/763acac3-58b2-4bf1-8b76-f4f4f830b9f1 | Kong |  Staff Product Manager - Observability
+- [ ] https://jobs.ashbyhq.com/kong/333766f0-3ab7-4bc7-8355-4d80290b6d7d | Kong | Senior Product Manager - Cloud Gateways
+- [ ] https://jobs.ashbyhq.com/kong/27097c3b-b699-4e70-8da2-580e409d00a5 | Kong | Senior Product Manager - API
+- [ ] https://jobs.ashbyhq.com/kong/2b21cf4e-43fe-4c1a-b4cc-3ee7144ec9c3 | Kong | Senior Staff Product Manager
+- [ ] https://job-boards.greenhouse.io/axicorpfinancialservicesptyltd/jobs/5103297007 | Axi | Product Manager -Growth
+- [ ] https://job-boards.greenhouse.io/axicorpfinancialservicesptyltd/jobs/5103319007 | Axi | Product Manager - Partners
+- [ ] https://job-boards.greenhouse.io/axicorpfinancialservicesptyltd/jobs/5103298007 | Axi | Product Manager - Payments
+- [ ] https://job-boards.greenhouse.io/bluevineindia/jobs/7664312003 | Bluevine | Product Manager II
+- [ ] https://job-boards.greenhouse.io/bluevineindia/jobs/7738166003 | Bluevine | Product Manager II (Lending & Credit)
+- [ ] https://jobs.ashbyhq.com/tilthq/41fa51d1-29ab-4cf6-a6ce-45453973a48d | Tilt | Growth Product Manager, NIRA
+- [ ] https://jobs.ashbyhq.com/tilthq/5bea273a-e950-4082-bde7-ea46131a613e | Tilt | Head of Product, US Core
+- [ ] https://boards.greenhouse.io/flexport/jobs/7779606?gh_jid=7779606 | Flexport | Staff Product Manager
+- [ ] https://job-boards.greenhouse.io/bottomlinetechnologies/jobs/8503416002 | Bottomline | Senior Product Manager, AI & Data Science
+- [ ] https://job-boards.greenhouse.io/inmobi/jobs/7912490 | InMobi Advertising | Product Manager- ML Decision Systems (Demand Side Platform)
+- [ ] https://job-boards.greenhouse.io/inmobi/jobs/7337428 | InMobi Advertising | Senior Product Manager - Central Data Repository & Data Platform AI
+- [ ] https://job-boards.greenhouse.io/inmobi/jobs/7715011 | InMobi Advertising | Senior Product Manager- ML Decision Systems (Demand Side Platform)
+- [ ] https://job-boards.greenhouse.io/inmobi/jobs/7840513 | InMobi Advertising | Senior Product Manager — User Store & AI Intelligence Platform
+- [ ] https://jobs.ashbyhq.com/libra/f267e673-e06d-4025-bf65-9bb84881ffda | Libra AI | Associate Product Manager (AI)
+- [ ] https://jobs.ashbyhq.com/libra/2c3bbd9d-7d53-41cb-a5f3-a284ad2f2b80 | Libra AI | AI PM
+- [ ] https://jobs.ashbyhq.com/lgads/2aa225f0-5b7f-46ce-bb47-917323b22051 | LG Ad Solutions | Product Manager
+- [ ] https://jobs.ashbyhq.com/harvey/7b468987-7236-4239-9e56-6eb7f92b4531 | Harvey | Staff Product Manager, Knowledge Platform
+- [ ] https://jobs.ashbyhq.com/harvey/ae305f26-bbe0-4db1-a816-b912503ad6b4 | Harvey | Group Product Manager, Knowledge Platform
+- [ ] https://jobs.lever.co/netomi/71934132-49f9-4553-9870-e70f77ec9819 | Netomi | Senior Product Manager
+- [ ] https://jobs.lever.co/netomi/c83a8721-a18f-4e31-93b6-057b97d21e38 | Netomi | Senior Product Manager - Autonomous Agents
+- [ ] https://jobs.lever.co/jumpcloud/a2cf9d8e-5dcd-4eef-9f5e-e7bc678b6306 | JumpCloud® | Senior Product Manager, Identity - United States
+- [ ] https://jobs.lever.co/jumpcloud/769b4e02-ca3b-4dfc-8033-5bd2f16d46c0 | JumpCloud® | Staff Product Manager, SSO - India
+- [ ] https://job-boards.greenhouse.io/globalizationpartners/jobs/7704202003 | Globalization Partners | Principal Product Manager
+- [ ] https://jobs.ashbyhq.com/glomo/3f8da300-417d-4e1a-a3ce-06185d2afc4a | Glomopay | Product Manager
+- [ ] https://job-boards.greenhouse.io/tellius/jobs/5059200007 | Tellius | Product Manager — Agentic Analytics
+- [ ] https://job-boards.greenhouse.io/fourkites/jobs/7730430 | FourKites | Product Manager, Customer Experience
+- [ ] https://boards.greenhouse.io/easyship/jobs/4625787006?gh_jid=4625787006 | Easyship | API Product Manager
+- [ ] https://boards.greenhouse.io/easyship/jobs/4652877006?gh_jid=4652877006 | Easyship | Product Manager
+- [ ] https://job-boards.greenhouse.io/coherehealth/jobs/7655330003 | Cohere Health | Manager, Product Management
+- [ ] https://boards.greenhouse.io/modulrfinance/jobs/8551336002?gh_jid=8551336002 | Modulr | Senior Product Manager- Cards
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7687708003?gh_jid=7687708003 | Celonis | Senior Product Manager - Extractors (Data Integration)
+- [ ] https://job-boards.greenhouse.io/zscaler/jobs/5123497007 | Zscaler | Principal Product Manager
+- [ ] https://job-boards.greenhouse.io/zscaler/jobs/5122174007 | Zscaler | Senior Product Manager
+- [ ] https://job-boards.greenhouse.io/zscaler/jobs/5122176007 | Zscaler | Staff Product Manager - DLP
+- [ ] https://job-boards.greenhouse.io/ocrolusinc/jobs/5981559004 | Ocrolus | Director of Product - Platform
+- [ ] https://job-boards.greenhouse.io/interviewkickstart/jobs/4016901009 | Interview Kickstart | Associate Product Manager
+- [ ] https://jobs.lever.co/gushwork/c03a9615-f124-424c-8bbd-90d209a68f3d | Gushwork | Product Manager
+- [ ] https://job-boards.greenhouse.io/narvar/jobs/7740105 | Narvar | Principal Product Manager
+- [ ] https://job-boards.greenhouse.io/narvar/jobs/7341879 | Narvar | Senior Product Manager, Merchant Experiences
+- [ ] https://job-boards.greenhouse.io/ethoslife/jobs/8561485002 | Ethos | Director of Product, Conversational AI
+- [ ] https://job-boards.greenhouse.io/ethoslife/jobs/8241191002 | Ethos | Director of Product Design
+- [ ] https://job-boards.greenhouse.io/ethoslife/jobs/8517398002 | Ethos | Senior Product Manager, Life Insurance Products 
+- [ ] https://job-boards.greenhouse.io/ethoslife/jobs/8462414002 | Ethos | Staff / Principal Product Manager
+- [ ] https://jobs.lever.co/dreamsports/010cbbdb-7a1a-4ab9-b772-ce9ecffbe435 | DreamMoney | Product Manager - Subscriptions
+- [ ] https://jobs.lever.co/dreamsports/c6060e2d-509f-4c61-8ae2-d3c455076a23 | DreamMoney | Sr. Product Manager
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013284255 | Nielsen | Senior Product Manager 1
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990012747456 | Nielsen | Senior Director, Product Management
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990012747416 | Nielsen | Senior Product Manager II
+- [ ] https://apply.workable.com/j/1EDC006258 | Ajaib | Senior Product Manager - Growth/Shared Services & Payments
+- [ ] https://jobs.lever.co/keyloop/eb6625ac-8107-4ca8-be97-1cb46c8c7503 | Keyloop | Product Manager
+- [ ] https://apply.workable.com/j/48228D44EA | Elevation Capital (Portfolio) | Product Management roles Portfolio (Bengaluru)
+- [ ] https://apply.workable.com/j/A0E02D93C7 | Elevation Capital (Portfolio) | Product Management roles Portfolio (Gurugram)
+- [ ] https://apply.workable.com/j/C470098040 | Elevation Capital (Portfolio) | Product Management roles Portfolio (Mumbai)
+- [ ] https://api.smartrecruiters.com/v1/companies/Kredx/postings/744000128394692 | KredX | Product Manager 
+- [ ] https://zageno.bamboohr.com/careers/77 | ZAGENO | Senior Product Manager - Customer Experience
+- [ ] https://apply.workable.com/j/1675E98091 | Accellor | Senior AI Product Manager
+- [ ] https://malbek.bamboohr.com/careers/83 | Malbek | Product Manager
+- [ ] https://jobs.lever.co/saviynt/6de983d8-8bcf-4765-ac9f-796e566ab47b | Saviynt | Senior Product Manager
+- [ ] https://jobs.lever.co/saviynt/38105965-8093-440e-acd7-1e1e334758cf | Saviynt | Staff Product Manager (Identity Security - Posture Management)
+- [ ] https://jobs.lever.co/saviynt/4dad59e3-f3a1-44f8-a4d8-3cc06f32ae41 | Saviynt | Staff Product Manager (Integration Platform)
+
+- [ ] https://pubmatic.com/job/?gh_jid=5230481008 | PubMatic | Senior Product Manager, Mobile & RTB
+- [ ] https://job-boards.greenhouse.io/winhomeinspection/jobs/4265945006 | WIN | Product Manager
+- [ ] https://job-boards.greenhouse.io/atomicwork/jobs/4186148008 | Atomicwork | Product Manager - Platform
+- [ ] https://jobs.lever.co/tala/b7a85979-0803-4fe1-be0e-7e4dc68902e9 | Tala | VP Product - Lending & Retention
+- [ ] https://job-boards.greenhouse.io/anchanto/jobs/7683610003 | Anchanto | Product Manager - Integrations
+- [ ] https://job-boards.greenhouse.io/anchanto/jobs/7694543003 | Anchanto | Product Manager (OMS)
+- [ ] https://job-boards.greenhouse.io/anchanto/jobs/7684921003 | Anchanto | Product Manager (WMS)
+- [ ] https://job-boards.greenhouse.io/celigo/jobs/7585390 | Celigo | Lead Product Manager
+- [ ] http://www.cialfo.co/careers?gh_jid=5592808004 | Cialfo | Senior Product Manager
+- [ ] https://job-boards.greenhouse.io/cloudsek/jobs/5849822004 | CloudSEK | Senior Product Manager – CloudSEK Platform
+- [ ] https://jobs.lever.co/musixmatch/65971c0d-8220-47eb-a993-9705dc814c92 | Musixmatch | Product Manager, AI & Content Operations
+- [ ] https://www.digicert.com/careers/?gh_jid=8518551002 | Digicert | Principal Product Manager, API Platform
+- [ ] https://www.digicert.com/careers/?gh_jid=8297589002 | Digicert | Product Manager
+- [ ] https://www.digicert.com/careers/?gh_jid=8518913002 | Digicert | Senior Product Manager, Platform Common Services
+- [ ] https://careers.duolingo.com/jobs/8405083002?gh_jid=8405083002 | Duolingo | Group Product Manager
+- [ ] https://www.five9.com/about/careers/job-detail?gh_jid=5805673004 | Five9 | Apprentice- Product Management
+- [ ] https://www.five9.com/about/careers/job-detail?gh_jid=5991080004 | Five9 | Principal Product Manager, Google Gemini Enterprise for Customer Experience (GECX) 
+- [ ] https://www.five9.com/about/careers/job-detail?gh_jid=5811077004 | Five9 | Product Management Director – Outbound Contact Center Solutions
+- [ ] https://www.five9.com/about/careers/job-detail?gh_jid=5994976004 | Five9 | Senior Product Manager, AI Innovations - Agent Assist
+- [ ] https://www.five9.com/about/careers/job-detail?gh_jid=5999690004 | Five9 | Sr Product Manager - AI Innovations | India
+- [ ] https://careers.godaddy/jobs?gh_jid=7674581003 | GoDaddy | Principal Product Manager, Payments Terminal Management
+- [ ] https://job-boards.greenhouse.io/commvault/jobs/5118723008 | Commvault | Principal Product Manager, Security
+- [ ] https://jobs.ashbyhq.com/inflectionio/be4c7eb2-4318-4240-8312-75ef771eb3b5 | Inflection.io | Senior Product Manager
+- [ ] https://jobs.ashbyhq.com/loopio/3e3c1d33-7ccc-4629-b561-a3a400c58403 | Loopio | Lead Product Manager 
+- [ ] https://jobs.solarwinds.com/job-detail/?gh_jid=4580777005&gh_jid=4580777005 | SolarWinds | Senior Product Manager
+- [ ] https://job-boards.greenhouse.io/sonicwall/jobs/7908691 | SonicWall | Product Manager - Firewall or Hardware experience is a must
+- [ ] https://job-boards.greenhouse.io/sonicwall/jobs/7947458 | SonicWall | Senior Product Manager – ZTNA or VPN experience is required
+- [ ] https://www.weareroku.com/jobs/7270779?gh_jid=7270779 | Roku | Senior Product Manager - RPay 
+- [ ] https://careers.toasttab.com/jobs?gh_jid=7861742 | Toast | Director of Product Management, New Ventures
+- [ ] https://careers.toasttab.com/jobs?gh_jid=7733118 | Toast | Principal Product Manager, Configuration Platform 
+- [ ] https://careers.toasttab.com/jobs?gh_jid=7716093 | Toast | Principal Product Manager, Voice AI
+- [ ] https://careers.toasttab.com/jobs?gh_jid=7904877 | Toast | Senior Director of Product, Payments Acceptance
+- [ ] https://careers.toasttab.com/jobs?gh_jid=7786312 | Toast | Senior Product Manager
+- [ ] https://careers.toasttab.com/jobs?gh_jid=7746964 | Toast | Senior Product Manager, Consumer Payments 
+- [ ] https://careers.toasttab.com/jobs?gh_jid=7773711 | Toast | Senior Product Manager, GTM
+- [ ] https://careers.toasttab.com/jobs?gh_jid=7523485 | Toast | Senior Product Manager, Hardware
+- [ ] https://careers.toasttab.com/jobs?gh_jid=7895515 | Toast | Senior Product Manager, Payroll Onboarding
+- [ ] https://careers.toasttab.com/jobs?gh_jid=7776222 | Toast | Senior Product Manager, Revenue Systems
+- [ ] https://www.zoominfo.com/careers?gh_jid=8477058002 | ZoomInfo | Senior Product Manager - Identity
+- [ ] https://jobs.ashbyhq.com/opengov/7719c97c-0e2b-49dc-a0e6-dfd049eb2e80 | OpenGov | Principal Product Manager 
+- [ ] https://jobs.ashbyhq.com/snowflake/82dd2965-3860-4c43-aced-64c7515fda9f | Snowflake | Staff Enterprise Product Manager, Order Management
+- [ ] https://jobs.lever.co/sitetracker/f5aa2879-f79d-4ad1-ae05-e4f198d661ca | Sitetracker | Product Manager
+- [ ] https://jobs.lever.co/saviynt/a431e2af-efd0-4912-b64e-446ec9dae821 | Saviynt | Staff Product Manager (Identity Security - Posture Management)
+
+- [ ] https://www.five9.com/about/careers/job-detail?gh_jid=5805677004 | Five9 | Apprentice- Product Management
+
+- [ ] https://careers.toasttab.com/jobs?gh_jid=7883254 | Toast | Senior Product Manager
+- [ ] https://jobs.ashbyhq.com/certifyos/9c5344da-2e90-4815-ae84-b85bdf596e4f | CertifyOS | Director of Product Management, Applications & Applied AI
+- [ ] https://jobs.ashbyhq.com/certifyos/b84b7e4b-1fd7-45b3-88e1-c88a0aa5880a | CertifyOS | Senior Product Manager, Credentialing
+- [ ] https://jobs.ashbyhq.com/certifyos/360301a0-d94d-4cd9-9672-1fdc2b69a6a4 | CertifyOS | Sr. Technical Product Manager - Shared Services
+- [ ] https://www.coupang.jobs/en/jobs/?gh_jid=7952651 | Coupang | Senior Product Manager
+
+- [ ] https://jobs.lever.co/jobgether/512344aa-806c-47ed-9a0e-1000cde0e460 | Jobgether | Lead Product Manager
+
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8564957002 | GitLab | Principal Product Manager, AI Custom Models
+- [ ] https://jobs.lever.co/jobgether/f9715adf-0811-40f9-a06d-c95327220244 | Jobgether | Product Owner, Data Analytics
+
+- [ ] https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Senior-Product-Analyst_112720-JOB | Sprinklr | Associate Product Manager
+- [ ] https://fractal.wd1.myworkdayjobs.com/Careers/job/Bengaluru/Principal-Product-Manager_SR-38815 | Fractal Analytics | Principal Product Manager
+- [ ] https://zendesk.wd1.myworkdayjobs.com/Zendesk/job/Pune-India/Senior-Product-Manager_R33982 | Zendesk | Senior Product Manager
+- [ ] https://zendesk.wd1.myworkdayjobs.com/Zendesk/job/Pune-India/Technical-Product-Manager_R33924 | Zendesk | Technical Product Manager
+- [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Product-Manager_R167217-1 | Adobe | Senior Product Manager
+- [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Compliance-Product-Owner_R168196 | Adobe | Compliance Product Owner
+- [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Product-Manager-4_R167169-1 | Adobe | Product Manager 4
+- [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Principal-Product-Manager_R166753-1 | Adobe | Principal Product Manager
+- [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Product-Manager_R168580 | Adobe | Senior Product Manager (Data Platform)
+- [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Product-Manager--RTCDP-_R169205 | Adobe | Senior Product Manager (RTCDP)
+- [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Member-of-Technical-Staff---II_R168002 | Adobe | Senior Product Manager (Gen AI - Illustrator)
+- [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Member-of-Technical-Staff---II_R168277 | Adobe | Senior Product Manager (Agentic AI - Illustrator)
+- [ ] https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Sr-Product-Manager--Vertex-Tax-_JR338309 | Salesforce | Sr. Product Manager (Vertex Tax)
+
+- [ ] https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Associate-Product-Manager_112902-JOB | Sprinklr | Associate Product Manager
+- [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Product-Manager_R162389 | Adobe | Senior Product Manager
+
+- [ ] https://job-boards.greenhouse.io/jazzx-ai/jobs/5121440008 | JazzX AI | Technical Product Manager - Innovation
+- [ ] https://job-boards.greenhouse.io/karya/jobs/5205891008 | Karya | Associate Product Manager
+- [ ] https://bharatpe.freshteam.com/jobs/9koNnmsKyX9i/product-manager | BharatPe | Product Manager
+- [ ] https://drinkprime.freshteam.com/jobs/r6RT_H-61bLx/senior-product-manager | DrinkPrime | Senior Product Manager
+
+- [ ] https://apply.workable.com/j/F7FF51014B | Lokal App | Product Manager / Associate Product Manager(A)
+- [ ] https://apply.workable.com/j/A44F216006 | Lokal App | Product Manager I/II ( Astro )
+- [ ] https://apply.workable.com/j/5702543039 | MediaRadar | Product Manager, Advertising Capture and Enrichment
+- [ ] https://gonoise.freshteam.com/jobs/zAYU3CkZoRK5/product-manager-5-years-and-tier-1 | boAt / GoNoise | Product Manager (5+ years and Tier 1)
+- [ ] https://gonoise.freshteam.com/jobs/ex-Lv_lQfCXA/product-manager-b2c | boAt / GoNoise | Product Manager - B2C
+- [ ] https://apply.workable.com/j/F6BDED296D | 2070Health | Product Manager- App & Web Products
+- [ ] https://apply.workable.com/j/D3C4D747F9 | 2070Health | Technical Product Manager
+
+- [ ] https://apply.workable.com/j/E1D7204067 | 2070Health | Technical Product Manager | posted=2026-05-11
+- [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Principal-Product-Manager---Offer-Optimization_JR108024 | Sabre | Principal Product Manager - Offer Optimization
+- [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Senior-Product-Manager---Data---AI-Governance_JR108048 | Sabre | Senior Product Manager - Data & AI Governance | posted=2026-05-26
+- [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Product-Manager---Distribution-Data-Insights_JR108047 | Sabre | Product Manager - Distribution Data Insights | posted=2026-05-26
+- [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Lead-Product-Manager_JR107962 | Sabre | Lead Product Manager | posted=2026-05-23
+- [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Principal-Product-Manager-Data---Analytics-Platform-and-Governance_JR107434 | Sabre | Principal Product Manager - Agentic AI Platform | posted=2026-05-23
+- [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Principal-Product-Manager_JR107784-1 | Sabre | Principal Product Manager | posted=2026-05-12
+- [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Director--Product-Management---Lodging--Ground---Sea--LGS-_JR107934 | Sabre | Director, Product Management – Lodging, Ground & Sea (LGS) | posted=2026-05-08
+- [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Principal-Product-Manager_JR107413 | Sabre | Principal Product Manager - Media | posted=2026-05-07
+- [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Senior-Product-Manager_JR107414-1 | Sabre | Senior Product Manager - Media | posted=2026-05-07
+- [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Principal-Product-Manager_JR107651-1 | Sabre | Principal Product Manager – Dynamic Pricing | posted=2026-05-05
+- [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Principal-Product-Manager_JR107532 | Sabre | Lead Product Manager – Reservations | posted=2026-05-05
+
+- [ ] https://jobs.lever.co/jobgether/05bd5a72-7fd3-4282-bd97-b9f859424cce | Jobgether | Senior Product Manager, AI | posted=2026-05-28
+
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/7963691 | Twilio | Product Management, L2 | posted=2026-05-28
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/7963689 | Twilio | Product Manager, L2 | posted=2026-05-28
+- [ ] https://jobs.lever.co/keyloop/a8e6d6dd-cd70-4a7e-9f93-fe4c4de8a7b1 | Keyloop | Senior Product Owner | posted=2026-05-28
+- [ ] https://careers.godaddy/jobs?gh_jid=7689507003 | GoDaddy | Senior Product Manager — AI Native | posted=2026-05-28
+- [ ] https://careers.toasttab.com/jobs?gh_jid=7423665 | Toast | Senior Product Manager, Core Payments | posted=2026-05-28
+
+- [ ] https://job-boards.greenhouse.io/tekion/jobs/7748431003 | Tekion Corp | Senior Product Manager | posted=2026-05-29
+- [ ] https://job-boards.eu.greenhouse.io/valtech/jobs/4876453101 | Valtech | Product owner - Data & AI | posted=2026-05-29
+- [ ] https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Senior-Product-Manager_JR342308 | Salesforce | Senior Product Manager | posted=2026-05-29
+
+- [ ] https://jobs.ashbyhq.com/hinge-health/73e6bba2-873b-49fc-ac63-92f67e62c09d | Hinge Health | Product Manager | posted=2026-05-29
+
+- [ ] https://job-boards.eu.greenhouse.io/valtech/jobs/4878636101 | Valtech | Product Owner | posted=2026-05-29
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013369044 | Nielsen | Senior Product Manager II | posted=2026-05-29
+- [ ] https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Senior-Product-Manager---Customer-Health-Platform_JR342995 | Salesforce | Senior Product Manager - Customer Health Platform | posted=2026-05-29
+
+## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
+
+- [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415369079/ | Deutsche Telekom Digital Labs | Product Manager (Agentic AI) — Gurugram, Haryana, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4414637059/ | Questhiring | AI Product Manager — Gurugram, Haryana, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4401980405/ | G-P | Principal Product Manager — India | posted=2026-05-27 | posted_ts=2026-05-27T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4350222067/ | HighLevel | Staff Product Manager - (Customer Retention - Platform) — India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4381720801/ | HighLevel | Staff Product Manager - Onboarding and Activation — India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4405248985/ | Learneo | Senior Product Manager, Design Tools — India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4372341223/ | Wise | Principal Product Manager (Location Verification) — Hyderabad, Telangana, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4414497953/ | Smartsheet | Sr, Product Manager II - Gantt View (Hybrid — Bangalore) in Bengaluru East, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4413863424/ | Emeritus | Product Manager Growth — Mumbai, Maharashtra, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4394636012/ | Rackspace Technology | Senior Product Manager — India | posted=2026-05-20 | posted_ts=2026-05-20T08:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415851290/ | Pearl | Senior Product Manager — India | posted=2026-05-17 | posted_ts=2026-05-17T04:00Z
+- [ ] https://www.linkedin.com/jobs/view/4412022009/ | Idiotic Media | AI Product Manager — Gurugram, Haryana, India | posted=2026-05-16 | posted_ts=2026-05-16T04:00Z
+
+## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote) — Batch 2
+
+- [ ] https://www.linkedin.com/jobs/view/4414561048/ | ixigo | Senior Product Manager — Gurugram, Haryana, India | posted=2026-05-15 | posted_ts=2026-05-15T04:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415352841/ | Osmos | Senior Product Manager — Pune District, Maharashtra, India | posted=2026-05-20 | posted_ts=2026-05-20T08:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415062672/ | VerSe Innovation | Senior Product Manager — Greater Bengaluru Area | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415010080/ | RapidBrains | Product Manager — India | posted=2026-05-16 | posted_ts=2026-05-16T04:00Z
+- [ ] https://www.linkedin.com/jobs/view/4412002196/ | Dario | Senior Product Manager — Gurugram, Haryana, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4414730704/ | Priceline | Product Manager, Data / AI ML — Mumbai, Maharashtra, India | posted=2026-05-20 | posted_ts=2026-05-20T08:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415846421/ | Weekday AI (YC W21) | Senior Product Manager — Bengaluru, Karnataka, India | posted=2026-05-17 | posted_ts=2026-05-17T00:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415304529/ | Unicommerce | Data Product Manager — Gurugram, Haryana, India | posted=2026-05-20 | posted_ts=2026-05-20T08:00Z
+- [ ] https://www.linkedin.com/jobs/view/4413958824/ | Questhiring | Senior Product Manager — Gurugram, Haryana, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4413548196/ | Razorpay | Product Manager II - Onboarding Infra — Bengaluru, Karnataka, India | posted=2026-05-13 | posted_ts=2026-05-13T08:00Z
+- [ ] https://www.linkedin.com/jobs/view/4410158107/ | Publicis Sapient | Senior Product Manager — Gurgaon, Haryana, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4406182266/ | Sprinklr | Senior Product Manager — Gurgaon, Haryana, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4412035044/ | Critical Start | Senior Technical Product Manager — Pune/Pimpri-Chinchwad Area | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4404435290/ | Precisely | Senior Product Manager — India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415056289/ | Appsoleut Games | Senior Product Manager (Gaming) — Gurugram, Haryana, India | posted=2026-05-16 | posted_ts=2026-05-16T05:00Z
+- [ ] https://www.linkedin.com/jobs/view/4412646642/ | Conga | Principal Product Manager — Bengaluru, Karnataka, India | posted=2026-05-13 | posted_ts=2026-05-13T08:00Z
+- [ ] https://www.linkedin.com/jobs/view/4412971239/ | Gartner | Sr Digital Product Manager (AI- Products) — Gurgaon, Haryana, India | posted=2026-05-13 | posted_ts=2026-05-13T08:00Z
+- [ ] https://www.linkedin.com/jobs/view/4414747744/ | Clearwater Analytics | Senior Product Manager — Noida, Uttar Pradesh, India | posted=2026-05-20 | posted_ts=2026-05-20T08:00Z
+- [ ] https://www.linkedin.com/jobs/view/4412770182/ | Airtel Digital | Product Manager - AI Agents (Airtel App) — Gurugram, Haryana, India | posted=2026-05-13 | posted_ts=2026-05-13T08:00Z
+- [ ] https://www.linkedin.com/jobs/view/4403722704/ | Booking Holdings (NASDAQ: BKNG) | Product Manager - Regulatory Tech (Fintech) — Bengaluru, Karnataka, India | posted=2026-05-20 | posted_ts=2026-05-20T08:00Z
+- [ ] https://www.linkedin.com/jobs/view/4413427148/ | Paylocity | Product Manager II — Greater Bengaluru Area | posted=2026-05-13 | posted_ts=2026-05-13T08:00Z
+- [ ] https://www.linkedin.com/jobs/view/4373540758/ | Sumo Logic | Senior Product Manager — Noida, Uttar Pradesh, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4405253906/ | QuillBot | Senior Product Manager, Design Tools — Bengaluru, Karnataka, India | posted=2026-05-20 | posted_ts=2026-05-20T08:00Z
+- [ ] https://www.linkedin.com/jobs/view/4414468693/ | First Advantage | Technical Product Manager — India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [x] https://www.linkedin.com/jobs/view/4413552213/ | Nexlogica | Product Solutions Manager III — Anupgarh, Rajasthan, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+
+## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote) — Batch 3
+
+- [ ] https://www.linkedin.com/jobs/view/4415175146/ | Cog Culture | Product Manager — Gurugram, Haryana, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4413400524/ | Experian | Principal Gen AI Product Manager, EMAP — Hyderabad, Telangana, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4413542544/ | Razorpay | Product Manager II — No-Code Products — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4414725754/ | Priceline | Product Manager, Financial Technology — Mumbai, Maharashtra, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4414150220/ | Teradata | Senior Product Manager - User Experience & Onboarding — Hyderabad, Telangana, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4414598144/ | Bureau | Senior Product Manager (Fintech Payments) — Bangalore Urban, Karnataka, India | posted=2026-05-20 | posted_ts=2026-05-20T04:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415855330/ | Weekday AI (YC W21) | Senior Product Manager — Mumbai Metropolitan Region | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4404949199/ | FINN | Senior Product Manager - Onboarding — APJ | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+
+
+
+## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote) — Batch 4
+
+- [ ] https://www.linkedin.com/jobs/view/4415392114/ | Adit | AI Product Manager (SaaS) - US shift — India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415163962/ | smallcase | Product Manager 1- MF — Bengaluru, Karnataka, India | posted=2026-05-16 | posted_ts=2026-05-16T12:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415575153/ | AiDASH | Staff Product Manager - Applied AI Workflow — Bengaluru, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4412004540/ | Bank of Baroda | New Age Mobile Banking App Product Manager — Mumbai, Maharashtra, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4413995968/ | Talkdesk | Senior Product Manager — Bengaluru, Karnataka, India | posted=2026-05-15 | posted_ts=2026-05-15T05:00Z
+- [ ] https://www.linkedin.com/jobs/view/4413574401/ | zenda | Product Manager — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4412661203/ | Dezerv | Product Manager — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4404870898/ | Experian | Senior Product Manager (Smart Money) — Hyderabad, Telangana, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4372854137/ | Adobe | Senior Product Manager — Bengaluru East, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4414109308/ | JoVE | Senior Product Manager — India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4414127090/ | Optum | Product Manager — Gurugram, Haryana, India | posted=2026-05-20 | posted_ts=2026-05-20T08:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415311986/ | New Relic | R0000564 - Principal Product Manager — Hyderabad, Telangana, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4412076182/ | CodeRound AI | Technical Product Manager (40LPA - 70LPA) — India | posted=2026-05-16 | posted_ts=2026-05-16T05:00Z
+- [ ] https://www.linkedin.com/jobs/view/4410146365/ | Council on Energy, Environment and Water (CEEW) | Product Manager — Delhi, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+
+
+
+## LinkedIn Scan — 2026-05-17 (PM & AI PM, India/Remote)
+
+- [ ] https://www.linkedin.com/jobs/view/4416016084/ | Nium | Sr. Product Manager — Bengaluru, Karnataka, India | posted=2026-05-18 | posted_ts=2026-05-18T05:00Z
+- [ ] https://www.linkedin.com/jobs/view/4412224478/ | CareerXperts Consulting | Founding AI Product Manager | 0→1 Build Opportunity — India | posted=2026-05-18 | posted_ts=2026-05-18T05:00Z
+- [ ] https://www.linkedin.com/jobs/view/4403765701/ | Adobe | Principal Product Manager, Search & GenAI — Noida, Uttar Pradesh, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4393013370/ | Intuit | Staff Product Manager - Credit Karma — Bengaluru, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4403788684/ | Weave | Senior Product Manager, Scheduling Platform — India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4314087548/ | Alation | Senior Product Manager — Greater Chennai Area | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415433194/ | Jack & Jill | Product Manager-II (40–50 LPA + Equity) at AI-native creative intelligence startup — Bengaluru, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415408337/ | Teradata | Senior Staff Product Manager — Metadata & AI Context — Bengaluru, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4406679786/ | Purplle.com | Product Manager - Storefront — Mumbai Metropolitan Region | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4381783833/ | Circle | Senior Product Manager, CPN Payments Engine — Greater Bengaluru Area | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4414471670/ | First Advantage | Sr Technical Product Manager — India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4412713478/ | Confluent | Senior Product Manager – Pricing & Monetization — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415333083/ | New Relic | Principal Product Manager — Hyderabad, Telangana, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4414959134/ | Proofpoint | AI Product Manager — Bengaluru, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4414408656/ | Nuclei | Senior Product Manager - Travel — Bengaluru East, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415332134/ | Gate | Growth Product Manager — APAC | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+
+## LinkedIn Scan — 2026-05-17 (PM & AI PM, India/Remote) — Batch 2
+
+- [ ] https://www.linkedin.com/jobs/view/4412938610/ | RapidCanvas | Senior Product Manager(Enterprise AI Platform) — Mumbai Metropolitan Region | posted=2026-05-14 | posted_ts=2026-05-14T13:00Z
+- [ ] https://www.linkedin.com/jobs/view/4411144016/ | Tekion Corp | Staff Product Manager – CRM + AI — Bengaluru, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415349190/ | Flexmoney Technologies Pvt Ltd | Lead Product Manager — Mumbai, Maharashtra, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4404448578/ | Google | Product Manager, Payment Platform — Hyderabad, Telangana, India | posted=2026-05-20 | posted_ts=2026-05-20T08:00Z
+- [ ] https://www.linkedin.com/jobs/view/4414559747/ | INDmoney | Senior Product Manager — Investment Products — Gurugram, Haryana, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4411197215/ | HighLevel | Senior Product Manager - Workflow Core — India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415815987/ | Infinx | Senior Product Manager — Pune City, Maharashtra, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4296469734/ | Acceldata | Senior Product Manager — Bengaluru, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4400917639/ | Decathlon | Digital Product Manager — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4410133442/ | Taglynk | Senior Product Manager - Supply Chain — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T13:00Z
+- [ ] https://www.linkedin.com/jobs/view/4410378978/ | Innodata Inc. | Product Manager — Noida, Uttar Pradesh, India | posted=2026-05-20 | posted_ts=2026-05-20T08:00Z
+- [ ] https://www.linkedin.com/jobs/view/4413531496/ | Cvent | Group Product Manager — Gurugram, Haryana, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4414579400/ | The LHR Group | Group Product Manager — Mumbai, Maharashtra, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4413293634/ | Questhiring | Group Product Manager — Gurugram, Haryana, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415860813/ | Questhiring | Director – AI Product Management — Gurugram, Haryana, India | posted=2026-05-20 | posted_ts=2026-05-20T08:00Z
+- [ ] https://www.linkedin.com/jobs/view/4411399317/ | VMock | Director of Product Management — Gurugram, Haryana, India | posted=2026-05-13 | posted_ts=2026-05-13T08:00Z
+- [x] https://www.linkedin.com/jobs/view/4413289724/ | Icertis | Senior Director, Product Management — Pune Division, Maharashtra, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4413071727/ | Siemens | Product Owner III — Noida, Uttar Pradesh, India | posted=2026-05-14 | posted_ts=2026-05-14T13:00Z
+- [ ] https://www.linkedin.com/jobs/view/4413570964/ | hackajob | Product Manager - Vice President — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415447319/ | hackajob | Product Manager - Quantitative Investment Solutions — Bengaluru, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415559213/ | AIOS | Head of Product Growth (Referrals & Viral Loops) at AIOS — Remote, $200k-$400k/yr + 0.15%-0.50% — India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4414786437/ | Paytm | Product Owner, Cloud — India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4372844147/ | Endava | Product Owner — Pune/Pimpri-Chinchwad Area | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4414691163/ | Granicus India | Product Owner 2 — India | posted=2026-05-15 | posted_ts=2026-05-15T13:00Z
+- [ ] https://www.linkedin.com/jobs/view/4413060995/ | Siemens | Product Owner III — Noida, Uttar Pradesh, India | posted=2026-05-14 | posted_ts=2026-05-14T13:00Z
+- [ ] https://www.linkedin.com/jobs/view/4404440283/ | Precision Medicine Group | Product Owner — India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415105285/ | Circuitry.ai | Product Owner — Hyderabad, Telangana, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4409932371/ | Creospan Private Limited | Product Owner — Pune District, Maharashtra, India | posted=2026-05-14 | posted_ts=2026-05-14T13:00Z
+- [ ] https://www.linkedin.com/jobs/view/4412995934/ | Fulfillment IQ | Fulfillment IQ - Senior Product Owner — Greater Kolkata Area | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4412754067/ | Orange Business | Ecommerce Product Owner - Ordering Hub — Bangalore Urban, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4412021143/ | Soho Square Solutions | Product Owner — Greater Chennai Area | posted=2026-05-21 | posted_ts=2026-05-21T08:00Z
+- [x] https://www.linkedin.com/jobs/view/4411562930/ | UltraTech Cement | Product Head — Mumbai Metropolitan Region | posted=2026-05-20 | posted_ts=2026-05-20T07:00Z
+- [ ] https://www.linkedin.com/jobs/view/4401933488/ | Definitive Healthcare | Product Owner — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4413937908/ | ParentPay Group | Product Owner — Pune Division, Maharashtra, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4385348018/ | Vena Solutions | Product Owner, Integrations — Indore, Madhya Pradesh, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4374602049/ | symplr | Senior Product Owner — Bengaluru, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4403797312/ | Wolters Kluwer | Senior Agile Product Owner — Pune/Pimpri-Chinchwad Area | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4405775058/ | CyberArk | Senior Product Owner — Hyderabad, Telangana, India | posted=2026-05-17 | posted_ts=2026-05-17T14:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415877625/ | Allianz Technology | Agile Product Owner_D2741 — Pune City, Maharashtra, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4366411755/ | Ingram Micro | Product Manager - Vendor Management — Mumbai Metropolitan Region | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4413540781/ | Crossing Hurdles | Product Manager - SaaS | $80/hr Remote — India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+
+## LinkedIn Scan — 2026-05-17 (PM & AI PM, India/Remote) — Batch 3
+
+- [ ] https://www.linkedin.com/jobs/view/4367238920/ | Adobe | Principal Product manager — Noida, Uttar Pradesh, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4412237437/ | Tech Entrepreneurs Association of Mumbai (TEAM) | AI Product Manager — Mumbai Metropolitan Region | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4376185521/ | Rubrik | Senior Product Manager-Data Discovery & Classification — Bengaluru, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415447866/ | Veritis Group Inc | Product Manager - IT — Hyderabad, Telangana, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [x] https://www.linkedin.com/jobs/view/4416035620/ | Viable Search Consultants | Product Integration Manager — Bengaluru, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4404633264/ | SUN PHARMA | Product Manager (Amaze) - CVD — Mumbai Metropolitan Region | posted=2026-05-22 | posted_ts=2026-05-22T01:00Z
+- [x] https://www.linkedin.com/jobs/view/4405917198/ | HackerOne | Senior Product Operations Manager — Pune Division, Maharashtra, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415403186/ | OptiNext, Inc | Product Manager — Greater Hyderabad Area | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4412200163/ | AB InBev GCC India | Senior Manager – Finance Transformation (Global Product Owner – ATR & OTC) — Bengaluru, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4405909886/ | Teradata | Senior Staff Product Manager —Teradata Operational & Real Time Engine — Gurugram, Haryana, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415403440/ | Teradata | Senior Staff Product Manager — Metadata & AI Context — Hyderabad, Telangana, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [x] https://www.linkedin.com/jobs/view/4393810725/ | Cognizant | Sr. Consultant — Chennai, Tamil Nadu, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415885492/ | Lubrizol IMEA | Product Manager - PCG IMEA — Mumbai, Maharashtra, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [x] https://www.linkedin.com/jobs/view/3962914055/ | Revolut | Product Strategy Manager — India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4392112640/ | hackajob | Product owner/Senior Associate Director, Tech SME Specialist — Pune Division, Maharashtra, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [x] https://www.linkedin.com/jobs/view/4390754737/ | hackajob | Director, POM Technical Product Management — Pune Division, Maharashtra, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4412230463/ | YASH Technologies Middle East | Product Owner Job — Hyderabad, Telangana, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4416017739/ | Activate Talent | Junior Product Owner — India | posted=2026-05-17 | posted_ts=2026-05-17T14:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415446322/ | hackajob | Head of Product Compliance - India — Hyderabad, Telangana, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4413940487/ | slice | Product Manager - Platform — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4414949033/ | Alkami Technology | Product Manager, SDK — Gurugram, Haryana, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4413290547/ | Experian | Principal Gen AI Product Manager, EMAP — Mumbai, Maharashtra, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4413554055/ | Razorpay | Product Manager — Website Builder — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415348805/ | LeadSquared | Principal Product Manager - Agentic AI — Bengaluru, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4404721677/ | IDFC FIRST Bank | Senior AI Product Manager — Mumbai, Maharashtra, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4404435272/ | Precision AQ | Product Owner — India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4413554877/ | Conga | Senior Technical Product Owner — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4392349298/ | Valtech | Product Owner - Connected Cars — Ahmedabad, Gujarat, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4372841218/ | Endava | Product Owner — Noida, Uttar Pradesh, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4382899103/ | tripstack | Senior Product Owner (Content Stack ) — Pune Division, Maharashtra, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4337225852/ | McCain Foods | Product Owner, Data AI Analytics — Gurgaon, Haryana, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4412703584/ | Amity Software Limited | Product Owner (Banking Domain) — Noida, Uttar Pradesh, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4358802587/ | Inovalon | Senior Product Owner (Healthcare EHR Interoperability) — Gurugram, Haryana, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415828122/ | Provation | Product Owner — Bengaluru East, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [x] https://www.linkedin.com/jobs/view/4405462267/ | Rippling | Director of Product, Global Tax Platform — Bengaluru, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4412701936/ | Jobgether | Senior Product Owner — India | posted=2026-05-14 | posted_ts=2026-05-14T14:00Z
+- [ ] https://www.linkedin.com/jobs/view/4363392864/ | Endava | Product Owner — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+
+## LinkedIn Scan — 2026-05-18 (PM & AI PM, India/Remote)
+
+- [ ] https://www.linkedin.com/jobs/view/4416059646/ | Optum India | Technical Product Manager - Python or SQL — Bengaluru, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4334415685/ | Regal Rexnord | Product Manager - Senior — Pune Division, Maharashtra, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4356125793/ | Adobe | Principal Product Manager — Bengaluru East, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4416054653/ | Optum India | Senior Technical Product Manager — Noida, Uttar Pradesh, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4416050677/ | Optum India | Product Manager — Pune Division, Maharashtra, India | posted=2026-05-18 | posted_ts=2026-05-18T14:00Z
+- [ ] https://www.linkedin.com/jobs/view/4416039876/ | Optum India | Product Manager - API Services, Stakeholder Management — Hyderabad, Telangana, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4416061554/ | Optum India | Lead Technical Product Manager - Capability Management — Hyderabad, Telangana, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4416059609/ | Optum India | Senior Technical Product Manager — Chennai, Tamil Nadu, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4416013849/ | ULTISOURCE | Product Owner / Product Manager — Bengaluru, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [x] https://www.linkedin.com/jobs/view/4416052685/ | Optum India | Director, Digital Product - AI or ML — Hyderabad, Telangana, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415465720/ | GlobalLogic | Technical Product Owner IRC293239 — Noida, Uttar Pradesh, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4413400640/ | Caterpillar Inc. | Product Owner — Bengaluru East, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415421564/ | YASH Technologies | Product Owner Job — Hyderabad, Telangana, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [x] https://www.linkedin.com/jobs/view/4415370835/ | ClearTrail Technologies | Product Strategy Manager (Financial Intelligence) — Indore, Madhya Pradesh, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4413527522/ | Zintlr | Senior Product Manager — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T14:00Z
+- [ ] https://www.linkedin.com/jobs/view/4411160602/ | Policybazaar.com | Associate Product Manager — Gurugram, Haryana, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4405010336/ | Adobe | Product Manager 4 — Noida, Uttar Pradesh, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4413294627/ | noon | Product Manager — Gurugram, Haryana, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4405751284/ | Emmes | Senior Product Owner — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T14:00Z
+- [ ] https://www.linkedin.com/jobs/view/4414992043/ | BNY | Senior Vice President, POM Product Owner — Pune/Pimpri-Chinchwad Area | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4413868981/ | hackajob | Product Manager (Vice President) - Access Administration — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+
+## LinkedIn Feed Scan — 2026-05-18
+
+- [ ] https://www.linkedin.com/posts/bhupesh-alve_hiring-associateproductmanager-productmanagement-share-7461023292733206528-PCyH | FEED: Bhupesh Alve / BimaKavach | Associate Product Manager (APM) — India (CRM/InsurTech)
+
+## LinkedIn Scan — 2026-05-18 (PM & AI PM, India/Remote) — Batch 2
+
+- [ ] https://www.linkedin.com/jobs/view/4416085856/ | AiDASH | Staff Product Manager - Applied AI Worflow — Bengaluru, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415614004/ | VisionSure | AI First Product Manager — New Delhi, Delhi, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [x] https://www.linkedin.com/jobs/view/4416076829/ | Snapmint | Senior Product Manager - Ecommerce — Bengaluru, Karnataka, India | posted=2026-05-18 | posted_ts=2026-05-18T14:00Z
+- [ ] https://www.linkedin.com/jobs/view/4402231624/ | Neo Wealth and Asset Management | AI Product Manager — Mumbai Metropolitan Region | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4412249493/ | Aspire | Product Manager - Local Payments — Gurgaon, Haryana, India | posted=2026-05-18 | posted_ts=2026-05-18T14:00Z
+- [ ] https://www.linkedin.com/jobs/view/4416070806/ | IMA India | Product Manager - CA Digital Initiatives - Mumbai — Mumbai, Maharashtra, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4406480573/ | KeyValue | Product Manager — Kochi, Kerala, India | posted=2026-05-26 | posted_ts=2026-05-26T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4344685621/ | Amazon | Sr. Manager, Product Management, Retail Business Services (RBS) — Bengaluru, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4412259271/ | Aspire | Product Manager - Local Payments — Bengaluru, Karnataka, India | posted=2026-05-18 | posted_ts=2026-05-18T14:00Z
+- [ ] https://www.linkedin.com/jobs/view/4405909887/ | Teradata | Senior Staff Product Manager —Teradata Operational & Real Time Engine — Bengaluru, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+
+## LinkedIn Scan — 2026-05-19 (PM & AI PM, India/Remote)
+
+- [ ] https://www.linkedin.com/jobs/view/4407585851/ | SIXT Research & Development India | Senior Product Manager I — Bengaluru, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4413311943/ | Algoworks | Senior Product Manager — India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4407816404/ | HealthEdge | Product Manager — Bengaluru, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415790481/ | Tamasha.live | Sr Product Manager — Bengaluru South, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4404855353/ | Agoda | Technical Product Manager, Observability Domain — Bengaluru, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4416644322/ | Paperflite | Associate Product Manager — Chennai, Tamil Nadu, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415768905/ | HighRadius | Senior Product Manager — Hyderabad, Telangana, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4413302346/ | Straive | Product Manager — Bengaluru, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4416629958/ | TELUS Digital | Product Manager AI — Bengaluru, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4404866235/ | Agoda | Technical Product Manager, LLM/ML Domain — Bengaluru, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4416640302/ | Paperflite | Senior Product Manager — Chennai, Tamil Nadu, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415784501/ | Propsoch | Data & AI Product Manager — Bengaluru, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [x] https://www.linkedin.com/jobs/view/4413309289/ | HDFC Bank | Product Mgr-PL — Mumbai, Maharashtra, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415773796/ | Fam | Senior Product Manager — Bengaluru, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4407805079/ | Capco | Product Manager - DB — Bengaluru, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4411429753/ | HireFlex | Analytics Product Manager — India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4412881809/ | Igloo | Product Manager — Pune Division, Maharashtra, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415777124/ | EnglishBhashi | Associate Product Manager(APM) — Bengaluru, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415761694/ | Fam | Product Manager — Bengaluru, Karnataka, India | posted=2026-05-20 | posted_ts=2026-05-20T08:00Z
+- [ ] https://www.linkedin.com/jobs/view/4416608223/ | Sumo Logic | Product Manager — Noida, Uttar Pradesh, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415768169/ | IDFC FIRST Bank | Product Manager-NRI — Mumbai, Maharashtra, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4416483933/ | GE HealthCare | Product Manager, IB Upgrade - South India — Bengaluru, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4412872820/ | Stellantis | Mid Product Manager(7-10 Years of experience — B2B consumer /software product) in Bengaluru, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4412881118/ | Anaplan | Senior Manager-Product Management — Gurugram, Haryana, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415735462/ | Zinnia | Senior Product Manager (Technical) - Case Management — Noida, Uttar Pradesh, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4404858356/ | Agoda | Technical Product Manager, Observability Domain — Mumbai Metropolitan Region | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4416607225/ | Sumo Logic | Senior Product Manager I — Bengaluru, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4416499678/ | PW (PhysicsWallah) | Senior Product Manager — Bengaluru, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4412873691/ | AiSensy | Product Manager — Gurugram, Haryana, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415762275/ | Navi | Associate Product Manager — Bengaluru, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415740846/ | BharatPe | Product Manager — Gurugram, Haryana, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415676535/ | Headout | Senior Product Manager — Bengaluru, Karnataka, India | posted=2026-05-19 | posted_ts=2026-05-19T15:00Z
+- [ ] https://www.linkedin.com/jobs/view/4416258347/ | MANUAL | Associate Product Manager - Voy India — Delhi, Delhi, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4404856319/ | Agoda | Technical Product Manager, Observability Domain — Hyderabad, Telangana, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4395964919/ | Tata Communications | Product Manager (Deputy General Manager)- SMS — Bengaluru, Karnataka, India | posted=2026-05-23 | posted_ts=2026-05-23T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4410568480/ | PW (PhysicsWallah) | Senior Product Manager — Noida, Uttar Pradesh, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415654072/ | American Express | Manager-Digital Product Management — Bengaluru, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4416243265/ | Razorpay | Senior Product Manager (Growth) — Bengaluru, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4407413065/ | SymphonyAI | Senior Product Manager (Fraud) — Bengaluru, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4327164464/ | HG Insights | Senior Product Manager — Pune Division, Maharashtra, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4404853370/ | Agoda | Technical Product Manager, Observability Domain — Chennai, Tamil Nadu, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4404852481/ | Agoda | Technical Product Manager, LLM/ML Domain — Hyderabad, Telangana, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4404848992/ | Agoda | Technical Product Manager, LLM/ML Domain — Chennai, Tamil Nadu, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4404848904/ | Agoda | Technical Product Manager, Observability Domain — Pune Division, Maharashtra, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4404847996/ | Agoda | Technical Product Manager, LLM/ML Domain — Mumbai Metropolitan Region | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4404963007/ | Agoda | Technical Product Manager, Private Cloud Domain — Chennai, Tamil Nadu, India | posted=2026-05-20 | posted_ts=2026-05-20T08:00Z
+- [ ] https://www.linkedin.com/jobs/view/4404954176/ | Agoda | Technical Product Manager, Private Cloud Domain — Hyderabad, Telangana, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415655798/ | Qoruz | Senior Product Manager (Revenue Growth) — Bengaluru, Karnataka, India | posted=2026-05-20 | posted_ts=2026-05-20T04:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415647795/ | Surya Roshni | Product Manager — New Delhi, Delhi, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4379625846/ | B. Braun Group | Assistant Product Manager — Mumbai Metropolitan Region | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4397046814/ | Zyte | Technical Product Manager / Owner - AI - Remote — Lisbon, Lisbon, Portugal | posted=2026-04-28 | posted_ts=2026-04-28T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4357507670/ | Crypto.com | (Senior)Product Manager, Trading — Dubai, Dubai, United Arab Emirates | posted=2026-02-28 | posted_ts=2026-02-28T01:00Z
+- [ ] https://www.linkedin.com/feed/update/urn:li:activity:7462126007240646656 | FEED: PW (PhysicsWallah) is hiring Product Managers across 6 roles. 1) Engagement & Core Experience (PM2 / | PW (PhysicsWallah) is hiring Product Managers across 6 roles. 1) Engagement & Core Experience (PM2 / | posted=2026-05-18
+- [ ] https://www.linkedin.com/feed/update/urn:li:activity:7460587486998814720 | FEED: Hiring: Product Manager | Mumbai (Andheri East) | Work from Office Looking for a high-ownership Prod | Hiring: Product Manager | Mumbai (Andheri East) | Work from Office Looking for a high-ownership Prod | posted=2026-05-14
+- [ ] https://www.linkedin.com/feed/update/urn:li:activity:7459811177229897728 | FEED: We are still hiring and looking for great talent to join our growing product leadership team at AirA | We are still hiring and looking for great talent to join our growing product leadership team at AirA | posted=2026-05-12
+- [ ] https://www.linkedin.com/feed/update/urn:li:activity:7459594518728843264 | FEED: We're hiring a Product Manager at Bricx. We work with venture-backed founders across SF, Europe, and | We're hiring a Product Manager at Bricx. We work with venture-backed founders across SF, Europe, and | posted=2026-05-11
+- [ ] https://www.linkedin.com/feed/update/urn:li:activity:7459593189650280448 | FEED: We are hiring product managers to build the agentic layer of one of India's largest consumer apps. h | We are hiring product managers to build the agentic layer of one of India's largest consumer apps. h | posted=2026-05-11
+- [ ] https://www.linkedin.com/feed/update/urn:li:activity:7457003506953211904 | FEED: Most hiring posts say, "we move fast and break things." We actually do. So, we need people who can k | Most hiring posts say, "we move fast and break things." We actually do. So, we need people who can k | posted=2026-05-04
+- [ ] https://www.linkedin.com/feed/update/urn:li:activity:7456224492210634752 | FEED: We are looking for a Product Manager (Credit Card) to join our team in Jaipur. Candidate Profile: | We are looking for a Product Manager (Credit Card) to join our team in Jaipur. Candidate Profile: •  | posted=2026-05-02
+- [ ] https://www.linkedin.com/feed/update/urn:li:activity:7457804509558267905 | FEED: We’re aggressively #hiring across these roles: 1. Growth Consultants (Sales and GTM) 2. Product Mana | We’re aggressively #hiring across these roles: 1. Growth Consultants (Sales and GTM) 2. Product Mana | posted=2026-05-06
+- [ ] https://www.linkedin.com/feed/update/urn:li:activity:7454567387611164672 | FEED: 🚀 We’re hiring Senior Product Owner at Morningstar We’re looking for experienced product leaders to | 🚀 We’re hiring Senior Product Owner at Morningstar We’re looking for experienced product leaders to | posted=2026-04-27
+- [ ] https://www.linkedin.com/feed/update/urn:li:activity:7440694302814474240 | FEED: 🚀 We’re Hiring: 💼 Role: Product Manager (AI/ML – Predictive) 📍 Location: Mumbai (BKC) We are hiri | 🚀 We’re Hiring: 💼 Role: Product Manager (AI/ML – Predictive) 📍 Location: Mumbai (BKC) We are hiri | posted=2026-03-20
+- [ ] https://www.linkedin.com/feed/update/urn:li:activity:7437729887257477120 | FEED: 🚀 Hiring: AI Product Manager (B2C) Remote | Up to ₹60 LPA | 4–8 Years Experience We’re building a f | 🚀 Hiring: AI Product Manager (B2C) Remote | Up to ₹60 LPA | 4–8 Years Experience We’re building a f | posted=2026-03-12
+- [ ] https://www.linkedin.com/feed/update/urn:li:activity:7436374932269252610 | FEED: 🚀 I am hiring for the following Product roles at PriceLabs! We are a remote-first, data-driven lead | 🚀 I am hiring for the following Product roles at PriceLabs! We are a remote-first, data-driven lead | posted=2026-03-08
+- [ ] https://www.linkedin.com/feed/update/urn:li:activity:7434151914776379392 | FEED: Extremely obsessed and ambitious team looking to hire across roles (Cluster Head, Program Managers a | Extremely obsessed and ambitious team looking to hire across roles (Cluster Head, Program Managers a | posted=2026-03-02
+- [ ] https://www.linkedin.com/feed/update/urn:li:activity:7432081517733969921 | FEED: I’m hiring a Chief of Staff. Over the past year as COO, one thing has become very clear to me - grow | I’m hiring a Chief of Staff. Over the past year as COO, one thing has become very clear to me - grow | posted=2026-02-24
+- [ ] https://www.linkedin.com/feed/update/urn:li:activity:7424990795872616448 | FEED: We are not building chatbots; we are building AI that takes action. BIK is hiring a Senior Product M | We are not building chatbots; we are building AI that takes action. BIK is hiring a Senior Product M | posted=2026-02-05
+- [x] https://www.linkedin.com/jobs/view/4414969645/ | Scale AI | Strategic Projects Lead, Generative AI — India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4416907696/ | McKinsey & Company | Product Manager II - Reach & Engagement — Gurugram, Haryana, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4413045053/ | Salesforce | Senior Product Manager– Migration Solutions Architect and Program Manager - CPQ — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4413024944/ | Salesforce | Senior Product Manager– Migration Solutions Architect and Program Manager - CPQ — Hyderabad, Telangana, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [x] https://www.linkedin.com/jobs/view/3916270989/ | Revolut | Strategy & Operations Manager — India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415667647/ | Leena AI | Senior Product Manager — Gurugram, Haryana, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4376551684/ | SureBright | Founding Product Manager — Bawana, Delhi, India | posted=2026-02-28 | posted_ts=2026-02-28T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4413494556/ | Stripe | Product Manager, Risk & Compliance — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4391862686/ | Precisely | Senior Product Manager — India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4393543917/ | Eli Lilly and Company | Product Manager - GenAI — Greater Hyderabad Area | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4378077602/ | Nike | Senior Product Manager -Transportation Management System (TMS), ITC — Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [x] https://www.linkedin.com/jobs/view/4387902924/ | The/Nudge Institute | Senior Manager, Strategy, Insight — Bengaluru, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4411159639/ | Policybazaar.com | Product Manager — Gurugram, Haryana, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4403368236/ | IDFC FIRST Bank | Senior Digital Product Manager — Mumbai, Maharashtra, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4412459886/ | Amazon Business | Sr. Product Manager Tech, IN Prime — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4408170027/ | Pine Labs | Senior Product Manager — Bengaluru, Karnataka, India | posted=2026-05-07 | posted_ts=2026-05-07T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4409896563/ | Bright Money | Senior Product Manager - Backend — Bengaluru, Karnataka, India | posted=2026-05-07 | posted_ts=2026-05-07T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4354142928/ | Okta | Sr. Product Manager, Identity Management — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4378454134/ | MotorK | AI Product Manager — France | posted=2026-05-07 | posted_ts=2026-05-07T01:00Z
+- [x] https://www.linkedin.com/jobs/view/4174213430/ | Revolut | Operations Manager (Product) — India | posted=2026-05-27 | posted_ts=2026-05-27T14:00Z
+- [ ] https://www.linkedin.com/jobs/view/4410026656/ | Monk Commerce | Product Manager — India | posted=2026-05-07 | posted_ts=2026-05-07T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4406501333/ | Atlys | Senior Product Manager — Delhi, India | posted=2026-04-30 | posted_ts=2026-04-30T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4369461833/ | Sprinklr | Senior Product Manager — Gurgaon, Haryana, India | posted=2026-05-24 | posted_ts=2026-05-24T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4405531848/ | SocialPilot | Product Manager — India | posted=2026-04-30 | posted_ts=2026-04-30T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4408748590/ | Aerchain | Senior Product Manager — Bengaluru, Karnataka, India | posted=2026-05-07 | posted_ts=2026-05-07T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4384702232/ | HighLevel | Sr. Product Manager - AI Growth — India | posted=2026-05-22 | posted_ts=2026-05-22T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4403096466/ | YO IT Consulting | Product Manager – AI Task & Prompt Design - Remote — India | posted=2026-04-28 | posted_ts=2026-04-28T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4407857096/ | Deccan AI Experts | Product Manager (Freelancer) — Gurugram, Haryana, India | posted=2026-04-29 | posted_ts=2026-04-29T08:00Z
+- [ ] https://www.linkedin.com/jobs/view/4407862495/ | Rocket Learning | Product Manager, Personalisation — India | posted=2026-04-30 | posted_ts=2026-04-30T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4407850665/ | Shuru | Product Manager — India | posted=2026-04-30 | posted_ts=2026-04-30T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4372717540/ | Vaya | Member of Product Staff - Product Lead at Anuvaya — Delhi, Delhi, India | posted=2026-02-28 | posted_ts=2026-02-28T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4357438961/ | Motive | Senior Product Manager, Fleet Management — India | posted=2026-04-20 | posted_ts=2026-04-20T00:00Z
+- [ ] https://www.linkedin.com/jobs/view/4372390314/ | Property Finder | Senior Product Manager — Dubai, Dubai, United Arab Emirates | posted=2026-03-28 | posted_ts=2026-03-28T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4379481496/ | Attentive.ai | Product Manager — Noida, Uttar Pradesh, India | posted=2026-03-28 | posted_ts=2026-03-28T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4356538055/ | Prighter | Product Manager for Privacy, AI and Digital Governance SaaS — Austria | posted=2026-02-28 | posted_ts=2026-02-28T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4379190668/ | Fairdeal.Market | Chief Product & Technology Officer — Gurgaon, Haryana, India | posted=2026-03-28 | posted_ts=2026-03-28T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4346549623/ | Wiom | Senior Product Manager — Bawana, Delhi, India | posted=2026-01-28 | posted_ts=2026-01-28T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4400195002/ | AuthBridge | AI - Product Manager — Gurugram, Haryana, India | posted=2026-04-21 | posted_ts=2026-04-21T15:00Z
+- [ ] https://www.linkedin.com/jobs/view/4413304993/ | Authority.inc | Founding Product — Stockholm, Stockholm County, Sweden | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4412279228/ | Weekday (YC W21) | Senior Product Manager — Hyderabad, Telangana, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4411598164/ | XpertDirect | AI Product Manager — London Area, United Kingdom | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4413331949/ | InPost | AI Product Manager (f/m/n) — Warsaw, Mazowieckie, Poland | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4412896990/ | Mondee | Product Manager — Hyderabad, Telangana, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4416941332/ | Azilen Technologies | Head of AI Product Innovation — Ahmedabad, Gujarat, India | posted=2026-05-20 | posted_ts=2026-05-20T08:00Z
+- [ ] https://www.linkedin.com/jobs/view/4409941455/ | DBiz.ai | Product Owner (8+ years of exp) — Kochi, Kerala, India | posted=2026-05-20 | posted_ts=2026-05-20T08:00Z
+- [ ] https://www.linkedin.com/jobs/view/4416914174/ | Infinity Learn | Senior Product Manager — Hyderabad, Telangana, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4416001049/ | Indico Labs | Product Manager — India | posted=2026-05-20 | posted_ts=2026-05-20T08:00Z
+- [ ] https://www.linkedin.com/jobs/view/4416414281/ | INFUSE | Senior Product Manager (Remote, Contract) — Tallinn, Harjumaa, Estonia | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [x] https://www.linkedin.com/jobs/view/4415791298/ | Jobgether | Senior Lead - CTO&#39;s Office — India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415772422/ | ValueMatrix.AI | Senior Product Manager — India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4403734235/ | Pocket FM | Senior Product Manager - UGC — Bengaluru, Karnataka, India | posted=2026-04-30 | posted_ts=2026-04-30T15:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415781448/ | HighRadius | Senior Product Manager — Hyderabad, Telangana, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4411972525/ | AiSensy | Growth Product Manager — Gurugram, Haryana, India | posted=2026-05-14 | posted_ts=2026-05-14T15:00Z
+- [ ] https://www.linkedin.com/jobs/view/4387850242/ | ClearTrail Technologies | Senior Product Manager — Indore, Madhya Pradesh, India | posted=2026-04-21 | posted_ts=2026-04-21T15:00Z
+- [ ] https://www.linkedin.com/jobs/view/4412644444/ | Zenoti | Senior Manager - Product Management (AI Workflows) — Hyderabad, Telangana, India | posted=2026-05-14 | posted_ts=2026-05-14T15:00Z
+- [ ] https://www.linkedin.com/jobs/view/4403802848/ | NuvertOS | Senior Product Manager — Noida, Uttar Pradesh, India | posted=2026-04-21 | posted_ts=2026-04-21T15:00Z
+- [ ] https://www.linkedin.com/jobs/view/4414582644/ | Denave | Product Manager — Noida, Uttar Pradesh, India | posted=2026-05-14 | posted_ts=2026-05-14T15:00Z
+- [x] https://www.linkedin.com/jobs/view/4409271761/ | Recykal.com | Manager Strategy - Innovation & AI — Hyderabad, Telangana, India | posted=2026-05-07 | posted_ts=2026-05-07T15:00Z
+- [ ] https://www.linkedin.com/jobs/view/4413142236/ | Base93 | Senior Product Manager — Dubai, Dubai, United Arab Emirates | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4405408349/ | First Advantage | Technical Product Manager- Remote — Bengaluru, Karnataka, India | posted=2026-04-23 | posted_ts=2026-04-23T15:00Z
+- [ ] https://www.linkedin.com/jobs/view/4402689396/ | GIVA | Product Manager - Omnichannel & Strategic Initiatives — Bengaluru, Karnataka, India | posted=2026-04-21 | posted_ts=2026-04-21T15:00Z
+- [ ] https://www.linkedin.com/jobs/view/4409661957/ | Flexmoney Technologies Pvt Ltd | Lead Product Manager — Mumbai, Maharashtra, India | posted=2026-05-14 | posted_ts=2026-05-14T15:00Z
+- [ ] https://www.linkedin.com/jobs/view/4402961858/ | Conectys | Product Manager - Gig Platform — European Economic Area | posted=2026-05-20 | posted_ts=2026-05-20T08:00Z
+- [ ] https://www.linkedin.com/jobs/view/4372737744/ | nexos.ai | Product Manager | Mid - senior | Growth — Vilnius, Vilniaus, Lithuania | posted=2026-02-28 | posted_ts=2026-02-28T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4401853708/ | Kovai.co | Manager Product Management — Coimbatore, Tamil Nadu, India | posted=2026-04-21 | posted_ts=2026-04-21T15:00Z
+- [x] https://www.linkedin.com/jobs/view/4399772127/ | airtel | Product Growth & Experience — Gurugram, Haryana, India | posted=2026-04-20 | posted_ts=2026-04-20T00:00Z | prune=role-mismatch
+- [ ] https://www.linkedin.com/jobs/view/4409842115/ | OneTap | First Product Manager (Ex-US Tech, Back — India) in India | posted=2026-05-07 | posted_ts=2026-05-07T15:00Z
+- [ ] https://www.linkedin.com/jobs/view/4407214107/ | Wing Assistant | Product Manager, AI Solutions — Bengaluru, Karnataka, India | posted=2026-05-07 | posted_ts=2026-05-07T15:00Z
+- [x] https://www.linkedin.com/jobs/view/4414473348/ | SWEET DESIGN HUB | Product and Go-To-Market Lead(1-3 years EXP)|Remote|Immediate — India | posted=2026-05-14 | posted_ts=2026-05-14T15:00Z
+- [ ] https://www.linkedin.com/jobs/view/4412671565/ | Antal International | Senior Product Manager — Noida, Uttar Pradesh, India | posted=2026-05-14 | posted_ts=2026-05-14T15:00Z
+- [ ] https://www.linkedin.com/jobs/view/4413878193/ | Netcore | Growth Product Manager — Mumbai, Maharashtra, India | posted=2026-05-14 | posted_ts=2026-05-14T15:00Z
+- [x] https://www.linkedin.com/jobs/view/4410383106/ | Pocket FM | AI Native - Generalist — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T15:00Z
+- [ ] https://www.linkedin.com/jobs/view/4413559234/ | Breathe ESG | Product Manager — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T15:00Z
+- [ ] https://www.linkedin.com/jobs/view/4414478733/ | Syntax Technologies | Product Management Specialist Instructor — India | posted=2026-05-14 | posted_ts=2026-05-14T15:00Z
+- [ ] https://www.linkedin.com/jobs/view/4411747130/ | Procol | Platform Product Manager — Gurugram, Haryana, India | posted=2026-05-13 | posted_ts=2026-05-13T00:00Z
+- [ ] https://www.linkedin.com/jobs/view/4403075564/ | PINKVILLA | Sr. Product Manager — Mumbai, Maharashtra, India | posted=2026-04-20 | posted_ts=2026-04-20T00:00Z
+- [ ] https://www.linkedin.com/jobs/view/4414453937/ | Josys | Senior Product Manager — Bengaluru, Karnataka, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4399017107/ | UNEY | Senior Product Manager — Dubai, United Arab Emirates | posted=2026-04-28 | posted_ts=2026-04-28T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4406451794/ | Recykal.com | Product Manager — Hyderabad, Telangana, India | posted=2026-05-06 | posted_ts=2026-05-06T00:00Z
+- [ ] https://www.linkedin.com/jobs/view/4384256667/ | Storable | Product Manager — Hyderabad, Telangana, India | posted=2026-04-29 | posted_ts=2026-04-29T00:00Z
+- [ ] https://www.linkedin.com/jobs/view/4410362498/ | Salt | Product Manager - Technology — Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates | posted=2026-05-13 | posted_ts=2026-05-13T08:00Z
+- [ ] https://www.linkedin.com/jobs/view/4413988549/ | Testsigma | Product Manager — Bengaluru, Karnataka, India | posted=2026-05-20 | posted_ts=2026-05-20T08:00Z
+- [x] https://www.linkedin.com/jobs/view/4410808599/ | JoVE | Product Research Manager — India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [x] https://www.linkedin.com/jobs/view/4412631981/ | lissun :) | Entrepreneur — Residence in Gurugram, Haryana, India | posted=2026-05-13 | posted_ts=2026-05-13T00:00Z | prune=role-mismatch
+- [ ] https://www.linkedin.com/jobs/view/4401757016/ | Accellor | Senior AI Product Manager — Bengaluru, Karnataka, India | posted=2026-04-28 | posted_ts=2026-04-28T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4407766719/ | Zemoso Technologies | Senior Product Manager — Hyderabad, Telangana, India | posted=2026-05-06 | posted_ts=2026-05-06T00:00Z
+- [ ] https://www.linkedin.com/jobs/view/4413514862/ | Univest | Senior Product Manager – Retention & Growth — Gurugram, Haryana, India | posted=2026-05-13 | posted_ts=2026-05-13T00:00Z
+- [ ] https://www.linkedin.com/jobs/view/4409203367/ | Nielsen | Product Manager (Client Facing Product Development) — Bengaluru, Karnataka, India | posted=2026-05-07 | posted_ts=2026-05-07T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4343938401/ | Agoda | Senior Product Manager (Bangkok-based) — Bangkok, Bangkok City, Thailand | posted=2026-03-28 | posted_ts=2026-03-28T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4412640479/ | Zenoti | Lead Product Manager (Product B2B SaaS) — Hyderabad, Telangana, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4404963255/ | Albertsons Companies India | Digital Product Manager [T500-25380] — Bengaluru, Karnataka, India | posted=2026-04-28 | posted_ts=2026-04-28T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4388971299/ | Appian | Senior Product Manager - API&#39;s — Chennai, Tamil Nadu, India | posted=2026-05-27 | posted_ts=2026-05-27T13:00Z
+- [ ] https://www.linkedin.com/jobs/view/4412650238/ | Zenoti | Lead Product Manager (Marketing + AI Marketer) — Hyderabad, Telangana, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4412659004/ | MathCo | AI Product Manager — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4374374403/ | National Payments Corporation Of India (NPCI) | NBBL - Senior Associate / Lead - Product Development (BBPS) — Mumbai, Maharashtra, India | posted=2026-05-27 | posted_ts=2026-05-27T01:00Z
+- [x] https://www.linkedin.com/jobs/view/4412370007/ | Intrepo | Co-Founder — Noida, Uttar Pradesh, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4412544491/ | Snapdeal | Product Manager - Post Order Journey — Gurugram, Haryana, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4411953554/ | Finkraft | Product Manager — Travel & Hospitality Tech — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4410474115/ | HighRadius | Senior Product Manager — Hyderabad, Telangana, India | posted=2026-05-13 | posted_ts=2026-05-13T04:00Z
+- [x] https://www.linkedin.com/jobs/view/4408380349/ | Spyne | Entrepreneur — Residence in Gurugram, Haryana, India | posted=2026-05-07 | posted_ts=2026-05-07T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4395163297/ | Pluxee | Local Lead Product Manager — Mumbai, Maharashtra, India | posted=2026-04-28 | posted_ts=2026-04-28T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4398736354/ | Conga | Senior Product Manager — Bengaluru, Karnataka, India | posted=2026-05-07 | posted_ts=2026-05-07T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4411881357/ | Albertsons Companies India | Senior Digital Product Manager [T500-25785] — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4408961876/ | airtel | Senior Product Manager - Fintech / Financial Services — Gurugram, Haryana, India | posted=2026-05-07 | posted_ts=2026-05-07T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4411363396/ | Newfold Digital | Senior Product Manager — Mumbai, Maharashtra, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4410074999/ | Walker Digital Table Systems, LLC | Senior Product Owner — Gurugram, Haryana, India | posted=2026-05-07 | posted_ts=2026-05-07T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4409933090/ | Dezerv | Product Manager - Data — Bengaluru, Karnataka, India | posted=2026-05-07 | posted_ts=2026-05-07T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4411635238/ | Mindtickle | Senior Product Manager — Pune District, Maharashtra, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4409771267/ | Groww | Product Manager — Bengaluru, Karnataka, India | posted=2026-05-06 | posted_ts=2026-05-06T08:00Z
+- [ ] https://www.linkedin.com/jobs/view/4410906084/ | Ema | Product Manager — Bengaluru, Karnataka, India | posted=2026-05-07 | posted_ts=2026-05-07T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4382832912/ | Tata Consultancy Services | Senior Product Manager — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4390485644/ | Eltropy | Senior Product Manager (Integrations) — Hyderabad, Telangana, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4401421657/ | Crossing Hurdles | Product Manager | Remote — India | posted=2026-05-13 | posted_ts=2026-05-13T08:00Z
+- [ ] https://www.linkedin.com/jobs/view/4405658960/ | Dataworks | Senior Growth Product Manager — European Union | posted=2026-04-28 | posted_ts=2026-04-28T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4370461601/ | CyberArk | Senior Product Manager - SSO & CIAM — Hyderabad, Telangana, India | posted=2026-05-07 | posted_ts=2026-05-07T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4408172042/ | Qure.ai | Senior Product Manager — Bengaluru, Karnataka, India | posted=2026-05-07 | posted_ts=2026-05-07T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4408964428/ | ScaleneWorks People Solutions LLP | Lead/Principal Product Manager — Bengaluru, Karnataka, India | posted=2026-05-07 | posted_ts=2026-05-07T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4408981630/ | Cog Culture | Technical Product Manager — Gurgaon, Haryana, India | posted=2026-05-07 | posted_ts=2026-05-07T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4405625601/ | OnHires | Product Manager (B2C SaaS, Growth focus, PDF Editing Tool) — European Economic Area | posted=2026-04-28 | posted_ts=2026-04-28T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4402702655/ | Cimpress India | Senior Product Manager — Bengaluru, Karnataka, India | posted=2026-05-07 | posted_ts=2026-05-07T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4407217084/ | Wing Assistant | Product Manager, AI Solutions — Mumbai, Maharashtra, India | posted=2026-05-07 | posted_ts=2026-05-07T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4378548021/ | Seagull | Product Owner — Madrid, Community of Madrid, Spain | posted=2026-05-27 | posted_ts=2026-05-27T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4388381216/ | Tredence Inc. | AI Product Manager — Bengaluru, Karnataka, India | posted=2026-05-07 | posted_ts=2026-05-07T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4410009354/ | JioSaavn | Senior Manager Product Marketing — Mumbai Metropolitan Region | posted=2026-05-07 | posted_ts=2026-05-07T01:00Z
+- [x] https://www.linkedin.com/jobs/view/4409420015/ | Hired | AI Consultant (Remote) — India | posted=2026-05-07 | posted_ts=2026-05-07T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4329397561/ | Arcana | Lead Product Manager — Greater Bengaluru Area | posted=2026-05-24 | posted_ts=2026-05-24T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4405676013/ | People Inc. | Senior Product Manager — Bengaluru, Karnataka, India | posted=2026-04-28 | posted_ts=2026-04-28T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4393403439/ | Aurigo Software Technologies | Senior Product Manager — Bengaluru, Karnataka, India | posted=2026-05-07 | posted_ts=2026-05-07T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4407598643/ | Xebia | Senior Product Manager — Gurugram, Haryana, India | posted=2026-04-30 | posted_ts=2026-04-30T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4406942606/ | Visit Health | Product Manager — Gurugram, Haryana, India | posted=2026-04-30 | posted_ts=2026-04-30T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4399177920/ | HighRadius | Senior Product Manager — Hyderabad, Telangana, India | posted=2026-04-28 | posted_ts=2026-04-28T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4402372244/ | Superleap AI CRM | Product Manager — Bengaluru, Karnataka, India | posted=2026-04-28 | posted_ts=2026-04-28T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4322102881/ | Kobie | Product Owner — Bengaluru, Karnataka, India | posted=2026-05-26 | posted_ts=2026-05-26T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4398168366/ | Eltropy | Senior Product Manager - Telephony — India | posted=2026-05-24 | posted_ts=2026-05-24T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4381940889/ | Sprint and Partners | Product Manager - Core product - Global impact - FinTech - 0 to 1 and 10 to 50 journeys - High ownership and high impact - Hybrid - Amsterdam (Relocation/VISA possible) — Amsterdam, North Holland, Netherlands | posted=2026-05-07 | posted_ts=2026-05-07T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4404088776/ | Wavin | Global Product Manager — Amsterdam, North Holland, Netherlands | posted=2026-04-27 | posted_ts=2026-04-27T08:00Z
+- [ ] https://www.linkedin.com/jobs/view/4343216369/ | Creditstar Group | Senior Product Manager — Tallinn, Harjumaa, Estonia | posted=2025-11-28 | posted_ts=2025-11-28T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4401946287/ | Stiltsoft | Product Manager — Tallinn, Harjumaa, Estonia | posted=2026-04-28 | posted_ts=2026-04-28T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4403926692/ | Spinny | Group Product Manager — Gurugram, Haryana, India | posted=2026-04-28 | posted_ts=2026-04-28T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4405195767/ | Times Internet | Lead Product Manager — Noida, Uttar Pradesh, India | posted=2026-04-30 | posted_ts=2026-04-30T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4406297921/ | Dr. Reddy&#39;s Laboratories | Lead Product Manager - Digital Experience — Hyderabad, Telangana, India | posted=2026-04-30 | posted_ts=2026-04-30T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4407603378/ | Arcserve | Senior Product Manager — India | posted=2026-05-07 | posted_ts=2026-05-07T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4405516907/ | Dr. Reddy&#39;s Laboratories | Lead Product Manager - Content Systems — Hyderabad, Telangana, India | posted=2026-04-30 | posted_ts=2026-04-30T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4400722788/ | HighRadius | Product Manager — Hyderabad, Telangana, India | posted=2026-04-28 | posted_ts=2026-04-28T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4403944204/ | Spyne | Senior Product Manager (App) — Gurugram, Haryana, India | posted=2026-04-28 | posted_ts=2026-04-28T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4406071051/ | Found By Few | Senior Product Manager — Portugal | posted=2026-04-30 | posted_ts=2026-04-30T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4400976387/ | Sparkrock | Technical Product Manager (OTE $70,000/year USD), @Sparkrock Pay — Delhi, India | posted=2026-04-27 | posted_ts=2026-04-27T08:00Z
+- [ ] https://www.linkedin.com/jobs/view/4407595150/ | Seventh Contact Hiring Solutions | Product Manager with US based product company, Pune(6+ Years)- Remote opportunity. — India | posted=2026-04-30 | posted_ts=2026-04-30T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4405144944/ | Tandems | Senior Product Manager — India | posted=2026-04-28 | posted_ts=2026-04-28T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4391087241/ | ScrapingBee | Senior Product Manager — Vilnius, Vilniaus, Lithuania | posted=2026-03-28 | posted_ts=2026-03-28T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4379151562/ | Ant International | ASAP Product Manager — Federal Territory of Kuala Lumpur, Malaysia | posted=2026-04-28 | posted_ts=2026-04-28T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4373742968/ | Decodo | Product Manager — Vilnius, Vilniaus, Lithuania | posted=2026-02-28 | posted_ts=2026-02-28T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4379039709/ | E-Frontiers | Lead Product Manager — Dublin, County Dublin, Ireland | posted=2026-03-28 | posted_ts=2026-03-28T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4375222763/ | nineDots.io | Product Manager — Dublin, County Dublin, Ireland | posted=2026-02-28 | posted_ts=2026-02-28T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4390308155/ | Loop AI | Product Manager/Sr.Product Manager — Bengaluru, Karnataka, India | posted=2026-03-28 | posted_ts=2026-03-28T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4379042324/ | Stelfox Tech Recruitment | Lead Product Manager — Dublin, County Dublin, Ireland | posted=2026-03-28 | posted_ts=2026-03-28T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4375945733/ | Tesonet | Product Manager | Mid-Senior — Vilnius, Vilniaus, Lithuania | posted=2026-03-28 | posted_ts=2026-03-28T01:00Z
+- [x] https://www.linkedin.com/jobs/view/4368813801/ | Sinder | سيندر | Founder’s Associate (CEO Office) — Founding Team — Dubai, Dubai, United Arab Emirates | posted=2026-02-28 | posted_ts=2026-02-28T01:00Z
+- [x] https://www.linkedin.com/jobs/view/4361832864/ | Sinder | سيندر | Chief of Staff to the CEO (CEO Office) — Founding Team — Dubai, Dubai, United Arab Emirates | posted=2026-02-28 | posted_ts=2026-02-28T01:00Z
+- [x] https://www.linkedin.com/jobs/view/4376318109/ | Delta Labs AG | Senior Customer Success Manager (CSM) — AI Customer Intelligence Platform (Market Reseach) — Zurich, Zurich, Switzerland | posted=2026-02-28 | posted_ts=2026-02-28T01:00Z
+- [x] https://www.linkedin.com/jobs/view/4304393154/ | Agoda | Manager/Senior Manager, Corporate Strategy (Bangkok Based) — Bangkok, Bangkok City, Thailand | posted=2026-02-28 | posted_ts=2026-02-28T01:00Z
+- [x] https://www.linkedin.com/jobs/view/4378806472/ | Prodigal | AI Deployment Lead — Mumbai Metropolitan Region | posted=2026-03-28 | posted_ts=2026-03-28T01:00Z
+- [x] https://www.linkedin.com/jobs/view/4374375031/ | NVS Travel Solutions Private Limited | Founder&#39;s Associate — Bengaluru, Karnataka, India | posted=2026-02-28 | posted_ts=2026-02-28T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4414880952/ | Nielsen | Senior Product Manager 1 — Gurgaon, Haryana, India | posted=2026-05-26 | posted_ts=2026-05-26T01:00Z
+- [x] https://www.linkedin.com/jobs/view/4391858382/ | Ascend | Ticketing Team Member-India (Remote) — Delhi, India | posted=2026-04-28 | posted_ts=2026-04-28T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4410820103/ | American Express | Senior Manager-Digital Product Management — Gurugram, Haryana, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
+- [x] https://www.linkedin.com/jobs/view/4415769946/ | Google | Senior AI Strategist — Hyderabad, Telangana, India | posted=2026-05-21 | posted_ts=2026-05-21T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415291216/ | Clari | Senior Product Manager — Bangalore Urban, Karnataka, India | posted=2026-05-27 | posted_ts=2026-05-27T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4418288281/ | QpiAI | Product manager Quantum computers — Bangalore Urban, Karnataka, India | posted=2026-05-27 | posted_ts=2026-05-27T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415233154/ | Indian School of Business | Senior Manager Product Strategy — Hyderabad, Telangana, India | posted=2026-05-26 | posted_ts=2026-05-26T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4419137714/ | Flock AI | Senior Product Manager — India | posted=2026-05-27 | posted_ts=2026-05-27T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4408097987/ | CJ MORE | Product Manager – AI Project — Bangkok, Bangkok City, Thailand | posted=2026-04-30 | posted_ts=2026-04-30T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4413681036/ | OnceHub | Head of Product Integrity - B2B SaaS (Remote) — India | posted=2026-05-22 | posted_ts=2026-05-22T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4366586423/ | Opkey | Senior Product Manager — Bengaluru, Karnataka, India | posted=2026-02-28 | posted_ts=2026-02-28T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4363592628/ | edari | Senior Product Owner (Guest Experience) — Dubai, United Arab Emirates | posted=2026-01-28 | posted_ts=2026-01-28T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4335741783/ | Grab | Lead Product Manager, Scaled Ops — Petaling Jaya, Selangor, Malaysia | posted=2026-01-28 | posted_ts=2026-01-28T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4311977128/ | Mudah.my | Senior Product Manager - Monetization — Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia | posted=2026-01-28 | posted_ts=2026-01-28T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4325267502/ | Zenoti | Lead Product Manager — Hyderabad, Telangana, India | posted=2025-12-28 | posted_ts=2025-12-28T01:00Z
+- [ ] https://www.linkedin.com/feed/update/urn:li:activity:7464960718874923008 | FEED: Amazon is Hiring | Product Manager (Hyderabad) Amazon is building something exciting from the ground | Amazon is Hiring | Product Manager (Hyderabad) Amazon is building something exciting from the ground | posted=2026-05-26
+- [ ] https://www.linkedin.com/feed/update/urn:li:activity:7464917408923783169 | FEED: I’m #hiring a Senior Product Manager at Nielsen. 6-8 years of product management experience solving | I’m #hiring a Senior Product Manager at Nielsen. 6-8 years of product management experience solving  | posted=2026-05-26
+- [ ] https://www.linkedin.com/feed/update/urn:li:activity:7463539412786827266 | FEED: 🚨 We’re Hiring | Senior Product Manager – CMS 📍 Bengaluru (Hybrid) | Immediate Joiners Preferred M | 🚨 We’re Hiring | Senior Product Manager – CMS 📍 Bengaluru (Hybrid) | Immediate Joiners Preferred M | posted=2026-05-22
+- [ ] https://www.linkedin.com/feed/update/urn:li:activity:7462117276729872385 | FEED: 🚀 We’re Hiring: Senior Product Manager Looking for a passionate Senior Product Manager with strong | 🚀 We’re Hiring: Senior Product Manager Looking for a passionate Senior Product Manager with strong  | posted=2026-05-18
+- [ ] https://www.linkedin.com/feed/update/urn:li:activity:7462386168727519232 | FEED: Hiring !!! We’re hiring a "Senior Product Manager" to lead high-impact fintech products in the merch | Hiring !!! We’re hiring a "Senior Product Manager" to lead high-impact fintech products in the merch | posted=2026-05-19
+- [ ] https://www.linkedin.com/feed/update/urn:li:activity:7462365973480849408 | FEED: We’re hiring a Senior Product Manager at Toast! Join us to build innovative solutions that transform | We’re hiring a Senior Product Manager at Toast! Join us to build innovative solutions that transform | posted=2026-05-19
+- [ ] https://www.linkedin.com/feed/update/urn:li:activity:7432292374065876993 | FEED: We’re hiring! Cars24 | And this is not just another Product role. If you’re excited about building a | We’re hiring! Cars24 | And this is not just another Product role. If you’re excited about building a | posted=2026-02-25
+- [ ] https://www.linkedin.com/feed/update/urn:li:activity:7431739186937987072 | FEED: 🗣️ Finall call: applications close at 12pm, Fri 27th Feb 🗣️ We have a rare and exciting opening at | 🗣️ Finall call: applications close at 12pm, Fri 27th Feb 🗣️ We have a rare and exciting opening at | posted=2026-02-23
+- [ ] https://arisinfra.keka.com/careers/jobdetails/66569 | ARIS | Product Manager
+
+## LinkedIn Scan — 2026-05-27 (PM & AI PM, India/Remote)
+
+- [ ] https://www.linkedin.com/jobs/view/4416895066/ | OpenText | Lead Product Manager — Hyderabad, Telangana, India | posted=2026-05-27 | posted_ts=2026-05-27T07:00Z
+- [ ] https://www.linkedin.com/jobs/view/4419809112/ | greytHR | Product Manager — Bengaluru, Karnataka, India | posted=2026-05-27 | posted_ts=2026-05-27T07:00Z
+- [ ] https://www.linkedin.com/jobs/view/4418570429/ | Navi | Senior Product Manager — Bengaluru, Karnataka, India | posted=2026-05-27 | posted_ts=2026-05-27T06:00Z
+- [ ] https://www.linkedin.com/jobs/view/4419588820/ | Questhiring | AI Product Manager — Gurugram, Haryana, India | posted=2026-05-27 | posted_ts=2026-05-27T06:00Z
+- [ ] https://www.linkedin.com/jobs/view/4419585820/ | Career Crafterz | Product Manager — Bengaluru East, Karnataka, India | posted=2026-05-27 | posted_ts=2026-05-27T05:00Z
+- [ ] https://www.linkedin.com/jobs/view/4418565280/ | InfoSpeed Services, Inc. | Senior Product Manager — Gurugram, Haryana, India | posted=2026-05-27 | posted_ts=2026-05-27T05:00Z
+- [ ] https://www.linkedin.com/jobs/view/4377753454/ | SAP | Technical Product Manager (m/f/d) for API Management @ BTP Integration Suite — Bengaluru, Karnataka, India | posted=2026-05-27 | posted_ts=2026-05-27T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4409354062/ | Ingram Micro | Assistant Product Manager — South Delhi, Delhi, India | posted=2026-05-27 | posted_ts=2026-05-27T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4419581548/ | TELUS Digital AI Data Solutions | Product Manager - Robotics — Bengaluru, Karnataka, India | posted=2026-05-27 | posted_ts=2026-05-27T04:00Z
+- [ ] https://www.linkedin.com/jobs/view/4418536376/ | Xoxoday | Product Manager- Plum — Bengaluru East, Karnataka, India | posted=2026-05-27 | posted_ts=2026-05-27T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4419510473/ | JPMorganChase | Product Manager - Fraud Rule Platforms — Bengaluru, Karnataka, India | posted=2026-05-27 | posted_ts=2026-05-27T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4419491961/ | CertifyOS | Sr. Technical Product Manager - Shared Services — Bengaluru, Karnataka, India | posted=2026-05-27 | posted_ts=2026-05-27T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4419463718/ | Bessemer Venture Partners India | Senior Product Manager — Bengaluru, Karnataka, India | posted=2026-05-27 | posted_ts=2026-05-27T01:00Z
+- [x] https://www.linkedin.com/jobs/view/4416817368/ | EY | AI Consulting Lead (Manager/ Senior Consultant) - AI-led Transformation & Operating Model Design - — Bengaluru, Karnataka, India | posted=2026-05-27 | posted_ts=2026-05-27T01:00Z | prune=role-mismatch
+- [ ] https://www.linkedin.com/jobs/view/4418256436/ | Coupang | Senior Product Manager — Bengaluru, Karnataka, India | posted=2026-05-27 | posted_ts=2026-05-27T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4418261350/ | Razorpay | Product Manager II - Corp Cards — Bengaluru, Karnataka, India | posted=2026-05-27 | posted_ts=2026-05-27T01:00Z
+- [x] https://www.linkedin.com/jobs/view/4419557423/ | Bajaj Finserv | Area Manager - GL South — Mysore, Karnataka, India | posted=2026-05-27 | posted_ts=2026-05-27T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4416550233/ | Haleon | Product Manager - Talent Acquisition — Greater Bengaluru Area | posted=2026-05-27 | posted_ts=2026-05-27T11:00Z
+- [ ] https://www.linkedin.com/jobs/view/4379571405/ | YES BANK | Product Manager — Mumbai Metropolitan Region | posted=2026-05-27 | posted_ts=2026-05-27T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4416832210/ | Mastercard | Lead Product Manager - Technical-AgenticAI product — Gurgaon, Haryana, India | posted=2026-05-27 | posted_ts=2026-05-27T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4418257774/ | CertifyOS | Sr. Technical Product Manager - Shared Services — Greater Bengaluru Area | posted=2026-05-27 | posted_ts=2026-05-27T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4388663845/ | Adobe | Senior Product Manager (Firefly) — Noida, Uttar Pradesh, India | posted=2026-05-27 | posted_ts=2026-05-27T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4416808024/ | Zenskar | Senior Product Manager — Bengaluru, Karnataka, India | posted=2026-05-27 | posted_ts=2026-05-27T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4419184822/ | Angara Ecommerce Pvt. Ltd. | Senior Product Manager — Jaipur, Rajasthan, India | posted=2026-05-27 | posted_ts=2026-05-27T11:00Z
+- [x] https://www.linkedin.com/jobs/view/4415296941/ | Mancer Consulting Services | Product Development Manager — Hyderabad, Telangana, India | posted=2026-05-27 | posted_ts=2026-05-27T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415296885/ | Policybazaar.com | Product Lead — Gurugram, Haryana, India | posted=2026-05-27 | posted_ts=2026-05-27T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4419162011/ | Ebitaus | Associate Product Manager — Chennai, Tamil Nadu, India | posted=2026-05-27 | posted_ts=2026-05-27T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4399502473/ | UST | Lead I - Semiconductor Product Validation — Bengaluru, Karnataka, India | posted=2026-05-27 | posted_ts=2026-05-27T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415283825/ | Spyne | Senior Product Manager (Voice & Conversational AI) — Gurugram, Haryana, India | posted=2026-05-27 | posted_ts=2026-05-27T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4418253256/ | Revolut | Product Strategy Manager (6-month Internship) — India | posted=2026-05-27 | posted_ts=2026-05-27T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4419173135/ | Scoutit | Product Manager — Bengaluru South, Karnataka, India | posted=2026-05-27 | posted_ts=2026-05-27T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4419139859/ | hackajob | Senior Product Associate — Bengaluru, Karnataka, India | posted=2026-05-27 | posted_ts=2026-05-27T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4409074229/ | JPMorganChase | Senior Product Associate - Tokenization — Bengaluru, Karnataka, India | posted=2026-05-27 | posted_ts=2026-05-27T01:00Z
+- [ ] https://www.linkedin.com/jobs/view/4415249258/ | Gigabox | Product Manager — Bengaluru, Karnataka, India | posted=2026-05-27 | posted_ts=2026-05-27T01:00Z
+- [x] https://www.linkedin.com/jobs/view/4369589748/ | Revolut | Creative Marketing Manager (People Product) — India | posted=2026-05-27 | posted_ts=2026-05-27T01:00Z
+- [ ] https://job-boards.greenhouse.io/prathaminternational/jobs/4249454009 | Pratham International | Product Manager, Digital
+- [ ] https://job-boards.greenhouse.io/coherehealth/jobs/7620705003 | Cohere Health | Lead Product Designer
+- [ ] https://job-boards.greenhouse.io/jazzx-ai/jobs/5210116008 | JazzX AI | Product Role
+- [ ] https://job-boards.greenhouse.io/karya/jobs/5214033008 | Karya | Lead Product Designer
+- [ ] https://drinkprime.freshteam.com/jobs/r6RT_H-61bLx | DrinkPrime | Product Role

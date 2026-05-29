@@ -45,3 +45,7 @@ bun.lock
 .claude/memory/
 career-dashboard
 package-lock.json
+# Un-ignore personal data for private repo
+!portals.yml
+!data/pipeline.md
+!data/scan-history.tsv

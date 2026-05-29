@@ -1,0 +1,1349 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>career-ops — board</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --board-bg:    #0079BF;
+    --board-bg-2:  #026AA7;
+    --col-bg:      #EBECF0;
+    --col-header:  #172B4D;
+    --card-bg:     #FFFFFF;
+    --card-shadow: 0 1px 0 rgba(9,30,66,.25);
+    --card-shadow-hover: 0 4px 8px rgba(9,30,66,.25);
+    --text:        #172B4D;
+    --text-mute:   #5E6C84;
+    --line:        #DFE1E6;
+    --new-bg:      #FFF7D6;
+    --new-border:  #F2C94C;
+    --skip:        #DE350B;
+    --primary:     #0079BF;
+    --success:     #36B37E;
+    --warning:     #FF991F;
+    --danger:      #DE350B;
+    --radius-s: 3px;
+    --radius-m: 6px;
+    --radius-l: 10px;
+  }
+  *, *::before, *::after { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  html, body, button, input, select, textarea {
+    font-family: 'Inter', system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+  }
+  body {
+    background: var(--board-bg);
+    color: var(--text);
+    font-size: 14px;
+    line-height: 1.5;
+    min-height: 100vh;
+  }
+
+  /* Top bar */
+  header.app {
+    background: var(--board-bg-2);
+    color: #fff;
+    padding: 10px 18px;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    justify-content: space-between;
+    box-shadow: 0 1px 0 rgba(0,0,0,.18);
+    position: sticky;
+    top: 0;
+    z-index: 50;
+  }
+  header.app .brand { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+  header.app h1 { margin: 0; font-size: 16px; font-weight: 700; letter-spacing: -.005em; }
+  header.app .sub { color: rgba(255,255,255,.82); font-size: 12px; font-weight: 500; }
+  header.app .actions { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+
+  .btn {
+    appearance: none;
+    border: 0;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 13px;
+    padding: 8px 14px;
+    border-radius: var(--radius-s);
+    color: #fff;
+    background: rgba(255,255,255,.18);
+    transition: background 120ms ease, transform 80ms ease;
+  }
+  .btn:hover { background: rgba(255,255,255,.28); }
+  .btn:active { transform: translateY(1px); }
+  .btn--primary { background: #5AAC44; color: #fff; }
+  .btn--primary:hover { background: #519839; }
+  .btn--danger { background: var(--danger); color: #fff; }
+  .btn--danger:hover { background: #BF2600; }
+  .btn--ghost { background: transparent; color: #fff; }
+  .btn--ghost:hover { background: rgba(255,255,255,.18); }
+  .btn--loading { pointer-events: none; opacity: .85; }
+  .btn--loading::before {
+    content: '';
+    display: inline-block;
+    width: 10px; height: 10px;
+    margin-right: 8px;
+    border: 2px solid currentColor;
+    border-right-color: transparent;
+    border-radius: 50%;
+    vertical-align: -1px;
+    animation: spin 0.7s linear infinite;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* Search input */
+  .search {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 6px 12px;
+    background: rgba(255,255,255,.22);
+    border-radius: var(--radius-s);
+    color: #fff;
+  }
+  .search input {
+    background: transparent;
+    border: 0;
+    outline: 0;
+    color: #fff;
+    font-size: 13px;
+    width: 220px;
+  }
+  .search input::placeholder { color: rgba(255,255,255,.7); }
+
+  /* Board */
+  .board {
+    display: flex;
+    gap: 12px;
+    align-items: flex-start;
+    padding: 16px;
+    overflow-x: auto;
+    min-height: calc(100vh - 56px);
+  }
+  .col {
+    background: var(--col-bg);
+    border-radius: var(--radius-l);
+    width: 280px;
+    flex: 0 0 280px;
+    display: flex;
+    flex-direction: column;
+    max-height: calc(100vh - 88px);
+  }
+  .col-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 12px 6px;
+    color: var(--col-header);
+  }
+  .col-header .name {
+    font-weight: 700;
+    font-size: 13px;
+    letter-spacing: .04em;
+    text-transform: uppercase;
+  }
+  .col-header .count {
+    font-size: 12px;
+    color: var(--text-mute);
+    font-weight: 600;
+    background: rgba(9,30,66,.08);
+    padding: 1px 8px;
+    border-radius: 999px;
+  }
+  /* Lane accent stripe */
+  .col[data-lane="new"] .col-header { border-top: 3px solid #F2C94C; border-top-left-radius: var(--radius-l); border-top-right-radius: var(--radius-l); }
+  .col[data-lane="shortlisted"] .col-header { border-top: 3px solid #0079BF; border-top-left-radius: var(--radius-l); border-top-right-radius: var(--radius-l); }
+  .col[data-lane="applied"] .col-header { border-top: 3px solid #6554C0; border-top-left-radius: var(--radius-l); border-top-right-radius: var(--radius-l); }
+  .col[data-lane="interview"] .col-header { border-top: 3px solid #36B37E; border-top-left-radius: var(--radius-l); border-top-right-radius: var(--radius-l); }
+  .col[data-lane="rejected"] .col-header { border-top: 3px solid #FF991F; border-top-left-radius: var(--radius-l); border-top-right-radius: var(--radius-l); }
+  .col[data-lane="skipped"] .col-header { border-top: 3px solid #DE350B; border-top-left-radius: var(--radius-l); border-top-right-radius: var(--radius-l); }
+
+  .cards {
+    list-style: none;
+    margin: 0;
+    padding: 4px 8px 8px;
+    overflow-y: auto;
+    flex: 1 1 auto;
+    min-height: 40px;
+  }
+  .cards::-webkit-scrollbar { width: 8px; }
+  .cards::-webkit-scrollbar-thumb { background: rgba(9,30,66,.18); border-radius: 999px; }
+
+  .card {
+    background: var(--card-bg);
+    border-radius: var(--radius-m);
+    padding: 10px 12px;
+    margin-bottom: 8px;
+    box-shadow: var(--card-shadow);
+    cursor: grab;
+    position: relative;
+    transition: box-shadow 120ms ease, transform 80ms ease;
+  }
+  .card:hover { box-shadow: var(--card-shadow-hover); }
+  .card:active { cursor: grabbing; }
+  .card--new {
+    background: var(--new-bg);
+    border-left: 4px solid var(--new-border);
+    padding-left: 10px;
+  }
+  .card--new .new-pill {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    background: var(--new-border);
+    color: #5C4400;
+    font-size: 9px;
+    font-weight: 800;
+    letter-spacing: .08em;
+    padding: 2px 6px;
+    border-radius: 3px;
+  }
+  .card .company {
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: .05em;
+    text-transform: uppercase;
+    color: var(--primary);
+    margin-bottom: 2px;
+  }
+  .card .role {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--text);
+    line-height: 1.35;
+    margin: 0 0 6px;
+    word-break: break-word;
+  }
+  .card .meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px 6px;
+    align-items: center;
+    font-size: 11px;
+    color: var(--text-mute);
+  }
+  .card .chip {
+    display: inline-block;
+    background: rgba(9,30,66,.06);
+    color: var(--text-mute);
+    padding: 2px 6px;
+    border-radius: 3px;
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: .02em;
+    text-transform: lowercase;
+  }
+  .card .chip--score { background: #E3FCEF; color: #006644; text-transform: none; }
+  .card .chip--feed { background: #EAE6FF; color: #403294; text-transform: none; font-weight: 700; }
+  .card--feed { border-left: 4px solid #6554C0; padding-left: 10px; }
+
+  /* Shortlist-stage prep badges (alumni / CV / answers) */
+  .card .prep-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+    margin-top: 6px;
+    padding-top: 6px;
+    border-top: 1px dashed var(--line);
+  }
+  .card .prep-badge {
+    display: inline-block;
+    font-size: 10px;
+    font-weight: 600;
+    padding: 2px 6px;
+    border-radius: 3px;
+    text-decoration: none;
+    line-height: 1.4;
+  }
+  .card .prep-badge--ok      { background: #E3FCEF; color: #006644; cursor: pointer; }
+  .card .prep-badge--ok:hover{ background: #ABF5D1; }
+  .card .prep-badge--pending { background: rgba(9,30,66,.06); color: var(--text-mute); cursor: default; }
+  .card .prep-badge--working { background: #FFF7D6; color: #5C4400; cursor: default; }
+
+  /* Apply button (only enabled when prep is ready) */
+  .card .btn-apply {
+    appearance: none; border: 0; cursor: pointer;
+    font-size: 11px; font-weight: 700;
+    padding: 4px 10px; border-radius: 3px;
+    background: #5AAC44; color: #fff;
+    transition: background 120ms ease;
+  }
+  .card .btn-apply:hover { background: #519839; }
+
+  /* Referral button — softer color so it doesn't compete with Apply */
+  .card .btn-referral {
+    appearance: none; border: 0; cursor: pointer;
+    font-size: 11px; font-weight: 700;
+    padding: 4px 10px; border-radius: 3px;
+    background: #0079BF; color: #fff;
+    transition: background 120ms ease;
+  }
+  .card .btn-referral:hover { background: #026AA7; }
+
+  /* Fit chip — appears above prep badges, color-coded by score */
+  .card .fit-row {
+    margin-top: 6px;
+    padding-top: 6px;
+    border-top: 1px dashed var(--line);
+  }
+  .card .fit-chip {
+    display: inline-block;
+    font-size: 11px; font-weight: 700;
+    padding: 2px 8px; border-radius: 3px;
+    letter-spacing: .02em;
+  }
+  .card .fit-chip--strong  { background: #E3FCEF; color: #006644; }
+  .card .fit-chip--ok      { background: #FFF7D6; color: #5C4400; }
+  .card .fit-chip--weak    { background: #FFEBE6; color: #BF2600; }
+  .card .fit-chip--pending { background: rgba(9,30,66,.06); color: var(--text-mute); }
+  .card .fit-rationale {
+    margin-top: 4px;
+    font-size: 11px;
+    color: var(--text-mute);
+    line-height: 1.4;
+  }
+
+  /* Alum entry inside the referral panel */
+  .alum-row {
+    margin-bottom: 22px;
+    padding-bottom: 18px;
+    border-bottom: 1px solid var(--line);
+  }
+  .alum-row:last-child { border-bottom: 0; }
+  .alum-name { font-weight: 700; font-size: 14px; color: var(--text); }
+  .alum-headline { font-size: 12px; color: var(--text-mute); margin-bottom: 2px; }
+  .alum-profile-link { font-size: 11px; color: var(--primary); text-decoration: none; }
+  .alum-profile-link:hover { text-decoration: underline; }
+  .alum-row textarea {
+    width: 100%;
+    min-height: 100px;
+    border: 1px solid var(--line);
+    border-radius: var(--radius-s);
+    padding: 8px 10px;
+    font-size: 13px; font-family: inherit; line-height: 1.5;
+    resize: vertical;
+    margin-top: 8px;
+  }
+  .alum-row textarea:focus { outline: 2px solid var(--primary); outline-offset: -1px; }
+  .alum-row .alum-actions { margin-top: 8px; display: flex; gap: 8px; align-items: center; }
+  .alum-row .btn-send-to {
+    appearance: none; border: 0; cursor: pointer;
+    font-size: 12px; font-weight: 700;
+    padding: 6px 12px; border-radius: var(--radius-s);
+    background: var(--success); color: #fff;
+  }
+  .alum-row .btn-send-to:hover { background: #00875A; }
+  .alum-row .alum-sent {
+    font-size: 11px; color: #006644;
+    background: #E3FCEF;
+    padding: 4px 8px; border-radius: 3px;
+  }
+
+  /* Side panel */
+  .apply-panel { position: fixed; inset: 0; z-index: 200; display: none; }
+  .apply-panel.is-open { display: block; }
+  .apply-panel__backdrop {
+    position: absolute; inset: 0;
+    background: rgba(9,30,66,.55);
+  }
+  .apply-panel__sheet {
+    position: absolute; top: 0; right: 0; bottom: 0; width: min(620px, 100%);
+    background: #fff;
+    box-shadow: -8px 0 24px rgba(9,30,66,.25);
+    display: flex; flex-direction: column;
+    animation: slideIn 200ms ease-out;
+  }
+  @keyframes slideIn { from { transform: translateX(100%); } to { transform: none; } }
+  .apply-panel__head {
+    display: flex; align-items: flex-start; justify-content: space-between;
+    padding: 18px 20px 14px; border-bottom: 1px solid var(--line);
+    gap: 12px;
+  }
+  .apply-panel__company { font-size: 11px; font-weight: 700; letter-spacing: .05em; text-transform: uppercase; color: var(--primary); }
+  .apply-panel__role { margin: 4px 0 0; font-size: 18px; font-weight: 700; color: var(--text); line-height: 1.3; }
+  .apply-panel__body {
+    flex: 1 1 auto; overflow-y: auto;
+    padding: 16px 20px;
+  }
+  .apply-panel__hint { color: var(--text-mute); font-size: 13px; margin: 0 0 12px; }
+  .apply-field { margin-bottom: 18px; }
+  .apply-field label {
+    display: block;
+    font-size: 11px; font-weight: 700; letter-spacing: .05em; text-transform: uppercase;
+    color: var(--text-mute); margin-bottom: 4px;
+  }
+  .apply-field textarea {
+    width: 100%; min-height: 70px;
+    border: 1px solid var(--line); border-radius: var(--radius-s);
+    padding: 8px 10px; font-size: 13px; font-family: inherit; line-height: 1.5;
+    resize: vertical; color: var(--text);
+  }
+  .apply-field textarea:focus { outline: 2px solid var(--primary); outline-offset: -1px; }
+  .apply-panel__foot {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 12px 20px;
+    border-top: 1px solid var(--line);
+    gap: 12px;
+    background: #FAFBFC;
+  }
+  .apply-panel__cv-link { font-size: 12px; color: var(--primary); text-decoration: none; font-weight: 600; }
+  .apply-panel__cv-link:hover { text-decoration: underline; }
+  .apply-panel__actions { display: flex; gap: 8px; align-items: center; }
+  .apply-panel__actions .btn { color: var(--text); background: rgba(9,30,66,.08); }
+  .apply-panel__actions .btn--ghost:hover { background: rgba(9,30,66,.15); }
+  .apply-panel__actions .btn--primary { color: #fff; background: var(--success); }
+  .apply-panel__actions .btn--primary:hover { background: #00875A; }
+  .card .when { font-size: 11px; color: var(--text-mute); }
+  .card .actions {
+    display: flex;
+    gap: 6px;
+    margin-top: 8px;
+  }
+  .card .actions a, .card .actions button {
+    appearance: none;
+    border: 0;
+    cursor: pointer;
+    font-size: 11px;
+    font-weight: 600;
+    padding: 4px 8px;
+    border-radius: 3px;
+    background: rgba(9,30,66,.06);
+    color: var(--text);
+    text-decoration: none;
+  }
+  .card .actions a:hover, .card .actions button:hover { background: rgba(9,30,66,.12); }
+
+  .sortable-ghost { opacity: 0.5; background: #DEEBFF !important; }
+  .sortable-chosen { box-shadow: var(--card-shadow-hover); }
+  .cards.drop-target { background: rgba(9,30,66,.06); border-radius: var(--radius-m); }
+
+  /* Console (scan log) */
+  .console-wrap {
+    background: rgba(0,0,0,.18);
+    color: #fff;
+    margin: 0 16px;
+    padding: 0 12px;
+    border-radius: var(--radius-m);
+    max-height: 0;
+    overflow: hidden;
+    opacity: 0;
+    transition: max-height 220ms ease, padding 220ms ease, opacity 200ms ease;
+  }
+  .console-wrap.show { max-height: 320px; padding: 10px 12px; opacity: 1; margin-top: 8px; }
+  .console-head {
+    display: flex; justify-content: space-between; align-items: center;
+    font-size: 11px; text-transform: uppercase; letter-spacing: .08em;
+    margin-bottom: 6px;
+  }
+  .console-head .dot { display: inline-block; width: 8px; height: 8px; border-radius: 999px; background: var(--success); margin-right: 6px; }
+  .console-head .dot.idle { background: #97A0AF; }
+  .console-head .dot.error { background: var(--danger); }
+  .console-body {
+    font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+    font-size: 12px;
+    line-height: 1.5;
+    max-height: 240px;
+    overflow-y: auto;
+    white-space: pre-wrap;
+    word-break: break-word;
+  }
+  .console-body .line--header { color: #FFD580; font-weight: 700; }
+
+  /* Reports panel (toggled) */
+  .reports-panel {
+    background: var(--col-bg);
+    color: var(--text);
+    margin: 16px;
+    padding: 14px 16px;
+    border-radius: var(--radius-l);
+    max-height: 60vh;
+    overflow-y: auto;
+  }
+  .reports-panel h2 { margin: 0 0 10px; font-size: 14px; }
+  .reports-panel ul { margin: 0; padding: 0; list-style: none; }
+  .reports-panel li { padding: 8px 10px; border-radius: 4px; }
+  .reports-panel li + li { margin-top: 4px; }
+  .reports-panel li:hover { background: rgba(9,30,66,.06); }
+  .reports-panel a { color: var(--text); text-decoration: none; font-size: 13px; }
+
+  /* Toast */
+  .toast {
+    position: fixed;
+    bottom: 18px;
+    right: 18px;
+    padding: 10px 14px;
+    background: #172B4D;
+    color: #fff;
+    font-size: 13px;
+    border-radius: var(--radius-s);
+    box-shadow: 0 6px 20px rgba(9,30,66,.32);
+    opacity: 0;
+    transform: translateY(6px);
+    transition: opacity 180ms ease, transform 180ms ease;
+    pointer-events: none;
+    z-index: 100;
+  }
+  .toast.show { opacity: 1; transform: translateY(0); }
+  .toast--error { background: var(--danger); }
+
+  /* Empty state */
+  .col .empty {
+    color: var(--text-mute);
+    font-size: 12px;
+    padding: 14px 8px;
+    text-align: center;
+    font-style: italic;
+  }
+</style>
+</head>
+<body>
+
+<header class="app">
+  <div class="brand">
+    <h1 id="brand-name">career-ops</h1>
+    <div class="sub" id="brand-headline">loading…</div>
+  </div>
+  <div class="actions">
+    <label class="search" aria-label="Search">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><line x1="20" y1="20" x2="16.65" y2="16.65"/></svg>
+      <input id="search" type="search" placeholder="search cards…" autocomplete="off" />
+    </label>
+    <button class="btn btn--ghost" id="reports-btn">reports</button>
+    <a class="btn btn--ghost" href="/bookmarklet" target="_blank" rel="noopener" title="Bookmarklet + paste a batch of job URLs">📋 add by URL</a>
+    <button class="btn" id="sync-saved-btn" title="Pull jobs you tapped 🔖 Save on LinkedIn (any device) into the pipeline">🔄 sync saved</button>
+    <button class="btn" id="refresh-btn">↻ refresh</button>
+    <button class="btn btn--primary" id="scan-btn">▶ run scan</button>
+    <button class="btn btn--danger" id="stop-btn" hidden>■ stop</button>
+  </div>
+</header>
+
+<section class="console-wrap" id="console-wrap" aria-live="polite" aria-hidden="true">
+  <div class="console-head">
+    <span><span class="dot idle" id="console-dot"></span><span id="console-status">idle</span></span>
+    <button class="btn btn--ghost" id="console-hide" style="padding: 2px 8px; font-size: 11px;">hide</button>
+  </div>
+  <div class="console-body" id="console-body"></div>
+</section>
+
+<section class="reports-panel" id="reports-panel" hidden>
+  <h2>Reports</h2>
+  <ul id="reports-list"></ul>
+</section>
+
+<main class="board" id="board">
+  <section class="col" data-lane="new">
+    <div class="col-header"><span class="name">New</span><span class="count" data-count="new">0</span></div>
+    <ul class="cards" data-lane="new"></ul>
+  </section>
+  <section class="col" data-lane="shortlisted">
+    <div class="col-header"><span class="name">Shortlisted</span><span class="count" data-count="shortlisted">0</span></div>
+    <ul class="cards" data-lane="shortlisted"></ul>
+  </section>
+  <section class="col" data-lane="applied">
+    <div class="col-header"><span class="name">Applied</span><span class="count" data-count="applied">0</span></div>
+    <ul class="cards" data-lane="applied"></ul>
+  </section>
+  <section class="col" data-lane="interview">
+    <div class="col-header"><span class="name">Interview</span><span class="count" data-count="interview">0</span></div>
+    <ul class="cards" data-lane="interview"></ul>
+  </section>
+  <section class="col" data-lane="rejected">
+    <div class="col-header"><span class="name">Rejected</span><span class="count" data-count="rejected">0</span></div>
+    <ul class="cards" data-lane="rejected"></ul>
+  </section>
+  <section class="col" data-lane="skipped">
+    <div class="col-header"><span class="name">Skipped</span><span class="count" data-count="skipped">0</span></div>
+    <ul class="cards" data-lane="skipped"></ul>
+  </section>
+</main>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<!-- Referral side panel — shown when user clicks 📨 send referral on a
+     Shortlisted card. Lists alumni with editable pre-drafted DMs. Clicking
+     "send to <alum>" spawns send-referral.mjs which opens that alum's
+     LinkedIn profile in a visible Chrome and stops at the Send button. -->
+<div id="referral-panel" class="apply-panel" aria-hidden="true">
+  <div class="apply-panel__backdrop" data-referral-close></div>
+  <aside class="apply-panel__sheet" role="dialog" aria-label="Send referral request">
+    <header class="apply-panel__head">
+      <div>
+        <div class="apply-panel__company" id="referral-company">—</div>
+        <h2 class="apply-panel__role" id="referral-role">Send referral request</h2>
+      </div>
+      <button class="btn btn--ghost" data-referral-close aria-label="Close">✕</button>
+    </header>
+    <div class="apply-panel__body" id="referral-body">
+      <p class="apply-panel__hint">Loading alumni…</p>
+    </div>
+    <footer class="apply-panel__foot">
+      <span style="font-size:11px;color:var(--text-mute);">Playwright opens Chrome with the message pre-pasted; you click Send.</span>
+      <div class="apply-panel__actions">
+        <button class="btn btn--ghost" data-referral-close>Cancel</button>
+        <button class="btn btn--primary" id="ref-send-btn">📨 Send via Playwright</button>
+      </div>
+    </footer>
+  </aside>
+</div>
+
+<!-- Apply side panel — shown when user clicks ⚡ apply on a Shortlisted card.
+     Loads draft answers from /api/answers, lets user edit each, then POSTs
+     to /api/apply-fill which spawns fill-form.mjs in a visible Chrome. -->
+<div id="apply-panel" class="apply-panel" aria-hidden="true">
+  <div class="apply-panel__backdrop" data-apply-close></div>
+  <aside class="apply-panel__sheet" role="dialog" aria-label="Approve & fill application">
+    <header class="apply-panel__head">
+      <div>
+        <div class="apply-panel__company" id="apply-company">—</div>
+        <h2 class="apply-panel__role" id="apply-role">—</h2>
+      </div>
+      <button class="btn btn--ghost" data-apply-close aria-label="Close">✕</button>
+    </header>
+    <div class="apply-panel__body" id="apply-body">
+      <p class="apply-panel__hint">Loading draft answers…</p>
+    </div>
+    <footer class="apply-panel__foot">
+      <a id="apply-cv-link" class="apply-panel__cv-link" target="_blank" rel="noopener">📄 preview tailored CV</a>
+      <div class="apply-panel__actions">
+        <button class="btn btn--ghost" data-apply-close>Cancel</button>
+        <button class="btn btn--primary" id="apply-fill-btn">⚡ Approve & fill</button>
+      </div>
+    </footer>
+  </aside>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/sortablejs@1.15.2/Sortable.min.js"></script>
+<script>
+const LANES = ['new', 'shortlisted', 'applied', 'interview', 'rejected', 'skipped'];
+const SEEN_KEY = 'careerops.seenUrls';
+const state = {
+  data: null, q: '', seen: new Set(), justSeen: new Set(),
+  // url → { slug, files: {fit, alumni, outreach, cv, cv_skipped, answers}, ready: bool }
+  prep: {},
+  // url → { slug, ready, score, rationale, ... } from /api/fit
+  fit: {},
+};
+
+// Derive the slug used in output/{slug}/* from a card's company name. Must
+// match the server's slug derivation in shortlist-prep.sh + shortlistStatus().
+function slugFor(c) {
+  const company = (c.company || '').replace(/^FEED:\s*/i, '');
+  return company.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+}
+
+// Poll /api/shortlist-status AND /api/fit for each Shortlisted card whose
+// artifacts aren't all ready yet. Fires every 10s; stops polling once both
+// shortlist-prep is ready AND fit info is loaded.
+async function refreshShortlistPrep() {
+  if (!state.data) return;
+  const cards = (state.data.board || []).filter(c => c.lane === 'shortlisted' && c.url && /^https?:/.test(c.url));
+  for (const c of cards) {
+    const prepCur = state.prep[c.url];
+    const fitCur = state.fit[c.url];
+    const prepDone = prepCur && prepCur.ready;
+    const fitDone = fitCur && fitCur.ready;
+    if (prepDone && fitDone) continue; // both done for this card
+
+    if (!prepDone) {
+      try {
+        const r = await fetch('/api/shortlist-status?url=' + encodeURIComponent(c.url));
+        if (r.ok) state.prep[c.url] = await r.json();
+      } catch {}
+    }
+    if (!fitDone) {
+      try {
+        const r = await fetch('/api/fit?url=' + encodeURIComponent(c.url));
+        if (r.ok) state.fit[c.url] = await r.json();
+      } catch {}
+    }
+  }
+  render();
+}
+setInterval(refreshShortlistPrep, 10_000);
+
+const $ = (s) => document.querySelector(s);
+const $$ = (s) => document.querySelectorAll(s);
+const escapeHtml = (s='') => String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+
+function loadSeen() {
+  try { state.seen = new Set(JSON.parse(localStorage.getItem(SEEN_KEY) || '[]')); }
+  catch { state.seen = new Set(); }
+}
+function persistSeen(urls) {
+  for (const u of urls) state.seen.add(u);
+  try { localStorage.setItem(SEEN_KEY, JSON.stringify([...state.seen])); } catch {}
+}
+
+const showToast = (msg, kind='') => {
+  const t = $('#toast');
+  t.textContent = msg;
+  t.className = 'toast show' + (kind ? ' toast--' + kind : '');
+  clearTimeout(showToast._t);
+  showToast._t = setTimeout(() => t.classList.remove('show'), 2200);
+};
+
+async function load() {
+  const r = await fetch('/api/data', { cache: 'no-store' });
+  state.data = await r.json();
+  render();
+}
+
+function relativeTime(iso) {
+  if (!iso) return '';
+  // Parse YYYY-MM-DD as LOCAL midnight so "today/yesterday" align with the
+  // user's calendar, not the UTC day boundary. Without this, jobs posted
+  // 12am-5:30am IST appear as "today" until UTC catches up.
+  let then;
+  if (iso.length === 10) {
+    const [y, m, d] = iso.split('-').map(Number);
+    then = new Date(y, m - 1, d);
+  } else {
+    then = new Date(iso);
+  }
+  if (!(then instanceof Date) || isNaN(then)) return '';
+  const now = new Date();
+  const sameLocalDay = (a, b) =>
+    a.getFullYear() === b.getFullYear() &&
+    a.getMonth() === b.getMonth() &&
+    a.getDate() === b.getDate();
+  const yesterday = new Date(now); yesterday.setDate(yesterday.getDate() - 1);
+  if (sameLocalDay(then, now)) return 'today';
+  if (sameLocalDay(then, yesterday)) return 'yesterday';
+  const diff = Math.max(0, now - then);
+  const day = 86400000;
+  const days = Math.floor(diff / day);
+  if (days < 14) return days + 'd ago';
+  if (days < 60) return Math.floor(days / 7) + 'w ago';
+  if (days < 365) return Math.floor(days / 30) + 'mo ago';
+  return Math.floor(days / 365) + 'y ago';
+}
+
+function matchesQuery(card) {
+  const q = state.q.trim().toLowerCase();
+  if (!q) return true;
+  return ['company','role','url','location','note','status'].some(f => (card[f] || '').toString().toLowerCase().includes(q));
+}
+
+function sortCards(cards) {
+  // Prefer hour-resolution posted_ts (from fix-linkedin-labels.mjs) so today's
+  // jobs are ordered by hour, not alphabetically. Pad date-only entries to noon
+  // so they sit in the middle of their day relative to hour-stamped entries.
+  const key = c => c.posted_ts
+    || (c.posted_at ? c.posted_at + 'T12:00Z' : null)
+    || c.first_seen
+    || '';
+  return [...cards].sort((a, b) => {
+    const ka = key(a);
+    const kb = key(b);
+    if (ka !== kb) return kb.localeCompare(ka);
+    const ra = a.reposted ? 1 : 0;
+    const rb = b.reposted ? 1 : 0;
+    if (ra !== rb) return ra - rb;
+    return (a.company || '').localeCompare(b.company || '');
+  });
+}
+
+function cardHtml(c) {
+  const isNew = !state.seen.has(c.url);
+  if (isNew) state.justSeen.add(c.url);
+  const when = relativeTime(c.posted_at || c.first_seen);
+  const dateLabel = c.posted_at ? 'posted' : (c.first_seen ? 'seen' : '');
+  const isFeedPost = c.source === 'feed-post';
+  const chips = [];
+  // Feed-post badge: prominent so user knows this links to a LinkedIn post,
+  // not a structured job posting.
+  if (isFeedPost) chips.push(`<span class="chip chip--feed">📝 feed post</span>`);
+  else if (c.source && c.source !== 'unknown') chips.push(`<span class="chip">${escapeHtml(c.source)}</span>`);
+  if (c.location) chips.push(`<span class="chip">${escapeHtml(c.location)}</span>`);
+  if (c.status) chips.push(`<span class="chip">${escapeHtml(c.status)}</span>`);
+  const isExternalUrl = c.url && /^https?:/.test(c.url);
+  const reportLink = c.report ? linkifyReport(c.report) : '';
+  const openLabel = isFeedPost ? 'open post' : 'open';
+
+  // Shortlist-stage prep badges. Rendered only for cards in the Shortlisted
+  // lane. Each is a link to the artifact under output/<slug>/... Server adds
+  // /output/ static route. The data-slug attr lets the polling loop find
+  // these cards and refresh their badges as files arrive.
+  let prepBadges = '';
+  let applyButton = '';
+  let referralButton = '';
+  let fitChip = '';
+  if (c.lane === 'shortlisted') {
+    const slug = slugFor(c);
+    const prep = state.prep[c.url] || { files: {}, ready: false };
+    const f = prep.files || {};
+    const fit = state.fit[c.url];
+
+    // Fit chip — top of the card, always visible on Shortlisted cards.
+    if (fit && fit.ready) {
+      const pct = Math.round((fit.score || 0) * 100);
+      const cls = fit.score >= 0.7 ? 'fit-chip--strong'
+                : fit.score >= 0.5 ? 'fit-chip--ok'
+                : 'fit-chip--weak';
+      const rationale = fit.rationale ? `<div class="fit-rationale">${escapeHtml(fit.rationale)}</div>` : '';
+      fitChip = `
+        <div class="fit-row">
+          <span class="fit-chip ${cls}" title="JD-keyword coverage">★ ${pct}% fit</span>
+          ${rationale}
+        </div>`;
+    } else if (!fit || fit.ready === false) {
+      fitChip = `<div class="fit-row"><span class="fit-chip fit-chip--pending">⏳ analyzing fit…</span></div>`;
+    }
+
+    // Prep badges — CV badge label depends on whether tailoring was skipped.
+    const cvLabel = f.cv_skipped ? '📄 base CV fits' : '📄 CV';
+    const link = (name, label, href) =>
+      f[name]
+        ? `<a class="prep-badge prep-badge--ok" target="_blank" rel="noopener" href="${href}">${label}</a>`
+        : `<span class="prep-badge prep-badge--pending">${label}</span>`;
+    const cvHref = f.cv_skipped
+      ? `/output/${encodeURIComponent(slug)}/cv-tailoring-notes.md`
+      : `/output/${encodeURIComponent(slug)}/cv-tailored.pdf`;
+    // Alumni badge points directly to LinkedIn's filtered people search.
+    // Built client-side from company name + first school alias (kept in sync
+    // with find-alumni.mjs). No round-trip to read alumni.md needed.
+    const company = (c.company || '').replace(/^FEED:\s*/i, '');
+    const alumniLinkedInUrl = company
+      ? `https://www.linkedin.com/search/results/people/?keywords=` + encodeURIComponent(`"${company}" "ISB"`)
+      : `/output/${encodeURIComponent(slug)}/alumni.md`;
+    prepBadges = `
+      <div class="prep-row" data-prep-slug="${escapeHtml(slug)}" data-prep-url="${escapeHtml(c.url)}">
+        ${link('alumni',   '👥 alumni on LinkedIn', alumniLinkedInUrl)}
+        ${link('outreach', '✉️ outreach',           `/output/${encodeURIComponent(slug)}/outreach.md`)}
+        ${link('cv',       cvLabel,                  cvHref)}
+        ${link('answers',  '✍️ answers',             `/output/${encodeURIComponent(slug)}/answers.md`)}
+        ${prep.ready ? '' : '<span class="prep-badge prep-badge--working">⏳ preparing…</span>'}
+      </div>`;
+
+    // Apply button — enabled when answers + cv (or skipped) are ready.
+    if (f.answers && f.cv) {
+      applyButton = `<button class="btn-apply" data-apply-url="${escapeHtml(c.url)}">⚡ apply</button>`;
+    }
+    // Referral button — enabled when outreach is ready and at least one alum found.
+    if (f.outreach) {
+      referralButton = `<button class="btn-referral" data-referral-url="${escapeHtml(c.url)}">📨 send referral</button>`;
+    }
+  }
+
+  return `
+    <li class="card${isNew ? ' card--new' : ''}${isFeedPost ? ' card--feed' : ''}" data-url="${escapeHtml(c.url)}" data-lane="${escapeHtml(c.lane)}">
+      ${isNew ? '<span class="new-pill">NEW</span>' : ''}
+      <div class="company">${escapeHtml(c.company || '')}</div>
+      <h3 class="role">${escapeHtml(c.role || '(untitled role)')}</h3>
+      <div class="meta">${chips.join('')}</div>
+      ${when ? `<div class="when" style="margin-top:6px">${escapeHtml(dateLabel)} ${escapeHtml(when)}</div>` : ''}
+      ${fitChip}
+      ${prepBadges}
+      <div class="actions">
+        ${isExternalUrl ? `<a href="${escapeHtml(c.url)}" target="_blank" rel="noopener">${openLabel}</a>` : ''}
+        ${isExternalUrl ? `<button class="copy-btn" data-url="${escapeHtml(c.url)}">copy</button>` : ''}
+        ${applyButton}
+        ${referralButton}
+        ${reportLink}
+      </div>
+    </li>`;
+}
+
+function linkifyReport(cell='') {
+  const m = String(cell).match(/\[(.+?)\]\((.+?)\)/);
+  if (!m) return '';
+  return `<a href="/${escapeHtml(m[2])}" target="_blank">report</a>`;
+}
+
+function render() {
+  if (!state.data) return;
+  const { profile, board = [] } = state.data;
+  $('#brand-name').textContent = profile?.name ? `${profile.name} · career-ops` : 'career-ops';
+  $('#brand-headline').textContent = profile?.headline || 'pipeline board';
+
+  state.justSeen = new Set();
+  const cards = board.filter(matchesQuery);
+  const byLane = Object.fromEntries(LANES.map(l => [l, []]));
+  for (const c of cards) {
+    const lane = LANES.includes(c.lane) ? c.lane : 'new';
+    byLane[lane].push(c);
+  }
+
+  for (const lane of LANES) {
+    const sorted = sortCards(byLane[lane]);
+    const ul = document.querySelector(`.cards[data-lane="${lane}"]`);
+    const countEl = document.querySelector(`[data-count="${lane}"]`);
+    countEl.textContent = sorted.length;
+    if (!sorted.length) {
+      ul.innerHTML = `<div class="empty">no cards</div>`;
+    } else {
+      ul.innerHTML = sorted.map(cardHtml).join('');
+    }
+  }
+
+  // Wire copy buttons.
+  $$('.copy-btn').forEach(b => b.addEventListener('click', async (e) => {
+    e.stopPropagation();
+    try { await navigator.clipboard.writeText(b.dataset.url); showToast('URL copied'); }
+    catch { showToast('copy failed', 'error'); }
+  }));
+
+  // Wire ⚡ apply buttons → open apply side panel.
+  $$('.btn-apply').forEach(b => b.addEventListener('click', (e) => {
+    e.stopPropagation();
+    openApplyPanel(b.dataset.applyUrl);
+  }));
+
+  // Wire 📨 send referral buttons → open referral side panel.
+  $$('.btn-referral').forEach(b => b.addEventListener('click', (e) => {
+    e.stopPropagation();
+    openReferralPanel(b.dataset.referralUrl);
+  }));
+
+  // Persist seen URLs *after* render so the next reload reverts highlighting.
+  if (state.justSeen.size) persistSeen(state.justSeen);
+}
+
+function initSortable() {
+  document.querySelectorAll('.cards').forEach(ul => {
+    new Sortable(ul, {
+      group: 'board',
+      animation: 150,
+      ghostClass: 'sortable-ghost',
+      chosenClass: 'sortable-chosen',
+      onAdd: (evt) => {
+        const url = evt.item.dataset.url;
+        const lane = evt.to.dataset.lane;
+        moveCard(url, lane, evt);
+      },
+    });
+  });
+}
+
+async function moveCard(url, lane, evt) {
+  // Update local model so reload-free state stays consistent.
+  if (state.data?.board) {
+    const c = state.data.board.find(x => x.url === url);
+    if (c) c.lane = lane;
+  }
+  try {
+    const r = await fetch('/api/board/move', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ url, lane }),
+    });
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    showToast(`moved to ${lane}`);
+  } catch (err) {
+    showToast('move failed: ' + (err.message || err), 'error');
+    // Revert by reloading from server.
+    load();
+  }
+}
+
+/* --- Reports panel --- */
+function toggleReports() {
+  const panel = $('#reports-panel');
+  const open = panel.hidden;
+  panel.hidden = !open;
+  if (open) {
+    const list = $('#reports-list');
+    const reports = state.data?.reports || [];
+    list.innerHTML = reports.length
+      ? reports.map(r => `<li><a href="/${escapeHtml(r.path)}" target="_blank">${escapeHtml(r.name)}</a></li>`).join('')
+      : `<li class="empty">No reports yet.</li>`;
+  }
+}
+
+/* --- Scan console (unchanged behavior, restyled) --- */
+function setConsoleVisible(visible) {
+  const wrap = $('#console-wrap');
+  wrap.classList.toggle('show', visible);
+  wrap.setAttribute('aria-hidden', String(!visible));
+}
+function appendConsoleLine(text, kind='') {
+  const body = $('#console-body');
+  const div = document.createElement('div');
+  div.className = 'line' + (kind ? ' line--' + kind : '');
+  div.textContent = text;
+  body.appendChild(div);
+  body.scrollTop = body.scrollHeight;
+}
+function setScanState(s) {
+  const btn = $('#scan-btn');
+  const stopBtn = $('#stop-btn');
+  const dot = $('#console-dot');
+  const status = $('#console-status');
+  if (s === 'running') {
+    btn.classList.add('btn--loading'); btn.disabled = true; btn.textContent = 'scanning…';
+    stopBtn.hidden = false; stopBtn.disabled = false;
+    dot.className = 'dot'; status.textContent = 'running';
+  } else if (s === 'stopping') {
+    stopBtn.disabled = true; stopBtn.textContent = 'stopping…';
+    status.textContent = 'stopping';
+  } else if (s === 'error') {
+    btn.classList.remove('btn--loading'); btn.disabled = false; btn.textContent = '▶ run scan';
+    stopBtn.hidden = true; stopBtn.textContent = '■ stop';
+    dot.className = 'dot error'; status.textContent = 'error';
+  } else {
+    btn.classList.remove('btn--loading'); btn.disabled = false; btn.textContent = '▶ run scan';
+    stopBtn.hidden = true; stopBtn.disabled = false; stopBtn.textContent = '■ stop';
+    dot.className = 'dot idle'; status.textContent = 'idle';
+  }
+}
+async function stopScan() {
+  setScanState('stopping');
+  appendConsoleLine('■ stop requested by user', 'header');
+  try {
+    const r = await fetch('/api/scan/stop', { method: 'POST' });
+    const body = await r.json().catch(() => ({}));
+    if (body.stopped) showToast('scan stopping…');
+    else { showToast(body.reason || 'no scan to stop'); setScanState('idle'); }
+  } catch (err) { showToast('stop failed: ' + (err?.message || err), 'error'); setScanState('error'); }
+}
+let livePollTimer = null;
+function startLivePolling() { stopLivePolling(); livePollTimer = setInterval(load, 5000); }
+function stopLivePolling() { if (livePollTimer) { clearInterval(livePollTimer); livePollTimer = null; } }
+
+async function startScan() {
+  try {
+    const r = await fetch('/api/scan', { method: 'POST', headers: { 'Accept': 'text/event-stream' } });
+    if (r.status === 409) {
+      showToast('scan already running');
+      setScanState('running'); setConsoleVisible(true); startLivePolling();
+      return;
+    }
+    setConsoleVisible(true);
+    $('#console-body').innerHTML = '';
+    setScanState('running');
+    appendConsoleLine('▶ starting scan…', 'header');
+    startLivePolling();
+    if (!r.ok || !r.body) { showToast('scan failed to start', 'error'); setScanState('error'); return; }
+    const reader = r.body.getReader();
+    const decoder = new TextDecoder();
+    let buf = '';
+    for (;;) {
+      const { done, value } = await reader.read();
+      if (done) break;
+      buf += decoder.decode(value, { stream: true });
+      let idx;
+      while ((idx = buf.indexOf('\n\n')) >= 0) {
+        const raw = buf.slice(0, idx); buf = buf.slice(idx + 2);
+        const ev = parseSse(raw); if (!ev) continue;
+        handleScanEvent(ev);
+      }
+    }
+  } catch (err) {
+    appendConsoleLine('error: ' + (err?.message || err));
+    showToast('scan stream broke', 'error');
+    stopLivePolling(); setScanState('error');
+  }
+}
+function parseSse(block) {
+  const out = { event: 'message', data: null };
+  for (const line of block.split('\n')) {
+    if (line.startsWith('event: ')) out.event = line.slice(7).trim();
+    else if (line.startsWith('data: ')) { try { out.data = JSON.parse(line.slice(6)); } catch { out.data = line.slice(6); } }
+  }
+  return out.data === null ? null : out;
+}
+function handleScanEvent(ev) {
+  if (ev.event === 'log') {
+    const line = ev.data.line ?? '';
+    const kind = line.startsWith('── ') ? 'header' : '';
+    appendConsoleLine(line, kind);
+  } else if (ev.event === 'done') {
+    const { exitCode, summary, error, linkedinTokens, gmailTokens, gmailSummary } = ev.data || {};
+    stopLivePolling();
+    if (error) { appendConsoleLine('process error: ' + error); showToast('scan failed', 'error'); setScanState('error'); return; }
+    if (summary) {
+      appendConsoleLine(`✓ added ${summary.added} new entries (${summary.before} → ${summary.after})`, 'header');
+      showToast(summary.added > 0 ? `added ${summary.added} new entries` : 'scan complete · no new entries');
+    } else {
+      showToast('scan finished (exit ' + exitCode + ')');
+    }
+    if (linkedinTokens) {
+      appendConsoleLine(`LinkedIn tokens: in=${linkedinTokens.input} out=${linkedinTokens.output} cost=$${linkedinTokens.costUsd}`, 'header');
+    }
+    if (gmailSummary) {
+      const g = gmailSummary;
+      appendConsoleLine(`Gmail: +${g.appliedAdded} applied · ${g.interviewUpdated}+${g.interviewAdded} interview · +${g.respondedAdded} responded · ${g.rejectedUpdated} rejected · ${g.suggested} suggested`, 'header');
+    }
+    if (gmailTokens) {
+      appendConsoleLine(`Gmail tokens: in=${gmailTokens.input} out=${gmailTokens.output} cost=$${gmailTokens.costUsd}`, 'header');
+    }
+    setScanState('idle');
+    load();
+  } else if (ev.event === 'start') {
+    appendConsoleLine('▶ scan started at ' + ev.data.startedAt, 'header');
+  }
+}
+
+// --- Referral side panel --------------------------------------------------
+let referralPanelUrl = null;
+
+async function openReferralPanel(url) {
+  referralPanelUrl = url;
+  const card = (state.data?.board || []).find(c => c.url === url);
+  if (!card) { showToast('card not found', 'error'); return; }
+  const company = (card.company || '').replace(/^FEED:\s*/i, '');
+  $('#referral-company').textContent = company;
+  $('#referral-role').textContent = `Referral request — ${card.role || ''}`;
+  $('#referral-body').innerHTML = '<p class="apply-panel__hint">Loading template…</p>';
+  $('#referral-panel').classList.add('is-open');
+  $('#referral-panel').setAttribute('aria-hidden', 'false');
+
+  // Build the LinkedIn deep-link to alums at this company so the user can
+  // pick one to message right from this panel.
+  const alumsUrl = company
+    ? `https://www.linkedin.com/search/results/people/?keywords=` + encodeURIComponent(`"${company}" "ISB"`)
+    : null;
+
+  try {
+    // The outreach.md is now ONE template (not per-alum). We display it raw
+    // for the user to edit, with [FIRST_NAME] / [HEADLINE_CUE] placeholders.
+    const r = await fetch('/output/' + encodeURIComponent(card.url) + '/outreach.md').catch(() => null);
+    let template = '';
+    // Outreach file is at output/{slug}/outreach.md — fetch via the slug, not the URL
+    const slug = slugFor(card);
+    const r2 = await fetch(`/output/${encodeURIComponent(slug)}/outreach.md`);
+    if (r2.ok) {
+      const text = await r2.text();
+      // Extract the message body between the two --- lines (or the whole file)
+      const m = text.match(/^---\s*\n([\s\S]*?)\n---/m);
+      template = m ? m[1].trim() : text.replace(/^#[^\n]*\n/gm, '').trim();
+    }
+
+    const html = `
+      <div class="referral-form">
+        <p class="apply-panel__hint">
+          Step 1: <a href="${alumsUrl || '#'}" target="_blank" rel="noopener">🔗 open ${company} ISB alums on LinkedIn</a> →
+          pick someone → copy their profile URL.
+        </p>
+        <div class="apply-field">
+          <label for="ref-profile">Alum profile URL</label>
+          <input type="url" id="ref-profile" placeholder="https://www.linkedin.com/in/their-username/"
+                 style="width:100%; padding:8px 10px; border:1px solid var(--line); border-radius:var(--radius-s); font-size:13px; font-family:inherit;">
+        </div>
+        <div class="apply-field">
+          <label for="ref-message">Message (edit placeholders before sending)</label>
+          <textarea id="ref-message" style="min-height:160px;">${escapeHtml(template || '(no template generated — try moving the card out of Shortlisted then back in)')}</textarea>
+        </div>
+      </div>`;
+    $('#referral-body').innerHTML = html;
+  } catch (e) {
+    $('#referral-body').innerHTML = `<p class="apply-panel__hint">Failed to load template: ${escapeHtml(e.message)}</p>`;
+  }
+}
+
+// Called from the panel's footer Send button (wired in DOMContentLoaded).
+async function sendReferralFromPanel() {
+  const profile = $('#ref-profile')?.value?.trim();
+  const message = $('#ref-message')?.value?.trim();
+  if (!profile || !/^https:\/\/(www\.)?linkedin\.com\/in\//.test(profile)) {
+    showToast('paste a valid linkedin.com/in/ URL first', 'error'); return;
+  }
+  if (!message) { showToast('message is empty', 'error'); return; }
+  if (/\[FIRST_NAME\]|\[HEADLINE_CUE\]/.test(message)) {
+    if (!confirm('Placeholders [FIRST_NAME] / [HEADLINE_CUE] are still in the message. Send anyway?')) return;
+  }
+  const btn = $('#ref-send-btn');
+  btn.disabled = true; btn.classList.add('btn--loading');
+  try {
+    const r = await fetch('/api/send-referral', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ profile, message }),
+    });
+    const j = await r.json();
+    if (!r.ok) { showToast(j.error || 'failed', 'error'); return; }
+    showToast(`Chrome opening — review and click Send yourself (pid ${j.pid})`);
+    closeReferralPanel();
+  } catch (e) {
+    showToast('failed: ' + e.message, 'error');
+  } finally {
+    btn.disabled = false; btn.classList.remove('btn--loading');
+  }
+}
+
+function closeReferralPanel() {
+  referralPanelUrl = null;
+  $('#referral-panel').classList.remove('is-open');
+  $('#referral-panel').setAttribute('aria-hidden', 'true');
+}
+
+// --- Apply side panel ----------------------------------------------------
+// State: which url is currently shown in the panel.
+let applyPanelUrl = null;
+
+async function openApplyPanel(url) {
+  applyPanelUrl = url;
+  const card = (state.data?.board || []).find(c => c.url === url);
+  if (!card) { showToast('card not found', 'error'); return; }
+  const slug = slugFor(card);
+
+  $('#apply-company').textContent = card.company || '';
+  $('#apply-role').textContent = card.role || '(untitled role)';
+  $('#apply-cv-link').href = `/output/${encodeURIComponent(slug)}/cv-tailored.pdf`;
+  $('#apply-body').innerHTML = '<p class="apply-panel__hint">Loading draft answers…</p>';
+  $('#apply-panel').classList.add('is-open');
+  $('#apply-panel').setAttribute('aria-hidden', 'false');
+
+  // Fetch parsed answers
+  try {
+    const r = await fetch('/api/answers?url=' + encodeURIComponent(url));
+    const j = await r.json();
+    if (!j.ready || !j.answers) {
+      $('#apply-body').innerHTML = '<p class="apply-panel__hint">No answers prepared yet — wait for shortlist prep to finish (badges will turn green), then click ⚡ apply again.</p>';
+      return;
+    }
+    renderAnswerFields(j.answers);
+  } catch (e) {
+    $('#apply-body').innerHTML = `<p class="apply-panel__hint">Failed to load answers: ${escapeHtml(e.message)}</p>`;
+  }
+}
+
+function closeApplyPanel() {
+  applyPanelUrl = null;
+  $('#apply-panel').classList.remove('is-open');
+  $('#apply-panel').setAttribute('aria-hidden', 'true');
+}
+
+function renderAnswerFields(answers) {
+  // Render in canonical order, then any extra keys at the end.
+  const ORDER = [
+    'why_this_role', 'why_you', 'cover_letter',
+    'salary_expectation', 'current_ctc', 'notice_period',
+    'work_authorization', 'how_did_you_hear', 'relocation', 'other',
+  ];
+  const seen = new Set();
+  const fields = [];
+  for (const k of ORDER) {
+    if (k in answers) { fields.push([k, answers[k]]); seen.add(k); }
+  }
+  for (const k of Object.keys(answers)) {
+    if (!seen.has(k)) fields.push([k, answers[k]]);
+  }
+  const html = fields.map(([k, v]) => `
+    <div class="apply-field">
+      <label for="ap-${k}">${k.replace(/_/g, ' ')}</label>
+      <textarea id="ap-${k}" data-key="${k}">${escapeHtml(v || '')}</textarea>
+    </div>
+  `).join('');
+  $('#apply-body').innerHTML = html;
+}
+
+// --- Sync LinkedIn Saved (top-bar button) ---------------------------------
+// Spawns sync-saved.mjs on the server, polls status, toasts the summary.
+// Polling: every 5s, give up after 4 min (script normally finishes in ~30s).
+async function syncSaved() {
+  const btn = $('#sync-saved-btn');
+  btn.disabled = true;
+  btn.classList.add('btn--loading');
+  const originalText = btn.textContent;
+  btn.textContent = '🔄 syncing…';
+  showToast('Pulling saved jobs from LinkedIn…');
+
+  try {
+    const r = await fetch('/api/sync-saved', { method: 'POST' });
+    const j = await r.json();
+    if (!r.ok || !j.ok) {
+      showToast(j.error || 'sync-saved spawn failed', 'error');
+      btn.disabled = false; btn.classList.remove('btn--loading'); btn.textContent = originalText;
+      return;
+    }
+    // Poll for completion
+    const start = Date.now();
+    let lastTail = '';
+    const interval = setInterval(async () => {
+      try {
+        const s = await fetch('/api/sync-saved/status').then(r => r.json());
+        if (s.tail && s.tail !== lastTail) {
+          lastTail = s.tail;
+        }
+        if (!s.running) {
+          clearInterval(interval);
+          btn.disabled = false; btn.classList.remove('btn--loading'); btn.textContent = originalText;
+          // Parse the summary line if present
+          const summary = (lastTail.match(/SAVED_SYNC_DONE[^\n]*/) || [''])[0];
+          if (summary) {
+            const jobs = (summary.match(/jobs_added=(\d+)/) || [])[1] || '0';
+            const posts = (summary.match(/posts_added=(\d+)/) || [])[1] || '0';
+            showToast(`Sync done — jobs: +${jobs} · posts: +${posts}`);
+          } else {
+            showToast('Sync finished (see logs)');
+          }
+          load(); // refresh the dashboard data
+        } else if (Date.now() - start > 4 * 60_000) {
+          clearInterval(interval);
+          btn.disabled = false; btn.classList.remove('btn--loading'); btn.textContent = originalText;
+          showToast('Sync taking longer than expected — check logs', 'error');
+        }
+      } catch {}
+    }, 5000);
+  } catch (e) {
+    showToast('sync failed: ' + e.message, 'error');
+    btn.disabled = false; btn.classList.remove('btn--loading'); btn.textContent = originalText;
+  }
+}
+
+async function approveAndFill() {
+  if (!applyPanelUrl) return;
+  const answers = {};
+  $$('#apply-body textarea').forEach(t => { answers[t.dataset.key] = t.value; });
+  $('#apply-fill-btn').classList.add('btn--loading');
+  $('#apply-fill-btn').disabled = true;
+  try {
+    const r = await fetch('/api/apply-fill', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ url: applyPanelUrl, answers }),
+    });
+    const j = await r.json();
+    if (!r.ok) {
+      showToast(j.error || 'fill failed', 'error');
+      return;
+    }
+    showToast(`Browser opening — review and click Submit yourself (pid ${j.pid})`);
+    closeApplyPanel();
+  } catch (e) {
+    showToast('fill failed: ' + e.message, 'error');
+  } finally {
+    $('#apply-fill-btn').classList.remove('btn--loading');
+    $('#apply-fill-btn').disabled = false;
+  }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  loadSeen();
+  initSortable();
+  $('#refresh-btn').addEventListener('click', load);
+  $('#sync-saved-btn').addEventListener('click', syncSaved);
+  $('#scan-btn').addEventListener('click', startScan);
+  $('#stop-btn').addEventListener('click', stopScan);
+  $('#reports-btn').addEventListener('click', toggleReports);
+  $('#console-hide').addEventListener('click', () => setConsoleVisible(false));
+  $('#search').addEventListener('input', e => { state.q = e.target.value; render(); });
+  document.addEventListener('keydown', e => {
+    if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+    if (e.key === 'Escape' && referralPanelUrl) { closeReferralPanel(); return; }
+    if (e.key === 'Escape' && applyPanelUrl) { closeApplyPanel(); return; }
+    if (e.key === '/') { e.preventDefault(); $('#search').focus(); }
+    else if (e.key === 'r') load();
+    else if (e.key === 's') startScan();
+  });
+  // Apply panel: close handlers + Approve & fill button
+  document.querySelectorAll('[data-apply-close]').forEach(el =>
+    el.addEventListener('click', closeApplyPanel)
+  );
+  $('#apply-fill-btn').addEventListener('click', approveAndFill);
+  // Referral panel: close + send handlers
+  document.querySelectorAll('[data-referral-close]').forEach(el =>
+    el.addEventListener('click', closeReferralPanel)
+  );
+  $('#ref-send-btn')?.addEventListener('click', sendReferralFromPanel);
+  load();
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,117 @@
+name: Career Ops Scan
+
+on:
+  schedule:
+    # Every hour — pairs with r3600 LinkedIn filter for near-real-time alerts.
+    # Free tier usage: ~1.5 min/run × 24/day × 30 days ≈ 1,080 min/month
+    # (GitHub free tier = 2,000 min/month for private repos — safely within limit)
+    - cron: '0 * * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry run (no file writes)'
+        type: boolean
+        default: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # needed to commit results back
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          # Use PAT so the commit can trigger downstream workflows if needed.
+          # Falls back to GITHUB_TOKEN (no downstream triggers).
+          token: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci --ignore-scripts
+
+      - name: Run ATS + LinkedIn scan
+        id: scan
+        env:
+          SKIP_LINKEDIN: '0'         # LinkedIn now runs via guest API (no auth)
+          SKIP_INSTAHYRE: '1'        # Instahyre is India-only and rate-limited; enable if needed
+          DRY_RUN: ${{ inputs.dry_run && '1' || '0' }}
+        run: |
+          if [[ "$DRY_RUN" == "1" ]]; then
+            node scan.mjs --dry-run 2>&1 | tee scan-output.txt
+          else
+            node scan.mjs 2>&1 | tee scan-output.txt
+          fi
+
+          # Extract counts from scan output
+          ADDED=$(grep -oP '(?<=New offers added:\s{6})\d+' scan-output.txt || echo "0")
+          TOTAL=$(grep -oP '(?<=Total jobs found:\s{6})\d+' scan-output.txt || echo "0")
+          echo "added=$ADDED" >> $GITHUB_OUTPUT
+          echo "total=$TOTAL" >> $GITHUB_OUTPUT
+
+          # Build a short summary of new jobs for the notification
+          if [[ "$ADDED" -gt 0 ]]; then
+            SUMMARY=$(grep -A 999 'New offers:' scan-output.txt \
+              | grep '^\s*+' \
+              | head -10 \
+              | sed 's/^\s*+\s*/• /' \
+              | head -c 2000)
+            echo "summary<<EOF" >> $GITHUB_OUTPUT
+            echo "$SUMMARY" >> $GITHUB_OUTPUT
+            echo "EOF" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Fix LinkedIn labels
+        if: steps.scan.outputs.added > 0 && inputs.dry_run != true
+        run: node fix-linkedin-labels.mjs 2>&1 | tail -5
+
+      - name: Commit results
+        if: inputs.dry_run != true
+        run: |
+          git config user.name  "career-ops-bot"
+          git config user.email "bot@career-ops.local"
+          git add data/pipeline.md data/scan-history.tsv || true
+          if git diff --cached --quiet; then
+            echo "Nothing to commit."
+          else
+            ADDED="${{ steps.scan.outputs.added }}"
+            DATE=$(date +%Y-%m-%d)
+            git commit -m "scan: $DATE — $ADDED new jobs"
+            git push
+          fi
+
+      - name: Notify via Telegram
+        if: steps.scan.outputs.added > 0 && secrets.TELEGRAM_BOT_TOKEN != '' && inputs.dry_run != true
+        env:
+          BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          ADDED="${{ steps.scan.outputs.added }}"
+          SUMMARY="${{ steps.scan.outputs.summary }}"
+          DATE=$(date '+%d %b %Y, %I:%M %p IST' --date='+5 hours 30 minutes')
+
+          MSG="🎯 *$ADDED new PM jobs* — $DATE
+
+$SUMMARY
+
+[View pipeline →](https://github.com/${{ github.repository }}/blob/main/data/pipeline.md)"
+
+          curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
+            -d "chat_id=${CHAT_ID}" \
+            -d "parse_mode=Markdown" \
+            --data-urlencode "text=${MSG}" \
+            -o /dev/null
+
+      - name: Upload scan log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: scan-log-${{ github.run_id }}
+          path: scan-output.txt
+          retention-days: 7

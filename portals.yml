@@ -1,0 +1,5045 @@
+# Portal Scanner Configuration
+# Used by /career-ops scan to discover new offers automatically.
+#
+# Strategy (3 levels):
+#   1. Playwright → careers_url of each company (real-time, reliable)
+#   2. Greenhouse API → structured JSON (fast, Greenhouse-only)
+#   3. WebSearch with site: filters (broad discovery, may be stale)
+#
+# IMPORTANT: Each company in tracked_companies MUST have careers_url.
+#   Prefer the BRANDED company careers URL whenever available; use ATS-hosted URL only as fallback.
+#   ✅ https://careers.mastercard.com   ⚠️ https://mastercard.wd1.myworkdayjobs.com (fallback only)
+#   ✅ https://openai.com/careers       ⚠️ https://job-boards.greenhouse.io/openai (fallback only)
+#   Exception: ATS-hosted careers_url is acceptable when no branded careers page exists.
+#   Using raw ATS URLs when a branded page exists can cause false 410 errors (job ID mismatch).
+#
+# HOW TO CUSTOMIZE:
+#   1. Copy this file to portals.yml in the project root
+#   2. Edit title_filter.positive with YOUR target role keywords
+#   3. Add/remove companies in tracked_companies
+#   4. Adjust search_queries for your preferred job boards
+#   5. Set enabled: false on companies you don't care about
+
+# -- Location filter (optional) --
+# Filter scanned jobs by location. Applied AFTER title filter, BEFORE dedup.
+# If this entire block is absent, all locations pass (current default behavior).
+#
+# Semantics:
+#   - Empty location string on a job → pass (don't penalize missing data)
+#   - Any `block` keyword present → reject (takes precedence over allow)
+#   - `allow` empty → pass (already cleared block)
+#   - `allow` non-empty → must match at least one keyword
+# All matches are case-insensitive substring.
+#
+# Example below targets US-based remote + a couple of US metros, blocking
+# common foreign hubs. Customize to your geography.
+
+location_filter:
+  allow:
+    - "India"
+    - "Bengaluru"
+    - "Bangalore"
+    - "Mumbai"
+    - "Delhi"
+    - "New Delhi"
+    - "Gurgaon"
+    - "Gurugram"
+    - "Noida"
+    - "Hyderabad"
+    - "Pune"
+    - "Chennai"
+    - "Kolkata"
+    - "Ahmedabad"
+    - "Remote"
+    - "Anywhere"
+    - "Work from home"
+    - "WFH"
+  block:
+    - "United Kingdom only"
+    - "US only"
+    - "USA only"
+    - "EU only"
+
+# -- Title filter --
+# The scanner uses these keywords to decide if a title is relevant.
+# At least 1 positive must match AND 0 negatives must match (case-insensitive).
+
+title_filter:
+  positive:
+    # Product Management roles (B2B SaaS PM transitioning to AI PM)
+    - "Product Manager"
+    - "Product Management"
+    - "Senior Product Manager"
+    - "Lead Product Manager"
+    - "Principal Product Manager"
+    - "Group Product Manager"
+    - "Staff Product Manager"
+    - "Director of Product"
+    - "Head of Product"
+    - "VP Product"
+    - "VP of Product"
+    - "Chief Product Officer"
+    - "Product Owner"
+    - "Technical PM"
+    - "Technical Product Manager"
+    - "Associate Product Manager"
+    # AI / AI-adjacent product roles
+    - "AI Product Manager"
+    - "AI PM"
+    - "ML Product Manager"
+    - "LLM Product Manager"
+    - "GenAI Product Manager"
+    - "Generative AI Product"
+    - "AI Product Owner"
+    - "AI Product"
+    - "Agent Product"
+    - "Agentic Product"
+    # Builder / Founding archetypes
+    - "Founding Product Manager"
+    - "Founding PM"
+    - "Builder"
+    - "Founding Member"
+    - "Founder in Residence"
+    - "Founding Team"
+  negative:
+    # Roles to exclude
+    - "Intern"
+    - "Internship"
+    - "Junior"
+    - "Trainee"
+    - "Engineer"
+    - "Developer"
+    - "Designer"
+    - "Data Scientist"
+    - "Analyst"
+    - "Marketing"
+    - "Sales"
+    - "Customer Success"
+    - "Support"
+    - "Recruiter"
+    - "HR"
+    - "Finance"
+    - "Accountant"
+    - "Salesforce Admin"
+    - "SAP "
+    - "Mainframe"
+    - "COBOL"
+  seniority_boost:
+    - "Senior"
+    - "Staff"
+    - "Principal"
+    - "Lead"
+    - "Head"
+    - "Director"
+    - "VP"
+    - "Group"
+
+# -- Search queries --
+# Each query triggers a WebSearch. Use site: to filter by portal.
+# The scanner extracts title, URL, and company from results.
+
+search_queries:
+  # Freshness:
+  #   - `after:YYYY-MM-DD` filters Google to pages indexed since that date.
+  #     Bump the date forward every couple of weeks to stay current.
+  #   - Listings already seen are skipped via data/scan-history.tsv on every run.
+  # Target: AI PM / Senior PM / Product Owner roles, India + Remote-from-India.
+
+  # -- Ashby ATS --
+  - name: Ashby - AI Product Manager (India)
+    query: 'site:jobs.ashbyhq.com "AI Product Manager" OR "AI PM" OR "Senior Product Manager" India OR Bengaluru OR Bangalore OR Mumbai OR Remote after:2026-03-01'
+    enabled: true
+
+  - name: Ashby - Product Manager (India)
+    query: 'site:jobs.ashbyhq.com "Product Manager" OR "Product Owner" India OR Bengaluru OR Gurgaon OR Remote after:2026-03-01'
+    enabled: true
+
+  # -- Greenhouse ATS --
+  - name: Greenhouse - AI Product Manager (India)
+    query: 'site:boards.greenhouse.io OR site:job-boards.greenhouse.io "AI Product Manager" OR "Senior Product Manager" India OR Bengaluru OR Mumbai OR Remote after:2026-03-01'
+    enabled: true
+
+  - name: Greenhouse - Product Manager (India)
+    query: 'site:job-boards.greenhouse.io OR site:boards.greenhouse.io "Product Manager" OR "Product Owner" India OR Bengaluru OR Gurgaon OR Hyderabad after:2026-03-01'
+    enabled: true
+
+  # -- Lever ATS --
+  - name: Lever - Product Manager (India)
+    query: 'site:jobs.lever.co "Product Manager" OR "AI Product Manager" OR "Senior Product Manager" India OR Bengaluru OR Mumbai OR Remote after:2026-03-01'
+    enabled: true
+
+  # -- Workable ATS --
+  - name: Workable - Product Manager (India)
+    query: 'site:apply.workable.com "Product Manager" OR "AI Product Manager" India OR Bengaluru OR Remote after:2026-03-01'
+    enabled: true
+
+  # -- LinkedIn --
+  - name: LinkedIn - AI PM (India)
+    query: 'site:linkedin.com/jobs "AI Product Manager" OR "Senior Product Manager" India OR Bengaluru OR Mumbai OR Gurgaon after:2026-03-01'
+    enabled: true
+
+  - name: LinkedIn - Product Manager (India)
+    query: 'site:linkedin.com/jobs "Product Manager" OR "Product Owner" Bengaluru OR Bangalore OR Mumbai OR Gurgaon OR Hyderabad after:2026-04-01'
+    enabled: true
+
+  # -- YC / Wellfound (startups, founding PM) --
+  - name: YC Work at a Startup - Founding PM / AI PM
+    query: 'site:workatastartup.com "Founding Product Manager" OR "Founding PM" OR "AI Product Manager" OR "Product Manager" India OR Remote after:2026-03-01'
+    enabled: true
+
+  - name: Wellfound - AI PM India
+    query: 'site:wellfound.com "AI Product Manager" OR "Senior Product Manager" OR "Founding PM" India OR Bengaluru OR Remote after:2026-03-01'
+    enabled: true
+
+  # -- Indian job boards --
+  - name: Instahyre - Senior PM / AI PM (India)
+    query: 'site:instahyre.com "Senior Product Manager" OR "AI Product Manager" OR "Lead Product Manager" Bengaluru OR Mumbai OR Gurgaon OR Remote after:2026-03-01'
+    enabled: true
+
+  - name: Cutshort - Product Manager (India)
+    query: 'site:cutshort.io "Product Manager" OR "AI Product Manager" Bengaluru OR Mumbai OR Gurgaon OR Hyderabad after:2026-03-01'
+    enabled: true
+
+  - name: Hirist - Senior PM (India)
+    query: 'site:hirist.com "Senior Product Manager" OR "Lead Product Manager" OR "AI Product Manager" Bengaluru OR Mumbai OR Gurgaon after:2026-03-01'
+    enabled: true
+
+  - name: Naukri - AI PM / Senior PM (India)
+    query: 'site:naukri.com "AI Product Manager" OR "Senior Product Manager" OR "Lead Product Manager" Bengaluru OR Mumbai OR Gurgaon OR Hyderabad after:2026-03-01'
+    enabled: true
+
+  # -- Remote-from-India aggregators --
+  - name: Himalayas - Remote PM (India-friendly)
+    query: 'site:himalayas.app "Product Manager" OR "AI Product Manager" OR "Senior Product Manager" India OR Remote OR APAC after:2026-03-01'
+    enabled: true
+
+  - name: RemoteOK - PM (Remote India)
+    query: 'site:remoteok.com "Product Manager" OR "AI Product Manager" India OR Remote after:2026-03-01'
+    enabled: true
+
+  - name: Remotive - Product Manager
+    query: 'site:remotive.com "Product Manager" OR "AI Product Manager" OR "Senior Product Manager" Remote OR Worldwide after:2026-03-01'
+    enabled: true
+
+  - name: WeWorkRemotely - Product Manager
+    query: 'site:weworkremotely.com "Product Manager" OR "AI Product Manager" OR "Senior Product Manager" after:2026-03-01'
+    enabled: true
+
+  # -- HN Who's Hiring (filtered to India / Remote PM) --
+  - name: HN Whos Hiring - PM India/Remote
+    query: 'site:news.ycombinator.com OR site:hnrss.org "Product Manager" OR "AI PM" India OR Remote after:2026-03-01'
+    enabled: true
+
+# -- Tracked companies --
+# Companies whose career pages are checked directly.
+# scan_method: playwright (default), websearch, greenhouse_api
+# For Greenhouse companies, add api: field for faster structured JSON access.
+#
+# Provider routing (scan.mjs):
+#   By default each entry is auto-detected from `careers_url` against the
+#   loaded providers in providers/*.mjs (ashby, greenhouse, lever — the
+#   first one whose detect() matches wins, alphabetical order).
+#
+#   Optional fields on a tracked_companies entry:
+#     provider: <id>     — force a specific provider, skipping detect().
+#                          Useful when careers_url is ambiguous or you want
+#                          to pin behavior. Value must match a loaded
+#                          provider's `id`.
+#     transport: http    — reserved for future transports. Defaults to http.
+
+tracked_companies:
+
+  # ==========================================================================
+  # LinkedIn guest API — public, no auth, runs in cloud
+  # time_filter: r3600=1h  r86400=24h  r604800=7d
+  # ==========================================================================
+
+  - name: LinkedIn India PM
+    provider: linkedin
+    keywords: "Product Manager"
+    location: "India"
+    time_filter: r3600    # past 1 hour — pairs with hourly GH Actions cron
+    max_pages: 10
+    enabled: true
+
+  - name: LinkedIn India Senior PM
+    provider: linkedin
+    keywords: "Senior Product Manager"
+    location: "India"
+    time_filter: r3600
+    max_pages: 5
+    enabled: true
+
+  # ==========================================================================
+  # Indian large enterprises & listed
+  # ==========================================================================
+
+  - name: Flipkart
+    careers_url: https://www.flipkartcareers.com/
+    scan_method: websearch
+    scan_query: 'site:flipkartcareers.com "Product Manager" OR "Product Owner"'
+    enabled: true
+
+  - name: Zomato
+    careers_url: https://www.zomato.com/careers
+    scan_method: websearch
+    scan_query: 'site:zomato.com/careers "Product Manager" OR "Product Owner"'
+    enabled: true
+
+  - name: Nykaa
+    careers_url: https://www.nykaa.com/careers
+    scan_method: websearch
+    scan_query: 'site:nykaa.com/careers "Product Manager"'
+    enabled: true
+
+  - name: Paytm
+    careers_url: https://paytm.com/careers
+    scan_method: websearch
+    scan_query: 'site:paytm.com/careers "Product Manager" OR "AI Product"'
+    enabled: true
+
+  - name: Ola Cabs
+    careers_url: https://www.olacabs.com/careers
+    scan_method: websearch
+    scan_query: 'site:olacabs.com/careers "Product Manager"'
+    enabled: true
+
+  - name: Ola Electric
+    careers_url: https://www.olaelectric.com/careers
+    scan_method: websearch
+    scan_query: 'site:olaelectric.com/careers "Product Manager"'
+    enabled: true
+
+  - name: Delhivery
+    careers_url: https://www.delhivery.com/careers
+    scan_method: websearch
+    scan_query: 'site:delhivery.com/careers "Product Manager"'
+    enabled: true
+
+  - name: FirstCry
+    careers_url: https://www.firstcry.com/careers
+    scan_method: websearch
+    scan_query: '"firstcry" careers "Product Manager"'
+    enabled: true
+
+  - name: MapmyIndia
+    careers_url: https://www.mapmyindia.com/careers
+    scan_method: websearch
+    scan_query: 'site:mapmyindia.com "Product Manager"'
+    enabled: true
+
+  - name: LTIMindtree
+    careers_url: https://www.ltimindtree.com/careers/
+    scan_method: websearch
+    scan_query: 'site:ltimindtree.com "Product Manager" OR "Product Owner"'
+    enabled: true
+
+  - name: Infosys
+    careers_url: https://www.infosys.com/careers/
+    scan_method: websearch
+    scan_query: 'site:infosys.com/careers "Product Manager"'
+    enabled: true
+
+  - name: TCS
+    careers_url: https://job-boards.greenhouse.io/tcs
+    api: https://boards-api.greenhouse.io/v1/boards/tcs/jobs
+    enabled: true
+  - name: Wipro
+    careers_url: https://careers.wipro.com/
+    scan_method: websearch
+    scan_query: 'site:careers.wipro.com "Product Manager"'
+    enabled: true
+
+  - name: HCLTech
+    careers_url: https://www.hcltech.com/careers
+    scan_method: websearch
+    scan_query: 'site:hcltech.com "Product Manager"'
+    enabled: true
+
+  - name: Tata Digital
+    careers_url: https://www.tatadigital.com/careers
+    scan_method: websearch
+    scan_query: '"tata digital" OR "tata neu" careers "Product Manager"'
+    enabled: true
+
+  - name: Reliance Jio
+    careers_url: https://careers.jio.com/
+    scan_method: websearch
+    scan_query: 'site:careers.jio.com "Product Manager"'
+    enabled: true
+
+  - name: HDFC Bank
+    careers_url: https://www.hdfcbank.com/personal/about-us/careers
+    scan_method: websearch
+    scan_query: '"hdfc bank" careers "Product Manager" OR "Digital Product"'
+    enabled: true
+
+  - name: ICICI Bank
+    careers_url: https://www.icicicareers.com/
+    scan_method: websearch
+    scan_query: 'site:icicicareers.com "Product Manager"'
+    enabled: true
+
+  - name: Axis Bank
+    careers_url: https://www.axisbank.com/careers
+    scan_method: websearch
+    scan_query: '"axis bank" careers "Product Manager" OR "Digital Product"'
+    enabled: true
+
+  - name: Kotak Mahindra Bank
+    careers_url: https://www.kotak.com/en/about-us/careers.html
+    scan_method: websearch
+    scan_query: '"kotak" careers "Product Manager" OR "Digital Product"'
+    enabled: true
+
+  # ==========================================================================
+  # Indian unicorns & late-stage VC
+  # ==========================================================================
+
+  - name: Razorpay
+    careers_url: https://razorpay.com/jobs/
+    scan_method: websearch
+    scan_query: 'site:razorpay.com/jobs "Product Manager"'
+    enabled: true
+
+  - name: CRED
+    careers_url: https://jobs.lever.co/cred
+    enabled: true
+  - name: PhonePe
+    careers_url: https://job-boards.greenhouse.io/phonepe
+    api: https://boards-api.greenhouse.io/v1/boards/phonepe/jobs
+    enabled: true
+  - name: Unacademy
+    careers_url: https://unacademy.com/careers
+    scan_method: websearch
+    scan_query: 'site:unacademy.com/careers "Product Manager"'
+    enabled: true
+
+  - name: Vedantu
+    careers_url: https://www.vedantu.com/careers
+    scan_method: websearch
+    scan_query: 'site:vedantu.com/careers "Product Manager"'
+    enabled: true
+
+  - name: Upstox
+    careers_url: https://upstox.com/careers/
+    scan_method: websearch
+    scan_query: 'site:upstox.com/careers "Product Manager"'
+    enabled: true
+
+  - name: Swiggy
+    careers_url: https://careers.swiggy.com/
+    scan_method: websearch
+    scan_query: 'site:careers.swiggy.com "Product Manager"'
+    enabled: true
+
+  - name: BYJU'S
+    careers_url: https://byjus.com/careers/
+    scan_method: websearch
+    scan_query: 'site:byjus.com/careers "Product Manager"'
+    enabled: true
+
+  - name: Dream11
+    careers_url: https://www.dream11careers.com/
+    scan_method: websearch
+    scan_query: 'site:dream11careers.com "Product Manager"'
+    enabled: true
+
+  - name: Policybazaar
+    careers_url: https://www.pbpartners.com/careers
+    scan_method: websearch
+    scan_query: '"policybazaar" OR "pb fintech" careers "Product Manager"'
+    enabled: true
+
+  - name: Freshworks
+    careers_url: https://jobs.lever.co/freshworks
+    enabled: true
+  - name: BrowserStack
+    careers_url: https://www.browserstack.com/careers
+    scan_method: websearch
+    scan_query: 'site:browserstack.com/careers "Product Manager"'
+    enabled: true
+
+  - name: Icertis
+    careers_url: https://www.icertis.com/company/careers/
+    scan_method: websearch
+    scan_query: 'site:icertis.com/company/careers "Product Manager" OR "AI Product"'
+    enabled: true
+
+  - name: ShareChat
+    careers_url: https://sharechat.com/careers
+    scan_method: websearch
+    scan_query: 'site:sharechat.com/careers "Product Manager"'
+    enabled: true
+
+  - name: BlackBuck
+    careers_url: https://www.blackbuck.com/careers
+    scan_method: websearch
+    scan_query: 'site:blackbuck.com/careers "Product Manager"'
+    enabled: true
+
+  - name: Lendingkart
+    careers_url: https://www.lendingkart.com/careers/
+    scan_method: websearch
+    scan_query: 'site:lendingkart.com/careers "Product Manager"'
+    enabled: true
+
+  # ==========================================================================
+  # Fintech (India + global)
+  # ==========================================================================
+
+  - name: Groww
+    careers_url: https://job-boards.greenhouse.io/groww
+    api: https://boards-api.greenhouse.io/v1/boards/groww/jobs
+    enabled: true
+  - name: smallcase
+    careers_url: https://www.smallcase.com/careers
+    scan_method: websearch
+    scan_query: 'site:smallcase.com/careers "Product Manager"'
+    enabled: true
+
+  - name: WazirX
+    careers_url: https://wazirx.com/careers
+    scan_method: websearch
+    scan_query: 'site:wazirx.com/careers "Product Manager"'
+    enabled: true
+
+  - name: Zerodha
+    careers_url: https://zerodha.com/careers/
+    scan_method: websearch
+    scan_query: 'site:zerodha.com/careers "Product Manager"'
+    enabled: true
+
+  - name: Sensibull
+    careers_url: https://web.sensibull.com/careers
+    scan_method: websearch
+    scan_query: '"sensibull" careers "Product Manager"'
+    enabled: true
+
+  - name: Fyers
+    careers_url: https://fyers.in/careers/
+    scan_method: websearch
+    scan_query: 'site:fyers.in/careers "Product Manager"'
+    enabled: true
+
+  - name: BankBazaar
+    careers_url: https://www.bankbazaar.com/careers.html
+    scan_method: websearch
+    scan_query: 'site:bankbazaar.com "Product Manager"'
+    enabled: true
+
+  - name: Slice
+    careers_url: https://job-boards.greenhouse.io/slice
+    api: https://boards-api.greenhouse.io/v1/boards/slice/jobs
+    enabled: true
+  - name: Cashfree
+    careers_url: https://www.cashfree.com/careers/
+    scan_method: websearch
+    scan_query: 'site:cashfree.com/careers "Product Manager"'
+    enabled: true
+
+  - name: BillDesk
+    careers_url: https://www.billdesk.com/web/careers
+    scan_method: websearch
+    scan_query: 'site:billdesk.com "Product Manager"'
+    enabled: true
+
+  - name: Stripe
+    careers_url: https://job-boards.greenhouse.io/stripe
+    api: https://boards-api.greenhouse.io/v1/boards/stripe/jobs
+    enabled: true
+  - name: Wise
+    careers_url: https://wise.jobs/
+    scan_method: websearch
+    scan_query: 'site:wise.jobs "Product Manager"'
+    enabled: true
+
+  - name: Oxyzo
+    careers_url: https://www.oxyzo.in/careers
+    scan_method: websearch
+    scan_query: '"oxyzo" careers "Product Manager"'
+    enabled: true
+
+  # ==========================================================================
+  # SaaS & B2B (global)
+  # ==========================================================================
+
+  - name: Postman
+    careers_url: https://job-boards.greenhouse.io/postman
+    api: https://boards-api.greenhouse.io/v1/boards/postman/jobs
+    enabled: true
+  - name: Figma
+    careers_url: https://job-boards.greenhouse.io/figma
+    api: https://boards-api.greenhouse.io/v1/boards/figma/jobs
+    enabled: true
+  - name: Notion
+    careers_url: https://jobs.ashbyhq.com/notion
+    enabled: true
+  - name: GitLab
+    careers_url: https://job-boards.greenhouse.io/gitlab
+    api: https://boards-api.greenhouse.io/v1/boards/gitlab/jobs
+    enabled: true
+  - name: GitHub
+    careers_url: https://www.github.careers/
+    scan_method: websearch
+    scan_query: 'site:github.careers "Product Manager"'
+    enabled: true
+
+  - name: Slack
+    careers_url: https://slack.com/careers
+    scan_method: websearch
+    scan_query: 'site:slack.com/careers "Product Manager"'
+    enabled: true
+
+  - name: Asana
+    careers_url: https://job-boards.greenhouse.io/asana
+    api: https://boards-api.greenhouse.io/v1/boards/asana/jobs
+    enabled: true
+  - name: Atlassian
+    careers_url: https://jobs.lever.co/atlassian
+    enabled: true
+  - name: Shopify
+    careers_url: https://www.shopify.com/careers
+    scan_method: websearch
+    scan_query: 'site:shopify.com/careers "Product Manager"'
+    enabled: true
+
+  - name: Zapier
+    careers_url: https://jobs.ashbyhq.com/zapier
+    enabled: true
+  - name: Intercom (global PM)
+    careers_url: https://job-boards.greenhouse.io/intercom
+    api: https://boards-api.greenhouse.io/v1/boards/intercom/jobs
+    enabled: true
+  - name: HubSpot
+    careers_url: https://job-boards.greenhouse.io/hubspot
+    api: https://boards-api.greenhouse.io/v1/boards/hubspot/jobs
+    enabled: true
+  - name: Salesforce
+    careers_url: https://careers.salesforce.com/
+    scan_method: websearch
+    scan_query: 'site:careers.salesforce.com "Product Manager" India'
+    enabled: true
+
+  - name: Zendesk
+    careers_url: https://jobs.zendesk.com/
+    scan_method: websearch
+    scan_query: 'site:jobs.zendesk.com "Product Manager"'
+    enabled: true
+
+  - name: Chargebee
+    careers_url: https://www.chargebee.com/careers/
+    scan_method: websearch
+    scan_query: 'site:chargebee.com/careers "Product Manager"'
+    enabled: true
+
+  - name: Netcore Cloud
+    careers_url: https://netcorecloud.com/careers/
+    scan_method: websearch
+    scan_query: 'site:netcorecloud.com/careers "Product Manager"'
+    enabled: true
+
+  - name: Zoho
+    careers_url: https://www.zoho.com/careers/
+    scan_method: websearch
+    scan_query: 'site:zoho.com/careers "Product Manager"'
+    enabled: true
+
+  - name: Hasura
+    careers_url: https://hasura.io/careers
+    scan_method: websearch
+    scan_query: 'site:hasura.io/careers "Product Manager"'
+    enabled: true
+
+  - name: Harness
+    careers_url: https://www.harness.io/careers
+    scan_method: websearch
+    scan_query: 'site:harness.io/careers "Product Manager"'
+    enabled: true
+
+  - name: Twilio
+    careers_url: https://job-boards.greenhouse.io/twilio
+    api: https://boards-api.greenhouse.io/v1/boards/twilio/jobs
+    enabled: true
+  - name: Mailchimp
+    careers_url: https://mailchimp.com/careers/jobs/
+    scan_method: websearch
+    scan_query: 'site:mailchimp.com/careers "Product Manager"'
+    enabled: true
+
+  - name: Linear
+    careers_url: https://jobs.ashbyhq.com/linear
+    enabled: true
+  - name: Framer
+    careers_url: https://www.framer.com/careers
+    scan_method: websearch
+    scan_query: 'site:framer.com/careers "Product Manager"'
+    enabled: true
+
+  - name: Webflow
+    careers_url: https://job-boards.greenhouse.io/webflow
+    api: https://boards-api.greenhouse.io/v1/boards/webflow/jobs
+    enabled: true
+  - name: Airtable
+    careers_url: https://job-boards.greenhouse.io/airtable
+    api: https://boards-api.greenhouse.io/v1/boards/airtable/jobs
+    enabled: true
+  - name: Superhuman
+    careers_url: https://jobs.ashbyhq.com/superhuman
+    enabled: true
+  - name: Loom
+    careers_url: https://jobs.ashbyhq.com/loom
+    enabled: true
+  - name: Mux
+    careers_url: https://jobs.ashbyhq.com/mux
+    enabled: true
+  - name: Vercel
+    careers_url: https://job-boards.greenhouse.io/vercel
+    api: https://boards-api.greenhouse.io/v1/boards/vercel/jobs
+    enabled: true
+  - name: Netlify
+    careers_url: https://job-boards.greenhouse.io/netlify
+    api: https://boards-api.greenhouse.io/v1/boards/netlify/jobs
+    enabled: true
+  - name: Railway
+    careers_url: https://jobs.ashbyhq.com/railway
+    enabled: true
+  - name: Supabase
+    careers_url: https://jobs.ashbyhq.com/supabase
+    enabled: true
+  - name: PlanetScale
+    careers_url: https://job-boards.greenhouse.io/planetscale
+    api: https://boards-api.greenhouse.io/v1/boards/planetscale/jobs
+    enabled: true
+  - name: Classplus
+    careers_url: https://classplus.co/careers
+    scan_method: websearch
+    scan_query: '"classplus" careers "Product Manager"'
+    enabled: true
+
+  - name: Physics Wallah
+    careers_url: https://www.pw.live/careers
+    scan_method: websearch
+    scan_query: '"physicswallah" OR "physics wallah" careers "Product Manager"'
+    enabled: true
+
+  - name: Doubtnut
+    careers_url: https://doubtnut.com/careers
+    scan_method: websearch
+    scan_query: '"doubtnut" careers "Product Manager"'
+    enabled: true
+
+  - name: upGrad
+    careers_url: https://www.upgrad.com/careers/
+    scan_method: websearch
+    scan_query: 'site:upgrad.com/careers "Product Manager"'
+    enabled: true
+
+  - name: Scaler
+    careers_url: https://jobs.ashbyhq.com/scaler
+    enabled: true
+  - name: Newton School
+    careers_url: https://www.newtonschool.co/careers
+    scan_method: websearch
+    scan_query: '"newton school" careers "Product Manager"'
+    enabled: true
+
+  - name: Coding Ninjas
+    careers_url: https://www.codingninjas.com/careers
+    scan_method: websearch
+    scan_query: '"coding ninjas" careers "Product Manager"'
+    enabled: true
+
+  - name: HackerRank
+    careers_url: https://job-boards.greenhouse.io/hackerrank
+    api: https://boards-api.greenhouse.io/v1/boards/hackerrank/jobs
+    enabled: true
+  - name: Great Learning
+    careers_url: https://www.mygreatlearning.com/careers
+    scan_method: websearch
+    scan_query: '"great learning" careers "Product Manager"'
+    enabled: true
+
+  - name: Simplilearn
+    careers_url: https://www.simplilearn.com/careers
+    scan_method: websearch
+    scan_query: '"simplilearn" careers "Product Manager"'
+    enabled: true
+
+  # ==========================================================================
+  # E-commerce / commerce
+  # ==========================================================================
+
+  - name: Meesho
+    careers_url: https://jobs.lever.co/meesho
+    enabled: true
+  - name: Pepperfry
+    careers_url: https://www.pepperfry.com/careers
+    scan_method: websearch
+    scan_query: '"pepperfry" careers "Product Manager"'
+    enabled: true
+
+  - name: Snapdeal
+    careers_url: https://www.snapdeal.com/page/careers
+    scan_method: websearch
+    scan_query: '"snapdeal" careers "Product Manager"'
+    enabled: true
+
+  - name: Myntra
+    careers_url: https://careers.myntra.com/
+    scan_method: websearch
+    scan_query: 'site:careers.myntra.com "Product Manager"'
+    enabled: true
+
+  - name: AJIO
+    careers_url: https://www.ril.com/careers
+    scan_method: websearch
+    scan_query: '"ajio" OR "reliance retail" careers "Product Manager"'
+    enabled: true
+
+  - name: BigBasket
+    careers_url: https://www.bigbasket.com/careers/
+    scan_method: websearch
+    scan_query: 'site:bigbasket.com/careers "Product Manager"'
+    enabled: true
+
+  - name: Blinkit
+    careers_url: https://blinkit.com/careers
+    scan_method: websearch
+    scan_query: '"blinkit" careers "Product Manager"'
+    enabled: true
+
+  - name: Zepto
+    careers_url: https://www.zeptonow.com/careers
+    scan_method: websearch
+    scan_query: '"zepto" careers "Product Manager"'
+    enabled: true
+
+  - name: Cashify
+    careers_url: https://www.cashify.in/careers
+    scan_method: websearch
+    scan_query: '"cashify" careers "Product Manager"'
+    enabled: true
+
+  - name: Moglix
+    careers_url: https://www.moglix.com/careers
+    scan_method: websearch
+    scan_query: '"moglix" careers "Product Manager"'
+    enabled: true
+
+  - name: Udaan
+    careers_url: https://udaan.com/careers
+    scan_method: websearch
+    scan_query: 'site:udaan.com/careers "Product Manager"'
+    enabled: true
+
+  # ==========================================================================
+  # Healthcare & wellness
+  # ==========================================================================
+
+  - name: Practo
+    careers_url: https://www.practo.com/careers
+    scan_method: websearch
+    scan_query: 'site:practo.com/careers "Product Manager"'
+    enabled: true
+
+  - name: Tata 1mg
+    careers_url: https://www.1mg.com/careers
+    scan_method: websearch
+    scan_query: '"1mg" OR "tata 1mg" careers "Product Manager"'
+    enabled: true
+
+  - name: cult.fit
+    careers_url: https://www.cult.fit/careers
+    scan_method: websearch
+    scan_query: '"cult.fit" OR "curefit" careers "Product Manager"'
+    enabled: true
+
+  - name: PharmEasy
+    careers_url: https://pharmeasy.in/careers/
+    scan_method: websearch
+    scan_query: 'site:pharmeasy.in/careers "Product Manager"'
+    enabled: true
+
+  - name: HealthKart
+    careers_url: https://www.healthkart.com/careers
+    scan_method: websearch
+    scan_query: '"healthkart" careers "Product Manager"'
+    enabled: true
+
+  - name: Apollo 24|7
+    careers_url: https://apollo247.com/careers
+    scan_method: websearch
+    scan_query: '"apollo 247" OR "apollo 24/7" careers "Product Manager"'
+    enabled: true
+
+  # ==========================================================================
+  # Travel, hospitality, logistics
+  # ==========================================================================
+
+  - name: MakeMyTrip
+    careers_url: https://careers.makemytrip.com/
+    scan_method: websearch
+    scan_query: 'site:careers.makemytrip.com "Product Manager"'
+    enabled: true
+
+  - name: Yatra
+    careers_url: https://www.yatra.com/online/careers
+    scan_method: websearch
+    scan_query: '"yatra" careers "Product Manager"'
+    enabled: true
+
+  - name: Cleartrip
+    careers_url: https://www.cleartrip.com/careers/
+    scan_method: websearch
+    scan_query: 'site:cleartrip.com/careers "Product Manager"'
+    enabled: true
+
+  - name: Uber
+    careers_url: https://www.uber.com/global/en/careers/list/
+    scan_method: websearch
+    scan_query: 'site:uber.com/careers "Product Manager" India'
+    enabled: true
+
+  - name: OYO
+    careers_url: https://careers.oyorooms.com/
+    scan_method: websearch
+    scan_query: 'site:careers.oyorooms.com "Product Manager"'
+    enabled: true
+
+  - name: Treebo
+    careers_url: https://www.treebohotels.com/careers
+    scan_method: websearch
+    scan_query: '"treebo" careers "Product Manager"'
+    enabled: true
+
+  - name: Booking.com
+    careers_url: https://careers.booking.com/
+    scan_method: websearch
+    scan_query: 'site:careers.booking.com "Product Manager"'
+    enabled: true
+
+  - name: Airbnb
+    careers_url: https://job-boards.greenhouse.io/airbnb
+    api: https://boards-api.greenhouse.io/v1/boards/airbnb/jobs
+    enabled: true
+  - name: Rivigo
+    careers_url: https://www.rivigo.com/careers
+    scan_method: websearch
+    scan_query: '"rivigo" careers "Product Manager"'
+    enabled: true
+
+  - name: Locus
+    careers_url: https://locus.sh/careers/
+    scan_method: websearch
+    scan_query: 'site:locus.sh/careers "Product Manager"'
+    enabled: true
+
+  - name: Shippr
+    careers_url: https://shippr.in/careers
+    scan_method: websearch
+    scan_query: '"shippr" careers "Product Manager"'
+    enabled: false
+
+  - name: LoadShare
+    careers_url: https://jobs.ashbyhq.com/loadshare
+    enabled: false
+  - name: Rebel Foods
+    careers_url: https://www.rebelfoods.com/careers
+    scan_method: websearch
+    scan_query: '"rebel foods" careers "Product Manager"'
+    enabled: true
+
+  # ==========================================================================
+  # Gaming & entertainment
+  # ==========================================================================
+
+  - name: Nazara
+    careers_url: https://www.nazara.com/careers
+    scan_method: websearch
+    scan_query: '"nazara" careers "Product Manager"'
+    enabled: true
+
+  - name: WinZO
+    careers_url: https://www.winzogames.com/careers
+    scan_method: websearch
+    scan_query: '"winzo" careers "Product Manager"'
+    enabled: true
+
+  - name: MobiKwik
+    careers_url: https://www.mobikwik.com/careers
+    scan_method: websearch
+    scan_query: '"mobikwik" careers "Product Manager"'
+    enabled: true
+
+  - name: Disney+ Hotstar
+    careers_url: https://jobs.lever.co/hotstar
+    enabled: true
+  - name: SonyLIV
+    careers_url: https://www.sonypicturesnetworks.com/careers
+    scan_method: websearch
+    scan_query: '"sonyliv" careers "Product Manager"'
+    enabled: false
+
+  # ==========================================================================
+  # MarTech / AdTech
+  # ==========================================================================
+
+  - name: GumGum
+    careers_url: https://job-boards.greenhouse.io/gumgum
+    api: https://boards-api.greenhouse.io/v1/boards/gumgum/jobs
+    enabled: true
+  - name: AdPushup
+    careers_url: https://www.adpushup.com/careers/
+    scan_method: websearch
+    scan_query: '"adpushup" careers "Product Manager"'
+    enabled: true
+
+  - name: PubMatic
+    careers_url: https://job-boards.greenhouse.io/pubmatic
+    api: https://boards-api.greenhouse.io/v1/boards/pubmatic/jobs
+    enabled: true
+  - name: Criteo
+    careers_url: https://careers.criteo.com/
+    scan_method: websearch
+    scan_query: 'site:careers.criteo.com "Product Manager"'
+    enabled: true
+
+  # ==========================================================================
+  # Enterprise & security
+  # ==========================================================================
+
+  - name: SAFE Security (Lucideus)
+    careers_url: https://safe.security/careers/
+    scan_method: websearch
+    scan_query: '"safe security" OR "lucideus" careers "Product Manager"'
+    enabled: true
+
+  - name: HashiCorp
+    careers_url: https://www.hashicorp.com/careers
+    scan_method: websearch
+    scan_query: 'site:hashicorp.com/careers "Product Manager"'
+    enabled: true
+
+  - name: Okta
+    careers_url: https://job-boards.greenhouse.io/okta
+    api: https://boards-api.greenhouse.io/v1/boards/okta/jobs
+    enabled: true
+  - name: Cloudflare
+    careers_url: https://job-boards.greenhouse.io/cloudflare
+    api: https://boards-api.greenhouse.io/v1/boards/cloudflare/jobs
+    enabled: true
+  - name: Datadog
+    careers_url: https://job-boards.greenhouse.io/datadog
+    api: https://boards-api.greenhouse.io/v1/boards/datadog/jobs
+    enabled: true
+  - name: Splunk
+    careers_url: https://www.splunk.com/en_us/careers.html
+    scan_method: websearch
+    scan_query: 'site:splunk.com/careers "Product Manager"'
+    enabled: true
+
+  - name: Elastic
+    careers_url: https://job-boards.greenhouse.io/elastic
+    api: https://boards-api.greenhouse.io/v1/boards/elastic/jobs
+    enabled: true
+  - name: MongoDB
+    careers_url: https://job-boards.greenhouse.io/mongodb
+    api: https://boards-api.greenhouse.io/v1/boards/mongodb/jobs
+    enabled: true
+  - name: foundit
+    careers_url: https://job-boards.greenhouse.io/foundit
+    api: https://boards-api.greenhouse.io/v1/boards/foundit/jobs
+    enabled: false
+  - name: PeopleStrong
+    careers_url: https://www.peoplestrong.com/careers/
+    scan_method: websearch
+    scan_query: '"peoplestrong" careers "Product Manager"'
+    enabled: true
+
+  - name: Workday
+    careers_url: https://www.workday.com/en-us/company/careers.html
+    scan_method: websearch
+    scan_query: 'site:workday.com/careers "Product Manager"'
+    enabled: false
+
+  # ==========================================================================
+  # Real estate / proptech
+  # ==========================================================================
+
+  - name: NoBroker
+    careers_url: https://www.nobroker.in/careers
+    scan_method: websearch
+    scan_query: '"nobroker" careers "Product Manager"'
+    enabled: true
+
+  - name: Housing.com
+    careers_url: https://housing.com/careers
+    scan_method: websearch
+    scan_query: '"housing.com" careers "Product Manager"'
+    enabled: true
+
+  - name: MagicBricks
+    careers_url: https://www.magicbricks.com/careers
+    scan_method: websearch
+    scan_query: '"magicbricks" careers "Product Manager"'
+    enabled: false
+
+  - name: 99acres
+    careers_url: https://www.99acres.com/info/careers.htm
+    scan_method: websearch
+    scan_query: '"99acres" careers "Product Manager"'
+    enabled: false
+
+  # ==========================================================================
+  # D2C / lifestyle
+  # ==========================================================================
+
+  - name: Purplle
+    careers_url: https://www.purplle.com/careers
+    scan_method: websearch
+    scan_query: '"purplle" careers "Product Manager"'
+    enabled: true
+
+  - name: Mamaearth (Honasa)
+    careers_url: https://mamaearth.in/careers
+    scan_method: websearch
+    scan_query: '"mamaearth" OR "honasa" careers "Product Manager"'
+    enabled: true
+
+  - name: SUGAR Cosmetics
+    careers_url: https://in.sugarcosmetics.com/pages/careers
+    scan_method: websearch
+    scan_query: '"sugar cosmetics" careers "Product Manager"'
+    enabled: false
+
+  # ==========================================================================
+  # Automotive
+  # ==========================================================================
+
+  - name: Cars24
+    careers_url: https://www.cars24.com/careers/
+    scan_method: websearch
+    scan_query: 'site:cars24.com/careers "Product Manager"'
+    enabled: true
+
+  - name: Vahan
+    careers_url: https://vahan.co/careers
+    scan_method: websearch
+    scan_query: '"vahan" careers "Product Manager"'
+    enabled: true
+
+  # ==========================================================================
+  # Cloud / infrastructure
+  # ==========================================================================
+
+  - name: AWS
+    careers_url: https://www.amazon.jobs/en/teams/aws
+    scan_method: websearch
+    scan_query: 'site:amazon.jobs "Product Manager" AWS India'
+    enabled: true
+
+  - name: Google Cloud
+    careers_url: https://www.google.com/about/careers/applications/jobs/results/
+    scan_method: websearch
+    scan_query: 'site:google.com/about/careers "Product Manager" "Cloud" India'
+    enabled: true
+
+  - name: Microsoft
+    careers_url: https://careers.microsoft.com/v2/global/en/home.html
+    scan_method: websearch
+    scan_query: 'site:careers.microsoft.com "Product Manager" India OR Remote'
+    enabled: true
+
+  - name: DigitalOcean
+    careers_url: https://www.digitalocean.com/careers
+    scan_method: websearch
+    scan_query: 'site:digitalocean.com/careers "Product Manager"'
+    enabled: true
+
+  # ==========================================================================
+  # Analytics / data services
+  # ==========================================================================
+
+  - name: Sigmoid
+    careers_url: https://job-boards.greenhouse.io/sigmoid
+    api: https://boards-api.greenhouse.io/v1/boards/sigmoid/jobs
+    enabled: false
+  - name: Fractal
+    careers_url: https://fractal.ai/careers/
+    scan_method: websearch
+    scan_query: '"fractal analytics" careers "Product Manager"'
+    enabled: true
+
+  - name: Mu Sigma
+    careers_url: https://www.mu-sigma.com/careers/
+    scan_method: websearch
+    scan_query: '"mu sigma" careers "Product Manager"'
+    enabled: false
+
+  - name: Gramener
+    careers_url: https://gramener.com/careers
+    scan_method: websearch
+    scan_query: '"gramener" careers "Product Manager"'
+    enabled: false
+
+  # ==========================================================================
+  # Communication / messaging
+  # ==========================================================================
+
+  - name: Gupshup
+    careers_url: https://www.gupshup.io/developer/careers
+    scan_method: websearch
+    scan_query: '"gupshup" careers "Product Manager"'
+    enabled: true
+
+  - name: Exotel
+    careers_url: https://exotel.com/careers/
+    scan_method: websearch
+    scan_query: 'site:exotel.com/careers "Product Manager"'
+    enabled: true
+
+  - name: Sendbird
+    careers_url: https://job-boards.greenhouse.io/sendbird
+    api: https://boards-api.greenhouse.io/v1/boards/sendbird/jobs
+    enabled: true
+  - name: Aircall
+    careers_url: https://jobs.lever.co/aircall
+    enabled: false
+  - name: Vonage
+    careers_url: https://job-boards.greenhouse.io/vonage
+    api: https://boards-api.greenhouse.io/v1/boards/vonage/jobs
+    enabled: false
+  - name: BigHaat
+    careers_url: https://bighaat.com/careers
+    scan_method: websearch
+    scan_query: '"bighaat" careers "Product Manager"'
+    enabled: false
+
+  - name: WayCool
+    careers_url: https://waycool.in/careers/
+    scan_method: websearch
+    scan_query: '"waycool" careers "Product Manager"'
+    enabled: false
+
+  # ==========================================================================
+  # AI/ML labs & developer tools
+  # ==========================================================================
+
+  - name: Hugging Face
+    careers_url: https://huggingface.co/careers
+    scan_method: websearch
+    scan_query: 'site:huggingface.co/careers "Product Manager"'
+    enabled: true
+
+  - name: Replit
+    careers_url: https://jobs.ashbyhq.com/replit
+    enabled: true
+  - name: Weights & Biases
+    careers_url: https://wandb.ai/site/careers
+    scan_method: websearch
+    scan_query: '"weights & biases" OR "wandb" careers "Product Manager"'
+    enabled: true
+
+  - name: Rasa
+    careers_url: https://jobs.ashbyhq.com/rasa
+    enabled: true
+  - name: Pulumi
+    careers_url: https://www.pulumi.com/careers/
+    scan_method: websearch
+    scan_query: 'site:pulumi.com/careers "Product Manager"'
+    enabled: false
+
+  - name: Docker
+    careers_url: https://jobs.ashbyhq.com/docker
+    enabled: false
+  - name: Make (Integromat)
+    careers_url: https://job-boards.greenhouse.io/make
+    api: https://boards-api.greenhouse.io/v1/boards/make/jobs
+    enabled: false
+  - name: Patreon
+    careers_url: https://jobs.ashbyhq.com/patreon
+    enabled: false
+  - name: Substack
+    careers_url: https://jobs.ashbyhq.com/substack
+    enabled: false
+  - name: Gumroad
+    careers_url: https://gumroad.com/jobs
+    scan_method: websearch
+    scan_query: 'site:gumroad.com/jobs "Product Manager"'
+    enabled: false
+
+  - name: Mighty Networks
+    careers_url: https://job-boards.greenhouse.io/mightynetworks
+    api: https://boards-api.greenhouse.io/v1/boards/mightynetworks/jobs
+    enabled: false
+
+  # ==========================================================================
+  # IMPORTED 2026-05-16 from CSV dump (Let's Code startups). ATS-hit entries
+  # enabled by default; websearch-fallback entries disabled by default.
+  # ==========================================================================
+
+  # ── remote-100 (13 ATS, 21 websearch) ──
+
+  - name: "Buffer"
+    careers_url: https://jobs.ashbyhq.com/buffer
+    notes: "Technology, Information and Internet · San Francisco, CA"
+    enabled: true
+
+  - name: "Buildkite"
+    careers_url: https://job-boards.greenhouse.io/buildkite
+    api: https://boards-api.greenhouse.io/v1/boards/buildkite/jobs
+    notes: "Software Development · Melbourne, Victoria"
+    enabled: true
+
+  - name: "Close"
+    careers_url: https://jobs.ashbyhq.com/close
+    notes: "Software Development · San Francisco, California"
+    enabled: true
+
+  - name: "Float"
+    careers_url: https://jobs.ashbyhq.com/float
+    notes: "Software Development"
+    enabled: true
+
+  - name: "Help Scout"
+    careers_url: https://jobs.ashbyhq.com/helpscout
+    notes: "Technology, Information and Internet · Boston, MA"
+    enabled: true
+
+  - name: "Kinsta"
+    careers_url: https://jobs.lever.co/kinsta
+    notes: "IT Services and IT Consulting · West Hollywood, California"
+    enabled: true
+
+  - name: "Knack"
+    careers_url: https://job-boards.greenhouse.io/knack
+    api: https://boards-api.greenhouse.io/v1/boards/knack/jobs
+    notes: "Software Development · US"
+    enabled: true
+
+  - name: "Lightdash"
+    careers_url: https://jobs.ashbyhq.com/lightdash
+    notes: "Software Development · San Francisco"
+    enabled: true
+
+  - name: "Lumos"
+    careers_url: https://jobs.ashbyhq.com/lumos
+    notes: "Software Development · Silicon Valley, California"
+    enabled: true
+
+  - name: "Omniscient Digital"
+    careers_url: https://jobs.ashbyhq.com/omniscient
+    notes: "Business Consulting and Services · Austin, TX"
+    enabled: true
+
+  - name: "Remote"
+    careers_url: https://job-boards.greenhouse.io/remote
+    api: https://boards-api.greenhouse.io/v1/boards/remote/jobs
+    notes: "Human Resources Services · San Francisco, CA"
+    enabled: true
+
+  - name: "Sporty Group"
+    careers_url: https://job-boards.greenhouse.io/sportygroup
+    api: https://boards-api.greenhouse.io/v1/boards/sportygroup/jobs
+    notes: "Spectator Sports · London"
+    enabled: true
+
+  - name: "TestGorilla"
+    careers_url: https://jobs.ashbyhq.com/testgorilla
+    notes: "Human Resources Services · Amsterdam, North Holland"
+    enabled: true
+
+  - name: "10up"
+    careers_url: https://10up.com/careers/
+    scan_method: websearch
+    scan_query: '"10up" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Technology, Information and Internet · Remote Worldwide, OO"
+    enabled: false
+
+  - name: "Arkency"
+    careers_url: https://arkency.com/join-our-team/
+    scan_method: websearch
+    scan_query: '"Arkency" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Software Development · Wrocław"
+    enabled: false
+
+  - name: "Automattic"
+    careers_url: https://automattic.com/work-with-us/
+    scan_method: websearch
+    scan_query: '"Automattic" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Software Development · San Francisco, US"
+    enabled: false
+
+  - name: "Awesome Motive"
+    careers_url: https://awesomemotive.com/careers/
+    scan_method: websearch
+    scan_query: '"Awesome Motive" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Software Development · West Palm Beach, Florida"
+    enabled: false
+
+  - name: "Bejamas"
+    careers_url: https://bejamas.traffit.com/career/
+    scan_method: websearch
+    scan_query: '"Bejamas" careers "Product Manager" OR "AI Product Manager"'
+    notes: "IT Services and IT Consulting · Wrocław, Dolnośląskie"
+    enabled: false
+
+  - name: "Doist"
+    careers_url: https://doist.com/careers
+    scan_method: websearch
+    scan_query: '"Doist" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Software Development"
+    enabled: false
+
+  - name: "DuckDuckGo"
+    careers_url: https://duckduckgo.com/hiring
+    scan_method: websearch
+    scan_query: '"DuckDuckGo" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Software Development · Paoli, PA"
+    enabled: false
+
+  - name: "Guilded"
+    careers_url: https://www.guilded.gg/jobs
+    scan_method: websearch
+    scan_query: '"Guilded" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Computer Games · San Francisco, CA"
+    enabled: false
+
+  - name: "Literal Humans"
+    careers_url: https://literalhumans.com/team/
+    scan_method: websearch
+    scan_query: '"Literal Humans" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Marketing Services · London, England"
+    enabled: false
+
+  - name: "Liveblocks"
+    careers_url: https://join.team/liveblocks
+    scan_method: websearch
+    scan_query: '"Liveblocks" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Software Development · San Francisco, US"
+    enabled: false
+
+  - name: "Lumenalta"
+    careers_url: https://lumenalta.com/remote-jobs
+    scan_method: websearch
+    scan_query: '"Lumenalta" careers "Product Manager" OR "AI Product Manager"'
+    notes: "IT Services and IT Consulting · New York, New York"
+    enabled: false
+
+  - name: "Mailbird"
+    careers_url: https://careers.getmailbird.com/
+    scan_method: websearch
+    scan_query: '"Mailbird" careers "Product Manager" OR "AI Product Manager"'
+    notes: "IT Services and IT Consulting · Palo Alto, CA"
+    enabled: false
+
+  - name: "MailerLite"
+    careers_url: https://www.mailerlite.com/jobs
+    scan_method: websearch
+    scan_query: '"MailerLite" careers "Product Manager" OR "AI Product Manager"'
+    notes: "IT Services and IT Consulting · San Francisco, California"
+    enabled: false
+
+  - name: "Plus"
+    careers_url: https://www.plusdocs.com/company
+    scan_method: websearch
+    scan_query: '"Plus" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Software Development · Seattle, Washington"
+    enabled: false
+
+  - name: "SafetyWing"
+    careers_url: https://safetywing.com/join-us
+    scan_method: websearch
+    scan_query: '"SafetyWing" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Technology, Information and Internet · Palo Alto, California"
+    enabled: false
+
+  - name: "Semaphore CI"
+    careers_url: https://semaphoreci.com/hiring
+    scan_method: websearch
+    scan_query: '"Semaphore CI" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Software Development · Novi Sad, Vojvodina"
+    enabled: false
+
+  - name: "Smile"
+    careers_url: https://web.smile.io/careers
+    scan_method: websearch
+    scan_query: '"Smile" careers "Product Manager" OR "AI Product Manager"'
+    notes: "IT Services and IT Consulting · Waterloo, ON"
+    enabled: false
+
+  - name: "Springworks"
+    careers_url: https://www.springworks.in/culture/
+    scan_method: websearch
+    scan_query: '"Springworks" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Technology, Information and Internet · Santa Monica, CA"
+    enabled: false
+
+  - name: "The Shelf"
+    careers_url: https://www.theshelf.com/careers/
+    scan_method: websearch
+    scan_query: '"The Shelf" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Marketing Services · Atlanta, GA"
+    enabled: false
+
+  - name: "Time Doctor"
+    careers_url: https://www.timedoctor.com/jobs
+    scan_method: websearch
+    scan_query: '"Time Doctor" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Technology, Information and Internet · Las Vegas, Nevada"
+    enabled: false
+
+  - name: "X-Team"
+    careers_url: https://jobs.x-team.com/
+    scan_method: websearch
+    scan_query: '"X-Team" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Software Development · Chelsea, VIC"
+    enabled: false
+
+  # ── india-2026-funded (12 ATS, 68 websearch) ──
+
+  - name: "Bluestone"
+    careers_url: https://job-boards.greenhouse.io/bluestone
+    api: https://boards-api.greenhouse.io/v1/boards/bluestone/jobs
+    notes: "D2C, Jewellery · Bangalore, India"
+    enabled: true
+
+  - name: "Dozee"
+    careers_url: https://jobs.lever.co/dozee
+    notes: "Health Tech, Remote Monitoring · Bangalore, India"
+    enabled: true
+
+  - name: "Glance"
+    careers_url: https://job-boards.greenhouse.io/glance
+    api: https://boards-api.greenhouse.io/v1/boards/glance/jobs
+    notes: "Mobile Content, AI · Bangalore, India"
+    enabled: true
+
+  - name: "Leap Finance"
+    careers_url: https://job-boards.greenhouse.io/leap
+    api: https://boards-api.greenhouse.io/v1/boards/leap/jobs
+    notes: "Fintech, Study Abroad · Bangalore, India"
+    enabled: true
+
+  - name: "Observe.AI"
+    careers_url: https://job-boards.greenhouse.io/observeai
+    api: https://boards-api.greenhouse.io/v1/boards/observeai/jobs
+    notes: "AI, Contact Center · San Francisco / Bangalore"
+    enabled: true
+
+  - name: "Porter"
+    careers_url: https://jobs.lever.co/porter
+    notes: "Logistics · Bangalore, India"
+    enabled: true
+
+  - name: "Sarvam AI"
+    careers_url: https://jobs.ashbyhq.com/sarvam
+    notes: "Artificial Intelligence · Bangalore, India"
+    enabled: true
+
+  - name: "Velocity"
+    careers_url: https://jobs.ashbyhq.com/velocity
+    notes: "Fintech, Revenue-Based Finance · Bangalore, India"
+    enabled: true
+
+  - name: "VerSe Innovation (Dailyhunt)"
+    careers_url: https://job-boards.greenhouse.io/verse
+    api: https://boards-api.greenhouse.io/v1/boards/verse/jobs
+    notes: "Media Tech, Content · Bangalore, India"
+    enabled: true
+
+  - name: "Wellthy Therapeutics"
+    careers_url: https://job-boards.greenhouse.io/wellthy
+    api: https://boards-api.greenhouse.io/v1/boards/wellthy/jobs
+    notes: "Health Tech, Digital Therapeutics · Mumbai, India"
+    enabled: true
+
+  - name: "Acko"
+    careers_url: https://www.acko.com/careers/
+    scan_method: websearch
+    scan_query: '"Acko" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Insurtech · B2C · Mumbai, India"
+    enabled: false
+
+  - name: "Agnikul Cosmos"
+    careers_url: https://agnikul.in/careers
+    scan_method: websearch
+    scan_query: '"Agnikul Cosmos" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Space Tech, Launch Vehicles · Chennai, India"
+    enabled: false
+
+  - name: "Amagi"
+    careers_url: https://www.amagi.com/careers
+    scan_method: websearch
+    scan_query: '"Amagi" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Media Tech, SaaS · B2B · Bangalore, India"
+    enabled: false
+
+  - name: "Ather Energy"
+    careers_url: https://www.atherenergy.com/careers
+    scan_method: websearch
+    scan_query: '"Ather Energy" careers "Product Manager" OR "AI Product Manager"'
+    notes: "EV, Two Wheelers · Bangalore, India"
+    enabled: false
+
+  - name: "BharatPe"
+    careers_url: https://bharatpe.com/careers
+    scan_method: websearch
+    scan_query: '"BharatPe" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Fintech, Payments · B2B · Delhi, India"
+    enabled: false
+
+  - name: "Bijnis"
+    careers_url: https://bijnis.com/careers
+    scan_method: websearch
+    scan_query: '"Bijnis" careers "Product Manager" OR "AI Product Manager"'
+    notes: "B2B Commerce, Manufacturing · Delhi, India"
+    enabled: false
+
+  - name: "Darwinbox"
+    careers_url: https://darwinbox.com/careers
+    scan_method: websearch
+    scan_query: '"Darwinbox" careers "Product Manager" OR "AI Product Manager"'
+    notes: "HR Tech, SaaS · B2B · Hyderabad, India"
+    enabled: false
+
+  - name: "DeHaat"
+    careers_url: https://www.agrevolution.in/careers
+    scan_method: websearch
+    scan_query: '"DeHaat" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Agritech · Patna, India"
+    enabled: false
+
+  - name: "Drip Capital"
+    careers_url: https://dripcapital.com/careers
+    scan_method: websearch
+    scan_query: '"Drip Capital" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Fintech, Trade Finance · Mumbai, India"
+    enabled: false
+
+  - name: "Eka Care"
+    careers_url: https://www.eka.care/careers
+    scan_method: websearch
+    scan_query: '"Eka Care" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Health Tech, PHR · Bangalore, India"
+    enabled: false
+
+  - name: "ekincare"
+    careers_url: https://www.ekincare.com/careers
+    scan_method: websearch
+    scan_query: '"ekincare" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Health Tech, Corporate Wellness · Hyderabad, India"
+    enabled: false
+
+  - name: "ElasticRun"
+    careers_url: https://www.elasticrun.in/careers
+    scan_method: websearch
+    scan_query: '"ElasticRun" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Logistics, Rural Commerce · B2B · Pune, India"
+    enabled: false
+
+  - name: "Eruditus"
+    careers_url: https://eruditus.com/careers/
+    scan_method: websearch
+    scan_query: '"Eruditus" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Edtech, Executive Education · B2B, B2C · Mumbai, India"
+    enabled: false
+
+  - name: "Euler Motors"
+    careers_url: https://eulermotors.com/careers/
+    scan_method: websearch
+    scan_query: '"Euler Motors" careers "Product Manager" OR "AI Product Manager"'
+    notes: "EV, Commercial Vehicles · Delhi, India"
+    enabled: false
+
+  - name: "EV Motors India"
+    careers_url: https://evmotorsindia.com/careers
+    scan_method: websearch
+    scan_query: '"EV Motors India" careers "Product Manager" OR "AI Product Manager"'
+    notes: "EV, Clean Tech · Pune, India"
+    enabled: false
+
+  - name: "FlexiLoans"
+    careers_url: https://flexiloans.com/careers
+    scan_method: websearch
+    scan_query: '"FlexiLoans" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Fintech, SME Lending · Cloud Computing, Finance · Mumbai, India"
+    enabled: false
+
+  - name: "Freo (MoneyTap)"
+    careers_url: https://freo.money/careers
+    scan_method: websearch
+    scan_query: '"Freo (MoneyTap)" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Fintech, Credit · Bangalore, India"
+    enabled: false
+
+  - name: "GreenPark Sports"
+    careers_url: https://greenparksports.com/careers
+    scan_method: websearch
+    scan_query: '"GreenPark Sports" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Sports Tech, Fan Engagement · Bangalore, India"
+    enabled: false
+
+  - name: "Healthians"
+    careers_url: https://www.healthians.com/careers/
+    scan_method: websearch
+    scan_query: '"Healthians" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Health Tech, Diagnostics · Gurugram, India"
+    enabled: false
+
+  - name: "HealthPlix"
+    careers_url: https://www.healthplix.com/careers
+    scan_method: websearch
+    scan_query: '"HealthPlix" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Health Tech, SaaS · Bangalore, India"
+    enabled: false
+
+  - name: "Hyperface"
+    careers_url: https://hyperface.co/careers
+    scan_method: websearch
+    scan_query: '"Hyperface" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Fintech, Embedded Finance · Bangalore, India"
+    enabled: false
+
+  - name: "INDmoney"
+    careers_url: https://indmoney.com/careers
+    scan_method: websearch
+    scan_query: '"INDmoney" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Fintech, Wealth Tech · Gurugram, India"
+    enabled: false
+
+  - name: "Infra.Market"
+    careers_url: https://www.infra.market/careers
+    scan_method: websearch
+    scan_query: '"Infra.Market" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Construction Tech, B2B · B2B · Mumbai, India"
+    enabled: false
+
+  - name: "Innovaccer"
+    careers_url: https://innovaccer.com/company/careers/
+    scan_method: websearch
+    scan_query: '"Innovaccer" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Health Tech, SaaS · San Francisco / Noida"
+    enabled: false
+
+  - name: "Jar"
+    careers_url: https://myjar.app/careers
+    scan_method: websearch
+    scan_query: '"Jar" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Fintech, Savings · Bangalore, India"
+    enabled: false
+
+  - name: "Jupiter"
+    careers_url: https://jupiter.money/careers/
+    scan_method: websearch
+    scan_query: '"Jupiter" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Fintech, Neobank · Mumbai, India"
+    enabled: false
+
+  - name: "Khatabook"
+    careers_url: https://khatabook.com/careers/
+    scan_method: websearch
+    scan_query: '"Khatabook" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Fintech, SME SaaS · Bangalore, India"
+    enabled: false
+
+  - name: "KreditBee"
+    careers_url: https://kreditbee.in/careers
+    scan_method: websearch
+    scan_query: '"KreditBee" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Fintech, Lending · Bangalore, India"
+    enabled: false
+
+  - name: "Krutrim"
+    careers_url: https://krutrim.com/careers
+    scan_method: websearch
+    scan_query: '"Krutrim" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence · Bangalore, India"
+    enabled: false
+
+  - name: "Leegality"
+    careers_url: https://leegality.com/careers
+    scan_method: websearch
+    scan_query: '"Leegality" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Legal Tech, SaaS · Delhi, India"
+    enabled: false
+
+  - name: "Lenskart"
+    careers_url: https://www.lenskart.com/jobs
+    scan_method: websearch
+    scan_query: '"Lenskart" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Retail, Eyewear · B2C · Gurugram, India"
+    enabled: false
+
+  - name: "Licious"
+    careers_url: https://www.licious.in/careers
+    scan_method: websearch
+    scan_query: '"Licious" careers "Product Manager" OR "AI Product Manager"'
+    notes: "D2C, Fresh Meat · B2C · Bangalore, India"
+    enabled: false
+
+  - name: "M2P Fintech"
+    careers_url: https://m2pfintech.com/careers/
+    scan_method: websearch
+    scan_query: '"M2P Fintech" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Fintech, API Banking · Chennai, India"
+    enabled: false
+
+  - name: "MediBuddy"
+    careers_url: https://www.medibuddy.in/careers
+    scan_method: websearch
+    scan_query: '"MediBuddy" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Health Tech, Telemedicine · Bangalore, India"
+    enabled: false
+
+  - name: "Mensa Brands"
+    careers_url: https://mensabrands.com/careers
+    scan_method: websearch
+    scan_query: '"Mensa Brands" careers "Product Manager" OR "AI Product Manager"'
+    notes: "D2C, Brand Aggregator · B2B · Bangalore, India"
+    enabled: false
+
+  - name: "Mintifi"
+    careers_url: https://www.mintifi.com/careers
+    scan_method: websearch
+    scan_query: '"Mintifi" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Fintech, Supply Chain Finance · Mumbai, India"
+    enabled: false
+
+  - name: "Mokobara"
+    careers_url: https://www.mokobara.com/pages/careers
+    scan_method: websearch
+    scan_query: '"Mokobara" careers "Product Manager" OR "AI Product Manager"'
+    notes: "D2C, Travel Gear · Bangalore, India"
+    enabled: false
+
+  - name: "Moneyview"
+    careers_url: https://moneyview.in/careers
+    scan_method: websearch
+    scan_query: '"Moneyview" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Fintech, Lending · Bangalore, India"
+    enabled: false
+
+  - name: "Mylo"
+    careers_url: https://mylo.family/careers
+    scan_method: websearch
+    scan_query: '"Mylo" careers "Product Manager" OR "AI Product Manager"'
+    notes: "D2C, Parenting · Delhi, India"
+    enabled: false
+
+  - name: "Ninjacart"
+    careers_url: https://ninjacart.com/careers/
+    scan_method: websearch
+    scan_query: '"Ninjacart" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Agritech, Supply Chain · Bangalore, India"
+    enabled: false
+
+  - name: "Niramai"
+    careers_url: https://niramai.com/careers/
+    scan_method: websearch
+    scan_query: '"Niramai" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Health Tech, AI Diagnostics · Bangalore, India"
+    enabled: false
+
+  - name: "Niyo Solutions"
+    careers_url: https://www.goniyo.com/careers/
+    scan_method: websearch
+    scan_query: '"Niyo Solutions" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Fintech, Neobank · Bangalore, India"
+    enabled: false
+
+  - name: "Ofbusiness"
+    careers_url: https://www.ofbusiness.com/careers
+    scan_method: websearch
+    scan_query: '"Ofbusiness" careers "Product Manager" OR "AI Product Manager"'
+    notes: "B2B Commerce, Fintech · B2B · Gurugram, India"
+    enabled: false
+
+  - name: "Open Financial"
+    careers_url: https://open.money/careers
+    scan_method: websearch
+    scan_query: '"Open Financial" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Fintech, Neobank · Bangalore, India"
+    enabled: false
+
+  - name: "Perfios"
+    careers_url: https://www.perfios.com/careers
+    scan_method: websearch
+    scan_query: '"Perfios" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Fintech, B2B SaaS · Bangalore, India"
+    enabled: false
+
+  - name: "Pixxel"
+    careers_url: https://www.pixxel.space/careers
+    scan_method: websearch
+    scan_query: '"Pixxel" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Space Tech, Earth Observation · Bangalore, India"
+    enabled: false
+
+  - name: "Pratilipi"
+    careers_url: https://pratilipi.com/careers
+    scan_method: websearch
+    scan_query: '"Pratilipi" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Content, Regional Languages · Bangalore, India"
+    enabled: false
+
+  - name: "Pristyn Care"
+    careers_url: https://www.pristyncare.com/careers/
+    scan_method: websearch
+    scan_query: '"Pristyn Care" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Health Tech, Surgery · B2C · Gurugram, India"
+    enabled: false
+
+  - name: "Rapido"
+    careers_url: https://rapido.bike/careers
+    scan_method: websearch
+    scan_query: '"Rapido" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Mobility · Mobile, Transportation · Bangalore, India"
+    enabled: false
+
+  - name: "SatSure"
+    careers_url: https://satsure.co/careers
+    scan_method: websearch
+    scan_query: '"SatSure" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Deep Tech, Satellite Analytics · Bangalore, India"
+    enabled: false
+
+  - name: "Setu"
+    careers_url: https://setu.co/careers
+    scan_method: websearch
+    scan_query: '"Setu" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Fintech, API Infrastructure · Bangalore, India"
+    enabled: false
+
+  - name: "Shadowfax"
+    careers_url: https://www.shadowfax.in/careers
+    scan_method: websearch
+    scan_query: '"Shadowfax" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Logistics · Bangalore, India"
+    enabled: false
+
+  - name: "Shiprocket"
+    careers_url: https://www.shiprocket.in/careers/
+    scan_method: websearch
+    scan_query: '"Shiprocket" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Logistics, E-commerce · B2B · Delhi, India"
+    enabled: false
+
+  - name: "Skyroot Aerospace"
+    careers_url: https://skyroot.in/careers
+    scan_method: websearch
+    scan_query: '"Skyroot Aerospace" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Space Tech, Rockets · Hyderabad, India"
+    enabled: false
+
+  - name: "Spinny"
+    careers_url: https://www.spinny.com/careers/
+    scan_method: websearch
+    scan_query: '"Spinny" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Auto Tech, Used Cars · B2C · Gurugram, India"
+    enabled: false
+
+  - name: "Tricog Health"
+    careers_url: https://tricog.com/careers/
+    scan_method: websearch
+    scan_query: '"Tricog Health" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Health Tech, Cardiology · Bangalore, India"
+    enabled: false
+
+  - name: "Uniphore"
+    careers_url: https://www.uniphore.com/careers/
+    scan_method: websearch
+    scan_query: '"Uniphore" careers "Product Manager" OR "AI Product Manager"'
+    notes: "AI, Conversational AI · B2B · Palo Alto / Chennai"
+    enabled: false
+
+  - name: "Urban Company"
+    careers_url: https://www.urbancompany.com/careers
+    scan_method: websearch
+    scan_query: '"Urban Company" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Services Marketplace · B2C · Gurugram, India"
+    enabled: false
+
+  - name: "Vahdam India"
+    careers_url: https://www.vahdam.com/pages/careers
+    scan_method: websearch
+    scan_query: '"Vahdam India" careers "Product Manager" OR "AI Product Manager"'
+    notes: "D2C, Food & Beverage · Delhi, India"
+    enabled: false
+
+  - name: "WareIQ"
+    careers_url: https://wareiq.com/careers/
+    scan_method: websearch
+    scan_query: '"WareIQ" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Logistics, Fulfillment · Bangalore, India"
+    enabled: false
+
+  - name: "WayCool Foods"
+    careers_url: https://waycoolfoods.com/careers/
+    scan_method: websearch
+    scan_query: '"WayCool Foods" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Agritech, Food Supply Chain · Chennai, India"
+    enabled: false
+
+  - name: "Xpressbees"
+    careers_url: https://www.xpressbees.com/careers
+    scan_method: websearch
+    scan_query: '"Xpressbees" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Logistics, Express Delivery · B2B · Pune, India"
+    enabled: false
+
+  - name: "Yellow.ai"
+    careers_url: https://yellow.ai/about/careers/
+    scan_method: websearch
+    scan_query: '"Yellow.ai" careers "Product Manager" OR "AI Product Manager"'
+    notes: "AI, Conversational AI · Bangalore, India"
+    enabled: false
+
+  - name: "Yubi (CredAvenue)"
+    careers_url: https://go-yubi.com/careers/
+    scan_method: websearch
+    scan_query: '"Yubi (CredAvenue)" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Fintech, Debt Platform · B2B, B2C · Chennai, India"
+    enabled: false
+
+  - name: "Zetwerk"
+    careers_url: https://www.zetwerk.com/careers/
+    scan_method: websearch
+    scan_query: '"Zetwerk" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Manufacturing, B2B · B2B · Bangalore, India"
+    enabled: false
+
+  - name: "Zuddl"
+    careers_url: https://www.zuddl.com/careers
+    scan_method: websearch
+    scan_query: '"Zuddl" careers "Product Manager" OR "AI Product Manager"'
+    notes: "SaaS, Event Tech · San Francisco / Bangalore"
+    enabled: false
+
+  # ── ai-2024-global (26 ATS, 73 websearch) ──
+
+  - name: "Archive Intel"
+    careers_url: https://jobs.ashbyhq.com/archive
+    notes: "Artificial Intelligence · United States"
+    enabled: true
+
+  - name: "Backstroke"
+    careers_url: https://job-boards.greenhouse.io/backstroke
+    api: https://boards-api.greenhouse.io/v1/boards/backstroke/jobs
+    notes: "Artificial Intelligence · United States"
+    enabled: true
+
+  - name: "Baselayer"
+    careers_url: https://job-boards.greenhouse.io/baselayer
+    api: https://boards-api.greenhouse.io/v1/boards/baselayer/jobs
+    notes: "Artificial Intelligence, Finance, B2B Software, Cyber Security · United States"
+    enabled: true
+
+  - name: "Ceartas DMCA"
+    careers_url: https://jobs.ashbyhq.com/ceartas
+    notes: "Legal, Artificial Intelligence, B2B Software, Cloud Computing · Ireland"
+    enabled: true
+
+  - name: "Coactive AI"
+    careers_url: https://job-boards.greenhouse.io/coactive
+    api: https://boards-api.greenhouse.io/v1/boards/coactive/jobs
+    notes: "Artificial Intelligence · United States"
+    enabled: true
+
+  - name: "DatologyAI"
+    careers_url: https://jobs.ashbyhq.com/datologyai
+    notes: "Data, Artificial Intelligence · United States"
+    enabled: true
+
+  - name: "Dune Creek Capital"
+    careers_url: https://jobs.ashbyhq.com/dune
+    notes: "Finance, Artificial Intelligence · United States"
+    enabled: true
+
+  - name: "Espresso AI"
+    careers_url: https://jobs.ashbyhq.com/espresso
+    notes: "Artificial Intelligence, B2B Software"
+    enabled: true
+
+  - name: "FIRMUS"
+    careers_url: https://job-boards.greenhouse.io/firmus
+    api: https://boards-api.greenhouse.io/v1/boards/firmus/jobs
+    notes: "Artificial Intelligence · Israel"
+    enabled: true
+
+  - name: "Gamma"
+    careers_url: https://jobs.ashbyhq.com/gamma
+    notes: "Artificial Intelligence, B2B Software · United States"
+    enabled: true
+
+  - name: "Gorgias"
+    careers_url: https://jobs.ashbyhq.com/gorgias
+    notes: "Artificial Intelligence, B2B Software · United States"
+    enabled: true
+
+  - name: "H Company"
+    careers_url: https://jobs.ashbyhq.com/hcompany
+    notes: "Artificial Intelligence · France"
+    enabled: true
+
+  - name: "Lucid Bots"
+    careers_url: https://job-boards.greenhouse.io/lucidbots
+    api: https://boards-api.greenhouse.io/v1/boards/lucidbots/jobs
+    notes: "Artificial Intelligence, Robotics · United States"
+    enabled: true
+
+  - name: "MagicSchool AI"
+    careers_url: https://jobs.ashbyhq.com/magicschool
+    notes: "Education, Artificial Intelligence, B2B Software · United States"
+    enabled: true
+
+  - name: "Numeric"
+    careers_url: https://jobs.ashbyhq.com/numeric
+    notes: "Artificial Intelligence · United States"
+    enabled: true
+
+  - name: "Orca AI"
+    careers_url: https://job-boards.greenhouse.io/orca
+    api: https://boards-api.greenhouse.io/v1/boards/orca/jobs
+    notes: "Artificial Intelligence · Israel"
+    enabled: true
+
+  - name: "Pearl"
+    careers_url: https://jobs.ashbyhq.com/pearl
+    notes: "Healthcare, Artificial Intelligence · United States"
+    enabled: true
+
+  - name: "Perplexity AI"
+    careers_url: https://jobs.ashbyhq.com/perplexity
+    notes: "Artificial Intelligence · United States"
+    enabled: true
+
+  - name: "PolyAI"
+    careers_url: https://job-boards.greenhouse.io/polyai
+    api: https://boards-api.greenhouse.io/v1/boards/polyai/jobs
+    notes: "Artificial Intelligence · United Kingdom"
+    enabled: true
+
+  - name: "Rad AI"
+    careers_url: https://jobs.ashbyhq.com/radai
+    notes: "Artificial Intelligence, Healthcare · United States"
+    enabled: true
+
+  - name: "ReflexAI"
+    careers_url: https://jobs.ashbyhq.com/reflexai
+    notes: "Artificial Intelligence, Human Resources, B2B Software · United States"
+    enabled: true
+
+  - name: "Scarlet AI"
+    careers_url: https://jobs.ashbyhq.com/scarlet
+    notes: "Artificial Intelligence · United States"
+    enabled: true
+
+  - name: "The Bot Company"
+    careers_url: https://jobs.ashbyhq.com/thebotcompany
+    notes: "Artificial Intelligence · United States"
+    enabled: true
+
+  - name: "Voxel51"
+    careers_url: https://job-boards.greenhouse.io/voxel51
+    api: https://boards-api.greenhouse.io/v1/boards/voxel51/jobs
+    notes: "Artificial Intelligence · United States"
+    enabled: true
+
+  - name: "Wayve"
+    careers_url: https://job-boards.greenhouse.io/wayve
+    api: https://boards-api.greenhouse.io/v1/boards/wayve/jobs
+    notes: "Artificial Intelligence · United Kingdom"
+    enabled: true
+
+  - name: "WitnessAI"
+    careers_url: https://jobs.ashbyhq.com/witnessai
+    notes: "Artificial Intelligence · United States"
+    enabled: true
+
+  - name: "Acumino"
+    careers_url: acumino.ai
+    scan_method: websearch
+    scan_query: '"Acumino" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Robotics, Artificial Intelligence · United States"
+    enabled: false
+
+  - name: "AGEYE"
+    careers_url: www.ageyetech.com
+    scan_method: websearch
+    scan_query: '"AGEYE" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Agriculture, Artificial Intelligence · United States"
+    enabled: false
+
+  - name: "AI Medical Technology"
+    careers_url: aimedtech.org
+    scan_method: websearch
+    scan_query: '"AI Medical Technology" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence, Healthcare · Sweden"
+    enabled: false
+
+  - name: "Ai Sensing Technology"
+    careers_url: www.aisensing.cn
+    scan_method: websearch
+    scan_query: '"Ai Sensing Technology" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence, B2B Software · China"
+    enabled: false
+
+  - name: "Airstack"
+    careers_url: airstack.xyz
+    scan_method: websearch
+    scan_query: '"Airstack" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence, Blockchain · United States"
+    enabled: false
+
+  - name: "AISAP"
+    careers_url: www.aisap.ai
+    scan_method: websearch
+    scan_query: '"AISAP" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence · Israel"
+    enabled: false
+
+  - name: "Altera"
+    careers_url: altera.al
+    scan_method: websearch
+    scan_query: '"Altera" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence · United States"
+    enabled: false
+
+  - name: "Apriora"
+    careers_url: www.apriora.ai
+    scan_method: websearch
+    scan_query: '"Apriora" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence · United States"
+    enabled: false
+
+  - name: "Arhasi Inc."
+    careers_url: www.arhasi.com
+    scan_method: websearch
+    scan_query: '"Arhasi Inc." careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence, Cloud Computing, B2B Software · United States"
+    enabled: false
+
+  - name: "AtlasPro AI"
+    careers_url: atlaspro.ai
+    scan_method: websearch
+    scan_query: '"AtlasPro AI" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence, B2B Software · United States"
+    enabled: false
+
+  - name: "Averlon"
+    careers_url: www.averlon.ai
+    scan_method: websearch
+    scan_query: '"Averlon" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence · United States"
+    enabled: false
+
+  - name: "Big Vision"
+    careers_url: www.bigvisiontech.com
+    scan_method: websearch
+    scan_query: '"Big Vision" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence, Healthcare, Cloud Computing · China"
+    enabled: false
+
+  - name: "Blaize"
+    careers_url: www.blaize.com
+    scan_method: websearch
+    scan_query: '"Blaize" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence, B2B Software · United States"
+    enabled: false
+
+  - name: "Brainfish"
+    careers_url: www.brainfi.sh
+    scan_method: websearch
+    scan_query: '"Brainfish" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence, B2B Software · Australia"
+    enabled: false
+
+  - name: "Composabl"
+    careers_url: www.composabl.com
+    scan_method: websearch
+    scan_query: '"Composabl" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence, B2B Software · United States"
+    enabled: false
+
+  - name: "Credtent"
+    careers_url: www.credtent.org
+    scan_method: websearch
+    scan_query: '"Credtent" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence, B2B Software, Marketing, Media · United States"
+    enabled: false
+
+  - name: "Elisity"
+    careers_url: www.elisity.com
+    scan_method: websearch
+    scan_query: '"Elisity" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Cyber Security, Artificial Intelligence, B2B Software · United States"
+    enabled: false
+
+  - name: "Ex-human"
+    careers_url: exh.ai
+    scan_method: websearch
+    scan_query: '"Ex-human" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence · United States"
+    enabled: false
+
+  - name: "Fairgen"
+    careers_url: www.fairgen.ai
+    scan_method: websearch
+    scan_query: '"Fairgen" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence · Israel"
+    enabled: false
+
+  - name: "FINDMINE"
+    careers_url: www.findmine.com
+    scan_method: websearch
+    scan_query: '"FINDMINE" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Retail, Artificial Intelligence, E-commerce · United States"
+    enabled: false
+
+  - name: "forml"
+    careers_url: forml.ai
+    scan_method: websearch
+    scan_query: '"forml" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence · United States"
+    enabled: false
+
+  - name: "Founder AI"
+    careers_url: www.getintently.ai
+    scan_method: websearch
+    scan_query: '"Founder AI" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence · United States"
+    enabled: false
+
+  - name: "FusionOS.ai"
+    careers_url: www.fusionos.ai
+    scan_method: websearch
+    scan_query: '"FusionOS.ai" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence, Advertising, Marketing"
+    enabled: false
+
+  - name: "Gideon"
+    careers_url: www.gideon.ai
+    scan_method: websearch
+    scan_query: '"Gideon" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence · Croatia"
+    enabled: false
+
+  - name: "Grasp"
+    careers_url: www.grasp-ai.com
+    scan_method: websearch
+    scan_query: '"Grasp" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence · Sweden"
+    enabled: false
+
+  - name: "Hexis"
+    careers_url: www.hexis.live
+    scan_method: websearch
+    scan_query: '"Hexis" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence · United Kingdom"
+    enabled: false
+
+  - name: "heybooster"
+    careers_url: heybooster.ai
+    scan_method: websearch
+    scan_query: '"heybooster" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Marketing, Artificial Intelligence · Estonia"
+    enabled: false
+
+  - name: "Highperformr.ai"
+    careers_url: www.highperformr.ai
+    scan_method: websearch
+    scan_query: '"Highperformr.ai" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence · India"
+    enabled: false
+
+  - name: "HistAI"
+    careers_url: hist.ai
+    scan_method: websearch
+    scan_query: '"HistAI" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Healthcare, Artificial Intelligence · United States"
+    enabled: false
+
+  - name: "HoundDog.ai"
+    careers_url: hounddog.ai
+    scan_method: websearch
+    scan_query: '"HoundDog.ai" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence, B2B Software · United States"
+    enabled: false
+
+  - name: "Inhabitr"
+    careers_url: www.inhabitr.com
+    scan_method: websearch
+    scan_query: '"Inhabitr" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence, Real Estate, B2B Software · United States"
+    enabled: false
+
+  - name: "Jambo"
+    careers_url: www.jambo.technology
+    scan_method: websearch
+    scan_query: '"Jambo" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence, B2B Software · Liberia"
+    enabled: false
+
+  - name: "JGene Biotechnology"
+    careers_url: www.genocury.com
+    scan_method: websearch
+    scan_query: '"JGene Biotechnology" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence · China"
+    enabled: false
+
+  - name: "Livo.ai"
+    careers_url: www.livo.ai
+    scan_method: websearch
+    scan_query: '"Livo.ai" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence · India"
+    enabled: false
+
+  - name: "logicdialog"
+    careers_url: logicdialog.ai
+    scan_method: websearch
+    scan_query: '"logicdialog" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence, B2B Software · United Kingdom"
+    enabled: false
+
+  - name: "Lore"
+    careers_url: www.lore.co
+    scan_method: websearch
+    scan_query: '"Lore" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence"
+    enabled: false
+
+  - name: "Made With Intent"
+    careers_url: www.madewithintent.ai
+    scan_method: websearch
+    scan_query: '"Made With Intent" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Marketing, Artificial Intelligence, B2B Software · United Kingdom"
+    enabled: false
+
+  - name: "Malted AI"
+    careers_url: malted.ai
+    scan_method: websearch
+    scan_query: '"Malted AI" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence · United Kingdom"
+    enabled: false
+
+  - name: "Metatate"
+    careers_url: www.getmetatate.com
+    scan_method: websearch
+    scan_query: '"Metatate" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence · United States"
+    enabled: false
+
+  - name: "Meyka AI"
+    careers_url: meyka.com
+    scan_method: websearch
+    scan_query: '"Meyka AI" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence · Australia"
+    enabled: false
+
+  - name: "Monitaur"
+    careers_url: www.monitaur.ai
+    scan_method: websearch
+    scan_query: '"Monitaur" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence · United States"
+    enabled: false
+
+  - name: "Monocle"
+    careers_url: www.usemonocle.com
+    scan_method: websearch
+    scan_query: '"Monocle" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Analytics, Artificial Intelligence · United States"
+    enabled: false
+
+  - name: "MULTI·ON"
+    careers_url: multion.ai
+    scan_method: websearch
+    scan_query: '"MULTI·ON" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence · United States"
+    enabled: false
+
+  - name: "Myelin Foundry"
+    careers_url: www.myelinfoundry.com
+    scan_method: websearch
+    scan_query: '"Myelin Foundry" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence · India"
+    enabled: false
+
+  - name: "Neurable"
+    careers_url: neurable.com
+    scan_method: websearch
+    scan_query: '"Neurable" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence · United States"
+    enabled: false
+
+  - name: "NeuralShift"
+    careers_url: neuralshift.ai
+    scan_method: websearch
+    scan_query: '"NeuralShift" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence · Portugal"
+    enabled: false
+
+  - name: "Niqo Robotics"
+    careers_url: niqorobotics.com
+    scan_method: websearch
+    scan_query: '"Niqo Robotics" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Agriculture, Artificial Intelligence · India"
+    enabled: false
+
+  - name: "Numra"
+    careers_url: numrahq.com
+    scan_method: websearch
+    scan_query: '"Numra" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence, Finance · Ireland"
+    enabled: false
+
+  - name: "NXN Labs"
+    careers_url: nxn.ai
+    scan_method: websearch
+    scan_query: '"NXN Labs" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence"
+    enabled: false
+
+  - name: "Overland AI"
+    careers_url: www.overland.ai
+    scan_method: websearch
+    scan_query: '"Overland AI" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence · United States"
+    enabled: false
+
+  - name: "PilotDesk"
+    careers_url: www.pilotdesk.ai
+    scan_method: websearch
+    scan_query: '"PilotDesk" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence, Aviation"
+    enabled: false
+
+  - name: "Plan By"
+    careers_url: www.planby.us
+    scan_method: websearch
+    scan_query: '"Plan By" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence, Architecture · United States"
+    enabled: false
+
+  - name: "Praktika"
+    careers_url: praktika.ai
+    scan_method: websearch
+    scan_query: '"Praktika" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence, B2B Software · United States"
+    enabled: false
+
+  - name: "Pythagora"
+    careers_url: pythagora.ai
+    scan_method: websearch
+    scan_query: '"Pythagora" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence · United States"
+    enabled: false
+
+  - name: "QuickCode ai"
+    careers_url: quickcode.ai
+    scan_method: websearch
+    scan_query: '"QuickCode ai" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence, B2B Software · United States"
+    enabled: false
+
+  - name: "Retinai"
+    careers_url: www.retinai.com
+    scan_method: websearch
+    scan_query: '"Retinai" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence, Data, Pharmaceuticals, Cloud Computing · Switzerland"
+    enabled: false
+
+  - name: "Rollup"
+    careers_url: rollup.ai
+    scan_method: websearch
+    scan_query: '"Rollup" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence, B2B Software · United States"
+    enabled: false
+
+  - name: "SHAED"
+    careers_url: shaed.ai
+    scan_method: websearch
+    scan_query: '"SHAED" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence · United States"
+    enabled: false
+
+  - name: "Skribe.ai"
+    careers_url: skribe.ai
+    scan_method: websearch
+    scan_query: '"Skribe.ai" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence · United States"
+    enabled: false
+
+  - name: "SpatialGPT.ai"
+    careers_url: spatialgpt.ai
+    scan_method: websearch
+    scan_query: '"SpatialGPT.ai" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence · Australia"
+    enabled: false
+
+  - name: "Spoor"
+    careers_url: www.spoor.ai
+    scan_method: websearch
+    scan_query: '"Spoor" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence · Norway"
+    enabled: false
+
+  - name: "Subtle Medical"
+    careers_url: subtlemedical.com
+    scan_method: websearch
+    scan_query: '"Subtle Medical" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Healthcare, Artificial Intelligence · United States"
+    enabled: false
+
+  - name: "Taiki"
+    careers_url: www.taiki.ai
+    scan_method: websearch
+    scan_query: '"Taiki" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence · United States"
+    enabled: false
+
+  - name: "talkd.ai"
+    careers_url: talkd.ai
+    scan_method: websearch
+    scan_query: '"talkd.ai" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence · Brazil"
+    enabled: false
+
+  - name: "TeraSpatial"
+    careers_url: teraspatial.ai
+    scan_method: websearch
+    scan_query: '"TeraSpatial" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence · United States"
+    enabled: false
+
+  - name: "Theoriq"
+    careers_url: www.theoriq.ai
+    scan_method: websearch
+    scan_query: '"Theoriq" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence"
+    enabled: false
+
+  - name: "ThinkLabs AI"
+    careers_url: www.thinklabs.ai
+    scan_method: websearch
+    scan_query: '"ThinkLabs AI" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence, B2B Software"
+    enabled: false
+
+  - name: "Thintronics"
+    careers_url: thintronics.com
+    scan_method: websearch
+    scan_query: '"Thintronics" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence, Electronics, B2B Software · United States"
+    enabled: false
+
+  - name: "TrunkTech"
+    careers_url: trunk.tech
+    scan_method: websearch
+    scan_query: '"TrunkTech" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Logistics, Artificial Intelligence · China"
+    enabled: false
+
+  - name: "Turbine"
+    careers_url: turbine.ai
+    scan_method: websearch
+    scan_query: '"Turbine" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence, B2B Software · Hungary"
+    enabled: false
+
+  - name: "UpVisit"
+    careers_url: upvisit.io
+    scan_method: websearch
+    scan_query: '"UpVisit" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence · Germany"
+    enabled: false
+
+  - name: "Velotix"
+    careers_url: velotix.ai
+    scan_method: websearch
+    scan_query: '"Velotix" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence · Israel"
+    enabled: false
+
+  - name: "XTEND"
+    careers_url: www.xtend.me
+    scan_method: websearch
+    scan_query: '"XTEND" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Robotics, Artificial Intelligence · Israel"
+    enabled: false
+
+  # ── india-unicorns (9 ATS, 34 websearch) ──
+
+  - name: "CommerceIQ"
+    careers_url: https://job-boards.greenhouse.io/commerceiq
+    api: https://boards-api.greenhouse.io/v1/boards/commerceiq/jobs
+    notes: "B2B · Bengaluru"
+    enabled: true
+
+  - name: "Digit Insurance"
+    careers_url: https://job-boards.greenhouse.io/digit
+    api: https://boards-api.greenhouse.io/v1/boards/digit/jobs
+    notes: "B2C · Bengaluru"
+    enabled: true
+
+  - name: "Druva"
+    careers_url: https://job-boards.greenhouse.io/druva
+    api: https://boards-api.greenhouse.io/v1/boards/druva/jobs
+    notes: "B2B · Pune"
+    enabled: true
+
+  - name: "HighRadius"
+    careers_url: https://job-boards.greenhouse.io/highradius
+    api: https://boards-api.greenhouse.io/v1/boards/highradius/jobs
+    notes: "B2B · Hyderabad"
+    enabled: true
+
+  - name: "Lead"
+    careers_url: https://job-boards.greenhouse.io/lead
+    api: https://boards-api.greenhouse.io/v1/boards/lead/jobs
+    notes: "B2B · Mumbai"
+    enabled: true
+
+  - name: "MindTickle"
+    careers_url: https://jobs.lever.co/mindtickle
+    notes: "B2B · Pune"
+    enabled: true
+
+  - name: "Pine Labs"
+    careers_url: https://job-boards.greenhouse.io/pine
+    api: https://boards-api.greenhouse.io/v1/boards/pine/jobs
+    notes: "B2B · Delhi NCR"
+    enabled: true
+
+  - name: "Zenoti"
+    careers_url: https://job-boards.greenhouse.io/zenoti
+    api: https://boards-api.greenhouse.io/v1/boards/zenoti/jobs
+    notes: "B2B · Hyderabad"
+    enabled: true
+
+  - name: "1mg"
+    careers_url: https://www.1mg.com/
+    scan_method: websearch
+    scan_query: '"1mg" careers "Product Manager" OR "AI Product Manager"'
+    notes: "B2C · Delhi NCR"
+    enabled: false
+
+  - name: "5ire"
+    careers_url: https://5irechain.com/
+    scan_method: websearch
+    scan_query: '"5ire" careers "Product Manager" OR "AI Product Manager"'
+    notes: "B2B, B2C · London"
+    enabled: false
+
+  - name: "Apna"
+    careers_url: https://apna.co/
+    scan_method: websearch
+    scan_query: '"Apna" careers "Product Manager" OR "AI Product Manager"'
+    notes: "B2C · Bengaluru"
+    enabled: false
+
+  - name: "boAt"
+    careers_url: https://www.boat-lifestyle.com/
+    scan_method: websearch
+    scan_query: '"boAt" careers "Product Manager" OR "AI Product Manager"'
+    notes: "B2C · Delhi NCR"
+    enabled: false
+
+  - name: "CarDekho"
+    careers_url: https://www.cardekho.com/
+    scan_method: websearch
+    scan_query: '"CarDekho" careers "Product Manager" OR "AI Product Manager"'
+    notes: "B2C · Jaipur"
+    enabled: false
+
+  - name: "CitiusTech"
+    careers_url: https://www.citiustech.com/
+    scan_method: websearch
+    scan_query: '"CitiusTech" careers "Product Manager" OR "AI Product Manager"'
+    notes: "B2B · Mumbai"
+    enabled: false
+
+  - name: "CoinDCX"
+    careers_url: https://coindcx.com/
+    scan_method: websearch
+    scan_query: '"CoinDCX" careers "Product Manager" OR "AI Product Manager"'
+    notes: "B2C · Mumbai"
+    enabled: false
+
+  - name: "CoinSwitch Kuber"
+    careers_url: https://coinswitch.co/
+    scan_method: websearch
+    scan_query: '"CoinSwitch Kuber" careers "Product Manager" OR "AI Product Manager"'
+    notes: "B2C · Bengaluru"
+    enabled: false
+
+  - name: "DailyHunt (Verse)"
+    careers_url: https://www.dailyhunt.in/
+    scan_method: websearch
+    scan_query: '"DailyHunt (Verse)" careers "Product Manager" OR "AI Product Manager"'
+    notes: "B2C · Bengaluru"
+    enabled: false
+
+  - name: "DealShare"
+    careers_url: https://www.dealshare.in/
+    scan_method: websearch
+    scan_query: '"DealShare" careers "Product Manager" OR "AI Product Manager"'
+    notes: "B2B, B2C · Bengaluru"
+    enabled: false
+
+  - name: "Droom"
+    careers_url: https://droom.in/
+    scan_method: websearch
+    scan_query: '"Droom" careers "Product Manager" OR "AI Product Manager"'
+    notes: "B2B, B2C · Delhi NCR"
+    enabled: false
+
+  - name: "EaseMyTrip"
+    careers_url: https://www.easemytrip.com/
+    scan_method: websearch
+    scan_query: '"EaseMyTrip" careers "Product Manager" OR "AI Product Manager"'
+    notes: "B2C · Delhi NCR"
+    enabled: false
+
+  - name: "Five Star"
+    careers_url: https://fivestargroup.in/
+    scan_method: websearch
+    scan_query: '"Five Star" careers "Product Manager" OR "AI Product Manager"'
+    notes: "B2B · Chennai"
+    enabled: false
+
+  - name: "Games24x7"
+    careers_url: https://www.games24x7.com/
+    scan_method: websearch
+    scan_query: '"Games24x7" careers "Product Manager" OR "AI Product Manager"'
+    notes: "B2B, B2C · Mumbai"
+    enabled: false
+
+  - name: "Globalbees"
+    careers_url: https://www.globalbees.com/
+    scan_method: websearch
+    scan_query: '"Globalbees" careers "Product Manager" OR "AI Product Manager"'
+    notes: "B2B · Delhi NCR"
+    enabled: false
+
+  - name: "Hike"
+    careers_url: https://www.hike.in/
+    scan_method: websearch
+    scan_query: '"Hike" careers "Product Manager" OR "AI Product Manager"'
+    notes: "B2C · Delhi NCR"
+    enabled: false
+
+  - name: "Info Edge"
+    careers_url: https://www.infoedge.in/
+    scan_method: websearch
+    scan_query: '"Info Edge" careers "Product Manager" OR "AI Product Manager"'
+    notes: "B2B · Delhi NCR"
+    enabled: false
+
+  - name: "Innovaccer**"
+    careers_url: https://www.innovaccer.com/
+    scan_method: websearch
+    scan_query: '"Innovaccer**" careers "Product Manager" OR "AI Product Manager"'
+    notes: "B2B · Delhi NCR"
+    enabled: false
+
+  - name: "LeadSquared"
+    careers_url: https://www.leadsquared.com/
+    scan_method: websearch
+    scan_query: '"LeadSquared" careers "Product Manager" OR "AI Product Manager"'
+    notes: "B2B · Bengaluru"
+    enabled: false
+
+  - name: "Livspace"
+    careers_url: https://www.livspace.com/
+    scan_method: websearch
+    scan_query: '"Livspace" careers "Product Manager" OR "AI Product Manager"'
+    notes: "B2B, B2C · Bengaluru"
+    enabled: false
+
+  - name: "MamaEarth"
+    careers_url: https://www.mamaearth.in/
+    scan_method: websearch
+    scan_query: '"MamaEarth" careers "Product Manager" OR "AI Product Manager"'
+    notes: "B2C · Delhi NCR"
+    enabled: false
+
+  - name: "Molbio"
+    careers_url: https://www.molbiodiagnostics.com/
+    scan_method: websearch
+    scan_query: '"Molbio" careers "Product Manager" OR "AI Product Manager"'
+    notes: "B2B · Verna"
+    enabled: false
+
+  - name: "MPL"
+    careers_url: https://www.mpl.live/
+    scan_method: websearch
+    scan_query: '"MPL" careers "Product Manager" OR "AI Product Manager"'
+    notes: "B2C · Bengaluru"
+    enabled: false
+
+  - name: "Nazara Technologies***"
+    careers_url: https://www.nazara.com/
+    scan_method: websearch
+    scan_query: '"Nazara Technologies***" careers "Product Manager" OR "AI Product Manager"'
+    notes: "B2B, B2C · Mumbai"
+    enabled: false
+
+  - name: "Ola"
+    careers_url: https://www.olacabs.com/
+    scan_method: websearch
+    scan_query: '"Ola" careers "Product Manager" OR "AI Product Manager"'
+    notes: "B2C · Bengaluru"
+    enabled: false
+
+  - name: "OneCard"
+    careers_url: https://www.getonecard.app/
+    scan_method: websearch
+    scan_query: '"OneCard" careers "Product Manager" OR "AI Product Manager"'
+    notes: "B2C · Pune"
+    enabled: false
+
+  - name: "Open"
+    careers_url: https://bankopen.com/
+    scan_method: websearch
+    scan_query: '"Open" careers "Product Manager" OR "AI Product Manager"'
+    notes: "B2B · Bengaluru"
+    enabled: false
+
+  - name: "Paytm Mall"
+    careers_url: https://paytmmall.com/
+    scan_method: websearch
+    scan_query: '"Paytm Mall" careers "Product Manager" OR "AI Product Manager"'
+    notes: "B2C · Delhi NCR"
+    enabled: false
+
+  - name: "Polygon"
+    careers_url: https://polygon.technology/
+    scan_method: websearch
+    scan_query: '"Polygon" careers "Product Manager" OR "AI Product Manager"'
+    notes: "B2C · Bengaluru"
+    enabled: false
+
+  - name: "Quikr"
+    careers_url: https://www.quikr.com/
+    scan_method: websearch
+    scan_query: '"Quikr" careers "Product Manager" OR "AI Product Manager"'
+    notes: "B2C · Bengaluru"
+    enabled: false
+
+  - name: "ReNew Power"
+    careers_url: https://renewpower.in/
+    scan_method: websearch
+    scan_query: '"ReNew Power" careers "Product Manager" OR "AI Product Manager"'
+    notes: "B2B · Delhi NCR"
+    enabled: false
+
+  - name: "ShopClues"
+    careers_url: http://www.shopclues.com/
+    scan_method: websearch
+    scan_query: '"ShopClues" careers "Product Manager" OR "AI Product Manager"'
+    notes: "B2C · Delhi NCR"
+    enabled: false
+
+  - name: "The Good Glamm Group"
+    careers_url: https://goodglamm.com/
+    scan_method: websearch
+    scan_query: '"The Good Glamm Group" careers "Product Manager" OR "AI Product Manager"'
+    notes: "B2C · Mumbai"
+    enabled: false
+
+  - name: "Zeta"
+    careers_url: https://www.zeta.tech/
+    scan_method: websearch
+    scan_query: '"Zeta" careers "Product Manager" OR "AI Product Manager"'
+    notes: "B2B · Bengaluru"
+    enabled: false
+
+  # ── india-2025-funded (1 ATS, 85 websearch) ──
+
+  - name: "Armory"
+    careers_url: https://jobs.ashbyhq.com/armory
+    notes: "Artificial Intelligence, Cyber Security · India"
+    enabled: true
+
+  - name: "Aaritya Technologies"
+    careers_url: https://aaritya.com
+    scan_method: websearch
+    scan_query: '"Aaritya Technologies" careers "Product Manager" OR "AI Product Manager"'
+    notes: "E-commerce, Fashion · India"
+    enabled: false
+
+  - name: "Anveshan"
+    careers_url: https://www.anveshan.farm
+    scan_method: websearch
+    scan_query: '"Anveshan" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Agriculture · India"
+    enabled: false
+
+  - name: "Appify Retail Technology"
+    careers_url: https://www.appi-fy.ai
+    scan_method: websearch
+    scan_query: '"Appify Retail Technology" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence · India"
+    enabled: false
+
+  - name: "AuraML"
+    careers_url: https://www.auraml.com
+    scan_method: websearch
+    scan_query: '"AuraML" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Music, Artificial Intelligence, Cloud Computing · India"
+    enabled: false
+
+  - name: "Biopeak"
+    careers_url: https://www.biopeak.com
+    scan_method: websearch
+    scan_query: '"Biopeak" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Healthcare · India"
+    enabled: false
+
+  - name: "Birla Estates"
+    careers_url: https://www.birlaestates.com
+    scan_method: websearch
+    scan_query: '"Birla Estates" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Real Estate · India"
+    enabled: false
+
+  - name: "Canebot"
+    careers_url: https://www.canebot.com
+    scan_method: websearch
+    scan_query: '"Canebot" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Robotics, Food and Beverage · India"
+    enabled: false
+
+  - name: "Cleevo"
+    careers_url: https://getcleevo.com
+    scan_method: websearch
+    scan_query: '"Cleevo" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Education, Gaming · India"
+    enabled: false
+
+  - name: "CLR Facility Services"
+    careers_url: https://www.clrservices.com
+    scan_method: websearch
+    scan_query: '"CLR Facility Services" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Aviation · India"
+    enabled: false
+
+  - name: "Contineu"
+    careers_url: https://www.contineu.ai
+    scan_method: websearch
+    scan_query: '"Contineu" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence · India"
+    enabled: false
+
+  - name: "Darwix AI"
+    careers_url: https://www.darwix.ai
+    scan_method: websearch
+    scan_query: '"Darwix AI" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Sales, Artificial Intelligence · India"
+    enabled: false
+
+  - name: "EUME"
+    careers_url: https://www.eumeworld.com
+    scan_method: websearch
+    scan_query: '"EUME" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Fashion, Retail · India"
+    enabled: false
+
+  - name: "Ezstays"
+    careers_url: https://ezstays.in
+    scan_method: websearch
+    scan_query: '"Ezstays" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Education · India"
+    enabled: false
+
+  - name: "Fabheads Automation"
+    careers_url: https://www.fabheads.in
+    scan_method: websearch
+    scan_query: '"Fabheads Automation" careers "Product Manager" OR "AI Product Manager"'
+    notes: "3D, Manufacturing · India"
+    enabled: false
+
+  - name: "Fantail"
+    careers_url: https://fantail.in
+    scan_method: websearch
+    scan_query: '"Fantail" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Fashion, Retail · India"
+    enabled: false
+
+  - name: "Farmako"
+    careers_url: https://farmako.ai
+    scan_method: websearch
+    scan_query: '"Farmako" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Healthcare, Pharmaceuticals · India"
+    enabled: false
+
+  - name: "Flick TV"
+    careers_url: https://www.flicktv.in
+    scan_method: websearch
+    scan_query: '"Flick TV" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Media, Entertainment · India"
+    enabled: false
+
+  - name: "Frinks AI"
+    careers_url: https://frinks.ai
+    scan_method: websearch
+    scan_query: '"Frinks AI" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence · India"
+    enabled: false
+
+  - name: "Garuda Aerospace"
+    careers_url: https://www.garudaaerospace.com
+    scan_method: websearch
+    scan_query: '"Garuda Aerospace" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Aerospace · India"
+    enabled: false
+
+  - name: "GIVA"
+    careers_url: https://www.giva.co/pages/careers
+    scan_method: websearch
+    scan_query: '"GIVA" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Cloud Computing · India"
+    enabled: false
+
+  - name: "GoKwik"
+    careers_url: https://www.gokwik.co
+    scan_method: websearch
+    scan_query: '"GoKwik" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Logistics, E-commerce · India"
+    enabled: false
+
+  - name: "Goofy Tails"
+    careers_url: https://goofytails.com
+    scan_method: websearch
+    scan_query: '"Goofy Tails" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Pets · India"
+    enabled: false
+
+  - name: "GROWiT"
+    careers_url: https://thegrowit.com/
+    scan_method: websearch
+    scan_query: '"GROWiT" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Home Services · India"
+    enabled: false
+
+  - name: "Gully Labs"
+    careers_url: https://gullylabs.com
+    scan_method: websearch
+    scan_query: '"Gully Labs" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Education · India"
+    enabled: false
+
+  - name: "GyanDhan"
+    careers_url: https://www.gyandhan.com
+    scan_method: websearch
+    scan_query: '"GyanDhan" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Education · India"
+    enabled: false
+
+  - name: "Handpickd"
+    careers_url: https://handpickd.farm
+    scan_method: websearch
+    scan_query: '"Handpickd" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Food and Beverage · India"
+    enabled: false
+
+  - name: "HexaHealth"
+    careers_url: https://hexahealth.com
+    scan_method: websearch
+    scan_query: '"HexaHealth" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Healthcare · India"
+    enabled: false
+
+  - name: "HeyEV!"
+    careers_url: https://www.heyev.co
+    scan_method: websearch
+    scan_query: '"HeyEV!" careers "Product Manager" OR "AI Product Manager"'
+    notes: "EV, Automotive · India"
+    enabled: false
+
+  - name: "icogz"
+    careers_url: https://icogz.com
+    scan_method: websearch
+    scan_query: '"icogz" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Cloud Computing, Data · India"
+    enabled: false
+
+  - name: "IndiaBonds"
+    careers_url: https://www.indiabonds.com
+    scan_method: websearch
+    scan_query: '"IndiaBonds" careers "Product Manager" OR "AI Product Manager"'
+    notes: "FinTech, Finance · India"
+    enabled: false
+
+  - name: "Indian Snack House"
+    careers_url: https://www.indiansnackhouse.com
+    scan_method: websearch
+    scan_query: '"Indian Snack House" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Food and Beverage, Retail · India"
+    enabled: false
+
+  - name: "Iom"
+    careers_url: https://www.iombio.com
+    scan_method: websearch
+    scan_query: '"Iom" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Biotechnology · India"
+    enabled: false
+
+  - name: "Kalki Fashion"
+    careers_url: https://in.kalkifashion.com
+    scan_method: websearch
+    scan_query: '"Kalki Fashion" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Fashion, Retail · India"
+    enabled: false
+
+  - name: "Kazam"
+    careers_url: https://kazam.energy/careers
+    scan_method: websearch
+    scan_query: '"Kazam" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Energy, EV, Automotive · India"
+    enabled: false
+
+  - name: "Khari Foods"
+    careers_url: https://kharifoods.com
+    scan_method: websearch
+    scan_query: '"Khari Foods" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Food and Beverage · India"
+    enabled: false
+
+  - name: "Kisah"
+    careers_url: https://kisah.in
+    scan_method: websearch
+    scan_query: '"Kisah" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Media, Community, Fashion · India"
+    enabled: false
+
+  - name: "Kult App"
+    careers_url: https://kult.app
+    scan_method: websearch
+    scan_query: '"Kult App" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Beauty · India"
+    enabled: false
+
+  - name: "Leumas"
+    careers_url: https://leumasware.com
+    scan_method: websearch
+    scan_query: '"Leumas" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Cloud Computing, Human Resources · India"
+    enabled: false
+
+  - name: "LoanTap"
+    careers_url: https://loantap.in/career/
+    scan_method: websearch
+    scan_query: '"LoanTap" careers "Product Manager" OR "AI Product Manager"'
+    notes: "FinTech, Finance · India"
+    enabled: false
+
+  - name: "Machaxi"
+    careers_url: https://machaxi.com
+    scan_method: websearch
+    scan_query: '"Machaxi" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Sports, Fitness · India"
+    enabled: false
+
+  - name: "Mahaveer Finance"
+    careers_url: https://www.mahaveerfinance.com
+    scan_method: websearch
+    scan_query: '"Mahaveer Finance" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Finance · India"
+    enabled: false
+
+  - name: "Malaki"
+    careers_url: https://www.malaki.in
+    scan_method: websearch
+    scan_query: '"Malaki" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Agriculture · India"
+    enabled: false
+
+  - name: "Metafin"
+    careers_url: https://www.metafin.in
+    scan_method: websearch
+    scan_query: '"Metafin" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Finance, Investing · India"
+    enabled: false
+
+  - name: "Naagin"
+    careers_url: https://www.naaginsauce.com/pages/careers
+    scan_method: websearch
+    scan_query: '"Naagin" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Food and Beverage · India"
+    enabled: false
+
+  - name: "Nostavia Health"
+    careers_url: https://www.nostaviahealth.com
+    scan_method: websearch
+    scan_query: '"Nostavia Health" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Healthcare · India"
+    enabled: false
+
+  - name: "Nuvie"
+    careers_url: https://www.nuvie.co.in
+    scan_method: websearch
+    scan_query: '"Nuvie" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Food and Beverage · India"
+    enabled: false
+
+  - name: "Okinawa Autotech"
+    careers_url: https://okinawascooters.com/career
+    scan_method: websearch
+    scan_query: '"Okinawa Autotech" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Travel · India"
+    enabled: false
+
+  - name: "Orbitt Space"
+    careers_url: https://orbitt.space
+    scan_method: websearch
+    scan_query: '"Orbitt Space" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Aerospace · India"
+    enabled: false
+
+  - name: "Palmonas"
+    careers_url: https://www.palmonas.com
+    scan_method: websearch
+    scan_query: '"Palmonas" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Fashion · India"
+    enabled: false
+
+  - name: "Paras Healthcare"
+    careers_url: https://www.parashospitals.com
+    scan_method: websearch
+    scan_query: '"Paras Healthcare" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Healthcare · India"
+    enabled: false
+
+  - name: "Pazy"
+    careers_url: https://pazy.io
+    scan_method: websearch
+    scan_query: '"Pazy" careers "Product Manager" OR "AI Product Manager"'
+    notes: "FinTech, Cloud Computing · India"
+    enabled: false
+
+  - name: "Pico Xpress"
+    careers_url: https://picoxpress.com
+    scan_method: websearch
+    scan_query: '"Pico Xpress" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Logistics · India"
+    enabled: false
+
+  - name: "Plush"
+    careers_url: https://www.plushforher.com
+    scan_method: websearch
+    scan_query: '"Plush" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Fashion, E-commerce · India"
+    enabled: false
+
+  - name: "Plutope"
+    careers_url: https://www.plutope.io
+    scan_method: websearch
+    scan_query: '"Plutope" careers "Product Manager" OR "AI Product Manager"'
+    notes: "FinTech, Finance, Blockchain · India"
+    enabled: false
+
+  - name: "Primebook"
+    careers_url: https://www.primebook.in
+    scan_method: websearch
+    scan_query: '"Primebook" careers "Product Manager" OR "AI Product Manager"'
+    notes: "E-commerce, Electronics · India"
+    enabled: false
+
+  - name: "QNu Labs"
+    careers_url: https://www.qnulabs.com/careers
+    scan_method: websearch
+    scan_query: '"QNu Labs" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Cyber Security · India"
+    enabled: false
+
+  - name: "Rabitat"
+    careers_url: https://merlinbrands.com
+    scan_method: websearch
+    scan_query: '"Rabitat" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Marketing, Consumer Goods · India"
+    enabled: false
+
+  - name: "Raphe mPhibr"
+    careers_url: https://www.raphe.com
+    scan_method: websearch
+    scan_query: '"Raphe mPhibr" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Aviation, Aerospace · India"
+    enabled: false
+
+  - name: "RenewBuy"
+    careers_url: https://www.renewbuy.com
+    scan_method: websearch
+    scan_query: '"RenewBuy" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Insurance · India"
+    enabled: false
+
+  - name: "Roomstory.ai"
+    careers_url: https://roomstory.ai
+    scan_method: websearch
+    scan_query: '"Roomstory.ai" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence · India"
+    enabled: false
+
+  - name: "Rumik.ai"
+    careers_url: https://rumik.ai
+    scan_method: websearch
+    scan_query: '"Rumik.ai" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence · India"
+    enabled: false
+
+  - name: "Samunnati"
+    careers_url: https://samunnati.com
+    scan_method: websearch
+    scan_query: '"Samunnati" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Agriculture · India"
+    enabled: false
+
+  - name: "Sanlayan"
+    careers_url: https://www.sanlayan.com/career
+    scan_method: websearch
+    scan_query: '"Sanlayan" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Food and Beverage · India"
+    enabled: false
+
+  - name: "Saswat Finance"
+    careers_url: https://www.saswatfinance.com
+    scan_method: websearch
+    scan_query: '"Saswat Finance" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Finance · India"
+    enabled: false
+
+  - name: "SatLeo Labs"
+    careers_url: https://www.satleolabs.com
+    scan_method: websearch
+    scan_query: '"SatLeo Labs" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Biotechnology, Pharmaceuticals · India"
+    enabled: false
+
+  - name: "Scandalous Foods"
+    careers_url: https://scandalousfoods.in
+    scan_method: websearch
+    scan_query: '"Scandalous Foods" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Food and Beverage · India"
+    enabled: false
+
+  - name: "ShopOS"
+    careers_url: https://shopos.ai/join-us
+    scan_method: websearch
+    scan_query: '"ShopOS" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Retail, E-commerce, Cloud Computing, Artificial Intelligence · India"
+    enabled: false
+
+  - name: "Skippi Ice Pops"
+    careers_url: https://skippi.in
+    scan_method: websearch
+    scan_query: '"Skippi Ice Pops" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Food and Beverage, Hospitality · India"
+    enabled: false
+
+  - name: "Slikk"
+    careers_url: https://slikk.club/careers
+    scan_method: websearch
+    scan_query: '"Slikk" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Fashion · India"
+    enabled: false
+
+  - name: "Snabbit"
+    careers_url: https://snabbit.com/
+    scan_method: websearch
+    scan_query: '"Snabbit" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Home Services · India"
+    enabled: false
+
+  - name: "Snitch"
+    careers_url: https://www.snitch.co.in
+    scan_method: websearch
+    scan_query: '"Snitch" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Fashion, E-commerce · India"
+    enabled: false
+
+  - name: "Spense"
+    careers_url: https://spense.money
+    scan_method: websearch
+    scan_query: '"Spense" careers "Product Manager" OR "AI Product Manager"'
+    notes: "FinTech · India"
+    enabled: false
+
+  - name: "StayVista"
+    careers_url: https://www.stayvista.com
+    scan_method: websearch
+    scan_query: '"StayVista" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Travel · India"
+    enabled: false
+
+  - name: "Sthyr Energy"
+    careers_url: https://sthyrenergy.com
+    scan_method: websearch
+    scan_query: '"Sthyr Energy" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Energy · India"
+    enabled: false
+
+  - name: "Stimuler"
+    careers_url: https://stimuler.tech/careers#section-1
+    scan_method: websearch
+    scan_query: '"Stimuler" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Artificial Intelligence · India"
+    enabled: false
+
+  - name: "Techfino Capital"
+    careers_url: https://www.techfino.in
+    scan_method: websearch
+    scan_query: '"Techfino Capital" careers "Product Manager" OR "AI Product Manager"'
+    notes: "FinTech, Finance · India"
+    enabled: false
+
+  - name: "The Tarzan Way"
+    careers_url: https://www.thetarzanway.com
+    scan_method: websearch
+    scan_query: '"The Tarzan Way" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Travel · India"
+    enabled: false
+
+  - name: "True Diamond"
+    careers_url: https://truediamond.in/
+    scan_method: websearch
+    scan_query: '"True Diamond" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Fashion · India"
+    enabled: false
+
+  - name: "Urbanaut"
+    careers_url: https://urbanaut.app
+    scan_method: websearch
+    scan_query: '"Urbanaut" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Cloud Computing · India"
+    enabled: false
+
+  - name: "Utopia Therapeutics"
+    careers_url: https://utopiathx.com
+    scan_method: websearch
+    scan_query: '"Utopia Therapeutics" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Biotechnology, Healthcare · India"
+    enabled: false
+
+  - name: "Vecmocon Technologies"
+    careers_url: https://vecmocon.com
+    scan_method: websearch
+    scan_query: '"Vecmocon Technologies" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Manufacturing · India"
+    enabled: false
+
+  - name: "WeXL Edu"
+    careers_url: https://www.wexledu.com/careers.html
+    scan_method: websearch
+    scan_query: '"WeXL Edu" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Education · India"
+    enabled: false
+
+  - name: "Wiom"
+    careers_url: https://wiom.in
+    scan_method: websearch
+    scan_query: '"Wiom" careers "Product Manager" OR "AI Product Manager"'
+    notes: "Telecommunications · India"
+    enabled: false
+
+  - name: "XPortel"
+    careers_url: https://www.xportel.com
+    scan_method: websearch
+    scan_query: '"XPortel" careers "Product Manager" OR "AI Product Manager"'
+    notes: "E-commerce, Logistics · India"
+    enabled: false
+
+  - name: "Ziniosa"
+    careers_url: https://ziniosa.com
+    scan_method: websearch
+    scan_query: '"Ziniosa" careers "Product Manager" OR "AI Product Manager"'
+    notes: "E-commerce, Fashion · India"
+    enabled: false
+
+  # ── promoted from LinkedIn discovery (auto, 2026-05-16) ──
+
+  - name: "Learneo"
+    careers_url: https://job-boards.greenhouse.io/learneo
+    api: https://boards-api.greenhouse.io/v1/boards/learneo/jobs
+    notes: "auto-promoted from LinkedIn-discovered pipeline entry"
+    enabled: true
+
+  - name: "Smartsheet"
+    careers_url: https://job-boards.greenhouse.io/smartsheet
+    api: https://boards-api.greenhouse.io/v1/boards/smartsheet/jobs
+    notes: "auto-promoted from LinkedIn-discovered pipeline entry"
+    enabled: true
+
+  - name: "Rackspace Technology"
+    careers_url: https://jobs.lever.co/rackspace
+    notes: "auto-promoted from LinkedIn-discovered pipeline entry"
+    enabled: true
+
+  - name: "Conga"
+    careers_url: https://job-boards.greenhouse.io/conga
+    api: https://boards-api.greenhouse.io/v1/boards/conga/jobs
+    notes: "auto-promoted from LinkedIn-discovered pipeline entry"
+    enabled: true
+
+  - name: "Sumo Logic"
+    careers_url: https://job-boards.greenhouse.io/sumologic
+    api: https://boards-api.greenhouse.io/v1/boards/sumologic/jobs
+    notes: "auto-promoted from LinkedIn-discovered pipeline entry"
+    enabled: true
+
+  - name: "QuillBot"
+    careers_url: https://job-boards.greenhouse.io/quillbot
+    api: https://boards-api.greenhouse.io/v1/boards/quillbot/jobs
+    notes: "auto-promoted from LinkedIn-discovered pipeline entry"
+    enabled: true
+
+  - name: "Bureau"
+    careers_url: https://jobs.ashbyhq.com/bureau
+    notes: "auto-promoted from LinkedIn-discovered pipeline entry"
+    enabled: true
+
+  - name: "FINN"
+    careers_url: https://jobs.lever.co/finn
+    notes: "auto-promoted from LinkedIn-discovered pipeline entry"
+    enabled: true
+
+  # ── promoted from pipeline discovery (auto, 2026-05-16) ──
+
+  - name: "Nanonets"
+    careers_url: https://job-boards.greenhouse.io/nanonets
+    api: https://boards-api.greenhouse.io/v1/boards/nanonets/jobs
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Moveworks"
+    careers_url: https://job-boards.greenhouse.io/moveworks
+    api: https://boards-api.greenhouse.io/v1/boards/moveworks/jobs
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Clari"
+    careers_url: https://jobs.lever.co/clari
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "RISA Labs"
+    careers_url: https://job-boards.greenhouse.io/risalabs
+    api: https://boards-api.greenhouse.io/v1/boards/risalabs/jobs
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "JFrog"
+    careers_url: https://job-boards.greenhouse.io/jfrog
+    api: https://boards-api.greenhouse.io/v1/boards/jfrog/jobs
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Deutsche Telekom Digital Labs"
+    careers_url: https://deutsche.com/careers
+    scan_method: websearch
+    scan_query: '"Deutsche Telekom Digital Labs" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "G-P"
+    careers_url: https://www.globalization-partners.com/careers/
+    scan_method: websearch
+    scan_query: '"G-P" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "HighLevel"
+    careers_url: https://www.gohighlevel.com/careers
+    scan_method: websearch
+    scan_query: '"HighLevel" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "Emeritus"
+    careers_url: https://emeritus.co/careers
+    scan_method: websearch
+    scan_query: '"Emeritus" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "Idiotic Media"
+    careers_url: https://idiotic.com/careers
+    scan_method: websearch
+    scan_query: '"Idiotic Media" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "ixigo"
+    careers_url: https://careers.ixigo.com/
+    scan_method: websearch
+    scan_query: '"ixigo" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "Osmos"
+    careers_url: https://osmos.in/about/careers
+    scan_method: websearch
+    scan_query: '"Osmos" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "RapidBrains"
+    careers_url: https://www.rapidbrains.com/careers
+    scan_method: websearch
+    scan_query: '"RapidBrains" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "Dario"
+    careers_url: https://dario.co/careers
+    scan_method: websearch
+    scan_query: '"Dario" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "Priceline"
+    careers_url: https://careers.priceline.com/
+    scan_method: websearch
+    scan_query: '"Priceline" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "Weekday AI (YC W21)"
+    careers_url: https://weekdayai.com/careers
+    scan_method: websearch
+    scan_query: '"Weekday AI (YC W21)" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "Unicommerce"
+    careers_url: https://infowordpress.s3.ap-south-1.amazonaws.com/wp-content/uploads/2021/07/03110253/Careers.png
+    scan_method: websearch
+    scan_query: '"Unicommerce" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "Publicis Sapient"
+    careers_url: https://careers.publicissapient.com/
+    scan_method: websearch
+    scan_query: '"Publicis Sapient" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "Sprinklr"
+    careers_url: https://sprinklr.wd1.myworkdayjobs.com/careers
+
+  - name: "Critical Start"
+    careers_url: https://careers-criticalstart.icims.com/
+    scan_method: websearch
+    scan_query: '"Critical Start" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "Precisely"
+    careers_url: https://www.precisely.com/careers-and-culture/
+    scan_method: websearch
+    scan_query: '"Precisely" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "Clearwater Analytics"
+    careers_url: https://cwan.com/company/careers/
+    scan_method: websearch
+    scan_query: '"Clearwater Analytics" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "Airtel Digital"
+    careers_url: https://airteldigital.com/careers
+    scan_method: websearch
+    scan_query: '"Airtel Digital" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "Booking Holdings (NASDAQ: BKNG)"
+    careers_url: https://www.bookingholdings.com/careers/careers/
+    scan_method: websearch
+    scan_query: '"Booking Holdings (NASDAQ: BKNG)" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "Crossing Hurdles"
+    careers_url: https://crossing.com/careers
+    scan_method: websearch
+    scan_query: '"Crossing Hurdles" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "Paylocity"
+    careers_url: https://paylocity.io/careers
+    scan_method: websearch
+    scan_query: '"Paylocity" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "First Advantage"
+    careers_url: https://firstadvantage.co/careers
+    scan_method: websearch
+    scan_query: '"First Advantage" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "Nexlogica"
+    careers_url: https://www.nexlogica.com/company/careers/
+    scan_method: websearch
+    scan_query: '"Nexlogica" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "Experian"
+    careers_url: https://www.experian.in/careers
+    scan_method: websearch
+    scan_query: '"Experian" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "Teradata"
+    careers_url: https://www.teradata.com/about-us/careers
+    scan_method: websearch
+    scan_query: '"Teradata" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "GreyOrange"
+    careers_url: https://www.greyorange.com/company/careers/
+    scan_method: websearch
+    scan_query: '"GreyOrange" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "Moonfrog Labs"
+    careers_url: https://moonfroglabs.com/careers/
+    scan_method: websearch
+    scan_query: '"Moonfrog Labs" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "Big Assets Infra"
+    careers_url: https://bigassets.com/careers
+    scan_method: websearch
+    scan_query: '"Big Assets Infra" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "Tamasha"
+    careers_url: https://tamasha.co/careers
+    scan_method: websearch
+    scan_query: '"Tamasha" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "SciSpace"
+    careers_url: https://scispace.in/careers
+    scan_method: websearch
+    scan_query: '"SciSpace" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "Aris Infra"
+    careers_url: https://aris.co/careers
+    scan_method: websearch
+    scan_query: '"Aris Infra" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "Birla Pivot"
+    careers_url: https://birla.in/careers
+    scan_method: websearch
+    scan_query: '"Birla Pivot" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "Lucio"
+    careers_url: https://lucio.com/careers
+    scan_method: websearch
+    scan_query: '"Lucio" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "Zolve"
+    careers_url: https://zolve.co/careers/
+    scan_method: websearch
+    scan_query: '"Zolve" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "NowPurchase"
+    careers_url: https://nowpurchase.com/careers/
+    scan_method: websearch
+    scan_query: '"NowPurchase" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "PayU"
+    careers_url: https://careers.payu.in/PayU/go/_/514880/
+    scan_method: websearch
+    scan_query: '"PayU" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "Akamai"
+    careers_url: https://www.akamai.com/careers
+    scan_method: websearch
+    scan_query: '"Akamai" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "ALLEN Digital"
+    careers_url: https://allenai.org/careers
+    scan_method: websearch
+    scan_query: '"ALLEN Digital" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "Keka HR"
+    careers_url: https://www.keka.com/careers
+    scan_method: websearch
+    scan_query: '"Keka HR" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "Peeko"
+    careers_url: https://peeko.ai/careers
+    scan_method: websearch
+    scan_query: '"Peeko" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "myGate"
+    careers_url: https://mygate.com/careers/
+    scan_method: websearch
+    scan_query: '"myGate" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "Agrim Wholesale"
+    careers_url: https://agrimwholesale.com/careers
+    scan_method: websearch
+    scan_query: '"Agrim Wholesale" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "Valeo"
+    careers_url: https://www.valeo.com/en/careers/
+    scan_method: websearch
+    scan_query: '"Valeo" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "Increff"
+    careers_url: https://www.increff.com/careers
+    scan_method: websearch
+    scan_query: '"Increff" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "Aftershoot"
+    careers_url: https://careers.kula.ai/aftershoot
+    scan_method: websearch
+    scan_query: '"Aftershoot" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "RamSoft"
+    careers_url: https://www.ramsoft.com/careers
+    scan_method: websearch
+    scan_query: '"RamSoft" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "OneShot AI"
+    careers_url: https://oneshotai.com/careers
+    scan_method: websearch
+    scan_query: '"OneShot AI" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "Onsite"
+    careers_url: https://onsite.com/careers
+    scan_method: websearch
+    scan_query: '"Onsite" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "Ansrsource"
+    careers_url: https://ansrsource.com/careers/
+    scan_method: websearch
+    scan_query: '"Ansrsource" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  # ── promoted from pipeline discovery (auto, 2026-05-17) ──
+
+  - name: "Talkdesk"
+    careers_url: https://jobs.ashbyhq.com/talkdesk
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "New Relic"
+    careers_url: https://job-boards.greenhouse.io/newrelic
+    api: https://boards-api.greenhouse.io/v1/boards/newrelic/jobs
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Adit"
+    careers_url: https://adit.com/careers
+    scan_method: websearch
+    scan_query: '"Adit" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "AiDASH"
+    careers_url: https://www.aidash.com/careers/
+    scan_method: websearch
+    scan_query: '"AiDASH" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "Bank of Baroda"
+    careers_url: https://bankofbaroda.co/careers
+    scan_method: websearch
+    scan_query: '"Bank of Baroda" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "zenda"
+    careers_url: https://zenda.io/careers
+    scan_method: websearch
+    scan_query: '"zenda" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "Dezerv"
+    careers_url: https://www.dezerv.in/careers/
+    scan_method: websearch
+    scan_query: '"Dezerv" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "Adobe"
+    careers_url: https://adobe.wd5.myworkdayjobs.com/external_experienced
+
+  - name: "JoVE"
+    careers_url: https://www.jove.com/careers
+    scan_method: websearch
+    scan_query: '"JoVE" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "Optum"
+    careers_url: https://www.optum.com/en/careers.html
+    scan_method: websearch
+    scan_query: '"Optum" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "CodeRound AI"
+    careers_url: https://coderound.com/careers
+    scan_method: websearch
+    scan_query: '"CodeRound AI" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  - name: "Council on Energy, Environment and Water (CEEW)"
+    careers_url: https://council.co/careers
+    scan_method: websearch
+    scan_query: '"Council on Energy, Environment and Water (CEEW)" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: false
+
+  # ── promoted from pipeline discovery (auto, 2026-05-17) ──
+
+  - name: "OpenFX"
+    careers_url: https://job-boards.greenhouse.io/openfx
+    api: https://boards-api.greenhouse.io/v1/boards/openfx/jobs
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Nium"
+    careers_url: https://jobs.lever.co/nium
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Weave"
+    careers_url: https://job-boards.greenhouse.io/weave
+    api: https://boards-api.greenhouse.io/v1/boards/weave/jobs
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Confluent"
+    careers_url: https://jobs.ashbyhq.com/confluent
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Tekion Corp"
+    careers_url: https://job-boards.greenhouse.io/tekion
+    api: https://boards-api.greenhouse.io/v1/boards/tekion/jobs
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Acceldata"
+    careers_url: https://jobs.lever.co/acceldata
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Innodata Inc."
+    careers_url: https://job-boards.greenhouse.io/innodatainc
+    api: https://boards-api.greenhouse.io/v1/boards/innodatainc/jobs
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "AIOS"
+    careers_url: https://jobs.ashbyhq.com/aios
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Precision Medicine Group"
+    careers_url: https://job-boards.greenhouse.io/precisionmedicinegroup
+    api: https://boards-api.greenhouse.io/v1/boards/precisionmedicinegroup/jobs
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Urban Harvest"
+    careers_url: https://urban-harvest.com/careers
+    scan_method: websearch
+    scan_query: '"Urban Harvest" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "CareerXperts Consulting"
+    careers_url: https://careerxperts.com/join-careerxperts/
+    scan_method: websearch
+    scan_query: '"CareerXperts Consulting" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Intuit"
+    careers_url: https://www.intuit.com/careers/
+    scan_method: websearch
+    scan_query: '"Intuit" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Alation"
+    careers_url: https://www.alation.com/careers/
+    scan_method: websearch
+    scan_query: '"Alation" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Jack & Jill"
+    careers_url: https://www.jackandjill.ai/careers
+    scan_method: websearch
+    scan_query: '"Jack & Jill" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Circle"
+    careers_url: https://careers.circle.com/us/en
+    scan_method: websearch
+    scan_query: '"Circle" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Proofpoint"
+    careers_url: https://www.proofpoint.com/us/company/careers
+    scan_method: websearch
+    scan_query: '"Proofpoint" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Nuclei"
+    careers_url: https://nuclei.in/careers
+    scan_method: websearch
+    scan_query: '"Nuclei" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Gate"
+    careers_url: https://www.gate.com/careers
+    scan_method: websearch
+    scan_query: '"Gate" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "RapidCanvas"
+    careers_url: https://www.rapidcanvas.ai/careers
+    scan_method: websearch
+    scan_query: '"RapidCanvas" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Flexmoney Technologies Pvt Ltd"
+    careers_url: https://flexmoney.ai/careers
+    scan_method: websearch
+    scan_query: '"Flexmoney Technologies Pvt Ltd" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Google"
+    careers_url: https://www.google.com/about/careers/applications/
+    scan_method: websearch
+    scan_query: '"Google" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Infinx"
+    careers_url: https://infinx.co/careers
+    scan_method: websearch
+    scan_query: '"Infinx" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Decathlon"
+    careers_url: https://www.decathlon.in/careers
+    scan_method: websearch
+    scan_query: '"Decathlon" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Cvent"
+    careers_url: https://cvent.io/careers
+    scan_method: websearch
+    scan_query: '"Cvent" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "VMock"
+    careers_url: https://www.vmock.com/jobs/
+    scan_method: websearch
+    scan_query: '"VMock" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "hackajob"
+    careers_url: https://hackajob.com/jobs
+    scan_method: websearch
+    scan_query: '"hackajob" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Endava"
+    careers_url: https://www.endava.com/careers
+    scan_method: websearch
+    scan_query: '"Endava" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Granicus India"
+    careers_url: https://granicus.com/careers/
+    scan_method: websearch
+    scan_query: '"Granicus India" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Circuitry.ai"
+    careers_url: https://circuitryai.com/careers
+    scan_method: websearch
+    scan_query: '"Circuitry.ai" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Creospan Private Limited"
+    careers_url: https://creospan.com/careers/
+    scan_method: websearch
+    scan_query: '"Creospan Private Limited" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Fulfillment IQ"
+    careers_url: https://fulfillmentiq.com/careers/
+    scan_method: websearch
+    scan_query: '"Fulfillment IQ" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Soho Square Solutions"
+    careers_url: https://sohosquaresolutions.com/careers/
+    scan_method: websearch
+    scan_query: '"Soho Square Solutions" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "UltraTech Cement"
+    careers_url: https://ultratech-cement.in/careers
+    scan_method: websearch
+    scan_query: '"UltraTech Cement" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Definitive Healthcare"
+    careers_url: https://definitive.ai/careers
+    scan_method: websearch
+    scan_query: '"Definitive Healthcare" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "ParentPay Group"
+    careers_url: https://www.parentpaygroup.com/careers/
+    scan_method: websearch
+    scan_query: '"ParentPay Group" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Vena Solutions"
+    careers_url: https://venasolutions.co/careers
+    scan_method: websearch
+    scan_query: '"Vena Solutions" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "symplr"
+    careers_url: https://www.symplr.com/careers
+    scan_method: websearch
+    scan_query: '"symplr" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Wolters Kluwer"
+    careers_url: https://wolters.co/careers/
+    scan_method: websearch
+    scan_query: '"Wolters Kluwer" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "CyberArk"
+    careers_url: https://www.cyberark.com/careers/
+    scan_method: websearch
+    scan_query: '"CyberArk" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Allianz Technology"
+    careers_url: https://allianztechnology.com/careers
+    scan_method: websearch
+    scan_query: '"Allianz Technology" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Ingram Micro"
+    careers_url: https://careers.ingrammicro.com/en/
+    scan_method: websearch
+    scan_query: '"Ingram Micro" careers "Product Manager" OR "AI Product Manager"'
+    notes: "auto-promoted (careers page only) from pipeline-discovered entry"
+    enabled: true
+
+  # ── promoted from pipeline discovery (auto, 2026-05-17) ──
+
+  - name: "Rubrik"
+    careers_url: https://job-boards.greenhouse.io/rubrik
+    api: https://boards-api.greenhouse.io/v1/boards/rubrik/jobs
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "HackerOne"
+    careers_url: https://jobs.ashbyhq.com/hackerone
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Activate Talent"
+    careers_url: https://job-boards.greenhouse.io/activate
+    api: https://boards-api.greenhouse.io/v1/boards/activate/jobs
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Precision AQ"
+    careers_url: https://job-boards.greenhouse.io/precisionaq
+    api: https://boards-api.greenhouse.io/v1/boards/precisionaq/jobs
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Valtech"
+    careers_url: https://job-boards.greenhouse.io/valtech
+    api: https://boards-api.greenhouse.io/v1/boards/valtech/jobs
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Amity Software Limited"
+    careers_url: https://job-boards.greenhouse.io/amity
+    api: https://boards-api.greenhouse.io/v1/boards/amity/jobs
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Inovalon"
+    careers_url: https://job-boards.greenhouse.io/inovalon
+    api: https://boards-api.greenhouse.io/v1/boards/inovalon/jobs
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  # ── promoted from pipeline discovery (auto, 2026-05-17) ──
+
+  # ── promoted from pipeline discovery (auto, 2026-05-18) ──
+
+  # ── promoted from pipeline discovery (auto, 2026-05-18) ──
+
+  - name: "Jobgether"
+    careers_url: https://jobs.lever.co/jobgether
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  # ── promoted from pipeline discovery (auto, 2026-05-19) ──
+
+  # ── promoted from pipeline discovery (auto, 2026-05-19) ──
+
+  # ── promoted from pipeline discovery (auto, 2026-05-19) ──
+
+  - name: "Agoda"
+    careers_url: https://job-boards.greenhouse.io/agoda
+    api: https://boards-api.greenhouse.io/v1/boards/agoda/jobs
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "TELUS Digital"
+    careers_url: https://jobs.ashbyhq.com/telus-digital
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Capco"
+    careers_url: https://job-boards.greenhouse.io/capco
+    api: https://boards-api.greenhouse.io/v1/boards/capco/jobs
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Igloo"
+    careers_url: https://jobs.lever.co/igloo
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Anaplan"
+    careers_url: https://job-boards.greenhouse.io/anaplan
+    api: https://boards-api.greenhouse.io/v1/boards/anaplan/jobs
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Zinnia"
+    careers_url: https://job-boards.greenhouse.io/zinnia
+    api: https://boards-api.greenhouse.io/v1/boards/zinnia/jobs
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Navi"
+    careers_url: https://jobs.ashbyhq.com/navi
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "HG Insights"
+    careers_url: https://job-boards.greenhouse.io/hginsights
+    api: https://boards-api.greenhouse.io/v1/boards/hginsights/jobs
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  # ── promoted from pipeline discovery (auto, 2026-05-19) ──
+
+  - name: "Crypto.com"
+    careers_url: https://jobs.lever.co/crypto
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  # ── promoted from pipeline discovery (auto, 2026-05-20) ──
+
+  - name: "Scale AI"
+    careers_url: https://job-boards.greenhouse.io/scaleai
+    api: https://boards-api.greenhouse.io/v1/boards/scaleai/jobs
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Eli Lilly and Company"
+    careers_url: https://jobs.ashbyhq.com/eli
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Monk Commerce"
+    careers_url: https://jobs.ashbyhq.com/monk
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Vaya"
+    careers_url: https://job-boards.greenhouse.io/vaya
+    api: https://boards-api.greenhouse.io/v1/boards/vaya/jobs
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Motive"
+    careers_url: https://job-boards.greenhouse.io/motive
+    api: https://boards-api.greenhouse.io/v1/boards/motive/jobs
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Attentive.ai"
+    careers_url: https://job-boards.greenhouse.io/attentive
+    api: https://boards-api.greenhouse.io/v1/boards/attentive/jobs
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "INFUSE"
+    careers_url: https://job-boards.greenhouse.io/infuse
+    api: https://boards-api.greenhouse.io/v1/boards/infuse/jobs
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Pocket FM"
+    careers_url: https://jobs.lever.co/pocketfm
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "nexos.ai"
+    careers_url: https://jobs.ashbyhq.com/nexos-ai
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Wing Assistant"
+    careers_url: https://job-boards.greenhouse.io/wing
+    api: https://boards-api.greenhouse.io/v1/boards/wing/jobs
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Syntax Technologies"
+    careers_url: https://jobs.lever.co/syntax
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Josys"
+    careers_url: https://jobs.ashbyhq.com/josys
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Storable"
+    careers_url: https://job-boards.greenhouse.io/storable
+    api: https://boards-api.greenhouse.io/v1/boards/storable/jobs
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Nielsen"
+    careers_url: https://jobs.lever.co/nielsen
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Appian"
+    careers_url: https://job-boards.greenhouse.io/appian
+    api: https://boards-api.greenhouse.io/v1/boards/appian/jobs
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "National Payments Corporation Of India (NPCI)"
+    careers_url: https://job-boards.greenhouse.io/national
+    api: https://boards-api.greenhouse.io/v1/boards/national/jobs
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Ema"
+    careers_url: https://jobs.ashbyhq.com/ema
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "OnHires"
+    careers_url: https://jobs.ashbyhq.com/onhires
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Kobie"
+    careers_url: https://jobs.lever.co/kobie
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Found By Few"
+    careers_url: https://job-boards.greenhouse.io/found
+    api: https://boards-api.greenhouse.io/v1/boards/found/jobs
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Tandems"
+    careers_url: https://jobs.lever.co/tandems
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Loop AI"
+    careers_url: https://job-boards.greenhouse.io/loop
+    api: https://boards-api.greenhouse.io/v1/boards/loop/jobs
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Prodigal"
+    careers_url: https://job-boards.greenhouse.io/prodigal
+    api: https://boards-api.greenhouse.io/v1/boards/prodigal/jobs
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  # ── promoted from pipeline discovery (auto, 2026-05-21) ──
+
+  # ── promoted from pipeline discovery (auto, 2026-05-27) ──
+
+  # ── promoted from pipeline discovery (auto, 2026-05-27) ──
+
+  # ── soul-in-product-india (added 2026-05-27) ──
+  - name: "Keyloop"
+    careers_url: https://jobs.lever.co/keyloop
+  - name: "Scopely"
+    careers_url: https://job-boards.greenhouse.io/scopely
+    api: https://boards-api.greenhouse.io/v1/boards/scopely/jobs
+  - name: "OneTrust"
+    careers_url: https://job-boards.greenhouse.io/onetrust
+    api: https://boards-api.greenhouse.io/v1/boards/onetrust/jobs
+  - name: "Fam"
+    careers_url: https://jobs.lever.co/fampay
+  - name: "Altimate AI"
+    careers_url: https://jobs.ashbyhq.com/altimate
+  - name: "Metaforms"
+    careers_url: https://jobs.ashbyhq.com/metaforms
+  - name: "JumpCloud®"
+    careers_url: https://jobs.lever.co/jumpcloud
+  - name: "WIN"
+    careers_url: https://job-boards.greenhouse.io/winhomeinspection
+    api: https://boards-api.greenhouse.io/v1/boards/winhomeinspection/jobs
+  - name: "Headout"
+    careers_url: https://job-boards.greenhouse.io/headoutlinkedin
+    api: https://boards-api.greenhouse.io/v1/boards/headoutlinkedin/jobs
+  - name: "Arkose Labs"
+    careers_url: https://job-boards.greenhouse.io/arkoselabs
+    api: https://boards-api.greenhouse.io/v1/boards/arkoselabs/jobs
+  - name: "Zynga"
+    careers_url: https://job-boards.greenhouse.io/zyngacareers
+    api: https://boards-api.greenhouse.io/v1/boards/zyngacareers/jobs
+  - name: "Parspec"
+    careers_url: https://jobs.ashbyhq.com/parspec
+  - name: "Kong"
+    careers_url: https://jobs.ashbyhq.com/kong
+  - name: "Oportun"
+    careers_url: https://job-boards.greenhouse.io/oportun
+    api: https://boards-api.greenhouse.io/v1/boards/oportun/jobs
+  - name: "Tide"
+    careers_url: https://job-boards.greenhouse.io/tide
+    api: https://boards-api.greenhouse.io/v1/boards/tide/jobs
+  - name: "Saviynt"
+    careers_url: https://jobs.lever.co/saviynt
+  - name: "Axi"
+    careers_url: https://job-boards.greenhouse.io/axicorpfinancialservicesptyltd
+    api: https://boards-api.greenhouse.io/v1/boards/axicorpfinancialservicesptyltd/jobs
+  - name: "Netomi"
+    careers_url: https://jobs.lever.co/netomi
+  - name: "Tilt"
+    careers_url: https://jobs.ashbyhq.com/tilthq
+  - name: "Bluevine"
+    careers_url: https://job-boards.greenhouse.io/bluevineindia
+    api: https://boards-api.greenhouse.io/v1/boards/bluevineindia/jobs
+  - name: "Credo AI"
+    careers_url: https://jobs.ashbyhq.com/credo.ai
+  - name: "Flexport"
+    careers_url: https://job-boards.greenhouse.io/flexport
+    api: https://boards-api.greenhouse.io/v1/boards/flexport/jobs
+  - name: "Bottomline"
+    careers_url: https://job-boards.greenhouse.io/bottomlinetechnologies
+    api: https://boards-api.greenhouse.io/v1/boards/bottomlinetechnologies/jobs
+  - name: "Libra AI"
+    careers_url: https://jobs.ashbyhq.com/libra
+  - name: "Harvey"
+    careers_url: https://jobs.ashbyhq.com/harvey
+  - name: "Zscaler"
+    careers_url: https://job-boards.greenhouse.io/zscaler
+    api: https://boards-api.greenhouse.io/v1/boards/zscaler/jobs
+  - name: "LG Ad Solutions"
+    careers_url: https://jobs.ashbyhq.com/lgads
+  - name: "InMobi Advertising"
+    careers_url: https://job-boards.greenhouse.io/inmobi
+    api: https://boards-api.greenhouse.io/v1/boards/inmobi/jobs
+  - name: "Glomopay"
+    careers_url: https://jobs.ashbyhq.com/glomo
+  - name: "6sense"
+    careers_url: https://job-boards.greenhouse.io/embed
+    api: https://boards-api.greenhouse.io/v1/boards/embed/jobs
+  - name: "Boku Inc."
+    careers_url: https://job-boards.greenhouse.io/boku
+    api: https://boards-api.greenhouse.io/v1/boards/boku/jobs
+  - name: "Globalization Partners"
+    careers_url: https://job-boards.greenhouse.io/globalizationpartners
+    api: https://boards-api.greenhouse.io/v1/boards/globalizationpartners/jobs
+  - name: "doola"
+    careers_url: https://jobs.lever.co/doola
+  - name: "Tellius"
+    careers_url: https://job-boards.greenhouse.io/tellius
+    api: https://boards-api.greenhouse.io/v1/boards/tellius/jobs
+  - name: "FourKites"
+    careers_url: https://job-boards.greenhouse.io/fourkites
+    api: https://boards-api.greenhouse.io/v1/boards/fourkites/jobs
+  - name: "Fermi"
+    careers_url: https://jobs.ashbyhq.com/Fermi%20AI
+  - name: "Easyship"
+    careers_url: https://job-boards.greenhouse.io/easyship
+    api: https://boards-api.greenhouse.io/v1/boards/easyship/jobs
+  - name: "Loop"
+    careers_url: https://jobs.lever.co/Loop%20AI
+  - name: "Narvar"
+    careers_url: https://job-boards.greenhouse.io/narvar
+    api: https://boards-api.greenhouse.io/v1/boards/narvar/jobs
+  - name: "Cohere Health"
+    careers_url: https://job-boards.greenhouse.io/coherehealth
+    api: https://boards-api.greenhouse.io/v1/boards/coherehealth/jobs
+  - name: "Gushwork"
+    careers_url: https://jobs.lever.co/gushwork
+  - name: "Arcana"
+    careers_url: https://job-boards.greenhouse.io/arcanaanalytics
+    api: https://boards-api.greenhouse.io/v1/boards/arcanaanalytics/jobs
+  - name: "JioHotstar"
+    careers_url: https://jobs.lever.co/jiostar
+  - name: "Modulr"
+    careers_url: https://job-boards.greenhouse.io/modulrfinance
+    api: https://boards-api.greenhouse.io/v1/boards/modulrfinance/jobs
+  - name: "Celonis"
+    careers_url: https://job-boards.greenhouse.io/celonis
+    api: https://boards-api.greenhouse.io/v1/boards/celonis/jobs
+  - name: "DreamMoney"
+    careers_url: https://jobs.lever.co/dreamsports
+  - name: "Ocrolus"
+    careers_url: https://job-boards.greenhouse.io/ocrolusinc
+    api: https://boards-api.greenhouse.io/v1/boards/ocrolusinc/jobs
+  - name: "Interview Kickstart"
+    careers_url: https://job-boards.greenhouse.io/interviewkickstart
+    api: https://boards-api.greenhouse.io/v1/boards/interviewkickstart/jobs
+  - name: "Aspora"
+    careers_url: https://jobs.ashbyhq.com/Aspora
+  - name: "UiPath"
+    careers_url: https://jobs.ashbyhq.com/uipath
+  - name: "Aspire"
+    careers_url: https://job-boards.greenhouse.io/aspireio
+    api: https://boards-api.greenhouse.io/v1/boards/aspireio/jobs
+  - name: "Apply Digital"
+    careers_url: https://jobs.lever.co/applydigital
+  - name: "BitGo"
+    careers_url: https://job-boards.greenhouse.io/bitgo
+    api: https://boards-api.greenhouse.io/v1/boards/bitgo/jobs
+  - name: "Menlo Security"
+    careers_url: https://jobs.ashbyhq.com/menlosecurity
+  - name: "Ethos"
+    careers_url: https://job-boards.greenhouse.io/ethoslife
+    api: https://boards-api.greenhouse.io/v1/boards/ethoslife/jobs
+
+  # ── soul-in-product-india-tier1 SmartRecruiters/Workable/BambooHR (2026-05-27) ──
+  - name: "Nielsen"
+    careers_url: https://jobs.smartrecruiters.com/TheNielsenCompany
+  - name: "Ajaib"
+    careers_url: https://apply.workable.com/ajaib
+  - name: "Nagarro"
+    careers_url: https://jobs.smartrecruiters.com/nagarro1
+  - name: "Entain India"
+    careers_url: https://jobs.smartrecruiters.com/Entain
+  - name: "Malbek"
+    careers_url: https://malbek.bamboohr.com/careers
+  - name: "Visa"
+    careers_url: https://jobs.smartrecruiters.com/Visa
+  - name: "Freshworks"
+    careers_url: https://jobs.smartrecruiters.com/Freshworks
+  - name: "Elevation Capital (Portfolio)"
+    careers_url: https://apply.workable.com/elevation-capital-3
+  - name: "IDinsight"
+    careers_url: https://idinsight.bamboohr.com/careers
+  - name: "Accellor"
+    careers_url: https://apply.workable.com/accellor
+  - name: "Wati"
+    careers_url: https://apply.workable.com/wati-dot-i-o
+  - name: "ixigo"
+    careers_url: https://jobs.smartrecruiters.com/ixigo
+  - name: "ZAGENO"
+    careers_url: https://zageno.bamboohr.com/careers
+  - name: "KredX"
+    careers_url: https://jobs.smartrecruiters.com/Kredx
+
+  # ── vc-portfolio-india (added 2026-05-27) ──
+  - name: "Atlan"
+    careers_url: https://jobs.ashbyhq.com/atlan
+  - name: "Bounce"
+    careers_url: https://jobs.ashbyhq.com/bounce
+  - name: "Musixmatch"
+    careers_url: https://jobs.lever.co/musixmatch
+  - name: "Insider"
+    careers_url: https://job-boards.greenhouse.io/insider
+    api: https://boards-api.greenhouse.io/v1/boards/insider/jobs
+  - name: "Tala"
+    careers_url: https://jobs.lever.co/tala
+  - name: "Atomicwork"
+    careers_url: https://job-boards.greenhouse.io/atomicwork
+    api: https://boards-api.greenhouse.io/v1/boards/atomicwork/jobs
+
+  # ── soul-in-product-ats-discovery (added 2026-05-27) ──
+  - name: "Affle"
+    careers_url: https://job-boards.greenhouse.io/affle
+    api: https://boards-api.greenhouse.io/v1/boards/affle/jobs
+  - name: "Adyen"
+    careers_url: https://job-boards.greenhouse.io/adyen
+    api: https://boards-api.greenhouse.io/v1/boards/adyen/jobs
+  - name: "Almabase"
+    careers_url: https://jobs.ashbyhq.com/almabase
+  - name: "Amber"
+    careers_url: https://jobs.ashbyhq.com/amber
+  - name: "Anchanto"
+    careers_url: https://job-boards.greenhouse.io/anchanto
+    api: https://boards-api.greenhouse.io/v1/boards/anchanto/jobs
+  - name: "Bazaarvoice"
+    careers_url: https://jobs.lever.co/bazaarvoice
+  - name: "Boomi"
+    careers_url: https://jobs.ashbyhq.com/boomi
+  - name: "Celigo"
+    careers_url: https://job-boards.greenhouse.io/celigo
+    api: https://boards-api.greenhouse.io/v1/boards/celigo/jobs
+  - name: "Cialfo"
+    careers_url: https://job-boards.greenhouse.io/cialfo
+    api: https://boards-api.greenhouse.io/v1/boards/cialfo/jobs
+  - name: "Clear"
+    careers_url: https://job-boards.greenhouse.io/clear
+    api: https://boards-api.greenhouse.io/v1/boards/clear/jobs
+  - name: "CloudSEK"
+    careers_url: https://job-boards.greenhouse.io/cloudsek
+    api: https://boards-api.greenhouse.io/v1/boards/cloudsek/jobs
+  - name: "Commvault"
+    careers_url: https://job-boards.greenhouse.io/commvault
+    api: https://boards-api.greenhouse.io/v1/boards/commvault/jobs
+  - name: "Cornerstone"
+    careers_url: https://job-boards.greenhouse.io/cornerstone
+    api: https://boards-api.greenhouse.io/v1/boards/cornerstone/jobs
+  - name: "Coursera"
+    careers_url: https://job-boards.greenhouse.io/coursera
+    api: https://boards-api.greenhouse.io/v1/boards/coursera/jobs
+  - name: "Cube"
+    careers_url: https://jobs.ashbyhq.com/cube
+  - name: "Coupa"
+    careers_url: https://jobs.lever.co/coupa
+  - name: "Digicert"
+    careers_url: https://job-boards.greenhouse.io/digicert
+    api: https://boards-api.greenhouse.io/v1/boards/digicert/jobs
+  - name: "Duolingo"
+    careers_url: https://job-boards.greenhouse.io/duolingo
+    api: https://boards-api.greenhouse.io/v1/boards/duolingo/jobs
+  - name: "Eternal"
+    careers_url: https://jobs.lever.co/eternal
+  - name: "Five9"
+    careers_url: https://job-boards.greenhouse.io/five9
+    api: https://boards-api.greenhouse.io/v1/boards/five9/jobs
+  - name: "Fivetran"
+    careers_url: https://job-boards.greenhouse.io/fivetran
+    api: https://boards-api.greenhouse.io/v1/boards/fivetran/jobs
+  - name: "Fresh Prints"
+    careers_url: https://job-boards.greenhouse.io/freshprints
+    api: https://boards-api.greenhouse.io/v1/boards/freshprints/jobs
+  - name: "Genea"
+    careers_url: https://job-boards.greenhouse.io/genea
+    api: https://boards-api.greenhouse.io/v1/boards/genea/jobs
+  - name: "Glomo"
+    careers_url: https://jobs.ashbyhq.com/glomo
+  - name: "GoDaddy"
+    careers_url: https://job-boards.greenhouse.io/godaddy
+    api: https://boards-api.greenhouse.io/v1/boards/godaddy/jobs
+  - name: "HighSpot"
+    careers_url: https://jobs.lever.co/highspot
+  - name: "Hinge Health"
+    careers_url: https://jobs.ashbyhq.com/hinge-health
+  - name: "Inflection.io"
+    careers_url: https://jobs.ashbyhq.com/inflectionio
+  - name: "Kaseya"
+    careers_url: https://job-boards.greenhouse.io/kaseya
+    api: https://boards-api.greenhouse.io/v1/boards/kaseya/jobs
+  - name: "JumpCloud"
+    careers_url: https://jobs.lever.co/jumpcloud
+  - name: "Leap"
+    careers_url: https://job-boards.greenhouse.io/leap
+    api: https://boards-api.greenhouse.io/v1/boards/leap/jobs
+  - name: "LinkedIn"
+    careers_url: https://job-boards.greenhouse.io/linkedin
+    api: https://boards-api.greenhouse.io/v1/boards/linkedin/jobs
+  - name: "LogicMonitor"
+    careers_url: https://job-boards.greenhouse.io/logicmonitor
+    api: https://boards-api.greenhouse.io/v1/boards/logicmonitor/jobs
+  - name: "Loopio"
+    careers_url: https://jobs.ashbyhq.com/loopio
+  - name: "MiQ Digital"
+    careers_url: https://job-boards.greenhouse.io/miqdigital
+    api: https://boards-api.greenhouse.io/v1/boards/miqdigital/jobs
+  - name: "Netskope"
+    careers_url: https://job-boards.greenhouse.io/netskope
+    api: https://boards-api.greenhouse.io/v1/boards/netskope/jobs
+  - name: "OpenGov"
+    careers_url: https://jobs.ashbyhq.com/opengov
+  - name: "Payoneer"
+    careers_url: https://job-boards.greenhouse.io/payoneer
+    api: https://boards-api.greenhouse.io/v1/boards/payoneer/jobs
+  - name: "Pronto"
+    careers_url: https://job-boards.greenhouse.io/pronto
+    api: https://boards-api.greenhouse.io/v1/boards/pronto/jobs
+  - name: "Roku"
+    careers_url: https://job-boards.greenhouse.io/roku
+    api: https://boards-api.greenhouse.io/v1/boards/roku/jobs
+  - name: "Sarvam"
+    careers_url: https://jobs.ashbyhq.com/sarvam
+  - name: "SolarWinds"
+    careers_url: https://job-boards.greenhouse.io/solarwinds
+    api: https://boards-api.greenhouse.io/v1/boards/solarwinds/jobs
+  - name: "SonicWall"
+    careers_url: https://job-boards.greenhouse.io/sonicwall
+    api: https://boards-api.greenhouse.io/v1/boards/sonicwall/jobs
+  - name: "Snowflake"
+    careers_url: https://jobs.ashbyhq.com/snowflake
+  - name: "SpotDraft"
+    careers_url: https://jobs.ashbyhq.com/spotdraft
+  - name: "Sitetracker"
+    careers_url: https://jobs.lever.co/sitetracker
+  - name: "Superset"
+    careers_url: https://job-boards.greenhouse.io/superset
+    api: https://boards-api.greenhouse.io/v1/boards/superset/jobs
+  - name: "Titan"
+    careers_url: https://jobs.ashbyhq.com/titan
+  - name: "Toast"
+    careers_url: https://job-boards.greenhouse.io/toast
+    api: https://boards-api.greenhouse.io/v1/boards/toast/jobs
+  - name: "Unilever"
+    careers_url: https://job-boards.greenhouse.io/unilever
+    api: https://boards-api.greenhouse.io/v1/boards/unilever/jobs
+  - name: "Z1 Tech"
+    careers_url: https://jobs.lever.co/z1tech
+  - name: "ZoomInfo"
+    careers_url: https://job-boards.greenhouse.io/zoominfo
+    api: https://boards-api.greenhouse.io/v1/boards/zoominfo/jobs
+  - name: "dunnhumby"
+    careers_url: https://job-boards.greenhouse.io/dunnhumby
+    api: https://boards-api.greenhouse.io/v1/boards/dunnhumby/jobs
+  - name: "Yuno"
+    careers_url: https://jobs.lever.co/yuno
+
+  # ── promoted from pipeline discovery (auto, 2026-05-27) ──
+
+  - name: "VerSe Innovation"
+    careers_url: https://job-boards.greenhouse.io/verse
+    api: https://boards-api.greenhouse.io/v1/boards/verse/jobs
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Ascend"
+    careers_url: https://job-boards.greenhouse.io/ascend
+    api: https://boards-api.greenhouse.io/v1/boards/ascend/jobs
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Flock AI"
+    careers_url: https://jobs.ashbyhq.com/flock
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Career Crafterz"
+    careers_url: https://jobs.lever.co/career
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "CertifyOS"
+    careers_url: https://jobs.ashbyhq.com/certifyos
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "Coupang"
+    careers_url: https://job-boards.greenhouse.io/coupang
+    api: https://boards-api.greenhouse.io/v1/boards/coupang/jobs
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  - name: "YES BANK"
+    careers_url: https://job-boards.greenhouse.io/yes
+    api: https://boards-api.greenhouse.io/v1/boards/yes/jobs
+    notes: "auto-promoted (ATS hit) from pipeline-discovered entry"
+    enabled: true
+
+  # ── promoted from pipeline discovery (auto, 2026-05-27) ──
+
+  # ── workday-provider companies (added 2026-05-27) ──
+  - name: "BrowserStack"
+    careers_url: https://browserstack.wd3.myworkdayjobs.com/External
+
+  - name: "Salesforce"
+    careers_url: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site
+
+  - name: "Zendesk"
+    careers_url: https://zendesk.wd1.myworkdayjobs.com/Zendesk
+
+  - name: "Fractal Analytics"
+    careers_url: https://fractal.wd1.myworkdayjobs.com/Careers
+
+  # ── promoted from pipeline discovery (auto, 2026-05-28) ──
+
+  # ── promoted from pipeline discovery (auto, 2026-05-28) ──
+
+  # ── promoted from pipeline discovery (auto, 2026-05-28) ──
+
+  # ── manually added 2026-05-28 ──
+  - name: "Pratham International"
+    careers_url: https://job-boards.greenhouse.io/prathaminternational
+    api: https://boards-api.greenhouse.io/v1/boards/prathaminternational/jobs
+
+  - name: "Cohere Health"
+    careers_url: https://job-boards.greenhouse.io/coherehealth
+    api: https://boards-api.greenhouse.io/v1/boards/coherehealth/jobs
+
+  - name: "JazzX AI"
+    careers_url: https://job-boards.greenhouse.io/jazzx-ai
+    api: https://boards-api.greenhouse.io/v1/boards/jazzx-ai/jobs
+
+  - name: "Karya"
+    careers_url: https://job-boards.greenhouse.io/karya
+    api: https://boards-api.greenhouse.io/v1/boards/karya/jobs
+
+  - name: "LG Ad Solutions"
+    careers_url: https://jobs.ashbyhq.com/lgads
+
+  - name: "Metaforms"
+    careers_url: https://jobs.ashbyhq.com/metaforms
+
+  # ── freshteam provider companies (added 2026-05-28) ──
+  - name: "DrinkPrime"
+    careers_url: https://drinkprime.freshteam.com/jobs
+
+  - name: "BharatPe"
+    careers_url: https://bharatpe.freshteam.com/jobs
+
+  # ── workable provider — India companies (added 2026-05-28) ──
+  - name: "Meesho"
+    careers_url: https://apply.workable.com/meesho/
+
+  - name: "Razorpay"
+    careers_url: https://apply.workable.com/razorpay/
+
+  - name: "Groww"
+    careers_url: https://apply.workable.com/groww/
+
+  - name: "smallcase"
+    careers_url: https://apply.workable.com/smallcase/
+
+  - name: "Jupiter Money"
+    careers_url: https://apply.workable.com/jupiter/
+
+  - name: "Niyo"
+    careers_url: https://apply.workable.com/niyo/
+
+  - name: "Slice"
+    careers_url: https://apply.workable.com/slice/
+
+  # ── workable — from jobs.workable.com/india PM search (2026-05-28) ──
+  - name: "Lokal App"
+    careers_url: https://apply.workable.com/lokal-app/
+
+  - name: "2070Health"
+    careers_url: https://apply.workable.com/2070health/
+
+  - name: "MediaRadar"
+    careers_url: https://apply.workable.com/mediaradar/
+
+  - name: "Azeus Convene"
+    careers_url: https://apply.workable.com/azeus-convene/
+
+  # ── freshteam — from gonoise.freshteam.com (2026-05-28) ──
+  - name: "boAt / GoNoise"
+    careers_url: https://gonoise.freshteam.com/jobs
+
+  # ── promoted from pipeline discovery (auto, 2026-05-28) ──
+
+  - name: "Sabre"
+    careers_url: https://sabre.wd1.myworkdayjobs.com/SabreJobs

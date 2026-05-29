@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>career-ops — add by URL</title>
+<style>
+  :root { --primary: #0079BF; --success: #36B37E; --line: #DFE1E6;
+          --text: #172B4D; --text-mute: #5E6C84; }
+  *, *::before, *::after { box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Inter", system-ui, sans-serif;
+         color: var(--text); margin: 0; padding: 28px 22px; max-width: 720px; }
+  h1 { font-size: 20px; margin: 0 0 6px; }
+  .sub { color: var(--text-mute); font-size: 13px; margin-bottom: 22px; }
+  h2 { font-size: 15px; margin: 26px 0 8px; }
+  p, li { line-height: 1.55; font-size: 14px; }
+  code { background: #F4F5F7; padding: 1px 5px; border-radius: 3px; font-size: 13px; }
+  .bookmarklet {
+    display: inline-block;
+    background: var(--primary); color: #fff;
+    padding: 10px 16px; border-radius: 6px;
+    text-decoration: none; font-weight: 600; font-size: 14px;
+    box-shadow: 0 2px 4px rgba(9,30,66,.18);
+  }
+  .bookmarklet:hover { background: #026AA7; }
+  .hint { font-size: 12px; color: var(--text-mute); margin-top: 4px; }
+  textarea { width: 100%; min-height: 140px; padding: 10px;
+             border: 1px solid var(--line); border-radius: 6px;
+             font-family: inherit; font-size: 13px; resize: vertical; }
+  button.submit {
+    appearance: none; border: 0; cursor: pointer;
+    background: var(--success); color: #fff;
+    padding: 9px 18px; border-radius: 6px; font-weight: 700; font-size: 13px;
+    margin-top: 10px;
+  }
+  button.submit:hover { background: #00875A; }
+  .result {
+    margin-top: 16px; padding: 10px 12px;
+    background: #F4F5F7; border-radius: 6px;
+    font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+    font-size: 12px; white-space: pre-wrap;
+    max-height: 360px; overflow-y: auto;
+  }
+  .back { font-size: 13px; color: var(--primary); text-decoration: none; }
+  .back:hover { text-decoration: underline; }
+</style>
+</head>
+<body>
+<a class="back" href="/">← dashboard</a>
+<h1>Add jobs to pipeline — by URL</h1>
+<p class="sub">No more copy-pasting into pipeline.md by hand. Use the bookmarklet for one-click adds while on LinkedIn / Greenhouse / Ashby / Lever / Workday / etc, or paste a batch below.</p>
+
+<h2>1. Bookmarklet (one click per job)</h2>
+<p>Drag the button below to your bookmarks bar. Then on any LinkedIn job page (or any ATS job URL), click the bookmark — the job is added to your pipeline. A small alert confirms.</p>
+<!-- The JS payload below is the bookmarklet code. We keep it short and
+     readable so a power-user can audit before installing. It does:
+       1. Read window.location.href
+       2. POST { urls: [href] } to /api/add-by-url on localhost:4242
+       3. alert() the result
+     CORS is handled by the dashboard server. We hard-code the dashboard
+     origin so it works from ANY job page, not just localhost. -->
+<a class="bookmarklet" href="javascript:(function(){var u=window.location.href;fetch('http://localhost:4242/api/add-by-url',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({urls:[u]})}).then(function(r){return r.json()}).then(function(j){var r=(j.results||[])[0]||{};var m=r.meta||{};if(r.status==='added'){alert('✓ added: '+(m.company||'?')+' — '+(m.role||''))}else if(r.status==='duplicate'){alert('· already in pipeline')}else{alert('✗ '+(r.status||'failed')+': '+(r.error||''))}}).catch(function(e){alert('✗ dashboard server not reachable: '+e.message)})})()" title="Drag me to the bookmarks bar">📎 Add to career-ops</a>
+<div class="hint">If dragging doesn't work: right-click the button → "Bookmark Link…" or "Add to Bookmarks".</div>
+
+<h2>2. Bulk paste (multiple URLs at once)</h2>
+<p>Paste one URL per line. Mix LinkedIn jobs and ATS pages freely.</p>
+<form id="bulk-form">
+  <textarea id="bulk-urls" placeholder="https://www.linkedin.com/jobs/view/1234567/
+https://job-boards.greenhouse.io/acme/jobs/9876
+https://jobs.ashbyhq.com/foo/abc-def"></textarea>
+  <br>
+  <button class="submit" type="submit">Add all</button>
+</form>
+<div id="result" class="result" style="display:none"></div>
+
+<script>
+document.getElementById('bulk-form').addEventListener('submit', async (e) => {
+  e.preventDefault();
+  const raw = document.getElementById('bulk-urls').value;
+  const urls = raw.split('\n').map(s => s.trim()).filter(s => /^https?:\/\//.test(s));
+  if (!urls.length) {
+    const r = document.getElementById('result');
+    r.style.display = 'block'; r.textContent = 'No valid URLs found (must start with http:// or https://).';
+    return;
+  }
+  const r = document.getElementById('result');
+  r.style.display = 'block';
+  r.textContent = 'Processing ' + urls.length + ' URL(s)…';
+  try {
+    const resp = await fetch('/api/add-by-url', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ urls }),
+    });
+    const j = await resp.json();
+    const lines = (j.results || []).map(it => {
+      if (it.status === 'added') return '✓ added: ' + (it.meta?.company || '?') + ' — ' + (it.meta?.role || '');
+      if (it.status === 'duplicate') return '· dup:   ' + it.url;
+      return '✗ ' + (it.status || 'failed') + ': ' + it.url + (it.error ? ' — ' + it.error : '');
+    });
+    const summary = '─── ' + (j.results?.length || 0) + ' processed ───\n';
+    r.textContent = summary + lines.join('\n');
+  } catch (e) {
+    r.textContent = 'request failed: ' + e.message;
+  }
+});
+</script>
+
+</body>
+</html>

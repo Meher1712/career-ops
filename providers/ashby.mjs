@@ -30,6 +30,7 @@ export default {
       url: j.jobUrl || '',
       company: entry.name,
       location: j.location || '',
+      posted_at: typeof j.publishedAt === 'string' ? j.publishedAt.slice(0, 10) : null,
     }));
   },
 };

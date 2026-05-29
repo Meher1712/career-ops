@@ -57,6 +57,7 @@ export default {
       url: j.absolute_url,
       company: entry.name,
       location: j.location?.name || '',
+      posted_at: typeof j.updated_at === 'string' ? j.updated_at.slice(0, 10) : null,
     }));
   },
 };

@@ -30,6 +30,7 @@ export default {
       url: j.hostedUrl || '',
       company: entry.name,
       location: j.categories?.location || '',
+      posted_at: typeof j.createdAt === 'number' ? new Date(j.createdAt).toISOString().slice(0, 10) : null,
     }));
   },
 };

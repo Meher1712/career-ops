@@ -202,7 +202,7 @@ function appendToPipeline(offers) {
     const procIdx = text.indexOf('## Procesadas');
     const insertAt = procIdx === -1 ? text.length : procIdx;
     const block = `\n${marker}\n\n` + offers.map(o =>
-      `- [ ] ${o.url} | ${o.company} | ${o.title}`
+      `- [ ] ${o.url} | ${o.company} | ${o.title}${o.posted_at ? ` | posted=${o.posted_at}` : ''}`
     ).join('\n') + '\n\n';
     text = text.slice(0, insertAt) + block + text.slice(insertAt);
   } else {
@@ -212,7 +212,7 @@ function appendToPipeline(offers) {
     const insertAt = nextSection === -1 ? text.length : nextSection;
 
     const block = '\n' + offers.map(o =>
-      `- [ ] ${o.url} | ${o.company} | ${o.title}`
+      `- [ ] ${o.url} | ${o.company} | ${o.title}${o.posted_at ? ` | posted=${o.posted_at}` : ''}`
     ).join('\n') + '\n';
     text = text.slice(0, insertAt) + block + text.slice(insertAt);
   }
@@ -221,15 +221,25 @@ function appendToPipeline(offers) {
 }
 
 function appendToScanHistory(offers, date) {
-  // Ensure file + header exist. Location appended as 7th column for non-breaking
-  // backward compat — older scan-history.tsv files with 6 columns still parse fine
-  // since loadSeenUrls only reads column 0.
+  // Schema (8 columns, latest):
+  //   url  first_seen  portal  title  company  status  location  posted_at
+  // Older files with 6 or 7 columns still parse cleanly — readers just see
+  // null for the missing tail columns.
   if (!existsSync(SCAN_HISTORY_PATH)) {
-    writeFileSync(SCAN_HISTORY_PATH, 'url\tfirst_seen\tportal\ttitle\tcompany\tstatus\tlocation\n', 'utf-8');
+    writeFileSync(SCAN_HISTORY_PATH, 'url\tfirst_seen\tportal\ttitle\tcompany\tstatus\tlocation\tposted_at\n', 'utf-8');
+  } else {
+    // If an older 7-column header exists, upgrade it to 8 columns on next write.
+    const header = readFileSync(SCAN_HISTORY_PATH, 'utf-8').split('\n')[0] || '';
+    if (header && !header.includes('posted_at')) {
+      // Rewrite the file with the new header, leaving existing rows untouched
+      // (they will be padded with an empty 8th column on read).
+      const body = readFileSync(SCAN_HISTORY_PATH, 'utf-8').split('\n').slice(1).join('\n');
+      writeFileSync(SCAN_HISTORY_PATH, header + '\tposted_at\n' + body, 'utf-8');
+    }
   }
 
   const lines = offers.map(o =>
-    `${o.url}\t${date}\t${o.source}\t${o.title}\t${o.company}\tadded\t${o.location || ''}`
+    `${o.url}\t${date}\t${o.source}\t${o.title}\t${o.company}\tadded\t${o.location || ''}\t${o.posted_at || ''}`
   ).join('\n') + '\n';
 
   appendFileSync(SCAN_HISTORY_PATH, lines, 'utf-8');

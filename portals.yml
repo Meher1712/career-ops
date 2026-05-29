@@ -274,6 +274,10 @@ tracked_companies:
     careers_url: https://ebay.wd5.myworkdayjobs.com/apply
     enabled: true
 
+  - name: Kobie
+    careers_url: https://jobs.lever.co/kobie
+    enabled: true
+
   # ==========================================================================
   # Indian large enterprises & listed
   # ==========================================================================

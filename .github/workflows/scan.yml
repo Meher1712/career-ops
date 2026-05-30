@@ -3,8 +3,10 @@ name: Career Ops Scan
 on:
   schedule:
     # Every hour, IST daytime only: UTC 03–16 = IST 08:30 – 21:30
+    # Minute 17 (not :00) — GitHub's free-tier scheduler congests on the hour
+    # and drops/delays runs; off-the-hour slots fire far more reliably.
     # Free tier: ~1.5 min/run x 14/day x 30 days ≈ 630 min/month (limit: 2,000)
-    - cron: '0 3-16 * * *'
+    - cron: '17 3-16 * * *'
   workflow_dispatch:
 
 jobs:

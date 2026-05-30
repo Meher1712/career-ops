@@ -405,6 +405,10 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Senior-Product-Manager_112903-JOB | Sprinklr | Senior Product Manager | posted=2026-04-30
 - [ ] https://www.five9.com/about/careers/job-detail?gh_jid=6009628004 | Five9 | Product Management Director – Workforce Engagement  | posted=2026-05-29
 
+- [ ] https://www.linkedin.com/jobs/view/4421324479 | Medikabazaar | Associate Product Manager | posted=2026-05-30
+- [ ] https://www.linkedin.com/jobs/view/4422096238 | CACHET PHARMA (ALKEM GROUP) | Group Product Manager | posted=2026-05-30
+- [ ] https://www.linkedin.com/jobs/view/4418328509 | Raay Neo Pharma | Product Manager - Pharma | posted=2026-05-30
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

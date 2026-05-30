@@ -72,6 +72,19 @@ jobs:
             --data-urlencode "text=${MSG}" \
             -o /dev/null
 
+      - name: Commit bridge file
+        if: steps.scan.outputs.added > 0
+        run: |
+          git config user.name  "career-ops-bot"
+          git config user.email "bot@career-ops.local"
+          git add data/last-notification-jobs.json
+          if git diff --cached --quiet; then
+            echo "Bridge file unchanged."
+          else
+            git commit -m "scan: update last-notification-jobs.json"
+            git push
+          fi
+
       - name: Upload scan log
         if: always()
         uses: actions/upload-artifact@v4

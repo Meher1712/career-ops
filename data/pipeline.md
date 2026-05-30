@@ -437,6 +437,9 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4391934782 | Eltropy | Product Manager - AI Agents | posted=2026-05-30
 - [ ] https://www.linkedin.com/jobs/view/4412141832 | Merck Life Science | Global Product Manager | posted=2026-05-30
 
+- [ ] https://www.linkedin.com/jobs/view/4412177810 | YES BANK | Senior Product Manager CMS Trade Digitisation | posted=2026-05-30
+- [ ] https://www.linkedin.com/jobs/view/4410999589 | ZoomInfo | Product Manager III | posted=2026-05-30
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

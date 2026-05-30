@@ -428,6 +428,12 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4412124593 | HighLevel | Staff Product Manager - Mobile Platform | posted=2026-05-30
 - [ ] https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Senior-Product-Manager_112721-JOB | Sprinklr | Senior Product Manager | posted=2026-04-30
 
+- [ ] https://www.linkedin.com/jobs/view/4372727572 | Amazon | Senior Product Manager - Tech, Amazon Appstore | posted=2026-05-30
+- [ ] https://www.linkedin.com/jobs/view/4391562290 | Amazon | Sr. Product Manager (Tech), Trustworthy Shopping Experience | posted=2026-05-30
+- [ ] https://www.linkedin.com/jobs/view/4346849285 | Amazon | Sr. Product Manager - Tech, Alexa Smart Properties | posted=2026-05-30
+- [ ] https://www.linkedin.com/jobs/view/4411995154 | Xplor Technologies | Product Owner, Billing & Settlement | posted=2026-05-30
+- [ ] https://www.linkedin.com/jobs/view/4412468381 | Amazon | ITS System Admin/Engr II (CIS), Corporate Infrastructure Product Management | posted=2026-05-30
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -420,6 +420,14 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4412104756 | US Pharmacopeia | Product Manager (Reference Standards) | posted=2026-05-30
 - [ ] https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Senior-Product-Manager_112898-JOB | Sprinklr | Senior Product Manager | posted=2026-04-30
 
+- [ ] https://www.linkedin.com/jobs/view/4412139487 | Google | Group Product Manager, Google Play | posted=2026-05-30
+- [ ] https://www.linkedin.com/jobs/view/4381961745 | Amazon | Senior Product Manager, India Global Trade | posted=2026-05-30
+- [ ] https://www.linkedin.com/jobs/view/4411378932 | LPL Financial Global Capability Center | Senior Technical Product Owner | posted=2026-05-30
+- [ ] https://www.linkedin.com/jobs/view/4391545896 | Sibros | Product Manager | posted=2026-05-30
+- [ ] https://www.linkedin.com/jobs/view/4412160230 | Cornerstone OnDemand | Associate Product Manager | Pune | posted=2026-05-30
+- [ ] https://www.linkedin.com/jobs/view/4412124593 | HighLevel | Staff Product Manager - Mobile Platform | posted=2026-05-30
+- [ ] https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Senior-Product-Manager_112721-JOB | Sprinklr | Senior Product Manager | posted=2026-04-30
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

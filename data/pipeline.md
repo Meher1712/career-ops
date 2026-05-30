@@ -434,6 +434,9 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4411995154 | Xplor Technologies | Product Owner, Billing & Settlement | posted=2026-05-30
 - [ ] https://www.linkedin.com/jobs/view/4412468381 | Amazon | ITS System Admin/Engr II (CIS), Corporate Infrastructure Product Management | posted=2026-05-30
 
+- [ ] https://www.linkedin.com/jobs/view/4391934782 | Eltropy | Product Manager - AI Agents | posted=2026-05-30
+- [ ] https://www.linkedin.com/jobs/view/4412141832 | Merck Life Science | Global Product Manager | posted=2026-05-30
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

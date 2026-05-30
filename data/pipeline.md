@@ -409,6 +409,17 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4422096238 | CACHET PHARMA (ALKEM GROUP) | Group Product Manager | posted=2026-05-30
 - [ ] https://www.linkedin.com/jobs/view/4418328509 | Raay Neo Pharma | Product Manager - Pharma | posted=2026-05-30
 
+- [ ] https://www.linkedin.com/jobs/view/4370781613 | Endava | Product Owner | posted=2026-05-30
+- [ ] https://www.linkedin.com/jobs/view/4421318848 | Wells Fargo | Lead Product Manager | posted=2026-05-30
+- [ ] https://www.linkedin.com/jobs/view/4380973760 | Kong | Senior Product Manager - Cloud Gateways | posted=2026-05-30
+- [ ] https://www.linkedin.com/jobs/view/4411333924 | Autodesk | Senior Product Manager, S4 HANA | posted=2026-05-30
+- [ ] https://www.linkedin.com/jobs/view/4412423675 | JPMorganChase | Associate - Agile Product Owner - Legal Regulatory and Risk product | posted=2026-05-30
+- [ ] https://www.linkedin.com/jobs/view/4371280916 | Nexthink | Product Manager (Library team) | posted=2026-05-30
+- [ ] https://www.linkedin.com/jobs/view/4412176624 | JPMorganChase | Product Manager - Vice President | posted=2026-05-30
+- [ ] https://www.linkedin.com/jobs/view/4412101990 | US Pharmacopeia | Product Manager (Materials Program) | posted=2026-05-30
+- [ ] https://www.linkedin.com/jobs/view/4412104756 | US Pharmacopeia | Product Manager (Reference Standards) | posted=2026-05-30
+- [ ] https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Senior-Product-Manager_112898-JOB | Sprinklr | Senior Product Manager | posted=2026-04-30
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

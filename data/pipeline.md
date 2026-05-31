@@ -455,6 +455,8 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4421615520 | Oportun | Principal Product Manager (R14043) | posted=2026-05-31
 - [ ] https://www.linkedin.com/jobs/view/4422578438 | AfrikCap | Associate Product Manager | posted=2026-05-31
 
+- [ ] https://www.linkedin.com/jobs/view/4416155318 | Cialfo | Senior Product Manager | posted=2026-05-31
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -443,6 +443,11 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4380473138 | CyberArk | Senior Product Manager (Platform) | posted=2026-05-31
 - [ ] https://www.linkedin.com/jobs/view/4421625026 | Wells Fargo | Lead Digital Product Manager | posted=2026-05-31
 
+- [ ] https://www.linkedin.com/jobs/view/4363471760 | Endava | Product Owner | posted=2026-05-31
+- [ ] https://www.linkedin.com/jobs/view/4391179117 | SonicWall | Senior Product Manager – ZTNA or VPN experience is required | posted=2026-05-31
+- [ ] https://www.linkedin.com/jobs/view/4421613344 | atsMantra | Product Owner | posted=2026-05-31
+- [ ] https://www.linkedin.com/jobs/view/4422572285 | Scoutit | Product Manager | posted=2026-05-31
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

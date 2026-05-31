@@ -440,6 +440,9 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4412177810 | YES BANK | Senior Product Manager CMS Trade Digitisation | posted=2026-05-30
 - [ ] https://www.linkedin.com/jobs/view/4410999589 | ZoomInfo | Product Manager III | posted=2026-05-30
 
+- [ ] https://www.linkedin.com/jobs/view/4380473138 | CyberArk | Senior Product Manager (Platform) | posted=2026-05-31
+- [ ] https://www.linkedin.com/jobs/view/4421625026 | Wells Fargo | Lead Digital Product Manager | posted=2026-05-31
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

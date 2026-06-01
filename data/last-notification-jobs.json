@@ -1,61 +1,110 @@
 {
-  "generated_at": "2026-06-01T08:46:15.894Z",
+  "generated_at": "2026-06-01T15:34:34.368Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Product Manager",
-      "company": "Cybage Software",
-      "location": "Pune City, Maharashtra, India",
-      "url": "https://www.linkedin.com/jobs/view/4421697084"
+      "title": "Product Manager - Platform",
+      "company": "Supabase",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/supabase/47bcfdb8-b954-423e-8a9e-85256434575c"
     },
     {
       "n": 2,
-      "title": "Product Manager - HashiCorp Boundary",
-      "company": "IBM",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4418745277"
+      "title": "Product Manager - Postgres Platform",
+      "company": "Supabase",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/supabase/636481f3-dc9e-4a9d-999f-06f87e173cc9"
     },
     {
       "n": 3,
-      "title": "Product Manager (Fintech)",
-      "company": "OLX India",
-      "location": "Mumbai, Maharashtra, India",
-      "url": "https://www.linkedin.com/jobs/view/4418751124"
+      "title": "Principal Product Manager",
+      "company": "Conga",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4412646642"
     },
     {
       "n": 4,
-      "title": "Regional Product Manager - Mobility",
-      "company": "Team Computers",
+      "title": "Principal Product Manager - Media",
+      "company": "Sabre",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4418742157"
+      "url": "https://www.linkedin.com/jobs/view/4413029963"
     },
     {
       "n": 5,
-      "title": "Product Manager",
-      "company": "Pinaca Technologies",
-      "location": "Mumbai, Maharashtra, India",
-      "url": "https://www.linkedin.com/jobs/view/4422833352"
+      "title": "Principal Product Manager",
+      "company": "Sabre",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4413043314"
     },
     {
       "n": 6,
-      "title": "Senior Product Manager (Fintech Payments)",
-      "company": "Bureau",
-      "location": "Bangalore Urban, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4421658789"
+      "title": "Principal Product Manager – Dynamic Pricing",
+      "company": "Sabre",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4413041356"
     },
     {
       "n": 7,
-      "title": "Senior Product Manager",
-      "company": "Scapia",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4422834235"
+      "title": "Staff Inbound Product Manager - CRM Contact Center Omni-Channel - Workforce Engagement Management(WEM)",
+      "company": "ServiceNow",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.linkedin.com/jobs/view/4412764946"
     },
     {
       "n": 8,
-      "title": "Principal Product Manager – Agentic AI Platform",
-      "company": "Globalization Partners",
-      "location": "India (Remote-First)",
-      "url": "https://job-boards.greenhouse.io/globalizationpartners/jobs/7749444003"
+      "title": "Staff Product Manager",
+      "company": "Saviynt",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4404039056"
+    },
+    {
+      "n": 9,
+      "title": "Product Manager - Acquisition",
+      "company": "IDFC FIRST Bank",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4403349503"
+    },
+    {
+      "n": 10,
+      "title": "Product Manager",
+      "company": "Experian",
+      "location": "Mumbai Metropolitan Region",
+      "url": "https://www.linkedin.com/jobs/view/4421842534"
+    },
+    {
+      "n": 11,
+      "title": "Vice President, Product Management — Home Lending Transformation",
+      "company": "JPMorganChase",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.linkedin.com/jobs/view/4421854757"
+    },
+    {
+      "n": 12,
+      "title": "Product Manager-Digital Lending (Consumer Loans)",
+      "company": "IDFC FIRST Bank",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4403368361"
+    },
+    {
+      "n": 13,
+      "title": "Product Manager",
+      "company": "Commvault",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4423213066"
+    },
+    {
+      "n": 14,
+      "title": "AI Product Manager (ID # 894)",
+      "company": "Aviate",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://www.linkedin.com/jobs/view/4421856601"
+    },
+    {
+      "n": 15,
+      "title": "Staff Technical Product Manager",
+      "company": "Velotic Software",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.linkedin.com/jobs/view/4421870050"
     }
   ]
 }

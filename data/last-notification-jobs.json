@@ -1,12 +1,61 @@
 {
-  "generated_at": "2026-05-31T17:31:54.877Z",
+  "generated_at": "2026-06-01T08:46:15.894Z",
   "jobs": [
     {
       "n": 1,
+      "title": "Product Manager",
+      "company": "Cybage Software",
+      "location": "Pune City, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4421697084"
+    },
+    {
+      "n": 2,
+      "title": "Product Manager - HashiCorp Boundary",
+      "company": "IBM",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4418745277"
+    },
+    {
+      "n": 3,
+      "title": "Product Manager (Fintech)",
+      "company": "OLX India",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4418751124"
+    },
+    {
+      "n": 4,
+      "title": "Regional Product Manager - Mobility",
+      "company": "Team Computers",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4418742157"
+    },
+    {
+      "n": 5,
+      "title": "Product Manager",
+      "company": "Pinaca Technologies",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4422833352"
+    },
+    {
+      "n": 6,
+      "title": "Senior Product Manager (Fintech Payments)",
+      "company": "Bureau",
+      "location": "Bangalore Urban, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4421658789"
+    },
+    {
+      "n": 7,
       "title": "Senior Product Manager",
-      "company": "Cialfo",
-      "location": "Delhi, India",
-      "url": "https://www.linkedin.com/jobs/view/4416155318"
+      "company": "Scapia",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4422834235"
+    },
+    {
+      "n": 8,
+      "title": "Principal Product Manager – Agentic AI Platform",
+      "company": "Globalization Partners",
+      "location": "India (Remote-First)",
+      "url": "https://job-boards.greenhouse.io/globalizationpartners/jobs/7749444003"
     }
   ]
 }

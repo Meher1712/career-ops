@@ -490,6 +490,13 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://job-boards.greenhouse.io/scopely/jobs/5205958008?gh_jid=5205958008 | Scopely | Senior Product Manager, Performance | posted=2026-06-01
 - [ ] https://job-boards.greenhouse.io/scopely/jobs/5204525008?gh_jid=5204525008 | Scopely | Senior Product Manager, Roadmap | posted=2026-06-01
 
+- [ ] https://www.linkedin.com/jobs/view/4423249478 | Kenvue | Product Owner - Knowledge and Catalog | posted=2026-06-01
+- [ ] https://www.linkedin.com/jobs/view/4423266593 | Clari5 - A Perfios Company | AML Product Manager – KYC, Transaction Monitoring, Analytics, Reporting | posted=2026-06-01
+- [ ] https://job-boards.eu.greenhouse.io/valtech/jobs/4878892101 | Valtech | Adobe Product Owner | posted=2026-06-01
+- [ ] https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Senior-Product-Manager_112683-JOB | Sprinklr | Senior Product Manager | posted=2026-06-01
+- [ ] https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Associate-Product-Manager_112928-JOB | Sprinklr | Associate Product Manager | posted=2026-06-01
+- [ ] https://job-boards.greenhouse.io/commvault/jobs/5230759008 | Commvault | Product Manager | posted=2026-06-01
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

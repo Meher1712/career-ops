@@ -457,6 +457,15 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 
 - [ ] https://www.linkedin.com/jobs/view/4416155318 | Cialfo | Senior Product Manager | posted=2026-05-31
 
+- [ ] https://www.linkedin.com/jobs/view/4421697084 | Cybage Software | Product Manager | posted=2026-06-01
+- [ ] https://www.linkedin.com/jobs/view/4418745277 | IBM | Product Manager - HashiCorp Boundary | posted=2026-06-01
+- [ ] https://www.linkedin.com/jobs/view/4418751124 | OLX India | Product Manager (Fintech) | posted=2026-06-01
+- [ ] https://www.linkedin.com/jobs/view/4418742157 | Team Computers | Regional Product Manager - Mobility | posted=2026-06-01
+- [ ] https://www.linkedin.com/jobs/view/4422833352 | Pinaca Technologies | Product Manager | posted=2026-06-01
+- [ ] https://www.linkedin.com/jobs/view/4421658789 | Bureau | Senior Product Manager (Fintech Payments) | posted=2026-06-01
+- [ ] https://www.linkedin.com/jobs/view/4422834235 | Scapia | Senior Product Manager | posted=2026-06-01
+- [ ] https://job-boards.greenhouse.io/globalizationpartners/jobs/7749444003 | Globalization Partners | Principal Product Manager – Agentic AI Platform | posted=2026-05-31
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

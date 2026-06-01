@@ -466,6 +466,30 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4422834235 | Scapia | Senior Product Manager | posted=2026-06-01
 - [ ] https://job-boards.greenhouse.io/globalizationpartners/jobs/7749444003 | Globalization Partners | Principal Product Manager – Agentic AI Platform | posted=2026-05-31
 
+- [ ] https://jobs.ashbyhq.com/supabase/47bcfdb8-b954-423e-8a9e-85256434575c | Supabase | Product Manager - Platform | posted=2026-06-01
+- [ ] https://jobs.ashbyhq.com/supabase/636481f3-dc9e-4a9d-999f-06f87e173cc9 | Supabase | Product Manager - Postgres Platform | posted=2026-06-01
+- [ ] https://www.linkedin.com/jobs/view/4412646642 | Conga | Principal Product Manager | posted=2026-06-01
+- [ ] https://www.linkedin.com/jobs/view/4413029963 | Sabre | Principal Product Manager - Media | posted=2026-06-01
+- [ ] https://www.linkedin.com/jobs/view/4413043314 | Sabre | Principal Product Manager | posted=2026-06-01
+- [ ] https://www.linkedin.com/jobs/view/4413041356 | Sabre | Principal Product Manager – Dynamic Pricing | posted=2026-06-01
+- [ ] https://www.linkedin.com/jobs/view/4412764946 | ServiceNow | Staff Inbound Product Manager - CRM Contact Center Omni-Channel - Workforce Engagement Management(WEM) | posted=2026-06-01
+- [ ] https://www.linkedin.com/jobs/view/4404039056 | Saviynt | Staff Product Manager | posted=2026-06-01
+- [ ] https://www.linkedin.com/jobs/view/4403349503 | IDFC FIRST Bank | Product Manager - Acquisition | posted=2026-06-01
+- [ ] https://www.linkedin.com/jobs/view/4421842534 | Experian | Product Manager | posted=2026-06-01
+- [ ] https://www.linkedin.com/jobs/view/4421854757 | JPMorganChase | Vice President, Product Management — Home Lending Transformation | posted=2026-06-01
+- [ ] https://www.linkedin.com/jobs/view/4403368361 | IDFC FIRST Bank | Product Manager-Digital Lending (Consumer Loans) | posted=2026-06-01
+- [ ] https://www.linkedin.com/jobs/view/4423213066 | Commvault | Product Manager | posted=2026-06-01
+- [ ] https://www.linkedin.com/jobs/view/4421856601 | Aviate | AI Product Manager (ID # 894) | posted=2026-06-01
+- [ ] https://www.linkedin.com/jobs/view/4421870050 | Velotic Software | Staff Technical Product Manager | posted=2026-06-01
+- [ ] https://www.linkedin.com/jobs/view/4421870009 | GE Vernova | Staff Technical Product Manager | posted=2026-06-01
+- [ ] https://jobs.lever.co/jobgether/542a3633-1377-4b3d-880b-a6a4c4f56fc4 | Jobgether | AI Product Manager / Owner | posted=2026-06-01
+- [ ] https://jobs.lever.co/jobgether/b91aa7a9-e051-4c35-b228-351da72c156f | Jobgether | Principal Product Manager | posted=2026-06-01
+- [ ] https://job-boards.greenhouse.io/scopely/jobs/5205960008?gh_jid=5205960008 | Scopely | Head of Product | posted=2026-06-01
+- [ ] https://job-boards.greenhouse.io/scopely/jobs/5191999008?gh_jid=5191999008 | Scopely | Lead Product Manager - Star Trek Fleet Command | posted=2026-06-01
+- [ ] https://job-boards.greenhouse.io/scopely/jobs/5180566008?gh_jid=5180566008 | Scopely | Product Manager Performance - Star Trek Fleet Command  | posted=2026-06-01
+- [ ] https://job-boards.greenhouse.io/scopely/jobs/5205958008?gh_jid=5205958008 | Scopely | Senior Product Manager, Performance | posted=2026-06-01
+- [ ] https://job-boards.greenhouse.io/scopely/jobs/5204525008?gh_jid=5204525008 | Scopely | Senior Product Manager, Roadmap | posted=2026-06-01
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

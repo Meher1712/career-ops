@@ -497,6 +497,20 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Associate-Product-Manager_112928-JOB | Sprinklr | Associate Product Manager | posted=2026-06-01
 - [ ] https://job-boards.greenhouse.io/commvault/jobs/5230759008 | Commvault | Product Manager | posted=2026-06-01
 
+- [ ] https://www.linkedin.com/jobs/view/4423880875 | Jobgether | Principal Product Manager – Agentic AI Platform | posted=2026-06-02
+- [ ] https://www.linkedin.com/jobs/view/4421652810 | DataMoo.AI | Reporting Data Product Owner | posted=2026-06-02
+- [ ] https://jobs.ashbyhq.com/supabase/202e9ca8-3c98-4dea-add5-0f7e2e98800c | Supabase | Product Manager - AI Platform | posted=2026-06-02
+- [ ] https://www.linkedin.com/jobs/view/4419241609 | Times Internet | Associate Product Manager | posted=2026-06-02
+- [ ] https://www.linkedin.com/jobs/view/4423888455 | Jobgether | Product Manager | posted=2026-06-02
+- [ ] https://www.linkedin.com/jobs/view/4419243759 | Pocket FM | Associate Product Manager | posted=2026-06-02
+- [ ] https://www.linkedin.com/jobs/view/4423883591 | Slikk | Product Manager - Supply / Warehouse | posted=2026-06-02
+- [ ] https://www.linkedin.com/jobs/view/4419248199 | Lumber | Product Manager | posted=2026-06-02
+- [ ] https://www.linkedin.com/jobs/view/4419155016 | Yokohama-ATG | Specialist - Product Management | posted=2026-06-02
+- [ ] https://www.linkedin.com/jobs/view/4422334531 | Recrew AI | Technical Product Manager | posted=2026-06-02
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013412796 | Nielsen | Senior Product Manager II | posted=2026-06-02
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013412432 | Nielsen | Senior Product Manager III | posted=2026-06-02
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013412348 | Nielsen | Product Manager II | posted=2026-06-02
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

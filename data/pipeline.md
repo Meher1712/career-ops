@@ -525,6 +525,22 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://jobs.lever.co/jobgether/e3a96036-d5d0-4bc1-aa61-ea8460f98275 | Jobgether | Principal Product Manager – Agentic AI Platform | posted=2026-06-02
 - [ ] https://jobs.lever.co/jobgether/c1e0d4b2-4f46-4ae6-8c9e-249d16799a5c | Jobgether | Product Manager | posted=2026-06-02
 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8568868002 | GitLab | Senior Product Manager, AI Platform Management | posted=2026-06-02
+- [ ] https://jobs.ashbyhq.com/supabase/b8010a28-109c-46a9-b8b7-c7f9b24077fa | Supabase | Product Manager - Security & Trust (EMEA/AMER) | posted=2026-04-29
+- [ ] https://www.linkedin.com/jobs/view/4392398407 | Conga | Senior Product Manager | posted=2026-06-02
+- [ ] https://www.linkedin.com/jobs/view/4422443435 | OneTrust | Senior Product Manager | posted=2026-06-02
+- [ ] https://www.linkedin.com/jobs/view/4422425907 | NatWest Group | Product Owner, VP | posted=2026-06-02
+- [ ] https://www.linkedin.com/jobs/view/4413554877 | Conga | Senior Technical Product Owner | posted=2026-06-02
+- [ ] https://www.linkedin.com/jobs/view/4422436166 | Anaplan | Product Owner-3rd Party Integerations | posted=2026-06-02
+- [ ] https://www.linkedin.com/jobs/view/4416708402 | Emmes Group | Product Owner | posted=2026-06-02
+- [ ] https://www.linkedin.com/jobs/view/4422417751 | SimCorp | Principal Product Owner, AI | posted=2026-06-02
+- [ ] https://www.linkedin.com/jobs/view/4392574834 | Cognizant | Product Manager | posted=2026-06-02
+- [ ] https://www.linkedin.com/jobs/view/4423949305 | CG-VAK Software & Exports Ltd. | Product Manager (Order-to-cash, Fintech) | posted=2026-06-02
+- [ ] https://www.linkedin.com/jobs/view/4423937644 | Smart Food Safe : Quality & Food Safety Management Software | Product Manager | posted=2026-06-02
+- [ ] https://www.linkedin.com/jobs/view/4391833931 | Ingram Micro | Assistant Product Manager | posted=2026-06-02
+- [ ] https://www.linkedin.com/jobs/view/4422409862 | MSD | Senior Specialist, Technical Product Management | posted=2026-06-02
+- [ ] https://jobs.lever.co/jobgether/4f992cc6-2a4e-4092-a05e-b29f17ef1aa3 | Jobgether | Product Manager | posted=2026-06-02
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

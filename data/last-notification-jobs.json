@@ -1,47 +1,96 @@
 {
-  "generated_at": "2026-06-01T20:36:46.282Z",
+  "generated_at": "2026-06-02T08:08:02.876Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Product Owner - Knowledge and Catalog",
-      "company": "Kenvue",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4423249478"
+      "title": "Principal Product Manager – Agentic AI Platform",
+      "company": "Jobgether",
+      "location": "India",
+      "url": "https://www.linkedin.com/jobs/view/4423880875"
     },
     {
       "n": 2,
-      "title": "AML Product Manager – KYC, Transaction Monitoring, Analytics, Reporting",
-      "company": "Clari5 - A Perfios Company",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4423266593"
+      "title": "Reporting Data Product Owner",
+      "company": "DataMoo.AI",
+      "location": "Kerala, India",
+      "url": "https://www.linkedin.com/jobs/view/4421652810"
     },
     {
       "n": 3,
-      "title": "Adobe Product Owner",
-      "company": "Valtech",
-      "location": "Canada - Remote",
-      "url": "https://job-boards.eu.greenhouse.io/valtech/jobs/4878892101"
+      "title": "Product Manager - AI Platform",
+      "company": "Supabase",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/supabase/202e9ca8-3c98-4dea-add5-0f7e2e98800c"
     },
     {
       "n": 4,
-      "title": "Senior Product Manager",
-      "company": "Sprinklr",
-      "location": "India - Haryana - Gurgaon",
-      "url": "https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Senior-Product-Manager_112683-JOB"
+      "title": "Associate Product Manager",
+      "company": "Times Internet",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://www.linkedin.com/jobs/view/4419241609"
     },
     {
       "n": 5,
-      "title": "Associate Product Manager",
-      "company": "Sprinklr",
-      "location": "India - Haryana - Gurgaon",
-      "url": "https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Associate-Product-Manager_112928-JOB"
+      "title": "Product Manager",
+      "company": "Jobgether",
+      "location": "India",
+      "url": "https://www.linkedin.com/jobs/view/4423888455"
     },
     {
       "n": 6,
+      "title": "Associate Product Manager",
+      "company": "Pocket FM",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4419243759"
+    },
+    {
+      "n": 7,
+      "title": "Product Manager - Supply / Warehouse",
+      "company": "Slikk",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4423883591"
+    },
+    {
+      "n": 8,
       "title": "Product Manager",
-      "company": "Commvault",
-      "location": "Bangalore, India",
-      "url": "https://job-boards.greenhouse.io/commvault/jobs/5230759008"
+      "company": "Lumber",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4419248199"
+    },
+    {
+      "n": 9,
+      "title": "Specialist - Product Management",
+      "company": "Yokohama-ATG",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4419155016"
+    },
+    {
+      "n": 10,
+      "title": "Technical Product Manager",
+      "company": "Recrew AI",
+      "location": "Bangalore Urban, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4422334531"
+    },
+    {
+      "n": 11,
+      "title": "Senior Product Manager II",
+      "company": "Nielsen",
+      "location": "Bengaluru, in",
+      "url": "https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013412796"
+    },
+    {
+      "n": 12,
+      "title": "Senior Product Manager III",
+      "company": "Nielsen",
+      "location": "Bengaluru, in",
+      "url": "https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013412432"
+    },
+    {
+      "n": 13,
+      "title": "Product Manager II",
+      "company": "Nielsen",
+      "location": "Bengaluru, in",
+      "url": "https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013412348"
     }
   ]
 }

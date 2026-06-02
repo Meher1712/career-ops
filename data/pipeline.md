@@ -511,6 +511,20 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013412432 | Nielsen | Senior Product Manager III | posted=2026-06-02
 - [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013412348 | Nielsen | Product Manager II | posted=2026-06-02
 
+- [ ] https://www.linkedin.com/jobs/view/4373530880 | Sumo Logic | Senior Product Manager | posted=2026-06-02
+- [ ] https://www.linkedin.com/jobs/view/4372847118 | Endava | Product Owner | posted=2026-06-02
+- [ ] https://www.linkedin.com/jobs/view/4419184822 | Angara Ecommerce Pvt. Ltd. | Senior Product Manager | posted=2026-06-02
+- [ ] https://www.linkedin.com/jobs/view/4419294197 | Medgini | Product manager & IT Lead | posted=2026-06-02
+- [ ] https://www.linkedin.com/jobs/view/4419277221 | Happiest Minds Technologies | PRODUCT MANAGER - Product Management | posted=2026-06-02
+- [ ] https://www.linkedin.com/jobs/view/4422365571 | MYTYLES.COM | Technical Product Owner (Pulse ERP & Digital Systems) | posted=2026-06-02
+- [ ] https://www.linkedin.com/jobs/view/4401616422 | Celonis | Senior Product Manager - Extractors (Data Integration) | posted=2026-06-02
+- [ ] https://www.linkedin.com/jobs/view/4423270090 | Yapita Health (Curefy) | Associate Product Manager | posted=2026-06-02
+- [ ] https://www.linkedin.com/jobs/view/4403358389 | IDFC FIRST Bank | Product Manager-Business Banking | posted=2026-06-02
+- [ ] https://www.linkedin.com/jobs/view/4422356811 | Lark Laboratories (India) Ltd. | Product Manager | posted=2026-06-02
+- [ ] https://www.linkedin.com/jobs/view/4422375358 | TAC Security | Technical Product Manager | posted=2026-06-02
+- [ ] https://jobs.lever.co/jobgether/e3a96036-d5d0-4bc1-aa61-ea8460f98275 | Jobgether | Principal Product Manager – Agentic AI Platform | posted=2026-06-02
+- [ ] https://jobs.lever.co/jobgether/c1e0d4b2-4f46-4ae6-8c9e-249d16799a5c | Jobgether | Product Manager | posted=2026-06-02
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -541,6 +541,18 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4422409862 | MSD | Senior Specialist, Technical Product Management | posted=2026-06-02
 - [ ] https://jobs.lever.co/jobgether/4f992cc6-2a4e-4092-a05e-b29f17ef1aa3 | Jobgether | Product Manager | posted=2026-06-02
 
+- [ ] https://www.linkedin.com/jobs/view/4419689035 | CareerXperts Consulting | Senior Product Manager | posted=2026-06-03
+- [ ] https://www.linkedin.com/jobs/view/4424068558 | Univest | Senior Product Manager / Product Lead - Equity Products & KYC | posted=2026-06-03
+- [ ] https://www.linkedin.com/jobs/view/4424064782 | Univest | Senior Product Manager / Product Lead - Growth, AI & New Business Initiatives | posted=2026-06-03
+- [ ] https://www.linkedin.com/jobs/view/4419688067 | ADJM Technologies Pvt. Ltd. | Senior Product Manager - Audio Visual and Automation Systems | posted=2026-06-03
+- [ ] https://www.linkedin.com/jobs/view/4415211598 | BASF | GDB/A - Product Owner Orchestration (m/f/d) | posted=2026-06-03
+- [ ] https://www.okta.com/company/careers/opportunity/7976344?gh_jid=7976344 | Okta | Senior Product Manager | posted=2026-06-03
+- [ ] https://www.linkedin.com/jobs/view/4419679269 | Joveo | Product Manager | posted=2026-06-03
+- [ ] https://www.linkedin.com/jobs/view/4419689225 | River | Product Manager - Vehicle | posted=2026-06-03
+- [ ] https://job-boards.greenhouse.io/tekion/jobs/7635001003 | Tekion Corp | Lead Product Manager | posted=2026-06-03
+- [ ] https://job-boards.greenhouse.io/onetrust/jobs/7954033 | OneTrust | Senior Product Manager | posted=2026-06-02
+- [ ] https://job-boards.greenhouse.io/globalizationpartners/jobs/7752849003 | Globalization Partners | Principal Product Manager | posted=2026-06-02
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

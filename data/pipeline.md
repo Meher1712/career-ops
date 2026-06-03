@@ -575,6 +575,17 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4424204421 | Blackbaud India | Product Manager, Senior - Data & Analytics | posted=2026-06-03
 - [ ] https://job-boards.greenhouse.io/smartsheet/jobs/7978806 | Smartsheet | Sr, Product Manager II - Data Links (Hybrid, Bangalore) | posted=2026-06-03
 
+- [ ] https://www.linkedin.com/jobs/view/4424233573 | LinkedIn India Senior PM | Senior Product Manager | posted=2026-06-03
+- [ ] https://www.linkedin.com/jobs/view/4423008122 | Amazon Web Services (AWS) | Senior Product Manager - Technical, Denied Party Screening, AWS Compliance & Security Assurance | posted=2026-06-03
+- [ ] https://www.linkedin.com/jobs/view/4403614086 | Philips | Product Manager MR Software | posted=2026-06-03
+- [ ] https://www.linkedin.com/jobs/view/4414216646 | HireRight | Technical Product Manager | posted=2026-06-03
+- [ ] https://www.linkedin.com/jobs/view/4424234724 | TechWise Digital | Data Product Manager | posted=2026-06-03
+- [ ] https://www.linkedin.com/jobs/view/4414134673 | Citi | Vice President - Product Manager-AI & Digital Experience- Investor Services | posted=2026-06-03
+- [ ] https://www.linkedin.com/jobs/view/4403977859 | Goldman Sachs | GBM - Private Dept-Bengaluru-Vice President-Product Management | posted=2026-06-03
+- [ ] https://www.linkedin.com/jobs/view/4422999560 | RZR | Director of Product Management | posted=2026-06-03
+- [ ] https://jobs.lever.co/jobgether/a3c8ab7c-2973-4bc0-a0b6-4083515322cb | Jobgether | Product Manager | posted=2026-06-03
+- [ ] https://jobs.lever.co/coupa/1a89352c-2be2-4637-9b82-3c4f1380e706 | Coupa | Product Management Director - 11414 | posted=2026-04-10
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

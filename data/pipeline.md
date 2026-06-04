@@ -599,6 +599,30 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://jobs.lever.co/jobgether/40fb9014-d370-460e-9c1b-80b084ec281a | Jobgether | Sr Technical Product Manager, Bot & AI Automation Intelligence | posted=2026-06-04
 - [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Senior-Product-Manager_R169376 | Adobe | Senior Product Manager | posted=2026-06-04
 
+- [ ] https://www.linkedin.com/jobs/view/4424358828 | Adobe | Senior Product Manager | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4417588444 | SambalPay | Senior Product Manager | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4420702827 | Mastercard | Senior Product Manager - Technical | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4420713455 | Mastercard | Senior Product Manager - Technical - Microservices, API, UI | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4373960029 | Capco | LEA Product Manager | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4382954513 | McKinsey & Company | Principal Product Manager I - ServiceNow | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4405248985 | Learneo | Senior Product Manager, Design Tools | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4423365182 | Dextra Labs | Technical Product Manager | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4424348722 | Google | Group Product Manager, Google One Growth Infrastructure | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4424358860 | YENNES Infotec P Limited | Senior Product Manager | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4413674356 | Capgemini | FBS Product Owner II | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4424370883 | MYCPE ONE | AI Product Lead | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4372844147 | Endava | Product Owner | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4405439904 | Sprinklr | Associate Product Manager | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4404448578 | Google | Product Manager, Payment Platform | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4413924377 | Indofast Energy | Product Manager - API Integration | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4424353587 | Deloitte | Product Management Specialist II- Deputy Manager | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4424357865 | Goldman Sachs | AWM Management - Product Management - Associate - Bengaluru | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4350222067 | HighLevel | Staff Product Manager - (Customer Retention - Platform) | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4424348842 | Goldman Sachs | Asset and Wealth Management - Product Management - Vice President - Bengaluru | posted=2026-06-04
+- [ ] https://www.five9.com/about/careers/job-detail?gh_jid=6013740004 | Five9 | Sr Product Manager  | posted=2026-06-04
+- [ ] https://jobs.lever.co/jobgether/e4a43242-5e63-4a15-a018-c9b0bbd3fadb | Jobgether | Senior Product Manager (Analytics Platform) | posted=2026-06-04
+- [ ] https://jobs.lever.co/jobgether/83b97fb4-7338-45e6-8330-e28fccf7a32b | Jobgether | Technical Product Manager | posted=2026-06-04
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

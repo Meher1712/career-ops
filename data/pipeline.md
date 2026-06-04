@@ -623,6 +623,20 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://jobs.lever.co/jobgether/e4a43242-5e63-4a15-a018-c9b0bbd3fadb | Jobgether | Senior Product Manager (Analytics Platform) | posted=2026-06-04
 - [ ] https://jobs.lever.co/jobgether/83b97fb4-7338-45e6-8330-e28fccf7a32b | Jobgether | Technical Product Manager | posted=2026-06-04
 
+- [ ] https://www.linkedin.com/jobs/view/4417840970 | Happiest Minds Technologies | Senior Product Manager Healthcare | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4392166053 | Arkose Labs | Senior Product Manager | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4420738233 | Novartis India | Group Product Manager | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4403213032 | Providence India | Lead Product Manager | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4423508000 | Experian | GenAI Product Lead, EMAP | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4405642418 | Purplle.com | Associate Product Manager - Retail Operations | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4404784604 | IDFC FIRST Bank | Product Manager - JLG | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4404744343 | IDFC FIRST Bank | Senior Product Manager-Credit Cards | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4404291724 | Goldman Sachs | Asset & Wealth Management - AM Digital Product Management - Associate - Bengaluru | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4413965010 | Wells Fargo | Lead Digital Product Manager | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4424422241 | QUEST Alliance | Product Manager - Experience | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4424442114 | Principal Global Services | Product Manager I | posted=2026-06-04
+- [ ] https://job-boards.greenhouse.io/fourkites/jobs/7971690 | FourKites | Product Manager, Inventory & Orders | posted=2026-06-04
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

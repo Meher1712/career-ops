@@ -637,6 +637,31 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4424442114 | Principal Global Services | Product Manager I | posted=2026-06-04
 - [ ] https://job-boards.greenhouse.io/fourkites/jobs/7971690 | FourKites | Product Manager, Inventory & Orders | posted=2026-06-04
 
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/7980740 | Twilio | Product Manager L3 | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4424443831 | CG-VAK Software & Exports Ltd. | Senior Product Manager (Growth, FinTech) | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4420735812 | SoTalent | Senior Product Manager | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4403946729 | Adobe | Senior Product Manager | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4382715936 | Cargill | Sr. Product Manager - Food | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4411190803 | Zendesk | Senior Product Manager | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4423536426 | Priority | Senior Product Manager | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4405640348 | Nasdaq | Lead Product Manager | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4424435907 | Priority | Sr. Product Manager | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4415351504 | Visa | Senior Product Manager - Card Authorization | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4423524914 | TriNet | Senior Product Manager | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4420741449 | SUN PHARMA | Group Product Manager - Milmet | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4420738712 | SUN PHARMA | Group Product Manager - Avesta (Opthal) | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4414169859 | GlobalLogic | Technical Product Owner IRC291187 | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4423543088 | TriNet | Product Manager | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4414460768 | Kenvue | Digital Product Manager | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4424435917 | ABB | Global Product Manager – Training Services – Motion Services Division (Location: Europe, India, USA, China) | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4420728972 | SoTalent | Digital Product Manager | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4414452442 | Ingram Micro | Assistant Product Manager | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4424399468 | American Express | Associate -Digital Product Management | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4424432961 | Merge | Product Manager - Fintech | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4422884879 | Origin Medical Research Lab | Product Management Associate | posted=2026-06-04
+- [ ] https://job-boards.greenhouse.io/precisionaq/jobs/6014193004 | Precision AQ | Senior Product Manager – Product Solutions | posted=2026-06-04
+- [ ] https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/6005434004 | Precision Medicine Group | Senior Product Manager – Product Solutions | posted=2026-06-04
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

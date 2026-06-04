@@ -586,6 +586,19 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://jobs.lever.co/jobgether/a3c8ab7c-2973-4bc0-a0b6-4083515322cb | Jobgether | Product Manager | posted=2026-06-03
 - [ ] https://jobs.lever.co/coupa/1a89352c-2be2-4637-9b82-3c4f1380e706 | Coupa | Product Management Director - 11414 | posted=2026-04-10
 
+- [ ] https://stripe.com/jobs/search?gh_jid=7980498 | Stripe | Staff Product Manager, Cards Monetization | posted=2026-06-03
+- [ ] https://www.linkedin.com/jobs/view/4424353268 | YENNES Infotec P Limited | Senior Product Manager | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4424354210 | TJX India | Staff Product Owner | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4424351158 | Cvent | Product Manager II | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4424356118 | Cvent | Product Manager | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4424347235 | Umanist NA | Associate Product Manager | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4424349084 | Cog Culture | Product Manager — Saas | posted=2026-06-04
+- [ ] https://www.linkedin.com/jobs/view/4424349005 | 123 Greetings | Product Manager – Mobile App | posted=2026-06-04
+- [ ] https://job-boards.greenhouse.io/tide/jobs/7697844003 | Tide | Lead Product Manager | posted=2026-06-04
+- [ ] https://jobs.lever.co/jobgether/e0b04302-d9dd-44a5-8424-a17881f6bbac | Jobgether | Product Manager | posted=2026-06-03
+- [ ] https://jobs.lever.co/jobgether/40fb9014-d370-460e-9c1b-80b084ec281a | Jobgether | Sr Technical Product Manager, Bot & AI Automation Intelligence | posted=2026-06-04
+- [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Senior-Product-Manager_R169376 | Adobe | Senior Product Manager | posted=2026-06-04
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -662,6 +662,14 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://job-boards.greenhouse.io/precisionaq/jobs/6014193004 | Precision AQ | Senior Product Manager – Product Solutions | posted=2026-06-04
 - [ ] https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/6005434004 | Precision Medicine Group | Senior Product Manager – Product Solutions | posted=2026-06-04
 
+- [ ] https://www.linkedin.com/jobs/view/4424180155 | Pearl | Senior Product Manager | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4424142836 | Hire Feed | Artificial Intelligence Product Owner (Remote) | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4424157161 | Hire Feed | Product Manager (Remote) | posted=2026-06-05
+- [ ] https://job-boards.greenhouse.io/zyngacareers/jobs/5810374004 | Zynga | Product Manager 2 | posted=2026-06-05
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013484567 | Nielsen | Senior Product Manager II | posted=2026-06-05
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013480656 | Nielsen | Senior Product Manager, Nielsen ONE Reporting | posted=2026-06-04
+- [ ] https://jobs.lever.co/jobgether/4e25272b-913e-4faf-8378-549101be652e | Jobgether | Product Management Director | posted=2026-06-05
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

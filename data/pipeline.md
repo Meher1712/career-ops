@@ -690,6 +690,27 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4421692348 | Kissht | Product Manager - Collections | posted=2026-06-05
 - [ ] https://www.linkedin.com/jobs/view/4405674627 | BNP Paribas | Product Owner | posted=2026-06-05
 
+- [ ] https://www.linkedin.com/jobs/view/4405466176 | Scopely | Lead Product Manager - Star Trek Fleet Command | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4424748204 | Dyson | Technical Product Owner | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4414725754 | Priceline | Product Manager, Financial Technology | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4424739262 | Dyson | Data Product Manager | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4424725616 | Pearl | Senior Product Manager | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4414964677 | Amazon | Senior Product Manager - Tech, TimeHub | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4402896560 | Amazon | Sr. Product Manager, Technical, Small and Medium Business Financing | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4414489478 | Citi | IVR Product Manager-C13 | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4414990115 | BNY | Vice President, POM Product Management | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4415347468 | Mattel, Inc. | Oracle Supply Chain Product Owner | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4424749372 | GE Vernova | Sr Product Owner - NMS | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4405801316 | Johnson & Johnson Innovative Medicine | Technical Product Owner ERP Plan & Source | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4415333083 | New Relic | Principal Product Manager | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4415311986 | New Relic | R0000564 - Principal Product Manager | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4421168172 | Sapiens | Product Owner | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4415072409 | Equifax India | Technical Product Owner | posted=2026-06-05
+- [ ] https://jobs.lever.co/jobgether/61f3b328-cf18-42f2-b54c-51cc47783884 | Jobgether | Senior Product Manager – Product Solutions | posted=2026-06-05
+- [ ] https://jobs.lever.co/jobgether/9f369e1c-39dd-4d73-8e58-857d9fdd04f7 | Jobgether | Sr. Technical Product Manager - Shared Services | posted=2026-06-05
+- [ ] https://job-boards.greenhouse.io/fourkites/jobs/7984869 | FourKites | Product Manager, Inventory & Orders | posted=2026-06-05
+- [ ] https://api.smartrecruiters.com/v1/companies/Entain/postings/744000130490670 | Entain India | Product Manager | posted=2026-06-05
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

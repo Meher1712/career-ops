@@ -711,6 +711,22 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://job-boards.greenhouse.io/fourkites/jobs/7984869 | FourKites | Product Manager, Inventory & Orders | posted=2026-06-05
 - [ ] https://api.smartrecruiters.com/v1/companies/Entain/postings/744000130490670 | Entain India | Product Manager | posted=2026-06-05
 
+- [ ] https://www.linkedin.com/jobs/view/4424585709 | CG-VAK Software & Exports Ltd. | Senior Product Manager (Growth, FinTech) | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4421155719 | algoleap | Senior Product Manager | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4296469734 | Acceldata | Senior Product Manager | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4414716898 | Priceline | Technical Product Manager | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4414911585 | SOTI | Product Manager | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4414730704 | Priceline | Product Manager, Data / AI ML | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4421166644 | Oracle | Product Manager/Strategy 3-ProdDev | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4405010336 | Adobe | Product Manager 4 | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4424588902 | American Express | Manager Product Owner (Global Treasury controllership) | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4384834481 | Airbnb | Lead Advanced Analytics, Digital & AI Products | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4415006884 | The Lubrizol Corporation | Product Manager - PCG IMEA | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4415368488 | Microsoft | Product Manager II | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4382724625 | Cargill | Sr. Product Manager - Food | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4382436329 | Adobe | Senior  Product Manager | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4424764507 | Amazon | Sr. Product Manager, OPTIMA | posted=2026-06-05
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

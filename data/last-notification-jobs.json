@@ -1,54 +1,110 @@
 {
-  "generated_at": "2026-06-05T07:19:24.121Z",
+  "generated_at": "2026-06-05T11:36:58.498Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Senior Product Manager",
-      "company": "Pearl",
-      "location": "India",
-      "url": "https://www.linkedin.com/jobs/view/4424180155"
+      "title": "Product Manager - Interfaces",
+      "company": "Supabase",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/supabase/184c3ad5-5d5f-44a1-98f7-65ff6f287b2f"
     },
     {
       "n": 2,
-      "title": "Artificial Intelligence Product Owner (Remote)",
-      "company": "Hire Feed",
-      "location": "India",
-      "url": "https://www.linkedin.com/jobs/view/4424142836"
+      "title": "Product Owner",
+      "company": "Endava",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://www.linkedin.com/jobs/view/4372841218"
     },
     {
       "n": 3,
-      "title": "Product Manager (Remote)",
-      "company": "Hire Feed",
-      "location": "India",
-      "url": "https://www.linkedin.com/jobs/view/4424157161"
+      "title": "Associate Product Manager (Quest2Travel)",
+      "company": "MakeMyTrip",
+      "location": "Gurgaon, Haryana, India",
+      "url": "https://www.linkedin.com/jobs/view/4424702259"
     },
     {
       "n": 4,
-      "title": "Product Manager 2",
-      "company": "Zynga",
-      "location": "Bengaluru, India",
-      "url": "https://job-boards.greenhouse.io/zyngacareers/jobs/5810374004"
+      "title": "Product Manager",
+      "company": "Cohesity",
+      "location": "Pune/Pimpri-Chinchwad Area",
+      "url": "https://www.linkedin.com/jobs/view/4414682947"
     },
     {
       "n": 5,
-      "title": "Senior Product Manager II",
-      "company": "Nielsen",
-      "location": "Bengaluru, in",
-      "url": "https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013484567"
+      "title": "Manager Digital Product Management",
+      "company": "American Express",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4424568434"
     },
     {
       "n": 6,
-      "title": "Senior Product Manager, Nielsen ONE Reporting",
-      "company": "Nielsen",
-      "location": "Remote, us",
-      "url": "https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013480656"
+      "title": "Senior Product Manager, Design Tools",
+      "company": "Quillbot",
+      "location": "India",
+      "url": "https://www.linkedin.com/jobs/view/4405268040"
     },
     {
       "n": 7,
-      "title": "Product Management Director",
-      "company": "Jobgether",
-      "location": "India",
-      "url": "https://jobs.lever.co/jobgether/4e25272b-913e-4faf-8378-549101be652e"
+      "title": "Product Manager",
+      "company": "Glomo",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4407588841"
+    },
+    {
+      "n": 8,
+      "title": "Senior Product Manager (Growth, FinTech)",
+      "company": "TalentXO",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://www.linkedin.com/jobs/view/4424569564"
+    },
+    {
+      "n": 9,
+      "title": "Product Manager–Fleet Management Solutions",
+      "company": "Philips",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4413562339"
+    },
+    {
+      "n": 10,
+      "title": "Product Manager - Respiratory Care",
+      "company": "Dräger",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4424566337"
+    },
+    {
+      "n": 11,
+      "title": "Sr. Product Manager",
+      "company": "Arctic Wolf",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4393004455"
+    },
+    {
+      "n": 12,
+      "title": "Senior Product Manager",
+      "company": "Clearwater Analytics",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://www.linkedin.com/jobs/view/4414747744"
+    },
+    {
+      "n": 13,
+      "title": "Product Manager, Staff – AI Video Surveillance",
+      "company": "Qualcomm",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://www.linkedin.com/jobs/view/4414486073"
+    },
+    {
+      "n": 14,
+      "title": "Data Product Manager - Commercial",
+      "company": "DIAGEO India",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4414655301"
+    },
+    {
+      "n": 15,
+      "title": "Senior Product Manager — EatSure & D2C",
+      "company": "Rebel Foods",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4424187312"
     }
   ]
 }

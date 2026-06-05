@@ -670,6 +670,26 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013480656 | Nielsen | Senior Product Manager, Nielsen ONE Reporting | posted=2026-06-04
 - [ ] https://jobs.lever.co/jobgether/4e25272b-913e-4faf-8378-549101be652e | Jobgether | Product Management Director | posted=2026-06-05
 
+- [ ] https://jobs.ashbyhq.com/supabase/184c3ad5-5d5f-44a1-98f7-65ff6f287b2f | Supabase | Product Manager - Interfaces | posted=2026-05-28
+- [ ] https://www.linkedin.com/jobs/view/4372841218 | Endava | Product Owner | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4424702259 | MakeMyTrip | Associate Product Manager (Quest2Travel) | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4414682947 | Cohesity | Product Manager | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4424568434 | American Express | Manager Digital Product Management | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4405268040 | Quillbot | Senior Product Manager, Design Tools | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4407588841 | Glomo | Product Manager | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4424569564 | TalentXO | Senior Product Manager (Growth, FinTech) | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4413562339 | Philips | Product Manager–Fleet Management Solutions | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4424566337 | Dräger | Product Manager - Respiratory Care | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4393004455 | Arctic Wolf | Sr. Product Manager | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4414747744 | Clearwater Analytics | Senior Product Manager | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4414486073 | Qualcomm | Product Manager, Staff – AI Video Surveillance | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4414655301 | DIAGEO India | Data Product Manager - Commercial | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4424187312 | Rebel Foods | Senior Product Manager — EatSure & D2C | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4411197215 | HighLevel | Senior Product Manager - Workflow Core | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4414612188 | Diligent | Senior Product Manager (IT Risk) | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4421692348 | Kissht | Product Manager - Collections | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4405674627 | BNP Paribas | Product Owner | posted=2026-06-05
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

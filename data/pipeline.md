@@ -751,6 +751,12 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4415193059 | hackajob | VP Product Owner - Demand and Deposit Accounting (DDA) | posted=2026-06-06
 - [ ] https://www.linkedin.com/jobs/view/4424671454 | Comcast | Senior Product Manager | posted=2026-06-06
 
+- [ ] https://www.linkedin.com/jobs/view/4403788684 | Weave | Senior Product Manager, Scheduling Platform | posted=2026-06-06
+- [ ] https://www.linkedin.com/jobs/view/4412035044 | Critical Start | Senior Technical Product Manager | posted=2026-06-06
+- [ ] https://www.linkedin.com/jobs/view/4327696197 | Tieto | Product Owner- 5G RAN- Tieto Tech Consulting (m/f/d) | posted=2026-06-06
+- [ ] https://www.linkedin.com/jobs/view/4405802275 | Johnson & Johnson Innovative Medicine | Technical Product Owner ERP Plan & Source | posted=2026-06-06
+- [ ] https://www.linkedin.com/jobs/view/4405314892 | Ingram Micro | Assistant Product Manager | posted=2026-06-06
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

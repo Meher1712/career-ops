@@ -727,6 +727,13 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4382436329 | Adobe | Senior  Product Manager | posted=2026-06-05
 - [ ] https://www.linkedin.com/jobs/view/4424764507 | Amazon | Sr. Product Manager, OPTIMA | posted=2026-06-05
 
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/7837829 | Twilio | Principal Product Manager | posted=2026-06-05
+- [ ] https://www.linkedin.com/jobs/view/4421518776 | CareerXperts Consulting | Product Manager | posted=2026-06-06
+- [ ] https://www.linkedin.com/jobs/view/4424990131 | Hire Feed | Product Manager (Remote) | posted=2026-06-06
+- [ ] https://www.linkedin.com/jobs/view/4419693671 | Melento | Sr. Product Manager (SAAS and BFSI background) | posted=2026-06-06
+- [ ] https://www.linkedin.com/jobs/view/4424647446 | 30 Sundays | Product Manager | posted=2026-06-06
+- [ ] https://www.linkedin.com/jobs/view/4424993124 | Hire Feed | Artificial Intelligence Product Owner (Remote) | posted=2026-06-06
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

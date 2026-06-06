@@ -743,6 +743,14 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4415828122 | Provation | Product Owner | posted=2026-06-06
 - [ ] https://www.linkedin.com/jobs/view/4412902478 | MSD | Senior Specialist, Veeva QMS Technical Product Management | posted=2026-06-06
 
+- [ ] https://www.linkedin.com/jobs/view/4385316380 | HealthEdge | Product Manager | posted=2026-06-06
+- [ ] https://www.linkedin.com/jobs/view/4405803266 | Johnson & Johnson Innovative Medicine | Technical Product Owner ERP Plan & Source | posted=2026-06-06
+- [ ] https://www.linkedin.com/jobs/view/4415188120 | hackajob | Product Owner, Data | posted=2026-06-06
+- [ ] https://www.linkedin.com/jobs/view/4405817132 | MakeMyTrip | Associate Product Manager (Connect) | posted=2026-06-06
+- [ ] https://www.linkedin.com/jobs/view/4415162956 | IDFC FIRST Bank | Product Manager-Partnerships | posted=2026-06-06
+- [ ] https://www.linkedin.com/jobs/view/4415193059 | hackajob | VP Product Owner - Demand and Deposit Accounting (DDA) | posted=2026-06-06
+- [ ] https://www.linkedin.com/jobs/view/4424671454 | Comcast | Senior Product Manager | posted=2026-06-06
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

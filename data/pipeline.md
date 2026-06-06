@@ -739,6 +739,10 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4366339874 | Experian | Technology Product Owner II | posted=2026-06-06
 - [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Product-Manager--Firefly-_R166651 | Adobe | Principal Product Manager | posted=2026-06-06
 
+- [ ] https://www.linkedin.com/jobs/view/4424655750 | Kwan Ventures | Principal Product Manager - PDP, PLP | posted=2026-06-06
+- [ ] https://www.linkedin.com/jobs/view/4415828122 | Provation | Product Owner | posted=2026-06-06
+- [ ] https://www.linkedin.com/jobs/view/4412902478 | MSD | Senior Specialist, Veeva QMS Technical Product Management | posted=2026-06-06
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

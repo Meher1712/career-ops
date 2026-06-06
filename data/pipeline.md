@@ -757,6 +757,11 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4405802275 | Johnson & Johnson Innovative Medicine | Technical Product Owner ERP Plan & Source | posted=2026-06-06
 - [ ] https://www.linkedin.com/jobs/view/4405314892 | Ingram Micro | Assistant Product Manager | posted=2026-06-06
 
+- [ ] https://www.linkedin.com/jobs/view/4424681246 | Rohan Book Company Pvt Ltd | Product Manager | posted=2026-06-06
+- [ ] https://www.linkedin.com/jobs/view/4421559568 | CodeRound AI | Product Manager (Up to 60LPA) | posted=2026-06-06
+- [ ] https://www.linkedin.com/jobs/view/4424687219 | Intuit | Product Manager 2, Virtual Expert Platform — Expert Management | posted=2026-06-06
+- [ ] https://www.linkedin.com/jobs/view/4421555569 | Oracle | Product Manager/Strategy 3-ProdDev | posted=2026-06-06
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

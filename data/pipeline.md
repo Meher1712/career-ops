@@ -734,6 +734,11 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4424647446 | 30 Sundays | Product Manager | posted=2026-06-06
 - [ ] https://www.linkedin.com/jobs/view/4424993124 | Hire Feed | Artificial Intelligence Product Owner (Remote) | posted=2026-06-06
 
+- [ ] https://www.linkedin.com/jobs/view/4424671063 | YENNES Infotec P Limited | Senior Product Manager | posted=2026-06-06
+- [ ] https://www.linkedin.com/jobs/view/4424670420 | Whatfix | AI Product Manager | posted=2026-06-06
+- [ ] https://www.linkedin.com/jobs/view/4366339874 | Experian | Technology Product Owner II | posted=2026-06-06
+- [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Product-Manager--Firefly-_R166651 | Adobe | Principal Product Manager | posted=2026-06-06
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

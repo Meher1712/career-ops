@@ -765,6 +765,11 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4425175346 | Hire Feed | Product Manager (Remote) | posted=2026-06-07
 - [ ] https://jobs.lever.co/jobgether/5ef1a42d-8c39-4266-aa43-081bb4fa6483 | Jobgether | Product Manager - Orchestration | posted=2026-06-07
 
+- [ ] https://www.linkedin.com/jobs/view/4421591680 | Zeta | Product Manager II | posted=2026-06-07
+- [ ] https://www.linkedin.com/jobs/view/4424697837 | Oser | product manager and co-founder - EV Charging Management Network Software | posted=2026-06-07
+- [ ] https://www.linkedin.com/jobs/view/4415403440 | Teradata | Senior Staff Product Manager — Metadata & AI Context | posted=2026-06-07
+- [ ] https://www.linkedin.com/jobs/view/4397431246 | Emerson | Software Product Owner | posted=2026-06-07
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

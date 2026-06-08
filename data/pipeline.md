@@ -801,6 +801,19 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.fivetran.com/careers/job?gh_jid=7735295003 | Fivetran | Staff Product Manager, Connectors | posted=2026-06-08
 - [ ] https://jobs.lever.co/coupa/864d0c00-fd86-4085-a20e-f24663d9fed4 | Coupa | Principal Product Manager - 11571 | posted=2026-06-02
 
+- [ ] https://www.linkedin.com/jobs/view/4421952884 | McAfee | Product Manager - Payments | posted=2026-06-08
+- [ ] https://www.linkedin.com/jobs/view/4425255911 | Google | Product Manager, AI Garage | posted=2026-06-08
+- [ ] https://www.linkedin.com/jobs/view/4421951798 | JioHotstar | Staff Product Manager (Recommendation) | posted=2026-06-08
+- [ ] https://www.linkedin.com/jobs/view/4421957968 | CodeRound AI | AI Product Manager (Up to 40LPA) | posted=2026-06-08
+- [ ] https://www.linkedin.com/jobs/view/4425626130 | Nike | Lead Technical Product Manager, ITC | posted=2026-06-08
+- [ ] https://www.linkedin.com/jobs/view/4425640028 | Nike | Principal Technical Product Manager, ITC | posted=2026-06-08
+- [ ] https://www.linkedin.com/jobs/view/4425267535 | Stellantis | Lead Product Manager | posted=2026-06-08
+- [ ] https://www.linkedin.com/jobs/view/4425264839 | Siemens | Product Owner | posted=2026-06-08
+- [ ] https://www.linkedin.com/jobs/view/4425266842 | Siemens | Product Owner - Electrification AI Solutions | posted=2026-06-08
+- [ ] https://jobs.ashbyhq.com/confluent/f7356433-e9cd-437b-9048-587b11333bb1 | Confluent | Pincipal, Product Manager | posted=2026-06-01
+- [ ] https://jobs.lever.co/jobgether/9bce9c1a-90f2-48e8-8576-4e68b1f84a52 | Jobgether | Product Manager - Financial Operations | posted=2026-06-08
+- [ ] https://jobs.lever.co/jobgether/aaa79386-c838-4319-b3a6-2d166340dc08 | Jobgether | Senior Product Manager (Integrations) | posted=2026-06-08
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

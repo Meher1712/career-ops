@@ -773,6 +773,18 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4406393935 | QAD | Senior Product Manager, AI Platform | posted=2026-06-07
 - [ ] https://www.linkedin.com/jobs/view/4397068230 | Platform Science | Product Owner | posted=2026-06-07
 
+- [ ] https://www.linkedin.com/jobs/view/4406457046 | Hoffmann Group | Product Owner | posted=2026-06-08
+- [ ] https://www.linkedin.com/jobs/view/4425470279 | ZeOmega | Product Manager | posted=2026-06-08
+- [ ] https://www.linkedin.com/jobs/view/4425072857 | OneTap | Product Manager -- SaaS | posted=2026-06-08
+- [ ] https://www.linkedin.com/jobs/view/4425091286 | EMO.energy | Software Product Manager | posted=2026-06-08
+- [ ] https://www.linkedin.com/jobs/view/4421921349 | PayU | Assistant Technical Product Manager | posted=2026-06-08
+- [ ] https://www.linkedin.com/jobs/view/4425084329 | Red Hat | Principal Product Manager, AI Platform | posted=2026-06-08
+- [ ] https://www.linkedin.com/jobs/view/4421933284 | IBM | Technical Product Manager, Data Resiliency | posted=2026-06-08
+- [ ] https://www.linkedin.com/jobs/view/4425459433 | BNY | Vice President, POM Product Owner | posted=2026-06-08
+- [ ] https://www.linkedin.com/jobs/view/4421939010 | Siemens | Product Owner | posted=2026-06-08
+- [ ] https://www.linkedin.com/jobs/view/4421935040 | Siemens | Product Owner - Electrification AI Solutions | posted=2026-06-08
+- [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Product-Manager-3_R169484 | Adobe | Product Manager 3 | posted=2026-06-08
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

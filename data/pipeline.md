@@ -785,6 +785,22 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4421935040 | Siemens | Product Owner - Electrification AI Solutions | posted=2026-06-08
 - [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Product-Manager-3_R169484 | Adobe | Product Manager 3 | posted=2026-06-08
 
+- [ ] https://stripe.com/jobs/search?gh_jid=7570242 | Stripe | Staff Product Manager, Global Expansion | posted=2026-06-08
+- [ ] https://www.linkedin.com/jobs/view/4425477934 | Snapdeal | Senior Manager / Associate Director – Product Management | posted=2026-06-08
+- [ ] https://www.linkedin.com/jobs/view/4425478780 | Amazon | Product Manager, Amazon Now | posted=2026-06-08
+- [ ] https://www.linkedin.com/jobs/view/4425610245 | zenda | Product Manager | posted=2026-06-08
+- [ ] https://www.linkedin.com/jobs/view/4425479995 | Trademo | Product Manager - Sanctions and AML | posted=2026-06-08
+- [ ] https://www.linkedin.com/jobs/view/4415601675 | hackajob | VP - Product Owner | posted=2026-06-08
+- [ ] https://www.linkedin.com/jobs/view/4401876258 | hackajob | Vice President, POM Product Owner | posted=2026-06-08
+- [ ] https://www.linkedin.com/jobs/view/4425232697 | Haleon | Operations and Process Lead - Regulatory Product Owner | posted=2026-06-08
+- [ ] https://www.linkedin.com/jobs/view/4401884023 | hackajob | Vice President, POM Product Management | posted=2026-06-08
+- [ ] https://www.linkedin.com/jobs/view/4425236253 | Jobgether | Product Manager - Financial Operations | posted=2026-06-08
+- [ ] https://www.linkedin.com/jobs/view/4425233128 | CAVITAK | Product Manager Networking | posted=2026-06-08
+- [ ] https://jobs.lever.co/meesho/8fbd171f-8f9f-41b2-ad68-181a47367906 | Meesho | Product Manager II - Marketplace | posted=2026-01-05
+- [ ] https://api.smartrecruiters.com/v1/companies/Freshworks/postings/744000130753870 | Freshworks | Staff Product Manager | posted=2026-06-08
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7735295003 | Fivetran | Staff Product Manager, Connectors | posted=2026-06-08
+- [ ] https://jobs.lever.co/coupa/864d0c00-fd86-4085-a20e-f24663d9fed4 | Coupa | Principal Product Manager - 11571 | posted=2026-06-02
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

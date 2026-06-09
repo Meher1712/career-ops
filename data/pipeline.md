@@ -858,6 +858,28 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://job-boards.greenhouse.io/inmobi/jobs/7975920 | InMobi Advertising | Group Product Manager - Monetization | posted=2026-06-09
 - [ ] https://jobs.lever.co/jobgether/398488f9-9182-4ff9-8950-327d1d2f8036 | Jobgether | Product Owner | Senior | posted=2026-06-09
 
+- [ ] https://stripe.com/jobs/search?gh_jid=7979422 | Stripe | Product Manager - Compliance, Bridge | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4375386975 | Adani Group | Deputy Manager - Product Management | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4415905969 | Five9 | Sr Product Manager - AI Innovations | India | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4426351839 | InMobi Advertising | Group Product Manager - Monetization. | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4415716960 | Harvey | Group Product Manager, Knowledge Platform | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4415792107 | Smartsheet | Sr. Product Manager, Audit & History (Hybrid, Bangalore) | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4422730249 | Mastercard | Manager, Product Management-Technical | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4422729117 | Zensar Technologies | Product Owner_native Mobile Applications | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4422729235 | Mastercard | Manager, Product Management (Transaction Processing) | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4416665721 | BNY | Senior Specialist, POM Product Owner | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4422717704 | Palo Alto Networks | Senior Staff Product Owner | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4416648047 | Pratt & Whitney | Principal Specialist - CRM Product Owner | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4425633106 | Nike | Principal Technical Product Manager, ITC | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4425829825 | CG-VAK Software & Exports Ltd. | Product Manager (IIT + IIM) | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4425836840 | Triomics | AI Product Manager | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4404848904 | Agoda | Technical Product Manager, Observability Domain | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4404852481 | Agoda | Technical Product Manager, LLM/ML Domain | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4426370051 | NetApp | Staff Product Manager | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4404963007 | Agoda | Technical Product Manager, Private Cloud Domain | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4425835627 | Arcesium | Technical Product Manager | posted=2026-06-09
+- [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Lead-Product-Manager_JR108082 | Sabre | Lead Product Manager | posted=2026-06-09
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

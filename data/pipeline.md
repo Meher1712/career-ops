@@ -814,6 +814,13 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://jobs.lever.co/jobgether/9bce9c1a-90f2-48e8-8576-4e68b1f84a52 | Jobgether | Product Manager - Financial Operations | posted=2026-06-08
 - [ ] https://jobs.lever.co/jobgether/aaa79386-c838-4319-b3a6-2d166340dc08 | Jobgether | Senior Product Manager (Integrations) | posted=2026-06-08
 
+- [ ] https://www.linkedin.com/jobs/view/4422238993 | Aviatrix | Principal Product Manager | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4425597027 | Qualitrol | Product Owner | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4425583476 | Salesforce | Senior Product Manager/Director - Product Management (Industries and Apps) | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4422224922 | airtel | Product Manager | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4422257104 | Seventh Contact Hiring Solutions | Product Manager II (Widgets, Micro frontend Exp) with US based product company- Remote. | posted=2026-06-09
+- [ ] https://zendesk.wd1.myworkdayjobs.com/Zendesk/job/Pune-India/Senior-Product-Manager_R34092 | Zendesk | Senior Product Manager | posted=2026-06-09
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

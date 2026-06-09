@@ -821,6 +821,24 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4422257104 | Seventh Contact Hiring Solutions | Product Manager II (Widgets, Micro frontend Exp) with US based product company- Remote. | posted=2026-06-09
 - [ ] https://zendesk.wd1.myworkdayjobs.com/Zendesk/job/Pune-India/Senior-Product-Manager_R34092 | Zendesk | Senior Product Manager | posted=2026-06-09
 
+- [ ] https://www.linkedin.com/jobs/view/4426300001 | Optum India | Senior Tech Product Manager | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4416281645 | Toast | Senior Product Manager | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4425991607 | Questhiring | Senior Product Manager | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4405920188 | Lam Research | Product Manager 4 | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4415735462 | Zinnia | Senior Product Manager (Technical) - Case Management | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4425825237 | EdgeVerve | Product Manager | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4343019874 | Dr. Reddy's Laboratories | Group Product Manager | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4426301002 | Questhiring | Product Manager | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4416620070 | NXP Semiconductors | Software Asset Management - Product Owner | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4426301281 | Latinem Private Limited | Product Owner | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4406480573 | KeyValue | Product Manager | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4425811459 | Lowe's India | Associate Product Manager | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4418912936 | Augnito | Product Manager | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4425822203 | Fiserv | Advisor, Product Management | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4343200007 | Dr. Reddy's Laboratories | Group Product Manager - Oncology (New Innovator Molecule) | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4422281074 | Tech Mahindra | Product Owner | posted=2026-06-09
+- [ ] https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Karnataka---Bangalore/Associate-Product-Manager---WFM--_113071-JOB-1 | Sprinklr | Associate Product Manager ( WFM ) | posted=2026-06-09
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

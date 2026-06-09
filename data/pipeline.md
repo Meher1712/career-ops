@@ -839,6 +839,25 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4422281074 | Tech Mahindra | Product Owner | posted=2026-06-09
 - [ ] https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Karnataka---Bangalore/Associate-Product-Manager---WFM--_113071-JOB-1 | Sprinklr | Associate Product Manager ( WFM ) | posted=2026-06-09
 
+- [ ] https://www.linkedin.com/jobs/view/4425813834 | Panzer Technologies Pvt Ltd | Product Manager II | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4426331252 | GoComet | Product Manager | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4425825847 | Clinikally (YC S22) | Associate Product Manager | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4426319016 | Osmos | Senior Product Manager | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4425594144 | Meritto | Associate Product Manager | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4406200029 | IDFC FIRST Bank | Product Manager-Credit Cards | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4425844027 | Google | Group Product Manager, Customer Experience Ads | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4425819897 | Ample | Product Manager Accessories & Audio | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4416254721 | Fivetran | Staff Product Manager, Connectors | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4426327328 | Rupeezy | Product Manager - Website | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4416210517 | Amazon | Senior Product Manager - Tech, TimeHub | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4415769208 | IDFC FIRST Bank | Product Manager-NRI | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4413879624 | Hashlist | Principal Product Manager | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4426319468 | CAW | Senior Product Manager | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4426301925 | Amazon | Sr. Product Manager - Tech, India Ads | posted=2026-06-09
+- [ ] https://www.linkedin.com/jobs/view/4422704345 | LinkedIn India PM | Product Manager - Hematology | posted=2026-06-09
+- [ ] https://job-boards.greenhouse.io/inmobi/jobs/7975920 | InMobi Advertising | Group Product Manager - Monetization | posted=2026-06-09
+- [ ] https://jobs.lever.co/jobgether/398488f9-9182-4ff9-8950-327d1d2f8036 | Jobgether | Product Owner | Senior | posted=2026-06-09
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -886,6 +886,30 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013552566 | Nielsen | Senior Product Manager , Identity & Interoperability | posted=2026-06-10
 - [ ] https://careers.toasttab.com/jobs?gh_jid=7979861 | Toast | Senior Product Manager, Toast Now | posted=2026-06-09
 
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7993078 | MongoDB | Technical Director, Builder Relations | posted=2026-06-10
+- [ ] https://www.linkedin.com/jobs/view/4426770361 | Avalara APAC | Senior Product Manager | posted=2026-06-10
+- [ ] https://www.linkedin.com/jobs/view/4408218821 | Zscaler | Senior Product Manager | posted=2026-06-10
+- [ ] https://www.linkedin.com/jobs/view/4426782000 | Olympus Corporation | IT Product Owner Open Text | posted=2026-06-10
+- [ ] https://www.linkedin.com/jobs/view/4426765849 | Noora Health | Lead/Group Product Manager | posted=2026-06-10
+- [ ] https://www.linkedin.com/jobs/view/4423947519 | Zensar Technologies | AES - DE - Agile - Product Owner | posted=2026-06-10
+- [ ] https://www.linkedin.com/jobs/view/4405532062 | HighLevel | Sr. Product Manager - Template Library, Brand Board & Countdown Timer | posted=2026-06-10
+- [ ] https://www.linkedin.com/jobs/view/4425807671 | Zensar Technologies | Product Owner_native Mobile Applications | posted=2026-06-10
+- [ ] https://www.linkedin.com/jobs/view/4426773554 | LinkedIn India Senior PM | Product Owner - Yardi | posted=2026-06-10
+- [ ] https://www.linkedin.com/jobs/view/4426771722 | CTeBS | Senior Product Manager | posted=2026-06-10
+- [ ] https://www.linkedin.com/jobs/view/4423127296 | Mastercard | Senior Product Manager-Technical – Agentic AI | posted=2026-06-10
+- [ ] https://www.linkedin.com/jobs/view/4426779206 | Hewlett Packard Enterprise | Senior AI Product Manager | posted=2026-06-10
+- [ ] https://www.linkedin.com/jobs/view/4426773475 | Ideagen | Technical Product Owner | posted=2026-06-10
+- [ ] https://www.linkedin.com/jobs/view/4426061486 | Azuga, Inc. | Senior Product Manager – Data, Analytics & AI | posted=2026-06-10
+- [ ] https://www.linkedin.com/jobs/view/4426775187 | A.P. Moller - Maersk | Associate Platform Product Owner | posted=2026-06-10
+- [ ] https://www.linkedin.com/jobs/view/4413425215 | Sprinklr | Associate Product Manager ( WFM ) | posted=2026-06-10
+- [ ] https://www.linkedin.com/jobs/view/4423125143 | Orvera | Product Manager | posted=2026-06-10
+- [ ] https://www.linkedin.com/jobs/view/4423111929 | Lysto | Product Manager | posted=2026-06-10
+- [ ] https://www.linkedin.com/jobs/view/4390343791 | Impact Analytics | Associate Product Manager | posted=2026-06-10
+- [ ] https://www.linkedin.com/jobs/view/4424152370 | Tata Communications | Unified Collaboration - Product Manager | posted=2026-06-10
+- [ ] https://www.linkedin.com/jobs/view/4398396908 | D. E. Shaw India Private Limited | Technical Product Manager - Product Management - Legal & Compliance | posted=2026-06-10
+- [ ] https://www.linkedin.com/jobs/view/4359756903 | JPMorganChase | Securities Services Data Platform / Product Manager - Executive Director | posted=2026-06-10
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/7739832 | Adyen | Group Product Manager - Payments | India [Head of Products, India] | posted=2026-06-10
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

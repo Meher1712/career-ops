@@ -880,6 +880,12 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4425835627 | Arcesium | Technical Product Manager | posted=2026-06-09
 - [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Lead-Product-Manager_JR108082 | Sabre | Lead Product Manager | posted=2026-06-09
 
+- [ ] https://www.linkedin.com/jobs/view/4426733582 | Infinx | Associate Product Manager | posted=2026-06-10
+- [ ] https://www.linkedin.com/jobs/view/4426721928 | Hollister Incorporated | Product Manager | posted=2026-06-10
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013552606 | Nielsen | Senior Product Manager, Data Collections and SDK | posted=2026-06-10
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013552566 | Nielsen | Senior Product Manager , Identity & Interoperability | posted=2026-06-10
+- [ ] https://careers.toasttab.com/jobs?gh_jid=7979861 | Toast | Senior Product Manager, Toast Now | posted=2026-06-09
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

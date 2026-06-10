@@ -910,6 +910,18 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4359756903 | JPMorganChase | Securities Services Data Platform / Product Manager - Executive Director | posted=2026-06-10
 - [ ] https://job-boards.greenhouse.io/adyen/jobs/7739832 | Adyen | Group Product Manager - Payments | India [Head of Products, India] | posted=2026-06-10
 
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/7966926 | Twilio | Director, Product Management | posted=2026-06-10
+- [ ] https://job-boards.eu.greenhouse.io/sportygroup/jobs/4748134101 | Sporty Group | Product Manager | posted=2026-06-10
+- [ ] https://www.linkedin.com/jobs/view/4406556322 | symplr | Senior product Owner | posted=2026-06-10
+- [ ] https://www.linkedin.com/jobs/view/4427023437 | Nike | Lead Product Manager , ITC | posted=2026-06-10
+- [ ] https://www.linkedin.com/jobs/view/4415953181 | Kenvue | Lead Product Owner | posted=2026-06-10
+- [ ] https://www.linkedin.com/jobs/view/4398517160 | Eightfold AI | Product Manager I/II - Platform | posted=2026-06-10
+- [ ] https://www.linkedin.com/jobs/view/4423149138 | Neural Foundry | Technical Product Manager | posted=2026-06-10
+- [ ] https://www.linkedin.com/jobs/view/4427025615 | PracticeSuite, Inc. | Product Manager | posted=2026-06-10
+- [ ] https://www.linkedin.com/jobs/view/4426092671 | hackajob | Securities Services - Fund Accounting Product Manager | posted=2026-06-10
+- [ ] https://www.linkedin.com/jobs/view/4423132775 | Candescent | SW Product manager - Connectivity Platform | posted=2026-06-10
+- [ ] https://job-boards.greenhouse.io/zscaler/jobs/5149191007 | Zscaler | Director, Product Management, Customer Security Outcomes | posted=2026-06-10
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

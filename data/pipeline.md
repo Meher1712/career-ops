@@ -922,6 +922,17 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4423132775 | Candescent | SW Product manager - Connectivity Platform | posted=2026-06-10
 - [ ] https://job-boards.greenhouse.io/zscaler/jobs/5149191007 | Zscaler | Director, Product Management, Customer Security Outcomes | posted=2026-06-10
 
+- [ ] https://www.linkedin.com/jobs/view/4408254815 | MongoDB | Senior Product Manager | posted=2026-06-10
+- [ ] https://www.linkedin.com/jobs/view/4407809224 | 6sense | Sr. Product Manager | posted=2026-06-10
+- [ ] https://www.linkedin.com/jobs/view/4408253269 | Bottomline | Senior Product Manager, AI & Data Science | posted=2026-06-10
+- [ ] https://www.linkedin.com/jobs/view/4427065166 | D. E. Shaw India Private Limited | Product Manager - Product Management (Analytics & Visualization) | posted=2026-06-10
+- [ ] https://www.linkedin.com/jobs/view/4415959904 | Vialto | Senior Product Manager – VialtoComp | posted=2026-06-10
+- [ ] https://www.linkedin.com/jobs/view/4427063329 | Amazon | Senior Product Manager, IN DEX | posted=2026-06-10
+- [ ] https://www.linkedin.com/jobs/view/4427051697 | Amazon | Senior Product Manager – Logistics Networks, Shipment Technologies | posted=2026-06-10
+- [ ] https://www.linkedin.com/jobs/view/4426149337 | Auric AI Labs | Product Manager | posted=2026-06-10
+- [ ] https://www.linkedin.com/jobs/view/4426135209 | Enterprise Minds, Inc | Certinia Product Manager | posted=2026-06-10
+- [ ] https://www.linkedin.com/jobs/view/4426144230 | Ingram Micro | Product Manager | posted=2026-06-10
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

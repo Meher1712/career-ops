@@ -1,75 +1,96 @@
 {
-  "generated_at": "2026-06-10T18:43:49.521Z",
+  "generated_at": "2026-06-11T08:17:15.040Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Senior Product Manager",
-      "company": "MongoDB",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://www.linkedin.com/jobs/view/4408254815"
+      "title": "Product Manager",
+      "company": "Nightfall AI",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4427505030"
     },
     {
       "n": 2,
-      "title": "Sr. Product Manager",
-      "company": "6sense",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4407809224"
+      "title": "Product Owner",
+      "company": "Solinas Integrity",
+      "location": "Chennai, Tamil Nadu, India",
+      "url": "https://www.linkedin.com/jobs/view/4423628197"
     },
     {
       "n": 3,
-      "title": "Senior Product Manager, AI & Data Science",
-      "company": "Bottomline",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4408253269"
+      "title": "Product Manager",
+      "company": "Terralogic",
+      "location": "Greater Hyderabad Area",
+      "url": "https://www.linkedin.com/jobs/view/4423634254"
     },
     {
       "n": 4,
-      "title": "Product Manager - Product Management (Analytics & Visualization)",
-      "company": "D. E. Shaw India Private Limited",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://www.linkedin.com/jobs/view/4427065166"
+      "title": "Product Manager UPI",
+      "company": "Airtel Payments Bank",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://www.linkedin.com/jobs/view/4427181793"
     },
     {
       "n": 5,
-      "title": "Senior Product Manager – VialtoComp",
-      "company": "Vialto",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4415959904"
+      "title": "Product Owner - Core Banking [CASA / RAID]",
+      "company": "Luxoft India",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.linkedin.com/jobs/view/4427185688"
     },
     {
       "n": 6,
-      "title": "Senior Product Manager, IN DEX",
-      "company": "Amazon",
+      "title": "Senior Product Manager",
+      "company": "Tekion Corp",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4427063329"
+      "url": "https://job-boards.greenhouse.io/tekion/jobs/7748433003"
     },
     {
       "n": 7,
-      "title": "Senior Product Manager – Logistics Networks, Shipment Technologies",
-      "company": "Amazon",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://www.linkedin.com/jobs/view/4427051697"
+      "title": "Senior Product Manager",
+      "company": "YENNES Infotec P Limited",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://www.linkedin.com/jobs/view/4426228247"
     },
     {
       "n": 8,
-      "title": "Product Manager",
-      "company": "Auric AI Labs",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4426149337"
+      "title": "Principal Product Manager",
+      "company": "UiPath",
+      "location": "Bangalore - Engineering",
+      "url": "https://jobs.ashbyhq.com/uipath/d3ef8c17-984f-4138-a853-cca29eaa7133"
     },
     {
       "n": 9,
-      "title": "Certinia Product Manager",
-      "company": "Enterprise Minds, Inc",
-      "location": "India",
-      "url": "https://www.linkedin.com/jobs/view/4426135209"
+      "title": "Senior Product Manager , Identity & Interoperability",
+      "company": "Nielsen",
+      "location": "Bengaluru, in",
+      "url": "https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013573405"
     },
     {
       "n": 10,
-      "title": "Product Manager",
-      "company": "Ingram Micro",
-      "location": "South Delhi, Delhi, India",
-      "url": "https://www.linkedin.com/jobs/view/4426144230"
+      "title": "Director of Product",
+      "company": "Entain India",
+      "location": "Hyderabad, in",
+      "url": "https://api.smartrecruiters.com/v1/companies/Entain/postings/744000131589369"
+    },
+    {
+      "n": 11,
+      "title": "Staff Product Manager",
+      "company": "Freshworks",
+      "location": "Chennai, in",
+      "url": "https://api.smartrecruiters.com/v1/companies/Freshworks/postings/744000131591949"
+    },
+    {
+      "n": 12,
+      "title": "Senior Product Manager, Fleet Management",
+      "company": "Jobgether",
+      "location": "India",
+      "url": "https://jobs.lever.co/jobgether/f82437ef-cd0c-44aa-9bc7-97f5c536dccd"
+    },
+    {
+      "n": 13,
+      "title": "Head of Product - Wadhwani AI",
+      "company": "2070Health",
+      "location": "New Delhi, India",
+      "url": "https://apply.workable.com/j/5169CFAB34"
     }
   ]
 }

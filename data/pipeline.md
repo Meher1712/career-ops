@@ -933,6 +933,20 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4426135209 | Enterprise Minds, Inc | Certinia Product Manager | posted=2026-06-10
 - [ ] https://www.linkedin.com/jobs/view/4426144230 | Ingram Micro | Product Manager | posted=2026-06-10
 
+- [ ] https://www.linkedin.com/jobs/view/4427505030 | Nightfall AI | Product Manager | posted=2026-06-11
+- [ ] https://www.linkedin.com/jobs/view/4423628197 | Solinas Integrity | Product Owner | posted=2026-06-11
+- [ ] https://www.linkedin.com/jobs/view/4423634254 | Terralogic | Product Manager | posted=2026-06-11
+- [ ] https://www.linkedin.com/jobs/view/4427181793 | Airtel Payments Bank | Product Manager UPI | posted=2026-06-11
+- [ ] https://www.linkedin.com/jobs/view/4427185688 | Luxoft India | Product Owner - Core Banking [CASA / RAID] | posted=2026-06-11
+- [ ] https://job-boards.greenhouse.io/tekion/jobs/7748433003 | Tekion Corp | Senior Product Manager | posted=2026-06-11
+- [ ] https://www.linkedin.com/jobs/view/4426228247 | YENNES Infotec P Limited | Senior Product Manager | posted=2026-06-11
+- [ ] https://jobs.ashbyhq.com/uipath/d3ef8c17-984f-4138-a853-cca29eaa7133 | UiPath | Principal Product Manager | posted=2026-06-11
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013573405 | Nielsen | Senior Product Manager , Identity & Interoperability | posted=2026-06-11
+- [ ] https://api.smartrecruiters.com/v1/companies/Entain/postings/744000131589369 | Entain India | Director of Product | posted=2026-06-11
+- [ ] https://api.smartrecruiters.com/v1/companies/Freshworks/postings/744000131591949 | Freshworks | Staff Product Manager | posted=2026-06-11
+- [ ] https://jobs.lever.co/jobgether/f82437ef-cd0c-44aa-9bc7-97f5c536dccd | Jobgether | Senior Product Manager, Fleet Management | posted=2026-06-11
+- [ ] https://apply.workable.com/j/5169CFAB34 | 2070Health | Head of Product - Wadhwani AI | posted=2026-06-11
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -976,6 +976,19 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://api.smartrecruiters.com/v1/companies/nagarro1/postings/744000131612759 | Nagarro | Senior Staff Consultant, Product Owner Observability  | posted=2026-06-11
 - [ ] https://api.smartrecruiters.com/v1/companies/Kredx/postings/744000131627550 | KredX | Product Manager  | posted=2026-06-11
 
+- [ ] https://stripe.com/jobs/search?gh_jid=7984866 | Stripe | Product Manager, Ecosystem Risk | posted=2026-06-11
+- [ ] https://www.linkedin.com/jobs/view/4427559840 | Avalara APAC | Senior Product Manager, AI Experience | posted=2026-06-11
+- [ ] https://www.linkedin.com/jobs/view/4426622823 | Google | Product Manager, User Voice AI and Agentic Experiences | posted=2026-06-11
+- [ ] https://www.linkedin.com/jobs/view/4284202124 | Glean | Product Manager, Connectors | posted=2026-06-11
+- [ ] https://www.linkedin.com/jobs/view/4377839265 | Microsoft AI | Principal Product Manager | posted=2026-06-11
+- [ ] https://www.linkedin.com/jobs/view/4413694199 | Mastercard | Lead Product Manager- Technical | posted=2026-06-11
+- [ ] https://www.linkedin.com/jobs/view/4407353110 | Boston Consulting Group (BCG) | Global Product Owner Senior Manager – Consolidations & Enterprise Structure | posted=2026-06-11
+- [ ] https://www.linkedin.com/jobs/view/4423666652 | Mastercard | Manager, Product Management | posted=2026-06-11
+- [ ] https://www.linkedin.com/jobs/view/4427566666 | Meesho | Product Manager II - Growth | posted=2026-06-11
+- [ ] https://www.linkedin.com/jobs/view/4408565347 | Aditya Birla Capital | Principal Product Manager | posted=2026-06-11
+- [ ] https://www.linkedin.com/jobs/view/4414018721 | PwC Acceleration Center India | Product Owner Payables & T&E - Manager | posted=2026-06-11
+- [ ] https://www.linkedin.com/jobs/view/4426615857 | Intuit | Group Product Manager, Project Capability | posted=2026-06-11
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -947,6 +947,35 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://jobs.lever.co/jobgether/f82437ef-cd0c-44aa-9bc7-97f5c536dccd | Jobgether | Senior Product Manager, Fleet Management | posted=2026-06-11
 - [ ] https://apply.workable.com/j/5169CFAB34 | 2070Health | Head of Product - Wadhwani AI | posted=2026-06-11
 
+- [ ] https://www.linkedin.com/jobs/view/4408593296 | Amazon | Sr. Product Manager – Tech, Alexa Daily Essentials | posted=2026-06-11
+- [ ] https://www.linkedin.com/jobs/view/4426237777 | DigitalPaani | Senior Product Manager | posted=2026-06-11
+- [ ] https://www.linkedin.com/jobs/view/4416307505 | SonicWall | Senior Product Manager – ZTNA or VPN experience is required | posted=2026-06-11
+- [ ] https://www.linkedin.com/jobs/view/4416189288 | DigiCert | Senior Product Manager, Platform Common Services | posted=2026-06-11
+- [ ] https://www.linkedin.com/jobs/view/4427513369 | Azentio | Digital Product Manager | posted=2026-06-11
+- [ ] https://www.linkedin.com/jobs/view/4416183782 | Google | Product Manager, Advanced Enterprise Data Platform Capabilities | posted=2026-06-11
+- [ ] https://www.linkedin.com/jobs/view/4427528235 | Amazon | Senior Product Manager Tech, IES Delivery Experience (Delivery CX) | posted=2026-06-11
+- [ ] https://www.linkedin.com/jobs/view/4374553931 | Harness | Principal Product Manager - AppSec | posted=2026-06-11
+- [ ] https://www.linkedin.com/jobs/view/4427528079 | Rippling | Product Manager, Hiring Primitives | posted=2026-06-11
+- [ ] https://www.linkedin.com/jobs/view/4423653223 | SUN PHARMA | Group Product Manager - Nutrition | posted=2026-06-11
+- [ ] https://www.linkedin.com/jobs/view/4427511322 | Sanofi | Digital R&D Launch & Marketed Products Product Owner | posted=2026-06-11
+- [ ] https://www.linkedin.com/jobs/view/4413676540 | Virtusa | Product Owner BA | posted=2026-06-11
+- [ ] https://www.linkedin.com/jobs/view/4427529076 | Embrace Software Inc | Product Manager | posted=2026-06-11
+- [ ] https://www.linkedin.com/jobs/view/4416195139 | DigiCert | Product Manager | posted=2026-06-11
+- [ ] https://www.linkedin.com/jobs/view/4416193480 | Google | Product Manager, Payments Platform | posted=2026-06-11
+- [ ] https://www.linkedin.com/jobs/view/4416174958 | DigiCert | Principal Product Manager, API Platform | posted=2026-06-11
+- [ ] https://www.linkedin.com/jobs/view/4426277835 | Scoutit | Product Manager | posted=2026-06-11
+- [ ] https://www.linkedin.com/jobs/view/4427513684 | PW (PhysicsWallah) | Group Product Manager / Associate Director | posted=2026-06-11
+- [ ] https://www.linkedin.com/jobs/view/4395990779 | Qualcomm | Staff/Director – AI HW Product Management | posted=2026-06-11
+- [ ] https://www.linkedin.com/jobs/view/4427523336 | Serko | Director of Product | posted=2026-06-11
+- [ ] https://www.linkedin.com/jobs/view/4423632976 | dsm-firmenich | Data Product Manager | posted=2026-06-11
+- [ ] https://www.linkedin.com/jobs/view/4427510426 | TE Connectivity | PRODUCT MANAGER | posted=2026-06-11
+- [ ] https://job-boards.greenhouse.io/conga/jobs/5063675007 | Conga | Staff Product Manager | posted=2026-06-11
+- [ ] https://job-boards.greenhouse.io/tekion/jobs/7748428003 | Tekion Corp | Staff Product Manager | posted=2026-06-11
+- [ ] https://jobs.lever.co/jobgether/3b4cb58d-3e1e-4ca7-8da4-b757e165270e | Jobgether | Principal Product Owner (Technology Driven Role) | posted=2026-06-11
+- [ ] https://api.smartrecruiters.com/v1/companies/nagarro1/postings/744000131625909 | Nagarro | Senior Staff Consultant, ,Product Manager, Atlassian Solutions | posted=2026-06-11
+- [ ] https://api.smartrecruiters.com/v1/companies/nagarro1/postings/744000131612759 | Nagarro | Senior Staff Consultant, Product Owner Observability  | posted=2026-06-11
+- [ ] https://api.smartrecruiters.com/v1/companies/Kredx/postings/744000131627550 | KredX | Product Manager  | posted=2026-06-11
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

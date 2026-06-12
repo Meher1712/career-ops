@@ -1021,6 +1021,22 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4334267411 | JPMorganChase | Securities Services - Tax Product Manager - Vice President | posted=2026-06-12
 - [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Product-Manager-3_R169439 | Adobe | Product Manager 3 | posted=2026-06-12
 
+- [ ] https://job-boards.greenhouse.io/hackerrank/jobs/7988284 | HackerRank | Senior Product Manager | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4416725080 | Sabre | Lead Product Manager | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4397795734 | athenahealth | Product Management, Manager | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4408585420 | Amazon | Sr. Product Manager – Tech, Alexa Daily Essentials | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4424887842 | IBM | Senior Product Manager - Confluent | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4248972481 | UPS | Senior Product Owner - Agile, ADO, Dashboards | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4418117375 | Honeywell | Lead Technical Product Owner | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4414079998 | Ralph Lauren | Manager,Product Management | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4426973117 | HealthEdge | Product Manager | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4426963255 | MYCPE ONE | Product Manager | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4428100268 | Kalogon | Product Manager, Seating Solutions (Healthcare Hardware) | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4424891462 | Timble AI | Technical AI Product Manager (Agentic AI) | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4426980458 | hackajob | Product Manager Regulatory Reporting - Vice President | posted=2026-06-12
+- [ ] https://jobs.lever.co/jobgether/95299bd3-aedd-4982-adbe-5ae47fb720fb | Jobgether | Director, Product Management | posted=2026-06-12
+- [ ] https://jobs.lever.co/jobgether/0bf11be0-5957-4e83-9ffd-91a47b92a73f | Jobgether | Senior Product Manager (AI Product Management) | posted=2026-06-12
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

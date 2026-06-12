@@ -989,6 +989,20 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4414018721 | PwC Acceleration Center India | Product Owner Payables & T&E - Manager | posted=2026-06-11
 - [ ] https://www.linkedin.com/jobs/view/4426615857 | Intuit | Group Product Manager, Project Capability | posted=2026-06-11
 
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/7851194 | Twilio | Principal Product Manager | posted=2026-06-11
+- [ ] https://www.linkedin.com/jobs/view/4424840817 | Comviva | Senior Product Manager | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4426911881 | nexocean | Group Product Manager-Lead Management & Conversion | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4427918971 | Zywave | Product Owner | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4427934175 | Hire Feed | Senior Product Manager - Skin Care & Dermatology | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4427945111 | Reo.Dev | Product Manager | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4426930757 | Talentmatics | Product Manager | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4424840779 | CodeRound AI | AI Product Manager (Up to 40LPA) | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4427936080 | Avensys Consulting | Technical Product Manager_Pharmaceutical R&D / Regulatory / Digital & Technology domain experience | posted=2026-06-12
+- [ ] https://jobs.lever.co/meesho/e4aba1e5-ef86-4c50-8985-2e46ff688354 | Meesho | Product Manager II - Growth | posted=2026-02-27
+- [ ] https://jobs.lever.co/jobgether/f7313ade-1b32-4bec-8ddb-269b9b83917b | Jobgether | Director of Product Design (SaaS) | posted=2026-06-12
+- [ ] https://jobs.lever.co/jobgether/35edd536-c488-4f2d-9d94-73f26da9e8ab | Jobgether | Product Owner (Client Experience) | posted=2026-06-12
+- [ ] https://careers.toasttab.com/jobs?gh_jid=7996885 | Toast | Principal Product Manager, POS Ordering  | posted=2026-06-11
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

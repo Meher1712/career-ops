@@ -1,96 +1,110 @@
 {
-  "generated_at": "2026-06-12T08:02:55.235Z",
+  "generated_at": "2026-06-12T11:54:00.682Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Principal Product Manager",
-      "company": "Twilio",
-      "location": "Remote - US",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/7851194"
+      "title": "Senior Product Manager",
+      "company": "Pearl",
+      "location": "India",
+      "url": "https://www.linkedin.com/jobs/view/4427935690"
     },
     {
       "n": 2,
       "title": "Senior Product Manager",
-      "company": "Comviva",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://www.linkedin.com/jobs/view/4424840817"
+      "company": "Weekday (YC W21)",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4424882359"
     },
     {
       "n": 3,
-      "title": "Group Product Manager-Lead Management & Conversion",
-      "company": "nexocean",
+      "title": "Senior Technical Product Manager (Platform Infra)",
+      "company": "JFrog",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4426911881"
+      "url": "https://www.linkedin.com/jobs/view/4417110908"
     },
     {
       "n": 4,
-      "title": "Product Owner",
-      "company": "Zywave",
-      "location": "Pune District, Maharashtra, India",
-      "url": "https://www.linkedin.com/jobs/view/4427918971"
+      "title": "Senior Product Manager (AI Product Management)",
+      "company": "Jobgether",
+      "location": "India",
+      "url": "https://www.linkedin.com/jobs/view/4426945576"
     },
     {
       "n": 5,
-      "title": "Senior Product Manager - Skin Care & Dermatology",
-      "company": "Hire Feed",
-      "location": "Mumbai, Maharashtra, India",
-      "url": "https://www.linkedin.com/jobs/view/4427934175"
+      "title": "Sr. Product Manager - AI Growth",
+      "company": "HighLevel",
+      "location": "India",
+      "url": "https://www.linkedin.com/jobs/view/4384702232"
     },
     {
       "n": 6,
-      "title": "Product Manager",
-      "company": "Reo.Dev",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4427945111"
+      "title": "Sr. Product Manager - Workflow Extended",
+      "company": "HighLevel",
+      "location": "India",
+      "url": "https://www.linkedin.com/jobs/view/4398243609"
     },
     {
       "n": 7,
-      "title": "Product Manager",
-      "company": "Talentmatics",
-      "location": "Mumbai, Maharashtra, India",
-      "url": "https://www.linkedin.com/jobs/view/4426930757"
+      "title": "Staff Enterprise Product Manager, Order Management",
+      "company": "Snowflake",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4409026638"
     },
     {
       "n": 8,
-      "title": "AI Product Manager (Up to 40LPA)",
-      "company": "CodeRound AI",
-      "location": "India",
-      "url": "https://www.linkedin.com/jobs/view/4424840779"
+      "title": "Product Owner – AGENTIC AI, Global Delivery Simplification",
+      "company": "State Street",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4427954173"
     },
     {
       "n": 9,
-      "title": "Technical Product Manager_Pharmaceutical R&D / Regulatory / Digital & Technology domain experience",
-      "company": "Avensys Consulting",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4427936080"
+      "title": "Product Manager",
+      "company": "RED Global",
+      "location": "India",
+      "url": "https://www.linkedin.com/jobs/view/4424875546"
     },
     {
       "n": 10,
-      "title": "Product Manager II - Growth",
-      "company": "Meesho",
-      "location": "Bangalore, Karnataka",
-      "url": "https://jobs.lever.co/meesho/e4aba1e5-ef86-4c50-8985-2e46ff688354"
+      "title": "Product Manager",
+      "company": "GoComet",
+      "location": "Thane, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4426945629"
     },
     {
       "n": 11,
-      "title": "Director of Product Design (SaaS)",
-      "company": "Jobgether",
-      "location": "India",
-      "url": "https://jobs.lever.co/jobgether/f7313ade-1b32-4bec-8ddb-269b9b83917b"
+      "title": "Asst Dir-Product Manager",
+      "company": "Moody's Corporation",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4417738966"
     },
     {
       "n": 12,
-      "title": "Product Owner (Client Experience)",
-      "company": "Jobgether",
-      "location": "India",
-      "url": "https://jobs.lever.co/jobgether/35edd536-c488-4f2d-9d94-73f26da9e8ab"
+      "title": "QA Product Manager - Capital Market",
+      "company": "Innova ESI",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4427940676"
     },
     {
       "n": 13,
-      "title": "Principal Product Manager, POS Ordering ",
-      "company": "Toast",
-      "location": "Remote, US ",
-      "url": "https://careers.toasttab.com/jobs?gh_jid=7996885"
+      "title": "Enterprise Product Manager",
+      "company": "Whatfix",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4426942352"
+    },
+    {
+      "n": 14,
+      "title": "Technical Product Manager - Product Management - Legal & Compliance",
+      "company": "D. E. Shaw India Private Limited",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://www.linkedin.com/jobs/view/4398505554"
+    },
+    {
+      "n": 15,
+      "title": "Lead Software Product Manager - AI",
+      "company": "Candescent",
+      "location": "Bangalore Urban, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4414044300"
     }
   ]
 }

@@ -1003,6 +1003,24 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://jobs.lever.co/jobgether/35edd536-c488-4f2d-9d94-73f26da9e8ab | Jobgether | Product Owner (Client Experience) | posted=2026-06-12
 - [ ] https://careers.toasttab.com/jobs?gh_jid=7996885 | Toast | Principal Product Manager, POS Ordering  | posted=2026-06-11
 
+- [ ] https://www.linkedin.com/jobs/view/4427935690 | Pearl | Senior Product Manager | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4424882359 | Weekday (YC W21) | Senior Product Manager | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4417110908 | JFrog | Senior Technical Product Manager (Platform Infra) | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4426945576 | Jobgether | Senior Product Manager (AI Product Management) | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4384702232 | HighLevel | Sr. Product Manager - AI Growth | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4398243609 | HighLevel | Sr. Product Manager - Workflow Extended | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4409026638 | Snowflake | Staff Enterprise Product Manager, Order Management | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4427954173 | State Street | Product Owner – AGENTIC AI, Global Delivery Simplification | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4424875546 | RED Global | Product Manager | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4426945629 | GoComet | Product Manager | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4417738966 | Moody's Corporation | Asst Dir-Product Manager | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4427940676 | Innova ESI | QA Product Manager - Capital Market | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4426942352 | Whatfix | Enterprise Product Manager | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4398505554 | D. E. Shaw India Private Limited | Technical Product Manager - Product Management - Legal & Compliance | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4414044300 | Candescent | Lead Software Product Manager - AI | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4334267411 | JPMorganChase | Securities Services - Tax Product Manager - Vice President | posted=2026-06-12
+- [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Product-Manager-3_R169439 | Adobe | Product Manager 3 | posted=2026-06-12
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

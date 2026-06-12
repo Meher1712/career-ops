@@ -1037,6 +1037,18 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://jobs.lever.co/jobgether/95299bd3-aedd-4982-adbe-5ae47fb720fb | Jobgether | Director, Product Management | posted=2026-06-12
 - [ ] https://jobs.lever.co/jobgether/0bf11be0-5957-4e83-9ffd-91a47b92a73f | Jobgether | Senior Product Manager (AI Product Management) | posted=2026-06-12
 
+- [ ] https://www.linkedin.com/jobs/view/4375162390 | Microsoft | Principal Product Manager | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4418141458 | SOTI | Senior Product Manager | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4428113710 | Sanofi | Digital Product Owner – Portfolio & Clinical AI Workflows | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4425302754 | Salesloft | Principal Product Manager - Foundations | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4395978784 | Philips | Sr Product Manager IGT Fixed systems | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4427200115 | American Express | Manager-Digital Product Management | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4427207061 | CG-VAK Software & Exports Ltd. | Product Manager (IIT + IIM) | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4376049844 | Goldman Sachs | Asset & Wealth Management - Product Management - Associate - Bengaluru | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4426988170 | American Express | Senior Associate - Digital Product Management | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4426998121 | American Express | Senior Manager-Digital Product Management | posted=2026-06-12
+- [ ] https://www.linkedin.com/jobs/view/4424890906 | dsm-firmenich | Manager D&T Data+AI Product Manager - Sustainability | posted=2026-06-12
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

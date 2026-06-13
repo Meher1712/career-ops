@@ -1066,6 +1066,15 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4418134545 | LPL Financial Global Capability Center | Senior Technical Product Owner | posted=2026-06-13
 - [ ] https://www.linkedin.com/jobs/view/4346100105 | HighLevel | Staff Product Manager - Social Planner, Ad Manager, Blogs | posted=2026-06-13
 
+- [ ] https://www.linkedin.com/jobs/view/4341010614 | Amazon | Sr. Product Manager - Tech, FinTech Accounting | posted=2026-06-13
+- [ ] https://www.linkedin.com/jobs/view/4387887601 | Amazon | Senior Product Manager, Retail Business Services | posted=2026-06-13
+- [ ] https://www.linkedin.com/jobs/view/4425371656 | Josys | Senior Product Manager | posted=2026-06-13
+- [ ] https://www.linkedin.com/jobs/view/4248969880 | UPS | Senior Product Owner - Agile, ADO, Dashboards | posted=2026-06-13
+- [ ] https://www.linkedin.com/jobs/view/4409038500 | Amazon | Sr. Product Manager, RBS SPEG | posted=2026-06-13
+- [ ] https://www.linkedin.com/jobs/view/4425376615 | AiSensy | Product Manager | posted=2026-06-13
+- [ ] https://www.linkedin.com/jobs/view/4425365653 | AiSensy | Growth Product Manager | posted=2026-06-13
+- [ ] https://www.linkedin.com/jobs/view/4427277927 | StockWiz Technologies LLP | Technical Product Manager | posted=2026-06-13
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

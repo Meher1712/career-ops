@@ -1049,6 +1049,13 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4426998121 | American Express | Senior Manager-Digital Product Management | posted=2026-06-12
 - [ ] https://www.linkedin.com/jobs/view/4424890906 | dsm-firmenich | Manager D&T Data+AI Product Manager - Sustainability | posted=2026-06-12
 
+- [ ] https://www.linkedin.com/jobs/view/4425591814 | Innomax IT Solutions | Global Ownership Product Manager | posted=2026-06-13
+- [ ] https://www.linkedin.com/jobs/view/4425344748 | CodeRound AI | Product Manager (Up to 60LPA) | posted=2026-06-13
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/7904293 | Twilio | Staff Product Manager | posted=2026-06-12
+- [ ] https://jobs.ashbyhq.com/reflexai/28ccd1e0-6d70-425d-9165-29e0ad939207 | ReflexAI | Sr. Product Manager | posted=2026-06-12
+- [ ] https://www.inovalon.com/careers/job/?gh_jid=7769110003 | Inovalon | Principal Product Manager | posted=2026-06-12
+- [ ] https://www.zoominfo.com/careers?gh_jid=8581902002 | ZoomInfo | Senior Manager, Product Management | posted=2026-06-12
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

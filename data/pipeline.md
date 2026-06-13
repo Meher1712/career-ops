@@ -1056,6 +1056,13 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.inovalon.com/careers/job/?gh_jid=7769110003 | Inovalon | Principal Product Manager | posted=2026-06-12
 - [ ] https://www.zoominfo.com/careers?gh_jid=8581902002 | ZoomInfo | Senior Manager, Product Management | posted=2026-06-12
 
+- [ ] https://www.linkedin.com/jobs/view/4417199346 | Gartner | Agentic Search, Sr. Platform Product Manager | posted=2026-06-13
+- [ ] https://www.linkedin.com/jobs/view/4406716989 | Johnson Controls | Product Owner | posted=2026-06-13
+- [ ] https://www.linkedin.com/jobs/view/4428362135 | Optum India | Senior Technical Product Manager - HealthTech Projects Experience | posted=2026-06-13
+- [ ] https://www.linkedin.com/jobs/view/4414346585 | eBay | Product Manager - Assisted Service | posted=2026-06-13
+- [ ] https://www.linkedin.com/jobs/view/4427265639 | KOLF INTERNATIONAL PRIVATE LIMITED. | Product Manager | posted=2026-06-13
+- [ ] https://www.linkedin.com/jobs/view/4427284123 | hackajob | Product Manager | posted=2026-06-13
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

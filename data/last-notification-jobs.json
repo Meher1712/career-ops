@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-06-14T11:09:39.070Z",
+  "generated_at": "2026-06-14T13:04:29.784Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Product Manager 4",
-      "company": "Lam Research",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4377932462"
+      "title": "Product Owner",
+      "company": "Sovos Latinoamérica",
+      "location": "Navi Mumbai, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4428636550"
+    },
+    {
+      "n": 2,
+      "title": "Sr. Product Manager",
+      "company": "Access | Information Management",
+      "location": "Chennai, Tamil Nadu, India",
+      "url": "https://www.linkedin.com/jobs/view/4428626839"
+    },
+    {
+      "n": 3,
+      "title": "Associate Product Manager",
+      "company": "Flam",
+      "location": "Bangalore Urban, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4425724646"
     }
   ]
 }

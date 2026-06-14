@@ -1085,6 +1085,12 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4428626839 | Access | Information Management | Sr. Product Manager | posted=2026-06-14
 - [ ] https://www.linkedin.com/jobs/view/4425724646 | Flam | Associate Product Manager | posted=2026-06-14
 
+- [ ] https://www.linkedin.com/jobs/view/4400209968 | Aviate | Senior AI Product Manager (ID # 849) | posted=2026-06-14
+- [ ] https://www.linkedin.com/jobs/view/4418484911 | Wells Fargo | Senior Product Manager | posted=2026-06-14
+- [ ] https://www.linkedin.com/jobs/view/4418089546 | Wells Fargo | Senior Digital Product Manager | posted=2026-06-14
+- [ ] https://www.linkedin.com/jobs/view/4322187864 | Glean | Product Manager | posted=2026-06-14
+- [ ] https://www.linkedin.com/jobs/view/4427435679 | Vibrella Pharmaceuticals | Product Manager | posted=2026-06-14
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

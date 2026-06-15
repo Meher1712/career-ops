@@ -1118,6 +1118,12 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.payoneer.com/careers/position/7558102/?gh_jid=7558102 | Payoneer | Product Manager | posted=2026-06-15
 - [ ] https://careers.toasttab.com/jobs?gh_jid=7849323 | Toast | Senior Product Manager | posted=2026-06-15
 
+- [ ] https://www.linkedin.com/jobs/view/4426417685 | Detoxit | Senior Product Manager | posted=2026-06-15
+- [ ] https://www.linkedin.com/jobs/view/4429125085 | Uplers | Product Manager | posted=2026-06-15
+- [ ] https://www.linkedin.com/jobs/view/4427750143 | CG-VAK Software & Exports Ltd. | Senior Product Manager-Agritech | posted=2026-06-15
+- [ ] https://www.linkedin.com/jobs/view/4429102706 | Toast | Senior Product Manager | posted=2026-06-15
+- [ ] https://www.linkedin.com/jobs/view/4427741239 | Haleon | Security Product Owner for Privilege & Access Management | posted=2026-06-15
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

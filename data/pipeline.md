@@ -1093,6 +1093,16 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 
 - [ ] https://www.linkedin.com/jobs/view/4427445277 | Siemens Energy | Product Owner - Platform Production | posted=2026-06-14
 
+- [ ] https://www.linkedin.com/jobs/view/4428828123 | GE Vernova | Product Manager - High voltage switchgear | posted=2026-06-15
+- [ ] https://www.linkedin.com/jobs/view/4425786131 | Pine Labs | Lead Product Manager | posted=2026-06-15
+- [ ] https://www.linkedin.com/jobs/view/4255867199 | BharatNXT | Product Manager | posted=2026-06-15
+- [ ] https://www.linkedin.com/jobs/view/4428817213 | Ishan Technologies | Cloud Product Manager | posted=2026-06-15
+- [ ] https://www.linkedin.com/jobs/view/4417837193 | YASH Technologies | Data - Product Manager Job | posted=2026-06-15
+- [ ] https://www.linkedin.com/jobs/view/4425772567 | SalesDuo, Inc. | Product Manager - Amazon Ads and DSP | posted=2026-06-15
+- [ ] https://www.linkedin.com/jobs/view/4401046401 | Experian | Head of Product - Bureau | posted=2026-06-15
+- [ ] https://www.coupang.jobs/en/jobs/?gh_jid=7999714 | Coupang | Director Product Management | posted=2026-06-15
+- [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Product-Manager--Frameio-_R167615 | Adobe | Principal Product Manager | posted=2026-06-15
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

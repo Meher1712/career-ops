@@ -1103,6 +1103,21 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.coupang.jobs/en/jobs/?gh_jid=7999714 | Coupang | Director Product Management | posted=2026-06-15
 - [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Product-Manager--Frameio-_R167615 | Adobe | Principal Product Manager | posted=2026-06-15
 
+- [ ] https://www.linkedin.com/jobs/view/4414880952 | Nielsen | Senior Product Manager 1 | posted=2026-06-15
+- [ ] https://www.linkedin.com/jobs/view/4426401603 | HighLevel | Sr. Product Manager - Documents | posted=2026-06-15
+- [ ] https://www.linkedin.com/jobs/view/4417893125 | Synechron | Product Owner | posted=2026-06-15
+- [ ] https://www.linkedin.com/jobs/view/4408390223 | Kyndryl India | Product Owner | posted=2026-06-15
+- [ ] https://www.linkedin.com/jobs/view/4426402505 | Tieto | Product Owner- 5G RAN- Tieto Tech Consulting (m/f/d) | posted=2026-06-15
+- [ ] https://www.linkedin.com/jobs/view/4427722453 | Citi | AVP- Product Owner- Issuer Services | posted=2026-06-15
+- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/7794964 | Smartsheet | Principal Product Manager, Data & AI Platforms ( Hybrid in Bangalore ) | posted=2026-06-15
+- [ ] https://www.linkedin.com/jobs/view/4426403675 | Smart Food Safe : Quality & Food Safety Management Software | Product Manager | posted=2026-06-15
+- [ ] https://www.linkedin.com/jobs/view/4428867931 | YMinds.AI | Head of Product & Commercialisation (5+ Years Experience | Immediate Joiners only | Remote) | posted=2026-06-15
+- [ ] https://www.linkedin.com/jobs/view/4427718439 | Rakuten India | Bilingual Product Manager | posted=2026-06-15
+- [ ] https://jobs.lever.co/jobgether/7e4cd8c4-3475-4f82-8be4-b76537b79214 | Jobgether | Principal Product Manager | posted=2026-06-15
+- [ ] http://www.cialfo.co/careers?gh_jid=6030538004 | Cialfo | Product Manager | posted=2026-06-15
+- [ ] https://www.payoneer.com/careers/position/7558102/?gh_jid=7558102 | Payoneer | Product Manager | posted=2026-06-15
+- [ ] https://careers.toasttab.com/jobs?gh_jid=7849323 | Toast | Senior Product Manager | posted=2026-06-15
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

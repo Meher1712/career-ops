@@ -1149,6 +1149,25 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4363602711 | Rubrik | Staff Product Manager-Cloud Data Protection | posted=2026-06-16
 - [ ] https://www.zoominfo.com/careers?gh_jid=8561607002 | ZoomInfo | Senior Product Manager | posted=2026-06-15
 
+- [ ] https://www.linkedin.com/jobs/view/4418269916 | Adobe | Senior Product Manager | posted=2026-06-16
+- [ ] https://www.linkedin.com/jobs/view/4425331038 | Hatch Pros | Pharmaceutical RND Product Owner | posted=2026-06-16
+- [ ] https://www.linkedin.com/jobs/view/4417494885 | Visa | Product Manager (Product Strategy | Data & Integrations | Backlog Ownership | AI‑Enabled Product Thinking, B2B Payments / Fintech) (6-12 years) | posted=2026-06-16
+- [ ] https://www.linkedin.com/jobs/view/4416837153 | Mastercard | Lead Product Manager - Technical-AgenticAI product | posted=2026-06-16
+- [ ] https://www.linkedin.com/jobs/view/4408905036 | Adobe | Senior Product Manager (Agentic AI - Illustrator) | posted=2026-06-16
+- [ ] https://www.linkedin.com/jobs/view/4426853591 | SUN PHARMA | Group Product Manager | posted=2026-06-16
+- [ ] https://www.linkedin.com/jobs/view/4426854563 | SUN PHARMA | Group Product Manager - CNS (Synastra) | posted=2026-06-16
+- [ ] https://www.linkedin.com/jobs/view/4428061940 | Birlasoft | Lead Product Owner - Dealer Management System (DMS) | posted=2026-06-16
+- [ ] https://www.linkedin.com/jobs/view/4426863477 | SUN PHARMA | Group Product Manager - Oncology | posted=2026-06-16
+- [ ] https://www.linkedin.com/jobs/view/4428067236 | American Express | Associate-Digital Product Management | posted=2026-06-16
+- [ ] https://www.linkedin.com/jobs/view/4428065870 | 30 Sundays | Product Manager | posted=2026-06-16
+- [ ] https://www.linkedin.com/jobs/view/4367990869 | Payoneer | Product Manager | posted=2026-06-16
+- [ ] https://www.linkedin.com/jobs/view/4429592181 | AB InBev APAC | Associate Product Manager | posted=2026-06-16
+- [ ] https://www.linkedin.com/jobs/view/4429586200 | Fresenius Medical Care | Capability & Product Owner – Tax and Compliance | posted=2026-06-16
+- [ ] https://www.linkedin.com/jobs/view/4428073288 | Cashfree Payments | Product Manager- 2 (AI) | posted=2026-06-16
+- [ ] https://www.linkedin.com/jobs/view/4408197777 | Beckman Coulter Diagnostics | Staff Product Owner | posted=2026-06-16
+- [ ] https://www.linkedin.com/jobs/view/4426861433 | bp | Technical Product Manager | posted=2026-06-16
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013644976 | Nielsen | Senior Product Manager II - AI PM | posted=2026-06-16
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

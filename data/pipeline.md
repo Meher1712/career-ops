@@ -1124,6 +1124,15 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4429102706 | Toast | Senior Product Manager | posted=2026-06-15
 - [ ] https://www.linkedin.com/jobs/view/4427741239 | Haleon | Security Product Owner for Privilege & Access Management | posted=2026-06-15
 
+- [ ] https://www.linkedin.com/jobs/view/4426496425 | EY | Product manager | posted=2026-06-16
+- [ ] https://www.linkedin.com/jobs/view/4426478644 | SiftHub | Senior Product Manager | posted=2026-06-16
+- [ ] https://www.linkedin.com/jobs/view/4410210806 | Experian | Technical Product Manager, Home Ownership and Financing | posted=2026-06-16
+- [ ] https://www.linkedin.com/jobs/view/4429229667 | Amadeus | Principal Product Manager | posted=2026-06-16
+- [ ] https://www.inovalon.com/careers/job/?gh_jid=7774015003 | Inovalon | Senior Product Manager (Real World Data) | posted=2026-06-15
+- [ ] https://job-boards.greenhouse.io/inmobi/jobs/7998854 | InMobi Advertising | Associate Product Manager - Central Data Repository | posted=2026-06-16
+- [ ] https://job-boards.greenhouse.io/inmobi/jobs/6918622 | InMobi Advertising | Associate Product Manager - MSD Financial Systems and Transformation | posted=2026-06-16
+- [ ] https://www.zoominfo.com/careers?gh_jid=8561599002 | ZoomInfo | Senior Product Manager | posted=2026-06-15
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

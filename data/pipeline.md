@@ -1133,6 +1133,22 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://job-boards.greenhouse.io/inmobi/jobs/6918622 | InMobi Advertising | Associate Product Manager - MSD Financial Systems and Transformation | posted=2026-06-16
 - [ ] https://www.zoominfo.com/careers?gh_jid=8561599002 | ZoomInfo | Senior Product Manager | posted=2026-06-15
 
+- [ ] https://www.linkedin.com/jobs/view/4428025776 | ICON plc | Product Manager | posted=2026-06-16
+- [ ] https://www.linkedin.com/jobs/view/4427017098 | athenahealth | Product Management Manager | posted=2026-06-16
+- [ ] https://www.linkedin.com/jobs/view/4429544364 | Caterpillar Inc. | Product Owner | posted=2026-06-16
+- [ ] https://www.linkedin.com/jobs/view/4419157374 | Sabre | Principal Product Manager - Offer Optimization | posted=2026-06-16
+- [ ] https://www.linkedin.com/jobs/view/4418970840 | Amazon | Senior Product Manager, GFS PPT | posted=2026-06-16
+- [ ] https://www.linkedin.com/jobs/view/4402750312 | Kenvue | Legal & Compliance Technical Product Manager | posted=2026-06-16
+- [ ] https://www.linkedin.com/jobs/view/4408655308 | hackajob | Principal Product Manager (Location Verification) | posted=2026-06-16
+- [ ] https://www.linkedin.com/jobs/view/4417896415 | Sabre | Product Manager - Distribution Data Insights | posted=2026-06-16
+- [ ] https://www.linkedin.com/jobs/view/4429544112 | Vena Solutions | Product Owner, Insights | posted=2026-06-16
+- [ ] https://www.linkedin.com/jobs/view/4429543400 | Caterpillar Inc. | Senior Digital Product Owner | posted=2026-06-16
+- [ ] https://www.linkedin.com/jobs/view/4422268032 | Shipturtle | Associate Product Manager | posted=2026-06-16
+- [ ] https://www.linkedin.com/jobs/view/4419148867 | hackajob | Digital Product Manager -VP | posted=2026-06-16
+- [ ] https://www.linkedin.com/jobs/view/4399399906 | GHX | Product Owner | posted=2026-06-16
+- [ ] https://www.linkedin.com/jobs/view/4363602711 | Rubrik | Staff Product Manager-Cloud Data Protection | posted=2026-06-16
+- [ ] https://www.zoominfo.com/careers?gh_jid=8561607002 | ZoomInfo | Senior Product Manager | posted=2026-06-15
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

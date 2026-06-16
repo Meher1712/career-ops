@@ -1,40 +1,61 @@
 {
-  "generated_at": "2026-06-15T19:57:06.835Z",
+  "generated_at": "2026-06-16T09:05:23.091Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Senior Product Manager",
-      "company": "Detoxit",
-      "location": "Lucknow, Uttar Pradesh, India",
-      "url": "https://www.linkedin.com/jobs/view/4426417685"
+      "title": "Product manager",
+      "company": "EY",
+      "location": "Kochi, Kerala, India",
+      "url": "https://www.linkedin.com/jobs/view/4426496425"
     },
     {
       "n": 2,
-      "title": "Product Manager",
-      "company": "Uplers",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4429125085"
+      "title": "Senior Product Manager",
+      "company": "SiftHub",
+      "location": "Mumbai Metropolitan Region",
+      "url": "https://www.linkedin.com/jobs/view/4426478644"
     },
     {
       "n": 3,
-      "title": "Senior Product Manager-Agritech",
-      "company": "CG-VAK Software & Exports Ltd.",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4427750143"
+      "title": "Technical Product Manager, Home Ownership and Financing",
+      "company": "Experian",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.linkedin.com/jobs/view/4410210806"
     },
     {
       "n": 4,
-      "title": "Senior Product Manager",
-      "company": "Toast",
+      "title": "Principal Product Manager",
+      "company": "Amadeus",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4429102706"
+      "url": "https://www.linkedin.com/jobs/view/4429229667"
     },
     {
       "n": 5,
-      "title": "Security Product Owner for Privilege & Access Management",
-      "company": "Haleon",
-      "location": "Greater Bengaluru Area",
-      "url": "https://www.linkedin.com/jobs/view/4427741239"
+      "title": "Senior Product Manager (Real World Data)",
+      "company": "Inovalon",
+      "location": "Remote- United States",
+      "url": "https://www.inovalon.com/careers/job/?gh_jid=7774015003"
+    },
+    {
+      "n": 6,
+      "title": "Associate Product Manager - Central Data Repository",
+      "company": "InMobi Advertising",
+      "location": "Bangalore",
+      "url": "https://job-boards.greenhouse.io/inmobi/jobs/7998854"
+    },
+    {
+      "n": 7,
+      "title": "Associate Product Manager - MSD Financial Systems and Transformation",
+      "company": "InMobi Advertising",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/inmobi/jobs/6918622"
+    },
+    {
+      "n": 8,
+      "title": "Senior Product Manager",
+      "company": "ZoomInfo",
+      "location": "Remote",
+      "url": "https://www.zoominfo.com/careers?gh_jid=8561599002"
     }
   ]
 }

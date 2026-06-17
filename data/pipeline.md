@@ -1179,6 +1179,27 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://jobs.lever.co/jobgether/b9e47b14-aff7-4e9a-a5b7-918823dbc637 | Jobgether | Sr. Director, Product Management (Core Products) | posted=2026-06-16
 - [ ] https://jobs.lever.co/jobgether/44da39b6-d5c7-47a8-9f7b-946af7c0f221 | Jobgether | Staff Product Manager - Social Planner, Ad Manager, Blogs | posted=2026-06-16
 
+- [ ] https://www.linkedin.com/jobs/view/4428483763 | Soch Street | Senior Product Manager | posted=2026-06-17
+- [ ] https://www.linkedin.com/jobs/view/4428708125 | Osfin.ai | Product Manager | posted=2026-06-17
+- [ ] https://www.linkedin.com/jobs/view/4428495208 | TechWise Digital | Data Product Manager | posted=2026-06-17
+- [ ] https://www.linkedin.com/jobs/view/4428488952 | UST | Technical Product Manager | posted=2026-06-17
+- [ ] https://www.linkedin.com/jobs/view/4401731702 | Axi | Product Manager - Payments | posted=2026-06-17
+- [ ] https://www.linkedin.com/jobs/view/4428707124 | A1Apps | Associate Product Manager – Experimentation | posted=2026-06-17
+- [ ] https://www.linkedin.com/jobs/view/4429922403 | Fresenius Medical Care | Capability & Product Owner – Global Treasury | posted=2026-06-17
+- [ ] https://www.linkedin.com/jobs/view/4419829598 | American Express | Manager -Digital Product Management | posted=2026-06-17
+- [ ] https://www.linkedin.com/jobs/view/4428488790 | super.money | Product Manager | posted=2026-06-17
+- [ ] https://www.linkedin.com/jobs/view/4428483704 | Scoutit | Product Manager | posted=2026-06-17
+- [ ] https://www.linkedin.com/jobs/view/4428489645 | EnglishBhashi | Associate Product Manager(Clevertap) | posted=2026-06-17
+- [ ] https://www.linkedin.com/jobs/view/4428491048 | Truworth Wellness | Product Manager | posted=2026-06-17
+- [ ] https://www.linkedin.com/jobs/view/4429905987 | Zydus Group | Sr. Product Manager/ Group Product Manager - Cardio Diabetic | posted=2026-06-17
+- [ ] https://www.linkedin.com/jobs/view/4428481750 | American Express | Senior Manager-Digital Product Management | posted=2026-06-17
+- [ ] https://www.linkedin.com/jobs/view/4428471889 | MoEngage | Product Manager - I | posted=2026-06-17
+- [ ] https://www.linkedin.com/jobs/view/4428486686 | American Express | Senior Associate - Digital Product Management | posted=2026-06-17
+- [ ] https://www.linkedin.com/jobs/view/4427361237 | SaaS Labs | Principal Product Manager, AI | posted=2026-06-17
+- [ ] https://job-boards.greenhouse.io/scopely/jobs/4592697008?gh_jid=4592697008 | Scopely | Director of Product - Roadmap | posted=2026-06-17
+- [ ] https://jobs.lever.co/jobgether/8390dad4-97d7-4d6a-9614-75017213e9d0 | Jobgether | Sr. Product Manager - Documents | posted=2026-06-17
+- [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Principal-Product-Manager--Search---GenAI_R167908 | Adobe | Principal Product Manager | posted=2026-06-17
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

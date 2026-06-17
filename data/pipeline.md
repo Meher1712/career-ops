@@ -1200,6 +1200,22 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://jobs.lever.co/jobgether/8390dad4-97d7-4d6a-9614-75017213e9d0 | Jobgether | Sr. Product Manager - Documents | posted=2026-06-17
 - [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Principal-Product-Manager--Search---GenAI_R167908 | Adobe | Principal Product Manager | posted=2026-06-17
 
+- [ ] https://www.linkedin.com/jobs/view/4379565496 | YES BANK | Product Manager | posted=2026-06-17
+- [ ] https://www.linkedin.com/jobs/view/4337079140 | eGov Foundation | Product Manager - Digital Health (Public Health) | posted=2026-06-17
+- [ ] https://www.linkedin.com/jobs/view/4428710897 | CG-VAK Software & Exports Ltd. | Product Manager | posted=2026-06-17
+- [ ] https://www.linkedin.com/jobs/view/4427509348 | Uber | Senior Product Manager - AI Quality | posted=2026-06-17
+- [ ] https://www.linkedin.com/jobs/view/4418510689 | Adobe | Senior Product Manager (RTCDP) | posted=2026-06-17
+- [ ] https://www.linkedin.com/jobs/view/4428713773 | Principal Global Services | Associate Product Manager | posted=2026-06-17
+- [ ] https://www.linkedin.com/jobs/view/4429974687 | Sprinklr | Associate Product Manager ( WFM ) | posted=2026-06-17
+- [ ] https://www.linkedin.com/jobs/view/4429983326 | Bain & Company | Manager, TSG Product Management | posted=2026-06-17
+- [ ] https://www.linkedin.com/jobs/view/4414722596 | Haleon | Data & AI Security Product Owner (Delivery Lead) | posted=2026-06-17
+- [ ] https://www.linkedin.com/jobs/view/4419462009 | Darwinbox | AI-Native Systems Builder | posted=2026-06-17
+- [ ] https://www.linkedin.com/jobs/view/4424745521 | 4flow | Lead Product Manager | posted=2026-06-17
+- [ ] https://www.linkedin.com/jobs/view/4427378314 | Ansira | Product Owner | posted=2026-06-17
+- [ ] https://hginsights.com/hg-insights-careers/current-opportunities/?gh_jid=7757501003 | HG Insights | Principal Data & AI Product Manager | posted=2026-06-17
+- [ ] https://job-boards.greenhouse.io/tide/jobs/7737389003 | Tide | Senior Product Manager (Insurance) | posted=2026-06-17
+- [ ] https://www.kaseya.com/careers/jobs/id/6011593004/?gh_jid=6011593004 | Kaseya | Product Manager II | posted=2026-06-17
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

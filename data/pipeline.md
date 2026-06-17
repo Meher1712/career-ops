@@ -1168,6 +1168,17 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4426861433 | bp | Technical Product Manager | posted=2026-06-16
 - [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013644976 | Nielsen | Senior Product Manager II - AI PM | posted=2026-06-16
 
+- [ ] https://www.linkedin.com/jobs/view/4428471089 | IDFC FIRST Bank | Senior Product Manager-Loan Against Property | posted=2026-06-17
+- [ ] https://www.linkedin.com/jobs/view/4427314470 | Siemens | Associate Product Owner | posted=2026-06-17
+- [ ] https://www.linkedin.com/jobs/view/4428456981 | IDFC FIRST Bank | Product Manager - JLG | posted=2026-06-17
+- [ ] https://www.linkedin.com/jobs/view/4429796094 | Ashika Group | Product Manager- Mutual Funds | posted=2026-06-17
+- [ ] https://www.linkedin.com/jobs/view/4427325403 | EY | Tech S and T Cloud Dev-Product Manager-NGTO-Senior-GDSF02 | posted=2026-06-17
+- [ ] https://www.linkedin.com/jobs/view/4428467375 | SymphonyAI | Associate Product Manager | posted=2026-06-17
+- [ ] https://www.linkedin.com/jobs/view/4429772680 | Uplers | AI Native Product Manager | posted=2026-06-17
+- [ ] https://api.smartrecruiters.com/v1/companies/Entain/postings/744000132558290 | Entain India | Product Manager | posted=2026-06-17
+- [ ] https://jobs.lever.co/jobgether/b9e47b14-aff7-4e9a-a5b7-918823dbc637 | Jobgether | Sr. Director, Product Management (Core Products) | posted=2026-06-16
+- [ ] https://jobs.lever.co/jobgether/44da39b6-d5c7-47a8-9f7b-946af7c0f221 | Jobgether | Staff Product Manager - Social Planner, Ad Manager, Blogs | posted=2026-06-16
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

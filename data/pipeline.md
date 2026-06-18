@@ -1249,6 +1249,16 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.inovalon.com/careers/job/?gh_jid=7775414003 | Inovalon | Senior Product Manager (Healthcare Data Products) | posted=2026-06-18
 - [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Director-Product-Management_R0067301 | eBay | Director Product Management | posted=2026-06-18
 
+- [ ] https://www.linkedin.com/jobs/view/4427849450 | Mastercard | Manager, Product Management | posted=2026-06-18
+- [ ] https://www.linkedin.com/jobs/view/4417623692 | Kroll | Lead Product Owner | posted=2026-06-18
+- [ ] https://www.linkedin.com/jobs/view/4370955675 | Magna International | Technical Product Owner, Smart Factory Solutions | posted=2026-06-18
+- [ ] https://www.linkedin.com/jobs/view/4430490659 | AlphaSense | Product Manager I | posted=2026-06-18
+- [ ] https://www.linkedin.com/jobs/view/4429321667 | Extreme Networks | Product Builder- AI | Product Management | posted=2026-06-18
+- [ ] https://www.linkedin.com/jobs/view/4430495374 | Ford Motor Company | Technical Product Manager | posted=2026-06-18
+- [ ] https://jobs.lever.co/jobgether/09f48bb4-41ed-44e2-bbea-b3f50a13d455 | Jobgether | Product Manager , Data Security | posted=2026-06-18
+- [ ] https://jobs.lever.co/jobgether/a7d94b19-8644-423a-bd04-f03b9a7e751e | Jobgether | Senior Manager, Product Management | posted=2026-06-18
+- [ ] https://careers.toasttab.com/jobs?gh_jid=7996612 | Toast | Senior Principal Product Manager - Enterprise | posted=2026-06-18
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

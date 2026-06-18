@@ -1216,6 +1216,20 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://job-boards.greenhouse.io/tide/jobs/7737389003 | Tide | Senior Product Manager (Insurance) | posted=2026-06-17
 - [ ] https://www.kaseya.com/careers/jobs/id/6011593004/?gh_jid=6011593004 | Kaseya | Product Manager II | posted=2026-06-17
 
+- [ ] https://www.linkedin.com/jobs/view/4430409137 | Phox Health | Product Manager | posted=2026-06-18
+- [ ] https://www.linkedin.com/jobs/view/4427824424 | Zavi Labs | Product Manager | posted=2026-06-18
+- [ ] https://www.linkedin.com/jobs/view/4429017001 | Boutiqaat | Group Product Manager | posted=2026-06-18
+- [ ] https://www.linkedin.com/jobs/view/4430411240 | SquadStack.ai | Assistant Product Manager | posted=2026-06-18
+- [ ] https://www.linkedin.com/jobs/view/4428796853 | SUN PHARMA | Group Product Manager – Ophthalmology | posted=2026-06-18
+- [ ] https://www.linkedin.com/jobs/view/4429001965 | CeeQ | Product Manager | posted=2026-06-18
+- [ ] https://www.linkedin.com/jobs/view/4429010891 | Binocs.co | Product Manager (AI)- TIER 1 College only | posted=2026-06-18
+- [ ] https://www.linkedin.com/jobs/view/4430416278 | Quantum Leap Learning Solutions Pvt Ltd | Product Manager | posted=2026-06-18
+- [ ] https://job-boards.greenhouse.io/conga/jobs/5164169007 | Conga | Staff Product Manager | posted=2026-06-17
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013672451 | Nielsen | Head of Product & Strategic Insights | posted=2026-06-17
+- [ ] https://api.smartrecruiters.com/v1/companies/Freshworks/postings/744000132781985 | Freshworks | Staff Product Manager - Enterprise Security, IAM & Data Platform | posted=2026-06-18
+- [ ] https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Maryland---Washington-DC-Metro---Remote/VP--Product-Management---Agentforce-Public-Sector--Missionforce-_JR346418 | Salesforce | VP, Product Management - Agentforce Public Sector (Missionforce)
+- [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Product-Manager--Illustrator-_R169547 | Adobe | Senior Product Manager (Illustrator) | posted=2026-06-18
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

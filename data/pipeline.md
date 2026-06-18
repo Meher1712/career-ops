@@ -1230,6 +1230,25 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Maryland---Washington-DC-Metro---Remote/VP--Product-Management---Agentforce-Public-Sector--Missionforce-_JR346418 | Salesforce | VP, Product Management - Agentforce Public Sector (Missionforce)
 - [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Product-Manager--Illustrator-_R169547 | Adobe | Senior Product Manager (Illustrator) | posted=2026-06-18
 
+- [ ] https://www.linkedin.com/jobs/view/4430446445 | Deutsche Börse Group | Leading Associate Vice President - Product Owner (ITSM) [T500-26220] | posted=2026-06-18
+- [ ] https://www.linkedin.com/jobs/view/4308855048 | UPS | Senior Product Owner | posted=2026-06-18
+- [ ] https://www.linkedin.com/jobs/view/4430434635 | Snapmint | Senior Product Manager - Offline Checkout | posted=2026-06-18
+- [ ] https://www.linkedin.com/jobs/view/4429045381 | Happiest Minds Technologies | PRODUCT MANAGER - Product Management | posted=2026-06-18
+- [ ] https://www.linkedin.com/jobs/view/4430448562 | Toast | Senior Principal Product Manager - Enterprise | posted=2026-06-18
+- [ ] https://www.linkedin.com/jobs/view/4429098456 | Philips | Product Owner | posted=2026-06-18
+- [ ] https://www.linkedin.com/jobs/view/4430442209 | Adobe | Senior Product Manager (Illustrator) | posted=2026-06-18
+- [ ] https://www.linkedin.com/jobs/view/4429311330 | CoinDCX | Principal Product Manager | posted=2026-06-18
+- [ ] https://www.linkedin.com/jobs/view/4419855866 | GE HealthCare | Peri-Operative Care Product Manager | posted=2026-06-18
+- [ ] https://www.linkedin.com/jobs/view/4429302291 | American Express | Director-Digital Product Management (Total Rewards) | posted=2026-06-18
+- [ ] https://www.linkedin.com/jobs/view/4429300394 | Idexcel | Director of Product Management | posted=2026-06-18
+- [ ] https://www.linkedin.com/jobs/view/4430451431 | Snapmint | Associate Product Manager | posted=2026-06-18
+- [ ] https://www.linkedin.com/jobs/view/4429040561 | Soch Street | Product Manager | posted=2026-06-18
+- [ ] https://www.linkedin.com/jobs/view/4429079773 | The Product Highway | Product Manager | posted=2026-06-18
+- [ ] https://www.linkedin.com/jobs/view/4429075383 | Cog Culture | Product Manager - Saas | posted=2026-06-18
+- [ ] https://www.linkedin.com/jobs/view/4430451114 | Jobgether | Product Manager , Data Security | posted=2026-06-18
+- [ ] https://www.inovalon.com/careers/job/?gh_jid=7775414003 | Inovalon | Senior Product Manager (Healthcare Data Products) | posted=2026-06-18
+- [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Director-Product-Management_R0067301 | eBay | Director Product Management | posted=2026-06-18
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

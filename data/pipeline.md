@@ -1259,6 +1259,19 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://jobs.lever.co/jobgether/a7d94b19-8644-423a-bd04-f03b9a7e751e | Jobgether | Senior Manager, Product Management | posted=2026-06-18
 - [ ] https://careers.toasttab.com/jobs?gh_jid=7996612 | Toast | Senior Principal Product Manager - Enterprise | posted=2026-06-18
 
+- [ ] https://www.linkedin.com/jobs/view/4428227464 | Lakshya Software Technologies Pvt. Ltd. | Product Manager | posted=2026-06-19
+- [ ] https://www.linkedin.com/jobs/view/4428216808 | The Product Highway | Product Manager | posted=2026-06-19
+- [ ] https://www.linkedin.com/jobs/view/4418390346 | HCLTech | AI Product Manager | posted=2026-06-19
+- [ ] https://www.linkedin.com/jobs/view/4428222211 | The Product Highway | Senior Product Manager | posted=2026-06-19
+- [ ] https://www.linkedin.com/jobs/view/4428229383 | Infor | Product Manager, Associate | posted=2026-06-19
+- [ ] https://www.linkedin.com/jobs/view/4429632489 | Yapita Health (Curefy) | Associate Product Manager | posted=2026-06-19
+- [ ] https://www.linkedin.com/jobs/view/4429642632 | Clearwater Analytics | Senior Product Manager/Owner - Regulatory Reporting | posted=2026-06-19
+- [ ] https://www.linkedin.com/jobs/view/4429628692 | YENNES Infotec P Limited | Senior Product Manager | posted=2026-06-19
+- [ ] https://www.linkedin.com/jobs/view/4429631467 | IDFC FIRST Bank | Senior Product Manager-Credit Cards | posted=2026-06-19
+- [ ] https://job-boards.greenhouse.io/anaplan/jobs/8504861002 | Anaplan | Senior Principal Product Manager, Applications | posted=2026-06-18
+- [ ] https://jobs.lever.co/jobgether/97352e6e-9b2a-4baf-9b4b-5330fdbe6e54 | Jobgether | Sr. Product Manager - Commerce Operations | posted=2026-06-19
+- [ ] https://careers.toasttab.com/jobs?gh_jid=7976242 | Toast |  Principal Product Manager, Kitchen Technology & Innovation | posted=2026-06-18
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

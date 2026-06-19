@@ -1293,6 +1293,13 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4315808970 | EXL | Manager-Product Development-Technology/Digital Product Owner | posted=2026-06-19
 - [ ] https://job-boards.eu.greenhouse.io/valtech/jobs/4902974101 | Valtech | Temporário - Product Owner Pleno | posted=2026-06-19
 
+- [ ] https://www.linkedin.com/jobs/view/4430979542 | DBS Bank | Senior Associate, Product Manager - Portfolio & channel management, Consumer Banking Group | posted=2026-06-19
+- [ ] https://www.linkedin.com/jobs/view/4429681442 | hackajob | Wholesale Credit Risk Product Owner â Vice President | posted=2026-06-19
+- [ ] https://www.linkedin.com/jobs/view/4429674744 | MYCPE ONE | Product Manager | posted=2026-06-19
+- [ ] https://www.linkedin.com/jobs/view/4430975666 | Blackhawk Network India | Product Manager (Technology) | posted=2026-06-19
+- [ ] https://www.linkedin.com/jobs/view/4430993382 | LogiNext | Product Manager | posted=2026-06-19
+- [ ] https://www.linkedin.com/jobs/view/4428271164 | PwC Acceleration Center India | Tax Innovation Product Management - Senior Associate | posted=2026-06-19
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

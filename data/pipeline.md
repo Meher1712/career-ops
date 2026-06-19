@@ -1272,6 +1272,27 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://jobs.lever.co/jobgether/97352e6e-9b2a-4baf-9b4b-5330fdbe6e54 | Jobgether | Sr. Product Manager - Commerce Operations | posted=2026-06-19
 - [ ] https://careers.toasttab.com/jobs?gh_jid=7976242 | Toast |  Principal Product Manager, Kitchen Technology & Innovation | posted=2026-06-18
 
+- [ ] https://www.linkedin.com/jobs/view/4430951237 | Quantum Leap Learning Solutions Pvt Ltd | Product Manager | posted=2026-06-19
+- [ ] https://www.linkedin.com/jobs/view/4429652358 | Octave | Product Owner | posted=2026-06-19
+- [ ] https://www.linkedin.com/jobs/view/4430936983 | Amazon | Product Manager, Value added services | posted=2026-06-19
+- [ ] https://www.linkedin.com/jobs/view/4402272461 | Axi | Product Manager -Growth | posted=2026-06-19
+- [ ] https://www.linkedin.com/jobs/view/4430951010 | Eightfold AI | Product Manager II - AI Platform | posted=2026-06-19
+- [ ] https://www.linkedin.com/jobs/view/4429665308 | Neuron7.ai | Lead Product Manager | posted=2026-06-19
+- [ ] https://www.linkedin.com/jobs/view/4429645677 | TalentQuell | Technical Product Manager (only IIT passout) | posted=2026-06-19
+- [ ] https://www.linkedin.com/jobs/view/4430931970 | Luxoft | Product Owner | posted=2026-06-19
+- [ ] https://www.linkedin.com/jobs/view/4429096810 | Clinikally (YC S22) | Associate Product Manager | posted=2026-06-19
+- [ ] https://www.linkedin.com/jobs/view/4430926741 | Uplers | Product Manager | posted=2026-06-19
+- [ ] https://www.linkedin.com/jobs/view/4430956278 | SourcingXPress | Senior Product Manager | posted=2026-06-19
+- [ ] https://www.linkedin.com/jobs/view/4428257412 | Get Well | Technical Product Owner_Admin Content Systems | posted=2026-06-19
+- [ ] https://www.linkedin.com/jobs/view/4428246560 | Get Well | Technical Product Owner_Integration Ecosystem | posted=2026-06-19
+- [ ] https://www.linkedin.com/jobs/view/4430945835 | HSBC | Product Owner | posted=2026-06-19
+- [ ] https://www.linkedin.com/jobs/view/4429653348 | Teradata | Senior Director Product Management | posted=2026-06-19
+- [ ] https://www.linkedin.com/jobs/view/4430944992 | Costco IT | IT Product Owner [T500-26568] | posted=2026-06-19
+- [ ] https://www.linkedin.com/jobs/view/4428235860 | Get Well | Technical Product Owner_Mobility Innovation | posted=2026-06-19
+- [ ] https://www.linkedin.com/jobs/view/4416658282 | Euronext | CRM Product Owner | posted=2026-06-19
+- [ ] https://www.linkedin.com/jobs/view/4315808970 | EXL | Manager-Product Development-Technology/Digital Product Owner | posted=2026-06-19
+- [ ] https://job-boards.eu.greenhouse.io/valtech/jobs/4902974101 | Valtech | Temporário - Product Owner Pleno | posted=2026-06-19
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

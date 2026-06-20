@@ -1313,6 +1313,13 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4417957653 | PepsiCo | Digital Product Manager | posted=2026-06-20
 - [ ] https://www.linkedin.com/jobs/view/4428552185 | ATLAS Enterprise Software | Product Manager (Remote) – | posted=2026-06-20
 
+- [ ] https://www.linkedin.com/jobs/view/4390128136 | Kenvue | Senior Product Manager - Skin Health | posted=2026-06-20
+- [ ] https://www.linkedin.com/jobs/view/4402339043 | Infosys | Product Manager/Consultant - Retail/Logistics/E-Commerce Domain | posted=2026-06-20
+- [ ] https://www.linkedin.com/jobs/view/4411878128 | InvoiceCloud, Inc. | Product Owner — General | posted=2026-06-20
+- [ ] https://www.linkedin.com/jobs/view/4428524752 | LinkedIn India Senior PM | Senior Retention Marketer - Founding team | posted=2026-06-20
+- [ ] https://www.linkedin.com/jobs/view/4385291357 | Cactus Communications | Product Manager | posted=2026-06-20
+- [ ] https://www.linkedin.com/jobs/view/4428541355 | Sense | Product Manager | posted=2026-06-20
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

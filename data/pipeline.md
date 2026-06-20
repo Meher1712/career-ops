@@ -1309,6 +1309,10 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4430075247 | hackajob | Product Manager - Customer Onboarding (Agentic AI Specialist) | posted=2026-06-20
 - [ ] https://www.linkedin.com/jobs/view/4411688977 | US Pharmacopeia | Product Management Specialist | posted=2026-06-20
 
+- [ ] https://www.linkedin.com/jobs/view/4411314631 | IDFC FIRST Bank | Product Manager-Cash Management | posted=2026-06-20
+- [ ] https://www.linkedin.com/jobs/view/4417957653 | PepsiCo | Digital Product Manager | posted=2026-06-20
+- [ ] https://www.linkedin.com/jobs/view/4428552185 | ATLAS Enterprise Software | Product Manager (Remote) – | posted=2026-06-20
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

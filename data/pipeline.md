@@ -1300,6 +1300,10 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4430993382 | LogiNext | Product Manager | posted=2026-06-19
 - [ ] https://www.linkedin.com/jobs/view/4428271164 | PwC Acceleration Center India | Tax Innovation Product Management - Senior Associate | posted=2026-06-19
 
+- [ ] https://www.linkedin.com/jobs/view/4431198343 | Makoons Play School | Growth Product Manager | posted=2026-06-20
+- [ ] https://www.linkedin.com/jobs/view/4431300312 | Miss Doctor | Product Manager | posted=2026-06-20
+- [ ] https://www.linkedin.com/jobs/view/4431191458 | Creuto | AI Product Manager | posted=2026-06-20
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

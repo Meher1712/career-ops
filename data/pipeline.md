@@ -1304,6 +1304,11 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4431300312 | Miss Doctor | Product Manager | posted=2026-06-20
 - [ ] https://www.linkedin.com/jobs/view/4431191458 | Creuto | AI Product Manager | posted=2026-06-20
 
+- [ ] https://www.linkedin.com/jobs/view/4428533199 | Zenex Animal Health | Product Manager | posted=2026-06-20
+- [ ] https://www.linkedin.com/jobs/view/4428541091 | CodeRound AI | Product Manager (Up to 60LPA) | posted=2026-06-20
+- [ ] https://www.linkedin.com/jobs/view/4430075247 | hackajob | Product Manager - Customer Onboarding (Agentic AI Specialist) | posted=2026-06-20
+- [ ] https://www.linkedin.com/jobs/view/4411688977 | US Pharmacopeia | Product Management Specialist | posted=2026-06-20
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

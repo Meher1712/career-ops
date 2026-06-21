@@ -1331,6 +1331,11 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4430326143 | Elevation Capital | Vice President of Product Management | posted=2026-06-21
 - [ ] https://job-boards.greenhouse.io/tide/jobs/7775820003 | Tide | Senior Product Manager (Ongoing Monitoring) | posted=2026-06-21
 
+- [ ] https://www.linkedin.com/jobs/view/4308840422 | UPS | Senior Product Owner | posted=2026-06-21
+- [ ] https://www.linkedin.com/jobs/view/4431391331 | SigNoz | Sr Product Manager - IC | posted=2026-06-21
+- [ ] https://www.linkedin.com/jobs/view/4390944007 | Kenvue | Associate Product Owner | posted=2026-06-21
+- [ ] https://www.linkedin.com/jobs/view/4428583396 | GLOBAL INDIAN EDUCATION | Product Manager – Skincare Specialization! | posted=2026-06-21
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

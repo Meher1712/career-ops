@@ -1327,6 +1327,10 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4402940719 | The Depository Trust & Clearing Corporation (DTCC) | Lead Product Owner | posted=2026-06-20
 - [ ] https://www.linkedin.com/jobs/view/4431320766 | Ford Motor Company | Product Manager | posted=2026-06-20
 
+- [ ] https://www.linkedin.com/jobs/view/4431363674 | Tequity | Product Manager | posted=2026-06-21
+- [ ] https://www.linkedin.com/jobs/view/4430326143 | Elevation Capital | Vice President of Product Management | posted=2026-06-21
+- [ ] https://job-boards.greenhouse.io/tide/jobs/7775820003 | Tide | Senior Product Manager (Ongoing Monitoring) | posted=2026-06-21
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

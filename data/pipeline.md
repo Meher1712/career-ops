@@ -1336,6 +1336,10 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4390944007 | Kenvue | Associate Product Owner | posted=2026-06-21
 - [ ] https://www.linkedin.com/jobs/view/4428583396 | GLOBAL INDIAN EDUCATION | Product Manager – Skincare Specialization! | posted=2026-06-21
 
+- [ ] https://www.linkedin.com/jobs/view/4431607303 | ETCIO - Cloud Data Center | Wadhwani Foundation - Senior Product Manager ( 0-0 yrs ) | posted=2026-06-21
+- [ ] https://www.linkedin.com/jobs/view/4431396427 | ETCIO - Cloud Data Center | State Street - PRODUCT OWNER – AGENTIC AI, Global Delivery Simplification Vice President ( 0-0 yrs ) | posted=2026-06-21
+- [ ] https://www.linkedin.com/jobs/view/4431395460 | ETCIO - Cloud Data Center | State Street - Markets Operations Product Manager – Vice President ( 10-0 yrs ) | posted=2026-06-21
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

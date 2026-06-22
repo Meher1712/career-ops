@@ -1340,6 +1340,18 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4431396427 | ETCIO - Cloud Data Center | State Street - PRODUCT OWNER – AGENTIC AI, Global Delivery Simplification Vice President ( 0-0 yrs ) | posted=2026-06-21
 - [ ] https://www.linkedin.com/jobs/view/4431395460 | ETCIO - Cloud Data Center | State Street - Markets Operations Product Manager – Vice President ( 10-0 yrs ) | posted=2026-06-21
 
+- [ ] https://job-boards.greenhouse.io/commerceiq/jobs/7724355003 | CommerceIQ | Senior Product Manager-I | posted=2026-06-21
+- [ ] https://www.linkedin.com/jobs/view/4431657428 | Headout | Group Product Manager, Growth | posted=2026-06-22
+- [ ] https://www.linkedin.com/jobs/view/4430389559 | Jobgether | Staff Product Manager - Product Information Management | posted=2026-06-22
+- [ ] https://www.linkedin.com/jobs/view/4428922871 | HighLevel | Sr. Product Manager - Creators | posted=2026-06-22
+- [ ] https://www.linkedin.com/jobs/view/4426897546 | Siemens | Product Owner | posted=2026-06-22
+- [ ] https://www.linkedin.com/jobs/view/4419968170 | Aptiv | SW Product Owner | posted=2026-06-22
+- [ ] https://www.linkedin.com/jobs/view/4428913730 | Smart Food Safe : Quality & Food Safety Management Software | Product Manager | posted=2026-06-22
+- [ ] https://www.linkedin.com/jobs/view/4430399016 | ELLIOTT LABS PRIVATE LIMITED | Pharma product manager | posted=2026-06-22
+- [ ] https://www.linkedin.com/jobs/view/4430384646 | LeadSquared | Product Manager I | posted=2026-06-22
+- [ ] https://www.linkedin.com/jobs/view/4431673311 | Snapmint | Product Manager - Repayments | posted=2026-06-22
+- [ ] https://jobs.lever.co/jobgether/83b9437d-28e4-462b-a12e-c4ce627ddcb3 | Jobgether | Sr Product Manager - IC | posted=2026-06-22
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

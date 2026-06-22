@@ -1372,6 +1372,14 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://api.smartrecruiters.com/v1/companies/Entain/postings/744000133339035 | Entain India | Director of Product | posted=2026-06-22
 - [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Director-of-Product-Design_R165759 | Adobe | Senior Director of Product Design | posted=2026-06-22
 
+- [ ] https://www.linkedin.com/jobs/view/4430592290 | Fam | Senior Product Manager | posted=2026-06-22
+- [ ] https://www.linkedin.com/jobs/view/4430575661 | DWD Pharmaceuticals Ltd | Product Manager / Sr. Product Manager | posted=2026-06-22
+- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8014598 | Smartsheet | Sr. Product Manager II - AI Platform (Remote Eligible) | posted=2026-06-22
+- [ ] https://www.linkedin.com/jobs/view/4430588457 | Indian Pharma Jobs - Pharma Jobs in India | Product Manager job vacancy at Mumbai in Millennium Herbal Care Limited | posted=2026-06-22
+- [ ] https://www.linkedin.com/jobs/view/4431767829 | Uber | Product Manager II - Oracle Cloud Time and Labor Specialist | posted=2026-06-22
+- [ ] https://boards.greenhouse.io/easyship/jobs/4690901006?gh_jid=4690901006 | Easyship | Senior Product Manager (Insurance) | posted=2026-06-22
+- [ ] https://boards.greenhouse.io/easyship/jobs/4690902006?gh_jid=4690902006 | Easyship | Senior Product Manager (SMB Growth) | posted=2026-06-22
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

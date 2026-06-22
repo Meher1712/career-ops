@@ -1352,6 +1352,26 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4431673311 | Snapmint | Product Manager - Repayments | posted=2026-06-22
 - [ ] https://jobs.lever.co/jobgether/83b9437d-28e4-462b-a12e-c4ce627ddcb3 | Jobgether | Sr Product Manager - IC | posted=2026-06-22
 
+- [ ] https://www.linkedin.com/jobs/view/4392081414 | Zywave | Product Owner | posted=2026-06-22
+- [ ] https://www.linkedin.com/jobs/view/4427313488 | Siemens | Product Owner - Electrification AI Solutions | posted=2026-06-22
+- [ ] https://www.linkedin.com/jobs/view/4430561422 | UKG | Principal Product Manager- Platform PM | posted=2026-06-22
+- [ ] https://www.linkedin.com/jobs/view/4421800278 | GE Vernova | Sr. Technical Product Manager – Contractual Services | posted=2026-06-22
+- [ ] https://www.linkedin.com/jobs/view/4430563478 | Zimmer Biomet | Assistant Product Manager (SET) | posted=2026-06-22
+- [ ] https://www.linkedin.com/jobs/view/4430571675 | Epsilon | Staff Product Manager | posted=2026-06-22
+- [ ] https://www.linkedin.com/jobs/view/4431732048 | ABB | R&D Technical Product Owner | posted=2026-06-22
+- [ ] https://www.linkedin.com/jobs/view/4430572630 | SAP | Senior Product Specialist- Senior Product Manager, AI and Disclosure Management | posted=2026-06-22
+- [ ] https://www.linkedin.com/jobs/view/4403354369 | IDFC FIRST Bank | Senior Product Manager-Personal Loan | posted=2026-06-22
+- [ ] https://www.linkedin.com/jobs/view/4431721810 | ABB | R&D Product owner | posted=2026-06-22
+- [ ] https://www.linkedin.com/jobs/view/4422876327 | Haleon | Portfolio Tooling Product Owner | posted=2026-06-22
+- [ ] https://www.linkedin.com/jobs/view/4431726723 | ABB | Product Owner - Automation Extended OS | posted=2026-06-22
+- [ ] https://job-boards.greenhouse.io/headoutlinkedin/jobs/4690877006 | Headout | Group Product Manager, Growth | posted=2026-06-22
+- [ ] https://boards.greenhouse.io/easyship/jobs/4690895006?gh_jid=4690895006 | Easyship | Senior Product Manager (Insurance) | posted=2026-06-22
+- [ ] https://boards.greenhouse.io/easyship/jobs/4690899006?gh_jid=4690899006 | Easyship | Senior Product Manager (SMB Growth) | posted=2026-06-22
+- [ ] https://jobs.lever.co/jobgether/c0e17aa0-1f74-4efb-a199-b89d2ab73abd | Jobgether | Lead Product Manager, Safety | posted=2026-06-22
+- [ ] https://jobs.lever.co/jobgether/31cbb3a0-6c2c-4109-85a7-0f6724f7ebc3 | Jobgether | Staff Product Manager - Product Information Management | posted=2026-06-22
+- [ ] https://api.smartrecruiters.com/v1/companies/Entain/postings/744000133339035 | Entain India | Director of Product | posted=2026-06-22
+- [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Director-of-Product-Design_R165759 | Adobe | Senior Director of Product Design | posted=2026-06-22
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

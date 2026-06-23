@@ -1427,6 +1427,17 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4432268597 | Truemeds | Senior Product Manager (Growth) | posted=2026-06-23
 - [ ] https://www.linkedin.com/jobs/view/4431230397 | Philips | Senior Global Product Manager (Sleep Therapy) | posted=2026-06-23
 
+- [ ] https://www.linkedin.com/jobs/view/4377129141 | New Relic | Senior Product Manager - R115 | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4431263718 | UBS | Product Owner – Digital Capabilities | posted=2026-06-23
+- [ ] https://job-boards.eu.greenhouse.io/valtech/jobs/4873348101 | Valtech | Forward Deployed Product Manager | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4431262877 | Google | Product Manager, Google Cloud Dataproc | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4432296588 | Ford Motor Company | Enterprise Data Platform Product Manager | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4412786416 | Williams-Sonoma, Inc. | Sr. Product Manager (Mobile Apps, e-Commerce) | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4431265929 | CG-VAK Software & Exports Ltd. | Senior Product Manager (Retail-Tech, ERP, POS) | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4429459429 | Mastercard | Specialist, Product Management | posted=2026-06-23
+- [ ] https://jobs.ashbyhq.com/harvey/8ae1a13f-362b-4e7f-8456-c0fbe5d33571 | Harvey | GTM Technology Product Owner | posted=2026-06-23
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013745946 | Nielsen | Senior Product Manager II | posted=2026-06-23
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

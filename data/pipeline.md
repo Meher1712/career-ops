@@ -1403,6 +1403,30 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://jobs.lever.co/jobgether/8a115138-eeef-4198-b0dc-32fa3e2f4b4f | Jobgether | Sr. Product Manager - Website Builder, Analytics & Tracking Events | posted=2026-06-23
 - [ ] https://api.smartrecruiters.com/v1/companies/Entain/postings/744000133555254 | Entain India | Director of Product | posted=2026-06-23
 
+- [ ] https://www.linkedin.com/jobs/view/4431230627 | Maropost | Senior Product Manager - AI | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4422173308 | Amazon | Sr. Product Manager - Tech, Account Integrity | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4432238873 | Amazon | Product Manager, Amazon Payment Services | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4432258254 | ANSR | Principal Product Owner, IT [T500-26900] | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4432250424 | RealPage India | Senior Product Manager | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4431245515 | Microsoft | Principal Product Manager | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4403374023 | IDFC FIRST Bank | Senior Product Manager-Cross Sell | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4431236812 | MRI Software | Senior Product Manager | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4431232578 | Relinns Technologies | Product Manager | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4432256610 | Kissht | Product Manager - LAP | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4432265185 | Kissht | Product Manager - Payments | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4431227634 | Endava | Product Owner | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4432227968 | vivo India | Camera Product Manager | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4430542951 | Aye Finance Ltd | AVP Product - (Secured Loan) | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4431235359 | Cliniqon® | Product Manager | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4431253127 | Tradelab Technologies | Product Owner: Stock Broking & Investment Products (Front office & Back Office Solutions) | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4432237752 | HighLevel | Sr. Product Manager - AI Growth | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4432237737 | HighLevel | Sr. Product Manager - AI Platform | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4431246192 | Philips | Global Product Manager (Sleep Therapy) | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4431246451 | Maropost | Product Manager | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4432250033 | Microsoft AI | Principal Product Manager | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4432268597 | Truemeds | Senior Product Manager (Growth) | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4431230397 | Philips | Senior Global Product Manager (Sleep Therapy) | posted=2026-06-23
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

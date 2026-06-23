@@ -1389,6 +1389,20 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4432099644 | WillWare Technologies | ServiceNow Product Manager | posted=2026-06-23
 - [ ] https://job-boards.greenhouse.io/ethoslife/jobs/8603350002 | Ethos | Director, Product Management | posted=2026-06-22
 
+- [ ] https://www.linkedin.com/jobs/view/4431212568 | SPIRO | Senior Product Manager | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4432223756 | Trinka.ai | Senior Product Manager | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4431217415 | Rekruton Global IT Services | Senior Product Manager - Platform (AdTech) | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4431214498 | Rekruton Global IT Services | Senior Product Manager - Healthcare (AdTech) | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4432215665 | GlobalLogic | Product Owner IRC297216 | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4431225514 | A.P. Moller - Maersk | Associate Platform Product Owner | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4431216295 | Wells Fargo | Senior Digital Product Manager | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4343320968 | Experian | Product Manager | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4431214314 | Panzer Technologies Pvt Ltd | Product Manager II | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4431217515 | Scoutit | Product Manager | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4431226498 | Kapture CX | Associate Product Manager | posted=2026-06-23
+- [ ] https://jobs.lever.co/jobgether/8a115138-eeef-4198-b0dc-32fa3e2f4b4f | Jobgether | Sr. Product Manager - Website Builder, Analytics & Tracking Events | posted=2026-06-23
+- [ ] https://api.smartrecruiters.com/v1/companies/Entain/postings/744000133555254 | Entain India | Director of Product | posted=2026-06-23
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

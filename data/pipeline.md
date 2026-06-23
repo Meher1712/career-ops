@@ -1380,6 +1380,15 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://boards.greenhouse.io/easyship/jobs/4690901006?gh_jid=4690901006 | Easyship | Senior Product Manager (Insurance) | posted=2026-06-22
 - [ ] https://boards.greenhouse.io/easyship/jobs/4690902006?gh_jid=4690902006 | Easyship | Senior Product Manager (SMB Growth) | posted=2026-06-22
 
+- [ ] https://www.linkedin.com/jobs/view/4430885363 | InCred Financial Services | Senior Product Manager | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4430885388 | Finkraft | Product Manager — Travel & Hospitality Tech | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4432203030 | LinkCxO (The CxO's Marketplace) | Director of Product Management | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4432099543 | Edme Insurance Brokers | Associate Product Manager (APM) | posted=2026-06-23
+- [ ] https://job-boards.greenhouse.io/tekion/jobs/7774064003 | Tekion Corp | Product Manager II | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4430895037 | One97 Communications Limited | Product Management - Senior Product Manager (Data Product) - PPSL | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4432099644 | WillWare Technologies | ServiceNow Product Manager | posted=2026-06-23
+- [ ] https://job-boards.greenhouse.io/ethoslife/jobs/8603350002 | Ethos | Director, Product Management | posted=2026-06-22
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

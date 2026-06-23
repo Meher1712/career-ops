@@ -1,61 +1,96 @@
 {
-  "generated_at": "2026-06-23T07:00:27.507Z",
+  "generated_at": "2026-06-23T10:44:39.734Z",
   "jobs": [
     {
       "n": 1,
       "title": "Senior Product Manager",
-      "company": "InCred Financial Services",
-      "location": "Mumbai, Maharashtra, India",
-      "url": "https://www.linkedin.com/jobs/view/4430885363"
+      "company": "SPIRO",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4431212568"
     },
     {
       "n": 2,
-      "title": "Product Manager — Travel & Hospitality Tech",
-      "company": "Finkraft",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4430885388"
+      "title": "Senior Product Manager",
+      "company": "Trinka.ai",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4432223756"
     },
     {
       "n": 3,
-      "title": "Director of Product Management",
-      "company": "LinkCxO (The CxO's Marketplace)",
-      "location": "Mumbai, Maharashtra, India",
-      "url": "https://www.linkedin.com/jobs/view/4432203030"
+      "title": "Senior Product Manager - Platform (AdTech)",
+      "company": "Rekruton Global IT Services",
+      "location": "Ahmedabad, Gujarat, India",
+      "url": "https://www.linkedin.com/jobs/view/4431217415"
     },
     {
       "n": 4,
-      "title": "Associate Product Manager (APM)",
-      "company": "Edme Insurance Brokers",
-      "location": "Mumbai, Maharashtra, India",
-      "url": "https://www.linkedin.com/jobs/view/4432099543"
+      "title": "Senior Product Manager - Healthcare (AdTech)",
+      "company": "Rekruton Global IT Services",
+      "location": "Ahmedabad, Gujarat, India",
+      "url": "https://www.linkedin.com/jobs/view/4431214498"
     },
     {
       "n": 5,
-      "title": "Product Manager II",
-      "company": "Tekion Corp",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://job-boards.greenhouse.io/tekion/jobs/7774064003"
+      "title": "Product Owner IRC297216",
+      "company": "GlobalLogic",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://www.linkedin.com/jobs/view/4432215665"
     },
     {
       "n": 6,
-      "title": "Product Management - Senior Product Manager (Data Product) - PPSL",
-      "company": "One97 Communications Limited",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4430895037"
+      "title": "Associate Platform Product Owner",
+      "company": "A.P. Moller - Maersk",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4431225514"
     },
     {
       "n": 7,
-      "title": "ServiceNow Product Manager",
-      "company": "WillWare Technologies",
+      "title": "Senior Digital Product Manager",
+      "company": "Wells Fargo",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4432099644"
+      "url": "https://www.linkedin.com/jobs/view/4431216295"
     },
     {
       "n": 8,
-      "title": "Director, Product Management",
-      "company": "Ethos",
-      "location": "Remote US",
-      "url": "https://job-boards.greenhouse.io/ethoslife/jobs/8603350002"
+      "title": "Product Manager",
+      "company": "Experian",
+      "location": "Mumbai Metropolitan Region",
+      "url": "https://www.linkedin.com/jobs/view/4343320968"
+    },
+    {
+      "n": 9,
+      "title": "Product Manager II",
+      "company": "Panzer Technologies Pvt Ltd",
+      "location": "Pune City, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4431214314"
+    },
+    {
+      "n": 10,
+      "title": "Product Manager",
+      "company": "Scoutit",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://www.linkedin.com/jobs/view/4431217515"
+    },
+    {
+      "n": 11,
+      "title": "Associate Product Manager",
+      "company": "Kapture CX",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4431226498"
+    },
+    {
+      "n": 12,
+      "title": "Sr. Product Manager - Website Builder, Analytics & Tracking Events",
+      "company": "Jobgether",
+      "location": "India",
+      "url": "https://jobs.lever.co/jobgether/8a115138-eeef-4198-b0dc-32fa3e2f4b4f"
+    },
+    {
+      "n": 13,
+      "title": "Director of Product",
+      "company": "Entain India",
+      "location": "Hyderabad, in",
+      "url": "https://api.smartrecruiters.com/v1/companies/Entain/postings/744000133555254"
     }
   ]
 }

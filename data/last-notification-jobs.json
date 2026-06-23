@@ -1,54 +1,61 @@
 {
-  "generated_at": "2026-06-22T19:48:47.630Z",
+  "generated_at": "2026-06-23T07:00:27.507Z",
   "jobs": [
     {
       "n": 1,
       "title": "Senior Product Manager",
-      "company": "Fam",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4430592290"
+      "company": "InCred Financial Services",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4430885363"
     },
     {
       "n": 2,
-      "title": "Product Manager / Sr. Product Manager",
-      "company": "DWD Pharmaceuticals Ltd",
-      "location": "Mumbai, Maharashtra, India",
-      "url": "https://www.linkedin.com/jobs/view/4430575661"
+      "title": "Product Manager — Travel & Hospitality Tech",
+      "company": "Finkraft",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4430885388"
     },
     {
       "n": 3,
-      "title": "Sr. Product Manager II - AI Platform (Remote Eligible)",
-      "company": "Smartsheet",
-      "location": " -REMOTE, USA-",
-      "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8014598"
+      "title": "Director of Product Management",
+      "company": "LinkCxO (The CxO's Marketplace)",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4432203030"
     },
     {
       "n": 4,
-      "title": "Product Manager job vacancy at Mumbai in Millennium Herbal Care Limited",
-      "company": "Indian Pharma Jobs - Pharma Jobs in India",
+      "title": "Associate Product Manager (APM)",
+      "company": "Edme Insurance Brokers",
       "location": "Mumbai, Maharashtra, India",
-      "url": "https://www.linkedin.com/jobs/view/4430588457"
+      "url": "https://www.linkedin.com/jobs/view/4432099543"
     },
     {
       "n": 5,
-      "title": "Product Manager II - Oracle Cloud Time and Labor Specialist",
-      "company": "Uber",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://www.linkedin.com/jobs/view/4431767829"
+      "title": "Product Manager II",
+      "company": "Tekion Corp",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://job-boards.greenhouse.io/tekion/jobs/7774064003"
     },
     {
       "n": 6,
-      "title": "Senior Product Manager (Insurance)",
-      "company": "Easyship",
-      "location": "Remote Europe",
-      "url": "https://boards.greenhouse.io/easyship/jobs/4690901006?gh_jid=4690901006"
+      "title": "Product Management - Senior Product Manager (Data Product) - PPSL",
+      "company": "One97 Communications Limited",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4430895037"
     },
     {
       "n": 7,
-      "title": "Senior Product Manager (SMB Growth)",
-      "company": "Easyship",
-      "location": "Remote Europe",
-      "url": "https://boards.greenhouse.io/easyship/jobs/4690902006?gh_jid=4690902006"
+      "title": "ServiceNow Product Manager",
+      "company": "WillWare Technologies",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4432099644"
+    },
+    {
+      "n": 8,
+      "title": "Director, Product Management",
+      "company": "Ethos",
+      "location": "Remote US",
+      "url": "https://job-boards.greenhouse.io/ethoslife/jobs/8603350002"
     }
   ]
 }

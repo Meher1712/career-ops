@@ -1481,6 +1481,17 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://job-boards.greenhouse.io/oportun/jobs/4708297005 | Oportun | Senior Product Manager, Data & AI Products (R14077) | posted=2026-06-24
 - [ ] https://job-boards.greenhouse.io/commvault/jobs/5252738008 | Commvault | Senior Product Manager - SaaS Applications Protection & Cyber Recovery  | posted=2026-06-24
 
+- [ ] https://www.linkedin.com/jobs/view/4424001120 | Eltropy | Senior Product Manager (Integrations) | posted=2026-06-24
+- [ ] https://www.linkedin.com/jobs/view/4423986998 | Eltropy | Senior Product Manager - Telephony | posted=2026-06-24
+- [ ] https://www.linkedin.com/jobs/view/4424068896 | RateGain | Senior Product Manager | posted=2026-06-24
+- [ ] https://www.linkedin.com/jobs/view/4424081852 | Smartsheet | Sr, Product Manager II - Data Links (Hybrid, Bangalore) | posted=2026-06-24
+- [ ] https://www.linkedin.com/jobs/view/4431837897 | Commvault | Senior Product Manager - SaaS Applications Protection & Cyber Recovery | posted=2026-06-24
+- [ ] https://www.linkedin.com/jobs/view/4431877282 | Siemens | Product Owner (PO) | posted=2026-06-24
+- [ ] https://jobs.ashbyhq.com/helpscout/63460d51-02c4-45ee-b1a0-14d062673af7 | Help Scout | Lead Product Manager, Agents | posted=2026-06-24
+- [ ] https://www.linkedin.com/jobs/view/4432804849 | HP | SupplyChain Product Manager - AgenticAI | posted=2026-06-24
+- [ ] https://jobs.lever.co/acceldata/5c8bd1f9-d5d1-4b91-817f-3ce9fc15f0e2 | Acceldata | Principal Product Manager | posted=2024-05-08
+- [ ] https://www.five9.com/about/careers/job-detail?gh_jid=6100658004 | Five9 | Senior Product Manager - Agentic Cloud | India | posted=2026-06-24
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

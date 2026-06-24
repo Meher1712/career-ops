@@ -1451,6 +1451,16 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://jobs.lever.co/jobgether/68524515-400c-4b85-922d-145161d6fe5a | Jobgether | Senior Product Manager - AI Products | posted=2026-06-24
 - [ ] https://gonoise.freshteam.com/jobs/QvyYK4S4dY7c/technical-product-manager-r-d-wearables | boAt / GoNoise | Technical Product Manager (R&amp;D) – Wearables
 
+- [ ] https://www.linkedin.com/jobs/view/4410164086 | Publicis Sapient | Senior Product Manager - Endur ETRM/CTRM | posted=2026-06-24
+- [ ] https://www.linkedin.com/jobs/view/4432555557 | Bain & Company | Manager, Product Management | posted=2026-06-24
+- [ ] https://www.linkedin.com/jobs/view/4419660553 | SmartBear | Product Owner - Swagger | posted=2026-06-24
+- [ ] https://www.linkedin.com/jobs/view/4431494391 | Google | Group Product Manager, Google Play | posted=2026-06-24
+- [ ] https://www.linkedin.com/jobs/view/4432545700 | Aditi Consulting | Product Owner 3 | posted=2026-06-24
+- [ ] https://www.linkedin.com/jobs/view/4413045053 | Salesforce | Senior Product Manager– Migration Solutions Architect and Program Manager - CPQ | posted=2026-06-24
+- [ ] https://www.linkedin.com/jobs/view/4431489282 | PlaySimple Games | Product Manager | posted=2026-06-24
+- [ ] https://www.linkedin.com/jobs/view/4431490315 | Unibots | Associate Product Manager | posted=2026-06-24
+- [ ] https://jobs.lever.co/jobgether/f3b0093c-9015-4e8c-be35-dd18f6f84851 | Jobgether | Sr. Product Manager - Creators | posted=2026-06-24
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

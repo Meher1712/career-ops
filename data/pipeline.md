@@ -1461,6 +1461,26 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4431490315 | Unibots | Associate Product Manager | posted=2026-06-24
 - [ ] https://jobs.lever.co/jobgether/f3b0093c-9015-4e8c-be35-dd18f6f84851 | Jobgether | Sr. Product Manager - Creators | posted=2026-06-24
 
+- [ ] https://www.linkedin.com/jobs/view/4432565920 | Acceldata | Principal Product Manager | posted=2026-06-24
+- [ ] https://www.linkedin.com/jobs/view/4432571574 | Mintifi | Senior Product Manager | posted=2026-06-24
+- [ ] https://www.linkedin.com/jobs/view/4422628577 | Amazon | Sr. Product Manager, Free Streaming Platform, FTV Free Streaming | posted=2026-06-24
+- [ ] https://www.linkedin.com/jobs/view/4403349547 | IDFC FIRST Bank | Senior Product Manager-Cross Sell | posted=2026-06-24
+- [ ] https://www.linkedin.com/jobs/view/4401933488 | Definitive Healthcare | Product Owner | posted=2026-06-24
+- [ ] https://www.linkedin.com/jobs/view/4422457407 | Amazon | Senior Product Manager - Tech, DP&R | posted=2026-06-24
+- [ ] https://www.linkedin.com/jobs/view/4431848000 | HCA Healthcare - India | Product Management Manager – Healthcare Provider Solutions | posted=2026-06-24
+- [ ] https://www.linkedin.com/jobs/view/4429873015 | Milestone Technologies, Inc. | Scrum Product Owner - (NPW) | posted=2026-06-24
+- [ ] https://www.linkedin.com/jobs/view/4419697307 | TraceLink | Product Manager I | posted=2026-06-24
+- [ ] https://www.linkedin.com/jobs/view/4412989848 | Amazon | Product Manager- Return defect eliminaiton , RBS Return reduction | posted=2026-06-24
+- [ ] https://www.linkedin.com/jobs/view/4431823976 | Optum | Lead Digital Product Manager | posted=2026-06-24
+- [ ] https://www.linkedin.com/jobs/view/4429858508 | WhyMinds Global | Growth Product Manager | posted=2026-06-24
+- [ ] https://www.linkedin.com/jobs/view/4432570359 | Ishan Technologies | Product Manager - Public Cloud | posted=2026-06-24
+- [ ] https://www.linkedin.com/jobs/view/4431841044 | Karyotica Biologicals Pvt Ltd | Product Manager | posted=2026-06-24
+- [ ] https://www.linkedin.com/jobs/view/4431823919 | Schneider Electric | Principal, Digital Product Owner | posted=2026-06-24
+- [ ] https://www.linkedin.com/jobs/view/4431853013 | Fairdeal.Market | Product Manager – Warehouse Management System (WMS) | posted=2026-06-24
+- [ ] https://www.linkedin.com/jobs/view/4432581772 | Scania Group | Senior Manager - Product Management | posted=2026-06-24
+- [ ] https://job-boards.greenhouse.io/oportun/jobs/4708297005 | Oportun | Senior Product Manager, Data & AI Products (R14077) | posted=2026-06-24
+- [ ] https://job-boards.greenhouse.io/commvault/jobs/5252738008 | Commvault | Senior Product Manager - SaaS Applications Protection & Cyber Recovery  | posted=2026-06-24
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

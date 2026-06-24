@@ -1438,6 +1438,19 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://jobs.ashbyhq.com/harvey/8ae1a13f-362b-4e7f-8456-c0fbe5d33571 | Harvey | GTM Technology Product Owner | posted=2026-06-23
 - [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013745946 | Nielsen | Senior Product Manager II | posted=2026-06-23
 
+- [ ] https://www.linkedin.com/jobs/view/4432527542 | MetricStream | Product Manager | posted=2026-06-24
+- [ ] https://www.linkedin.com/jobs/view/4429829467 | Vtricks Technologies | Lead Product Manager (AI Products & Platforms) | posted=2026-06-24
+- [ ] https://www.linkedin.com/jobs/view/4429820359 | Jobgether | Sr. Product Manager - Creators | posted=2026-06-24
+- [ ] https://www.linkedin.com/jobs/view/4429822468 | Cog Culture | Product Manager | posted=2026-06-24
+- [ ] https://www.linkedin.com/jobs/view/4429833432 | GridCrest by Kaynes | MDM Product Manager | posted=2026-06-24
+- [ ] https://www.okta.com/company/careers/opportunity/8022961?gh_jid=8022961 | Okta | Senior Product Manager, Data Platform | posted=2026-06-23
+- [ ] https://www.linkedin.com/jobs/view/4432531220 | vivo India | DGM/Senior Manager - IOT Product Management | posted=2026-06-24
+- [ ] https://job-boards.eu.greenhouse.io/valtech/jobs/4873351101 | Valtech | Forward Deployed Product Manager | posted=2026-06-23
+- [ ] https://jobs.ashbyhq.com/metaforms/d6406949-6a4b-44b0-af33-cefdf02afc72 | Metaforms | Senior Product Manager | posted=2026-06-24
+- [ ] https://jobs.lever.co/jobgether/59993e01-19d2-4948-a355-ed8b2e53d434 | Jobgether | Mobile Gaming Product Owner | posted=2026-06-24
+- [ ] https://jobs.lever.co/jobgether/68524515-400c-4b85-922d-145161d6fe5a | Jobgether | Senior Product Manager - AI Products | posted=2026-06-24
+- [ ] https://gonoise.freshteam.com/jobs/QvyYK4S4dY7c/technical-product-manager-r-d-wearables | boAt / GoNoise | Technical Product Manager (R&amp;D) – Wearables
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

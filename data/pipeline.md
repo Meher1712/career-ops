@@ -1492,6 +1492,18 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://jobs.lever.co/acceldata/5c8bd1f9-d5d1-4b91-817f-3ce9fc15f0e2 | Acceldata | Principal Product Manager | posted=2024-05-08
 - [ ] https://www.five9.com/about/careers/job-detail?gh_jid=6100658004 | Five9 | Senior Product Manager - Agentic Cloud | India | posted=2026-06-24
 
+- [ ] https://www.linkedin.com/jobs/view/4433060382 | Just In Time | Senior Product Manager | posted=2026-06-25
+- [ ] https://www.linkedin.com/jobs/view/4433050602 | Redcliffe Labs | Sr. Product Manager | posted=2026-06-25
+- [ ] https://www.linkedin.com/jobs/view/4432601310 | QI Spine | Senior Product Manager | posted=2026-06-25
+- [ ] https://www.linkedin.com/jobs/view/4432174926 | 7-Eleven Global Solution Center – India | Group Product Manager | posted=2026-06-25
+- [ ] https://www.linkedin.com/jobs/view/4432192497 | Xplor Technologies | Product Owner, Payment Gateway Transaction Processing | posted=2026-06-25
+- [ ] https://www.linkedin.com/jobs/view/4432182849 | LinkedIn India PM | Product Manager - server storage | posted=2026-06-25
+- [ ] https://www.linkedin.com/jobs/view/4433051989 | Ashika Group | Product Manager - API & Fintech | posted=2026-06-25
+- [ ] https://www.linkedin.com/jobs/view/4401734617 | Axi | Product Manager - Partners | posted=2026-06-25
+- [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-California/Product-Manager--Activation_R169976 | Adobe | Product Manager, Activation | posted=2026-06-25
+- [ ] https://jobs.lever.co/jobgether/2e5022b4-5335-4064-8612-2d6e061d24e6 | Jobgether | Senior Product Manager, Data & AI Products | posted=2026-06-24
+- [ ] https://jobs.lever.co/jobgether/5c174cd2-8ca8-4c57-ae7c-3393bc95a596 | Jobgether | Staff Product Manager - Agency Revenue Growth | posted=2026-06-24
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

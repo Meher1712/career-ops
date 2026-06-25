@@ -1528,6 +1528,17 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4432633861 | IDFC FIRST Bank | Senior Product Manager-Credit Cards | posted=2026-06-25
 - [ ] https://www.linkedin.com/jobs/view/4432634281 | Ingram Micro | Assistant Product Manager | posted=2026-06-25
 
+- [ ] https://www.linkedin.com/jobs/view/4388512048 | SolarWinds | Senior Product Manager | posted=2026-06-25
+- [ ] https://www.linkedin.com/jobs/view/4432667176 | Eicore | Product Owner | posted=2026-06-25
+- [ ] https://www.linkedin.com/jobs/view/4424365353 | Five9 | Senior Technical Product Manager, Core CCaaS Application Scale and Enterprise Delivery | posted=2026-06-25
+- [ ] https://www.linkedin.com/jobs/view/4433350070 | TMUS Global Solutions | Sr Product Owner - ServiceNow [T500-27018] | posted=2026-06-25
+- [ ] https://job-boards.greenhouse.io/netlify/jobs/8603652002 | Netlify | Principal Product Manager (Growth) | posted=2026-06-25
+- [ ] https://job-boards.greenhouse.io/netlify/jobs/8603630002 | Netlify | Staff Product Manager (Accounts & Billing) | posted=2026-06-25
+- [ ] https://www.linkedin.com/jobs/view/4372859879 | Five9 | Apprentice- Product Management | posted=2026-06-25
+- [ ] https://www.linkedin.com/jobs/view/4432648904 | Stellantis | Mid Product Manager | posted=2026-06-25
+- [ ] https://www.linkedin.com/jobs/view/4419435521 | Wells Fargo | Lead Digital Product Manager - Wholesale Mobile Banking & AI | posted=2026-06-25
+- [ ] https://www.linkedin.com/jobs/view/4432667122 | Citi | VP- Custody Product Manager -Data & AI | posted=2026-06-25
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -1504,6 +1504,16 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://jobs.lever.co/jobgether/2e5022b4-5335-4064-8612-2d6e061d24e6 | Jobgether | Senior Product Manager, Data & AI Products | posted=2026-06-24
 - [ ] https://jobs.lever.co/jobgether/5c174cd2-8ca8-4c57-ae7c-3393bc95a596 | Jobgether | Staff Product Manager - Agency Revenue Growth | posted=2026-06-24
 
+- [ ] https://www.linkedin.com/jobs/view/4432627119 | AppSquadz | Senior Product Manager (Edtech) | posted=2026-06-25
+- [ ] https://www.linkedin.com/jobs/view/4410163104 | Publicis Sapient | Senior Product Manager - Endur ETRM/CTRM | posted=2026-06-25
+- [ ] https://www.linkedin.com/jobs/view/4433093192 | Havas Life Mumbai | Group Product Manager | posted=2026-06-25
+- [ ] https://www.linkedin.com/jobs/view/4409256234 | MyCareernet | AI Product Owner | posted=2026-06-25
+- [ ] https://www.linkedin.com/jobs/view/4424353589 | Deloitte | Product Management Specialist II- Deputy Manager | posted=2026-06-25
+- [ ] https://www.linkedin.com/jobs/view/4432621347 | Kyndryl India | IT Product Owner | posted=2026-06-25
+- [ ] https://www.linkedin.com/jobs/view/4433062726 | BKN301 | Product Manager | posted=2026-06-25
+- [ ] https://www.linkedin.com/jobs/view/4419694725 | airtel | Product Manager | posted=2026-06-25
+- [ ] https://www.linkedin.com/jobs/view/4429894629 | JioHotstar | Senior Product Manager (Ads) | posted=2026-06-25
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

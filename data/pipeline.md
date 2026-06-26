@@ -1539,6 +1539,15 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4419435521 | Wells Fargo | Lead Digital Product Manager - Wholesale Mobile Banking & AI | posted=2026-06-25
 - [ ] https://www.linkedin.com/jobs/view/4432667122 | Citi | VP- Custody Product Manager -Data & AI | posted=2026-06-25
 
+- [ ] https://www.linkedin.com/jobs/view/4432954179 | BQE Software | Senior Product Manager | posted=2026-06-26
+- [ ] https://www.linkedin.com/jobs/view/4433806047 | iZOOlogic | Product Manager | posted=2026-06-26
+- [ ] https://www.linkedin.com/jobs/view/4433586741 | Transformatrix Global Private Limited | Product Manager | posted=2026-06-26
+- [ ] https://www.linkedin.com/jobs/view/4419239292 | Curefit | Product Manager 2 - Operations Excellence | posted=2026-06-26
+- [ ] https://www.linkedin.com/jobs/view/4430246334 | Zilo AI | AI Product Manager/Consultant (Saudi Arabia) | posted=2026-06-26
+- [ ] https://www.linkedin.com/jobs/view/4432957008 | HSBC | Assistant Director,Fraud Product Manager | posted=2026-06-26
+- [ ] https://www.linkedin.com/jobs/view/4432951544 | Gadiel technologies Pvt Ltd | Product Manager AI workflows | posted=2026-06-26
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013793986 | Nielsen | Senior Product Manager II | posted=2026-06-25
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

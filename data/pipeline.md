@@ -1548,6 +1548,22 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4432951544 | Gadiel technologies Pvt Ltd | Product Manager AI workflows | posted=2026-06-26
 - [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013793986 | Nielsen | Senior Product Manager II | posted=2026-06-25
 
+- [ ] https://www.linkedin.com/jobs/view/4414756320 | Clearwater Analytics | Principal Product Manager | posted=2026-06-26
+- [ ] https://www.linkedin.com/jobs/view/4432976597 | Great Learning | Senior Product Manager | posted=2026-06-26
+- [ ] https://www.linkedin.com/jobs/view/4423368539 | Provation | Product Owner | posted=2026-06-26
+- [ ] https://www.linkedin.com/jobs/view/4433813489 | Palo Alto Networks | Senior Product Owner | posted=2026-06-26
+- [ ] https://www.linkedin.com/jobs/view/4432976315 | Iron Mountain | Product Owner | posted=2026-06-26
+- [ ] https://www.linkedin.com/jobs/view/4392888998 | Qualys | Associate Product Manager | posted=2026-06-26
+- [ ] https://www.linkedin.com/jobs/view/4432965875 | Palo Alto Networks | Director, Business Transformation & Product Management | posted=2026-06-26
+- [ ] https://www.linkedin.com/jobs/view/4433834034 | Frevolt | Associate Product Manager | posted=2026-06-26
+- [ ] https://www.linkedin.com/jobs/view/4414959134 | Proofpoint | AI Product Manager | posted=2026-06-26
+- [ ] https://www.linkedin.com/jobs/view/4432969429 | Simply Algo Fintech | Technical Product Manager | posted=2026-06-26
+- [ ] https://www.linkedin.com/jobs/view/4433817619 | Fiserv | Advisor, Product Management | posted=2026-06-26
+- [ ] https://www.linkedin.com/jobs/view/4433820314 | GlobalLogic | Technical Sr Product Manager IRC297324 | posted=2026-06-26
+- [ ] https://www.linkedin.com/jobs/view/4432976533 | Expertrons | Product Manager – Franchise Intelligence | posted=2026-06-26
+- [ ] https://www.linkedin.com/jobs/view/4432974445 | Optum India | Technical Product Management | posted=2026-06-26
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013805082 | Nielsen | Lead Product Manager | posted=2026-06-26
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

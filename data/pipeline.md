@@ -1564,6 +1564,18 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4432974445 | Optum India | Technical Product Management | posted=2026-06-26
 - [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013805082 | Nielsen | Lead Product Manager | posted=2026-06-26
 
+- [ ] https://www.linkedin.com/jobs/view/4424425559 | Google | Senior Product Manager, Block Storage | posted=2026-06-26
+- [ ] https://www.linkedin.com/jobs/view/4424408613 | Google | Group Product Manager, Play Games Features | posted=2026-06-26
+- [ ] https://www.linkedin.com/jobs/view/4433854024 | Concentrix | Technical Product Owner - Bangalore | posted=2026-06-26
+- [ ] https://www.linkedin.com/jobs/view/4433832709 | Amazon | Sr Product Manager, Amazon Wholesale | posted=2026-06-26
+- [ ] https://www.linkedin.com/jobs/view/4433211976 | Dash Technologies Inc. | Product Owner | posted=2026-06-26
+- [ ] https://www.linkedin.com/jobs/view/4433840462 | D. E. Shaw India Private Limited | Lead/ Product Manager (Human Capital Development) | posted=2026-06-26
+- [ ] https://www.linkedin.com/jobs/view/4433225771 | FITPASS | Product Manager | posted=2026-06-26
+- [ ] https://www.linkedin.com/jobs/view/4433228454 | Jarvis Technology and Strategy Consulting | Product Manager | posted=2026-06-26
+- [ ] https://www.linkedin.com/jobs/view/4414641715 | Alegeus | Product Manager, Data Platform | posted=2026-06-26
+- [ ] https://www.linkedin.com/jobs/view/4433848266 | SourcingXPress | Product Manager | posted=2026-06-26
+- [ ] https://www.rubrik.com/company/careers/departments/job.7976001?gh_jid=7976001 | Rubrik | Staff Product Manager-Identity Resilience | posted=2026-06-26
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

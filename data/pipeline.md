@@ -1576,6 +1576,15 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4433848266 | SourcingXPress | Product Manager | posted=2026-06-26
 - [ ] https://www.rubrik.com/company/careers/departments/job.7976001?gh_jid=7976001 | Rubrik | Staff Product Manager-Identity Resilience | posted=2026-06-26
 
+- [ ] https://www.linkedin.com/jobs/view/4414497953 | Smartsheet | Sr, Product Manager II - Gantt View (Hybrid in Bangalore) | posted=2026-06-26
+- [ ] https://www.linkedin.com/jobs/view/4414575392 | Accurate Background | Product Owner | posted=2026-06-26
+- [ ] https://www.linkedin.com/jobs/view/4433230905 | GlobalLogic | Senior Product Owner IRC298342 | posted=2026-06-26
+- [ ] https://www.linkedin.com/jobs/view/4372883081 | Five9 | Apprentice- Product Management | posted=2026-06-26
+- [ ] https://www.linkedin.com/jobs/view/4433252281 | hackajob | Product Manager | posted=2026-06-26
+- [ ] https://www.linkedin.com/jobs/view/4433884232 | TMUS Global Solutions | Product Manager - Data Platforms [T500-27072] | posted=2026-06-26
+- [ ] https://www.linkedin.com/jobs/view/4433242492 | The Magnum Ice Cream Company | IT Product Manager (S4H Manufacturing) | posted=2026-06-26
+- [ ] https://www.linkedin.com/jobs/view/4433869763 | MSD | Senior Specialist, Technical Product Management | posted=2026-06-26
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

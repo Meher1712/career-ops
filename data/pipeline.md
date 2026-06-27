@@ -1616,6 +1616,11 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4433480092 | Michael Page | Associate Director- AI Product Manager || Bangalore | posted=2026-06-27
 - [ ] https://www.linkedin.com/jobs/view/4414977931 | BNY | Director, POM Technical Product Management | posted=2026-06-27
 
+- [ ] https://www.linkedin.com/jobs/view/4434233662 | TMUS Global Solutions | Sr Product Manager, Technical [T500-27094] | posted=2026-06-27
+- [ ] https://www.linkedin.com/jobs/view/4414915600 | SOTI | Product Manager | posted=2026-06-27
+- [ ] https://www.linkedin.com/jobs/view/4430694934 | - | Product Manager | posted=2026-06-27
+- [ ] https://www.linkedin.com/jobs/view/4433475469 | SCIKIQ | Product Manager | posted=2026-06-27
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

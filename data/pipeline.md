@@ -1587,6 +1587,12 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 
 - [ ] https://www.linkedin.com/jobs/view/4430669671 | T&M Services Consulting Pvt Ltd | Asst. Vice President II (AVP II) - Product Manager - Corporate Banking | posted=2026-06-27
 
+- [ ] https://www.linkedin.com/jobs/view/4414747752 | Clearwater Analytics | Senior Product Manager | posted=2026-06-27
+- [ ] https://www.linkedin.com/jobs/view/4433465013 | RagaAI Inc | Senior Product Manager | posted=2026-06-27
+- [ ] https://www.linkedin.com/jobs/view/4424778370 | NCR Voyix | Associate Product Owner | posted=2026-06-27
+- [ ] https://www.linkedin.com/jobs/view/4433455554 | CAREER BLOC | AI Product Manager (From Fintech & BFSI) | posted=2026-06-27
+- [ ] https://www.linkedin.com/jobs/view/4434213195 | Penguin Solutions | Software Product Manager, ClusterWareAI | posted=2026-06-27
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

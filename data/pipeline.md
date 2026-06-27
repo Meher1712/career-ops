@@ -1593,6 +1593,16 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4433455554 | CAREER BLOC | AI Product Manager (From Fintech & BFSI) | posted=2026-06-27
 - [ ] https://www.linkedin.com/jobs/view/4434213195 | Penguin Solutions | Software Product Manager, ClusterWareAI | posted=2026-06-27
 
+- [ ] https://www.linkedin.com/jobs/view/4424588488 | Arctic Wolf | Senior Product Manager | posted=2026-06-27
+- [ ] https://www.linkedin.com/jobs/view/4424191576 | ServiceChannel | Technical Product Owner | posted=2026-06-27
+- [ ] https://www.linkedin.com/jobs/view/4411195046 | SKF Group | Product Owner - Design Automation | posted=2026-06-27
+- [ ] https://www.linkedin.com/jobs/view/4431006027 | FORVIA HELLA | Diagnostic Group lead and Product owner | posted=2026-06-27
+- [ ] https://www.linkedin.com/jobs/view/4412006661 | UST | Product Manager I - AI Product Manager | posted=2026-06-27
+- [ ] https://www.linkedin.com/jobs/view/4430688318 | Mastercard | Sr Product Manager Technical | posted=2026-06-27
+- [ ] https://www.linkedin.com/jobs/view/4431000308 | Kotak Mahindra Bank | Product Manager-Tractors and Farm Equipments (TFE)-Product Manager | posted=2026-06-27
+- [ ] https://www.linkedin.com/jobs/view/4433461303 | Finkraft | Product Manager | posted=2026-06-27
+- [ ] https://www.linkedin.com/jobs/view/4414686595 | PTC | Technical Product Manager-Consultant | posted=2026-06-27
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

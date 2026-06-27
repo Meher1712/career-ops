@@ -1,40 +1,68 @@
 {
-  "generated_at": "2026-06-27T09:35:23.588Z",
+  "generated_at": "2026-06-27T11:47:01.007Z",
   "jobs": [
     {
       "n": 1,
       "title": "Senior Product Manager",
-      "company": "Clearwater Analytics",
-      "location": "Noida, Uttar Pradesh, India",
-      "url": "https://www.linkedin.com/jobs/view/4414747752"
+      "company": "Arctic Wolf",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4424588488"
     },
     {
       "n": 2,
-      "title": "Senior Product Manager",
-      "company": "RagaAI Inc",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4433465013"
+      "title": "Technical Product Owner",
+      "company": "ServiceChannel",
+      "location": "Bengaluru East, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4424191576"
     },
     {
       "n": 3,
-      "title": "Associate Product Owner",
-      "company": "NCR Voyix",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://www.linkedin.com/jobs/view/4424778370"
+      "title": "Product Owner - Design Automation",
+      "company": "SKF Group",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4411195046"
     },
     {
       "n": 4,
-      "title": "AI Product Manager (From Fintech & BFSI)",
-      "company": "CAREER BLOC",
-      "location": "Mumbai Metropolitan Region",
-      "url": "https://www.linkedin.com/jobs/view/4433455554"
+      "title": "Diagnostic Group lead and Product owner",
+      "company": "FORVIA HELLA",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4431006027"
     },
     {
       "n": 5,
-      "title": "Software Product Manager, ClusterWareAI",
-      "company": "Penguin Solutions",
+      "title": "Product Manager I - AI Product Manager",
+      "company": "UST",
+      "location": "Trivandrum, Kerala, India",
+      "url": "https://www.linkedin.com/jobs/view/4412006661"
+    },
+    {
+      "n": 6,
+      "title": "Sr Product Manager Technical",
+      "company": "Mastercard",
+      "location": "Pune/Pimpri-Chinchwad Area",
+      "url": "https://www.linkedin.com/jobs/view/4430688318"
+    },
+    {
+      "n": 7,
+      "title": "Product Manager-Tractors and Farm Equipments (TFE)-Product Manager",
+      "company": "Kotak Mahindra Bank",
+      "location": "Mumbai Metropolitan Region",
+      "url": "https://www.linkedin.com/jobs/view/4431000308"
+    },
+    {
+      "n": 8,
+      "title": "Product Manager",
+      "company": "Finkraft",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4434213195"
+      "url": "https://www.linkedin.com/jobs/view/4433461303"
+    },
+    {
+      "n": 9,
+      "title": "Technical Product Manager-Consultant",
+      "company": "PTC",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4414686595"
     }
   ]
 }

@@ -1585,6 +1585,8 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4433242492 | The Magnum Ice Cream Company | IT Product Manager (S4H Manufacturing) | posted=2026-06-26
 - [ ] https://www.linkedin.com/jobs/view/4433869763 | MSD | Senior Specialist, Technical Product Management | posted=2026-06-26
 
+- [ ] https://www.linkedin.com/jobs/view/4430669671 | T&M Services Consulting Pvt Ltd | Asst. Vice President II (AVP II) - Product Manager - Corporate Banking | posted=2026-06-27
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

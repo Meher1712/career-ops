@@ -1607,6 +1607,15 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4433469330 | MyTravelTown | Associate Product Manager/Product Manager | posted=2026-06-27
 - [ ] https://www.linkedin.com/jobs/view/4434235185 | EDTEX | Product Manager SaaS | posted=2026-06-27
 
+- [ ] https://www.linkedin.com/jobs/view/4403714647 | EY | Product Manager-Owner-Payments-Manager | posted=2026-06-27
+- [ ] https://www.linkedin.com/jobs/view/4414994024 | BNY | Vice President, POM Product Owner | posted=2026-06-27
+- [ ] https://www.linkedin.com/jobs/view/4406174516 | Mattel, Inc. | Lead Product Owner - AI (Supply Chain) | posted=2026-06-27
+- [ ] https://www.linkedin.com/jobs/view/4414988115 | BNY | Senior Specialist, POM Product Owner | posted=2026-06-27
+- [ ] https://www.linkedin.com/jobs/view/4433459777 | UKG | Sr Product Manager | posted=2026-06-27
+- [ ] https://www.linkedin.com/jobs/view/4433473475 | AssetPlus | Senior Product Manager – Mutual Funds | posted=2026-06-27
+- [ ] https://www.linkedin.com/jobs/view/4433480092 | Michael Page | Associate Director- AI Product Manager || Bangalore | posted=2026-06-27
+- [ ] https://www.linkedin.com/jobs/view/4414977931 | BNY | Director, POM Technical Product Management | posted=2026-06-27
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

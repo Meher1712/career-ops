@@ -1631,6 +1631,8 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4434278516 | Hired | Product Manager (Remote) | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4413949032 | JPMorganChase | Product Manager - Quant Research / Investment Solutions | posted=2026-06-28
 
+- [ ] https://www.linkedin.com/jobs/view/4425164525 | Mercor | Product Management Expert - Evaluator | posted=2026-06-28
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

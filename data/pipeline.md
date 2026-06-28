@@ -1621,6 +1621,9 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4430694934 | - | Product Manager | posted=2026-06-27
 - [ ] https://www.linkedin.com/jobs/view/4433475469 | SCIKIQ | Product Manager | posted=2026-06-27
 
+- [ ] https://www.linkedin.com/jobs/view/4433603610 | Kwan Ventures | Senior Product Manager | posted=2026-06-28
+- [ ] https://www.linkedin.com/jobs/view/4433494828 | RagaAI Inc | Senior Product Manager | posted=2026-06-28
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

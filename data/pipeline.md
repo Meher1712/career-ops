@@ -1642,6 +1642,9 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4385348018 | Vena Solutions | Product Owner, Integrations | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4406679786 | Purplle.com | Product Manager - Storefront | posted=2026-06-28
 
+- [ ] https://www.linkedin.com/jobs/view/4403765701 | Adobe | Principal Product Manager | posted=2026-06-28
+- [ ] https://www.linkedin.com/jobs/view/4433623408 | Quest Global | Product Owner | posted=2026-06-28
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

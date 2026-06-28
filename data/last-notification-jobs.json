@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-06-28T11:59:18.740Z",
+  "generated_at": "2026-06-28T14:17:33.869Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Product Management Expert - Evaluator",
-      "company": "Mercor",
-      "location": "India",
-      "url": "https://www.linkedin.com/jobs/view/4425164525"
+      "title": "Senior Product Manager",
+      "company": "Freight Tiger",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4434402018"
+    },
+    {
+      "n": 2,
+      "title": "Sr. Product Manager-Tech, Last Mile DSP Tech",
+      "company": "Amazon",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.linkedin.com/jobs/view/4406805409"
+    },
+    {
+      "n": 3,
+      "title": "Generative AI Product Manager\nPune, India",
+      "company": "mvue.ai",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4431033565"
     }
   ]
 }

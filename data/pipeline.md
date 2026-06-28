@@ -1633,6 +1633,11 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 
 - [ ] https://www.linkedin.com/jobs/view/4425164525 | Mercor | Product Management Expert - Evaluator | posted=2026-06-28
 
+- [ ] https://www.linkedin.com/jobs/view/4434402018 | Freight Tiger | Senior Product Manager | posted=2026-06-28
+- [ ] https://www.linkedin.com/jobs/view/4406805409 | Amazon | Sr. Product Manager-Tech, Last Mile DSP Tech | posted=2026-06-28
+- [ ] https://www.linkedin.com/jobs/view/4431033565 | mvue.ai | Generative AI Product Manager
+Pune, India | posted=2026-06-28
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -1638,6 +1638,10 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4431033565 | mvue.ai | Generative AI Product Manager
 Pune, India | posted=2026-06-28
 
+- [ ] https://www.linkedin.com/jobs/view/4406623681 | Purplle.com | Senior Product Manager - Category Buy Side | posted=2026-06-28
+- [ ] https://www.linkedin.com/jobs/view/4385348018 | Vena Solutions | Product Owner, Integrations | posted=2026-06-28
+- [ ] https://www.linkedin.com/jobs/view/4406679786 | Purplle.com | Product Manager - Storefront | posted=2026-06-28
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

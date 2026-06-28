@@ -1624,6 +1624,13 @@ Pending offer URLs to evaluate. Format: `- [ ] URL — note`
 - [ ] https://www.linkedin.com/jobs/view/4433603610 | Kwan Ventures | Senior Product Manager | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4433494828 | RagaAI Inc | Senior Product Manager | posted=2026-06-28
 
+- [ ] https://www.linkedin.com/jobs/view/4415408337 | Teradata | Senior Staff Product Manager — Metadata & AI Context | posted=2026-06-28
+- [ ] https://www.linkedin.com/jobs/view/4427012863 | athenahealth | Product Management Manager | posted=2026-06-28
+- [ ] https://www.linkedin.com/jobs/view/4431052035 | IT Merchant | Product Manager - AdTech | posted=2026-06-28
+- [ ] https://www.linkedin.com/jobs/view/4433620011 | Devolution | Product Manager | posted=2026-06-28
+- [ ] https://www.linkedin.com/jobs/view/4434278516 | Hired | Product Manager (Remote) | posted=2026-06-28
+- [ ] https://www.linkedin.com/jobs/view/4413949032 | JPMorganChase | Product Manager - Quant Research / Investment Solutions | posted=2026-06-28
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

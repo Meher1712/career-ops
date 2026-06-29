@@ -1669,6 +1669,17 @@ Pune, India | posted=2026-06-28
 - [ ] https://api.smartrecruiters.com/v1/companies/ixigo/postings/744000134735759 | ixigo | Founding Senior Product Manager - SaaS / AI Products  | posted=2026-06-29
 - [ ] https://jobs.ashbyhq.com/spotdraft/ca728cfc-7e37-4059-9cd6-c4c272fe384b | SpotDraft | Senior Product Manager | posted=2026-06-29
 
+- [ ] https://www.linkedin.com/jobs/view/4421595498 | Johnson & Johnson MedTech | Sr Product manager | posted=2026-06-29
+- [ ] https://www.linkedin.com/jobs/view/4434143060 | Siemens | Product Owner II | posted=2026-06-29
+- [ ] https://www.linkedin.com/jobs/view/4431507738 | PwC Acceleration Center India | Product Owner - Manager | posted=2026-06-29
+- [ ] https://www.linkedin.com/jobs/view/4434114856 | hackajob | Technical Product Owner - AVP | posted=2026-06-29
+- [ ] https://jobs.ashbyhq.com/archive/cb7678cf-44db-4aec-9c6e-5891a1e7be12 | Archive Intel | Head of Product | posted=2025-06-24
+- [ ] https://www.linkedin.com/jobs/view/4434131553 | JoVE | Product Manager | posted=2026-06-29
+- [ ] https://www.linkedin.com/jobs/view/4431506841 | Mastercard | Associate Product Management | posted=2026-06-29
+- [ ] https://www.linkedin.com/jobs/view/4434704378 | Rainfall Ventures | Product Manager - Mutual Funds | posted=2026-06-29
+- [ ] https://www.linkedin.com/jobs/view/4434497599 | Johnson & Johnson Innovative Medicine | Sr Product Manager - Oncology | posted=2026-06-29
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013833396 | Nielsen | Lead Product Manager | posted=2026-06-29
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

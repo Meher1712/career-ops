@@ -1652,6 +1652,23 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4433650832 | Darwix AI | Product Manager | posted=2026-06-29
 - [ ] https://www.linkedin.com/jobs/view/4433640991 | Emergent | Product Manager | posted=2026-06-29
 
+- [ ] https://www.okta.com/company/careers/opportunity/8022237?gh_jid=8022237 | Okta | Director, Product Management - Integrations | posted=2026-06-29
+- [ ] https://www.linkedin.com/jobs/view/4434471512 | Flexiple | Group Product Manager | posted=2026-06-29
+- [ ] https://www.linkedin.com/jobs/view/4434105730 | ShopSe Digital Finance | Senior Product Manager – Lending | posted=2026-06-29
+- [ ] https://www.linkedin.com/jobs/view/4415177288 | hackajob | Product Owner- Technology | posted=2026-06-29
+- [ ] https://www.linkedin.com/jobs/view/4434475206 | Rackspace Technology | Senior Product Manager | posted=2026-06-29
+- [ ] https://www.linkedin.com/jobs/view/4434480330 | MADTECH.AI Inc. | Group Product Manager | posted=2026-06-29
+- [ ] https://www.linkedin.com/jobs/view/4434461789 | Amazon | Sr. Product Manager, OPTIMA | posted=2026-06-29
+- [ ] https://www.linkedin.com/jobs/view/4434469584 | Amazon | Senior Product Manager Tech, Cart Building and Consolidation | posted=2026-06-29
+- [ ] https://www.linkedin.com/jobs/view/4431082741 | ConverzAI | Product Manager - Fully Remote | posted=2026-06-29
+- [ ] https://www.linkedin.com/jobs/view/4431083818 | Ajanta Pharma Ltd | Product Manager (PMT) – Anglo Africa Markets | posted=2026-06-29
+- [ ] https://www.linkedin.com/jobs/view/4434117063 | Scoutit | Associate Product Manager | posted=2026-06-29
+- [ ] https://www.linkedin.com/jobs/view/4434481129 | Flick2Know | Associate Product Manager APM | posted=2026-06-29
+- [ ] https://www.linkedin.com/jobs/view/4434477438 | TMUS Global Solutions | Product Manager - SRE/Cloud Networking [T500-27145] | posted=2026-06-29
+- [ ] https://www.linkedin.com/jobs/view/4425097688 | MiQ | Product Manager | posted=2026-06-29
+- [ ] https://api.smartrecruiters.com/v1/companies/ixigo/postings/744000134735759 | ixigo | Founding Senior Product Manager - SaaS / AI Products  | posted=2026-06-29
+- [ ] https://jobs.ashbyhq.com/spotdraft/ca728cfc-7e37-4059-9cd6-c4c272fe384b | SpotDraft | Senior Product Manager | posted=2026-06-29
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -1645,6 +1645,13 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4403765701 | Adobe | Principal Product Manager | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4433623408 | Quest Global | Product Owner | posted=2026-06-28
 
+- [ ] https://www.linkedin.com/jobs/view/4433673012 | AppSquadz | Senior Technical Product Manager | posted=2026-06-29
+- [ ] https://www.linkedin.com/jobs/view/4421801364 | LinkedIn India Senior PM | Product Manager / Senior Product Manager (Cardio Diabetic) | posted=2026-06-29
+- [ ] https://www.linkedin.com/jobs/view/4421801669 | Ipca Laboratories Limited | Group Product Manager - Neuropsychiatry | posted=2026-06-29
+- [ ] https://www.linkedin.com/jobs/view/4433649911 | Panzer Technologies Pvt Ltd | Product Manager II | posted=2026-06-29
+- [ ] https://www.linkedin.com/jobs/view/4433650832 | Darwix AI | Product Manager | posted=2026-06-29
+- [ ] https://www.linkedin.com/jobs/view/4433640991 | Emergent | Product Manager | posted=2026-06-29
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

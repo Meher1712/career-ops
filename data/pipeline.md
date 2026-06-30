@@ -1724,6 +1724,25 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4435102609 | Microsoft | Product Manager II | posted=2026-06-30
 - [ ] https://www.linkedin.com/jobs/view/4434318014 | Mygate | Product Manager-Kochi | posted=2026-06-30
 
+- [ ] https://www.linkedin.com/jobs/view/4435127573 | Nike | Senior Technical Product Manager, ITC | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4435129518 | Nike | Lead Technical Product Manager, ITC | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4434327390 | Sabre | Lead Product Manager - Lodging Distribution | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4432865329 | JPMorganChase | Product Manager | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4434318669 | Amadeus | Product Owner | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4435119889 | Persistent Systems | Technical Product Owner | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4431179711 | JPMorganChase | Intelligent Automation - Product Owner - Associate | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4422287572 | MakeMyTrip | Product Manager (Ground Transport) | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4435124221 | Bain & Company | Manager, Product Management | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4425915397 | Nextiva | Principal Product Manager (Voice Platform) | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4435102757 | Microsoft | Senior Product Manager | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4431929806 | Radiometer | Product Manager | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4435128132 | U.S. Bank | Digital Product Manager | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4434997841 | Microsoft | Principal Product Manager | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4402595035 | JPMorganChase | Wholesale Credit Risk Product Owner - Vice President | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4399804767 | JPMorganChase | Securities Services - Fund Accounting Product Manager | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4435156700 | TE Connectivity | PRODUCT MANAGER INDIA ( Panel & Relay Solutions) | posted=2026-06-30
+- [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Senior-Product-Manager_R168580 | Adobe | Senior Product Manager | posted=2026-06-30
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

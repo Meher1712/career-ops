@@ -1716,6 +1716,14 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/jobgether/ac63bfef-725d-4852-9576-290f8012bb4c | Jobgether | Technical Product Manager | posted=2026-06-30
 - [ ] https://api.smartrecruiters.com/v1/companies/Entain/postings/744000134940441 | Entain India | Product Manager | posted=2026-06-30
 
+- [ ] https://www.linkedin.com/jobs/view/4434994601 | Flexiple | Group Product Manager | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4405966480 | Persistent Systems | Product Manager | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4434992660 | Dario | Product Manager | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4435114036 | SBS | Technical Product Manager | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4431946009 | HighLevel | Sr. Product Manager - Mobile Cross Platform Experiences | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4435102609 | Microsoft | Product Manager II | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4434318014 | Mygate | Product Manager-Kochi | posted=2026-06-30
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -1680,6 +1680,17 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4434497599 | Johnson & Johnson Innovative Medicine | Sr Product Manager - Oncology | posted=2026-06-29
 - [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013833396 | Nielsen | Lead Product Manager | posted=2026-06-29
 
+- [ ] https://www.linkedin.com/jobs/view/4431576566 | Marcura | Senior Product Manager, Technical Projects | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4431091728 | Salt Oral Care | Product Manager | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4434311059 | IKEA | Product Owner | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4434960250 | Process Analytics Factory - PAFnow by Celonis | Associate Principal Product Manager - Networks | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4434949558 | 3P Consultants | Head of Product Development (DGM / GM) | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4434953378 | SD BIOSENSOR INC | Asst. Product/Product Manager for BGMS & CGMS(HCP, Hospital & Retail) | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4434946446 | University Living | Associate Product Manager – Project & Growth Ops | posted=2026-06-30
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7777102003?gh_jid=7777102003 | Celonis | Associate Principal Product Manager - Networks | posted=2026-06-30
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013850016 | Nielsen | Lead Product Manager/ AI Product Manager | posted=2026-06-30
+- [ ] https://jobs.lever.co/jobgether/b469eda5-7b8b-46de-a8f7-1a4f5d4f6f6b | Jobgether | Senior Product Owner | posted=2026-06-30
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

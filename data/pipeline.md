@@ -1691,6 +1691,31 @@ Pune, India | posted=2026-06-28
 - [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013850016 | Nielsen | Lead Product Manager/ AI Product Manager | posted=2026-06-30
 - [ ] https://jobs.lever.co/jobgether/b469eda5-7b8b-46de-a8f7-1a4f5d4f6f6b | Jobgether | Senior Product Owner | posted=2026-06-30
 
+- [ ] https://www.linkedin.com/jobs/view/4434985463 | E2M | Product Manager | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4431596792 | Samaaro | Product Manager | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4434968713 | Roarbank | Savings Product Manager | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4434985228 | Wells Fargo | Lead Product Manager | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4434987514 | Shuru | Product Manager | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4434986415 | Spinny | Group Product Manager | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4434976464 | Flexiple | Senior Product Manager | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4431908204 | LinkedIn India PM | Product Lead / Product Manager | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4431902237 | GreyLabs AI | AI - Product Manager | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4434976232 | ClearTrail Technologies | Product Manager | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4434987361 | NicheHR Global | Assistant Product Manager | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4434988219 | Durapid Technologies Private Limited | Openlink Endur Product Manager | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4432079208 | JPMorganChase | Product Manager (Vice President) - Global Customer Platform | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4432873157 | JPMorganChase | Product Manager - Digital Channels Detection | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4427145549 | JPMorganChase | Product Manager Regulatory Reporting - Vice President | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4431902261 | Mastercard | Senior Product Manager( Payment Switching ,  ISO 8583 , ATICA 20022) | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4412251899 | eBay | Group Product Manager, Product Knowledge | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4425607745 | Experian | GenAI Product Lead, EMAP | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4431594849 | Palo Alto Networks | Senior Staff Product Owner | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4421944912 | HighLevel | Staff Product Manager - Phone Numbers and A2P | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4431904658 | Duroshox | Product Manager | posted=2026-06-30
+- [ ] https://jobs.lever.co/jobgether/bcf6dfe2-7f1f-45dd-835f-31ae40f86349 | Jobgether | Senior Product Owner | posted=2026-06-30
+- [ ] https://jobs.lever.co/jobgether/ac63bfef-725d-4852-9576-290f8012bb4c | Jobgether | Technical Product Manager | posted=2026-06-30
+- [ ] https://api.smartrecruiters.com/v1/companies/Entain/postings/744000134940441 | Entain India | Product Manager | posted=2026-06-30
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -1743,6 +1743,13 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4435156700 | TE Connectivity | PRODUCT MANAGER INDIA ( Panel & Relay Solutions) | posted=2026-06-30
 - [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Senior-Product-Manager_R168580 | Adobe | Senior Product Manager | posted=2026-06-30
 
+- [ ] https://www.linkedin.com/jobs/view/4415615811 | Adobe | Senior Product Manager | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4435189170 | Amazon | Senior Product Manager, Technical, DSP Platform Tech, DSP Tech | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4435176655 | Verisk | Product Owner – AI Products | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4435192202 | Accenture in India | Product Owner | posted=2026-06-30
+- [ ] https://www.linkedin.com/jobs/view/4422242646 | Mastercard | Specialist, Product Management | posted=2026-06-30
+- [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Lead-Product-Manager---Lodging-Distribution_JR108281 | Sabre | Lead Product Manager - Lodging Distribution | posted=2026-06-30
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

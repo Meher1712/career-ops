@@ -1750,6 +1750,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4422242646 | Mastercard | Specialist, Product Management | posted=2026-06-30
 - [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Lead-Product-Manager---Lodging-Distribution_JR108281 | Sabre | Lead Product Manager - Lodging Distribution | posted=2026-06-30
 
+- [ ] https://www.okta.com/company/careers/opportunity/7964167?gh_jid=7964167 | Okta | Senior Product Manager, Product Platform | posted=2026-07-01
+- [ ] https://api.smartrecruiters.com/v1/companies/Entain/postings/744000135192209 | Entain India | Product Manager | posted=2026-07-01
+- [ ] https://api.smartrecruiters.com/v1/companies/Entain/postings/744000135171499 | Entain India | Director of Product | posted=2026-07-01
+- [ ] https://api.smartrecruiters.com/v1/companies/Freshworks/postings/744000135163119 | Freshworks | Staff Product Manager - Enterprise Security, IAM & Data Platform | posted=2026-07-01
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7787885003 | Fivetran | Product Manager - Fusion | posted=2026-06-30
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

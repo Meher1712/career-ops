@@ -1,47 +1,40 @@
 {
-  "generated_at": "2026-06-30T18:16:02.073Z",
+  "generated_at": "2026-07-01T07:50:49.775Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Senior Product Manager",
-      "company": "Adobe",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4415615811"
+      "title": "Senior Product Manager, Product Platform",
+      "company": "Okta",
+      "location": "Bengaluru, India",
+      "url": "https://www.okta.com/company/careers/opportunity/7964167?gh_jid=7964167"
     },
     {
       "n": 2,
-      "title": "Senior Product Manager, Technical, DSP Platform Tech, DSP Tech",
-      "company": "Amazon",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://www.linkedin.com/jobs/view/4435189170"
+      "title": "Product Manager",
+      "company": "Entain India",
+      "location": "Hyderabad, in",
+      "url": "https://api.smartrecruiters.com/v1/companies/Entain/postings/744000135192209"
     },
     {
       "n": 3,
-      "title": "Product Owner – AI Products",
-      "company": "Verisk",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://www.linkedin.com/jobs/view/4435176655"
+      "title": "Director of Product",
+      "company": "Entain India",
+      "location": "Hyderabad, in",
+      "url": "https://api.smartrecruiters.com/v1/companies/Entain/postings/744000135171499"
     },
     {
       "n": 4,
-      "title": "Product Owner",
-      "company": "Accenture in India",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4435192202"
+      "title": "Staff Product Manager - Enterprise Security, IAM & Data Platform",
+      "company": "Freshworks",
+      "location": "Bengaluru, in",
+      "url": "https://api.smartrecruiters.com/v1/companies/Freshworks/postings/744000135163119"
     },
     {
       "n": 5,
-      "title": "Specialist, Product Management",
-      "company": "Mastercard",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://www.linkedin.com/jobs/view/4422242646"
-    },
-    {
-      "n": 6,
-      "title": "Lead Product Manager - Lodging Distribution",
-      "company": "Sabre",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Lead-Product-Manager---Lodging-Distribution_JR108281"
+      "title": "Product Manager - Fusion",
+      "company": "Fivetran",
+      "location": "Remote, Colorado, United States, AMER",
+      "url": "https://www.fivetran.com/careers/job?gh_jid=7787885003"
     }
   ]
 }

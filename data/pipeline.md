@@ -1783,6 +1783,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4419225944 | SUN PHARMA | Group Product Manager - Nutri | posted=2026-07-01
 - [ ] https://www.kaseya.com/careers/jobs/id/6013595004/?gh_jid=6013595004 | Kaseya | Senior Technical Product Manager | posted=2026-07-01
 
+- [ ] https://www.linkedin.com/jobs/view/4434657483 | Cvent | Senior Product Manager (Integrations) | posted=2026-07-01
+- [ ] https://www.linkedin.com/jobs/view/4434639528 | ABB | Product Manager | posted=2026-07-01
+- [ ] https://www.linkedin.com/jobs/view/4423937023 | Kenvue | Product Owner | posted=2026-07-01
+- [ ] https://www.linkedin.com/jobs/view/4434663016 | American Express | Associate-Digital Product Management | posted=2026-07-01
+- [ ] https://www.linkedin.com/jobs/view/4434623857 | CSbusinesmgmt.in | Product Lead / Product Manager | posted=2026-07-01
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

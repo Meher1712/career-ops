@@ -1770,6 +1770,19 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/jobgether/b455d842-4ddc-49e2-9957-09c056ce9088 | Jobgether | Deputy CTO (AI Product) | posted=2026-07-01
 - [ ] https://apply.workable.com/j/68B968878A | Lokal App | Senior Product Manager ( Gyan TV ) | posted=2026-07-01
 
+- [ ] https://job-boards.greenhouse.io/webflow/jobs/8038479 | Webflow | Staff Product Manager, Governance | posted=2026-07-01
+- [ ] https://www.linkedin.com/jobs/view/4423115572 | Nielsen | Senior Product Manager, Data Collections and SDK | posted=2026-07-01
+- [ ] https://www.linkedin.com/jobs/view/4426793153 | Microsoft | Senior Product Manager | posted=2026-07-01
+- [ ] https://www.linkedin.com/jobs/view/4426082272 | IDFC FIRST Bank | Senior Product Manager - Affordable Mortgages Loans | posted=2026-07-01
+- [ ] https://www.linkedin.com/jobs/view/4435816597 | Bureau | Group Product Manager | posted=2026-07-01
+- [ ] https://www.linkedin.com/jobs/view/4435814232 | Gruve | Product Owner | posted=2026-07-01
+- [ ] https://www.linkedin.com/jobs/view/4435816563 | JPMorganChase | Lending Product Owner Associate - Elligible Margin Loans | posted=2026-07-01
+- [ ] https://jobs.ashbyhq.com/bureau/6bcfe19a-9a1b-4a92-a979-f7e4823ad099 | Bureau | Group Product Manager  | posted=2026-07-01
+- [ ] https://www.linkedin.com/jobs/view/4406513840 | Ingram Micro | Product Manager | posted=2026-07-01
+- [ ] https://www.linkedin.com/jobs/view/4435820626 | MSD | Product Manager (Poultry ) | posted=2026-07-01
+- [ ] https://www.linkedin.com/jobs/view/4419225944 | SUN PHARMA | Group Product Manager - Nutri | posted=2026-07-01
+- [ ] https://www.kaseya.com/careers/jobs/id/6013595004/?gh_jid=6013595004 | Kaseya | Senior Technical Product Manager | posted=2026-07-01
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

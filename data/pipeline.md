@@ -1756,6 +1756,20 @@ Pune, India | posted=2026-06-28
 - [ ] https://api.smartrecruiters.com/v1/companies/Freshworks/postings/744000135163119 | Freshworks | Staff Product Manager - Enterprise Security, IAM & Data Platform | posted=2026-07-01
 - [ ] https://www.fivetran.com/careers/job?gh_jid=7787885003 | Fivetran | Product Manager - Fusion | posted=2026-06-30
 
+- [ ] https://www.linkedin.com/jobs/view/4432358833 | Lokal | Senior Product Manager ( Gyan TV ) | posted=2026-07-01
+- [ ] https://www.linkedin.com/jobs/view/4432357761 | OLX India | Associate Product Manager (CarTrade Tech Mumbai) | posted=2026-07-01
+- [ ] https://www.linkedin.com/jobs/view/4435545618 | Flexiple | Senior Product Manager | posted=2026-07-01
+- [ ] https://www.linkedin.com/jobs/view/4435578009 | American Express | Manager-Digital Product Management | posted=2026-07-01
+- [ ] https://www.linkedin.com/jobs/view/4435547752 | Nippo (Indo National Ltd) | Product Manager | posted=2026-07-01
+- [ ] https://www.linkedin.com/jobs/view/4435541864 | IGEL Technology | Product Manager (m/f/d) - Bangalore | posted=2026-07-01
+- [ ] https://www.linkedin.com/jobs/view/4435557684 | Salesloft | Sr. Product Manager | posted=2026-07-01
+- [ ] https://www.linkedin.com/jobs/view/4425888399 | Qualcomm | Staff/Director – AI HW Product Management | posted=2026-07-01
+- [ ] https://www.linkedin.com/jobs/view/4435576217 | Pace Commodity Brokers Private Limited C/O Ncdex | Product Manager | posted=2026-07-01
+- [ ] https://www.linkedin.com/jobs/view/4435546771 | Uplers | Senior Product Manager | posted=2026-07-01
+- [ ] https://www.linkedin.com/jobs/view/4435558652 | TE Connectivity | PRODUCT MANAGER IV | posted=2026-07-01
+- [ ] https://jobs.lever.co/jobgether/b455d842-4ddc-49e2-9957-09c056ce9088 | Jobgether | Deputy CTO (AI Product) | posted=2026-07-01
+- [ ] https://apply.workable.com/j/68B968878A | Lokal App | Senior Product Manager ( Gyan TV ) | posted=2026-07-01
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

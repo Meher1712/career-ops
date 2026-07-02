@@ -1827,6 +1827,24 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4436306735 | Uplers | Sr Product Manager | posted=2026-07-02
 - [ ] https://jobs.lever.co/meesho/ba7f74f1-2448-43f1-bf1f-93949673abb4 | Meesho | Product Manager l - Growth | posted=2026-06-01
 
+- [ ] https://www.linkedin.com/jobs/view/4348205661 | SUN PHARMA | Senior Product Manager | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4423629462 | Nielsen | Senior Product Manager , Identity & Interoperability | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4433108078 | eBay | Group Product Manager, Data and AI | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4436338976 | SailPoint | Senior Product Manager | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4436358349 | Worldpay | Product Owner | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4399234543 | Societe Generale Global Solution Centre | Senior Product Owner | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4427136232 | Clean Harbors | Product Owner | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4436368029 | Amgen | Product Owner - Digital Lab Platform | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4436363192 | Amgen | Associate Product Owner - Digital Authoring Platform | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4436352512 | Amgen | Product Owner - Data Assets Platform | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4397787803 | PhonePe | Product Manager | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4435226334 | CG-VAK Software & Exports Ltd. | Product Manager-B2B Fintech | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4432796387 | CodeRound AI | Product Manager (Up to 25LPA) | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4436368263 | KNR Management Consultants | Product Manager | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4426129243 | Ingram Micro | Product Manager | posted=2026-07-02
+- [ ] https://api.smartrecruiters.com/v1/companies/nagarro1/postings/744000135489704 | Nagarro | Product Manager | posted=2026-07-02
+- [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Product-Manager_R170242-1 | Adobe | Product Manager | posted=2026-07-02
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

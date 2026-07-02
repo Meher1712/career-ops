@@ -1817,6 +1817,16 @@ Pune, India | posted=2026-06-28
 - [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Senior-Product-Manager---Ancillary-Dynamic-Pricing_JR108255 | Sabre | Senior Product Manager - Ancillary Dynamic Pricing | posted=2026-07-02
 - [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Group-Product-Manager--Data-and-AI_R0075074 | eBay | Group Product Manager, Data and AI | posted=2026-07-02
 
+- [ ] https://www.linkedin.com/jobs/view/4432771667 | Salesloft | Senior Product Manager | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4413425030 | SquadStack.ai | AI Agent Product Manager | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4427000560 | Google | Senior Product Manager, Search Platforms | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4435065527 | TalentXO | Mid level Product Manager( B2B Product) | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4436323537 | Flexiple | Technical Product Manager | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4436311779 | State Street | Product Manager (TradeNeXus) – Assistant Vice President | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4330425075 | Cypherock | Technical Product Manager | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4436306735 | Uplers | Sr Product Manager | posted=2026-07-02
+- [ ] https://jobs.lever.co/meesho/ba7f74f1-2448-43f1-bf1f-93949673abb4 | Meesho | Product Manager l - Growth | posted=2026-06-01
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

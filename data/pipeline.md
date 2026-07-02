@@ -1789,6 +1789,16 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4434663016 | American Express | Associate-Digital Product Management | posted=2026-07-01
 - [ ] https://www.linkedin.com/jobs/view/4434623857 | CSbusinesmgmt.in | Product Lead / Product Manager | posted=2026-07-01
 
+- [ ] https://www.linkedin.com/jobs/view/4432758333 | Coupa | Product Manager, Intake & Orchestration - 11636 | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4436184134 | Bajaj Broking | Product Manager | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4432743706 | Coupa | Principal Product Manager, Integration Platform - 11637 | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4435041387 | Global IT Solutions | Product Owner / AI Product Owner | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4435038441 | Orbia Pune | Global Digital Workplace Product Owner Smart Office | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4435042270 | DRIMCO GmbH | Global Product Manager - Enterprise AI (Munich - Hybrid) – DRIMCO | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4435047284 | Orbia Pune | Global Digital Workplace Product Owner | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4435035499 | LinkedIn India Senior PM | Senior Product Manager AI | posted=2026-07-02
+- [ ] https://jobs.lever.co/netomi/a8cc0d22-25b4-48f4-a6b1-0d1fd37bcc84 | Netomi | Agentic Product Manager | posted=2026-07-02
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

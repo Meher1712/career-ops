@@ -1799,6 +1799,24 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4435035499 | LinkedIn India Senior PM | Senior Product Manager AI | posted=2026-07-02
 - [ ] https://jobs.lever.co/netomi/a8cc0d22-25b4-48f4-a6b1-0d1fd37bcc84 | Netomi | Agentic Product Manager | posted=2026-07-02
 
+- [ ] https://www.linkedin.com/jobs/view/4435057284 | Groww | Associate Product Manager | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4416907696 | McKinsey & Company | Product Manager II - Reach & Engagement | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4436197766 | Questhiring | Senior Product Manager | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4436305541 | Flexiple | Product Manager | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4427051612 | D. E. Shaw India Private Limited | Product Manager - Product Management (Analytics & Visualization) | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4435044922 | Cyware | Senior/Principal Product Manager | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4427171528 | JD.COM | Technical Product Manager — AI Commerce Platform | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4429553312 | Impact Analytics | Client Product Manager | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4436317112 | Wells Fargo | Senior Digital Product Manager | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4435057206 | Lam Research | Product Manager 5 | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4435045833 | Lam Research | Product Manager 4 | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4436317111 | Wells Fargo | Lead Digital Product Manager | posted=2026-07-02
+- [ ] https://jobs.lever.co/jobgether/8dc1ef42-ffce-40b6-a85d-741b06e0b7f6 | Jobgether | Director of Technical Product Management | posted=2026-07-02
+- [ ] https://jobs.lever.co/coupa/3d2c20ff-e68b-4d5a-ba15-06c0f248bfc2 | Coupa | Principal Product Manager, Integration Platform - 11637 | posted=2026-06-30
+- [ ] https://jobs.lever.co/coupa/bd2646af-a4f5-4560-a93f-2591bfd97e69 | Coupa | Product Manager, Intake & Orchestration - 11636 | posted=2026-06-30
+- [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Senior-Product-Manager---Ancillary-Dynamic-Pricing_JR108255 | Sabre | Senior Product Manager - Ancillary Dynamic Pricing | posted=2026-07-02
+- [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Group-Product-Manager--Data-and-AI_R0075074 | eBay | Group Product Manager, Data and AI | posted=2026-07-02
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

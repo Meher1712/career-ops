@@ -1845,6 +1845,20 @@ Pune, India | posted=2026-06-28
 - [ ] https://api.smartrecruiters.com/v1/companies/nagarro1/postings/744000135489704 | Nagarro | Product Manager | posted=2026-07-02
 - [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Product-Manager_R170242-1 | Adobe | Product Manager | posted=2026-07-02
 
+- [ ] https://www.linkedin.com/jobs/view/4416195841 | Docusign | Senior Product Manager, AI | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4377432610 | Microsoft AI | Principal Product Manager | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4412028242 | Mastercard | Lead Product Manager Technical (Cloud) | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4436381420 | Meesho | Product Manager II - Growth | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4436393022 | HighLevel | Group Product Manager - AI | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4436373814 | Deutsche Bank | Product Owner, AVP | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4436371795 | Meesho | Product Manager l - Growth | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4406023827 | Mastercard | Senior Specialist, Product Management - Commercial Strategy, Pricing & Go-To-Market | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4427069208 | Twilio | Director, Product Management | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4377831927 | Microsoft | Principal Product Manager | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4436380415 | Meesho | Product Manager I | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4436368994 | JLL | Product Manager, Smart Building Platform | posted=2026-07-02
+- [ ] https://job-boards.greenhouse.io/oportun/jobs/4700839005 | Oportun | Principal Product Manager | posted=2026-07-02
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

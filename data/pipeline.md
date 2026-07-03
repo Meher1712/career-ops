@@ -1896,6 +1896,29 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4436732052 | Fidelity International | Kubernetes Product Owner | posted=2026-07-03
 - [ ] https://www.linkedin.com/jobs/view/4436721182 | Happiest Minds Technologies | SENIOR PROJECT MANAGER - Product Management | posted=2026-07-03
 
+- [ ] https://www.linkedin.com/jobs/view/4341878440 | SUN PHARMA | Product Manager - Branded Products (Emerging Markets) | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4421927355 | Sapiens | Product Manager | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4435446884 | Fairfest Media | Associate Product Manager | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4424804021 | SUN PHARMA | Group Product Manager | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4426614191 | IDFC FIRST Bank | Product Manager-Securitised Products | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4436734916 | Caterpillar Inc. | Product Owner | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4427572831 | SymphonyAI | Product Manager | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4436738759 | Control Now | Product Manager / OwnerControl Box and TRAC) | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4436738651 | Caterpillar Inc. | Digital Product Owner | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4427574973 | Amazon | Sr. Product Manager, RoW Last mile product - Quick Commerce | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4384254658 | Commvault | Principal Product Manager, Security | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4436737575 | TMUS Global Solutions | Sr Product Owner [T500-27370] | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4435462008 | Concept Clothing Pvt. Ltd. | Head of product and buying - women's fashion | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4427593254 | Eightfold AI | Sr. Product Manager - AI Platform | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4436740739 | Vanguard | Technical Product Manager, Specialist | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4423624549 | Sapiens | Lead Product Owner | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4417746653 | Trellix | Product Manager | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4435463256 | Fastcurve | Product Manager – GRC (Governance, Risk & Compliance) | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4426764739 | Wells Fargo | Lead Data Product Management Consultant | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4424806020 | SUN PHARMA | Group Product Manager - Urology | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4424819278 | Mastercard | Senior Specialist, Product Management - Data Analytics | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4427901358 | Hitachi Energy | Product Owner ( SCADA EMS application ) | posted=2026-07-03
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -1859,6 +1859,21 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4436368994 | JLL | Product Manager, Smart Building Platform | posted=2026-07-02
 - [ ] https://job-boards.greenhouse.io/oportun/jobs/4700839005 | Oportun | Principal Product Manager | posted=2026-07-02
 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8597826002 | GitLab | Senior Manager, Product Management: Agentic Software Delivery | posted=2026-07-02
+- [ ] https://www.linkedin.com/jobs/view/4435427040 | Jobgether | Principal Product Manager | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4435423241 | IKEA | Product Owner | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4435413519 | Esse India | Canada immigration consultants in delhi | visa consultant delhi | Senior Product Manager For Canada Opportunities | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4435412541 | Coffeee.io | Product Manager | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4436485493 | Xplor Technologies | Product Manager - Direct Debit & Alternate Payments | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4436490244 | Xplor Technologies | Product Manager - Data & Analytics | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4435411538 | EdgeVantage | Product Manager (Payment Hub) | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4436482488 | Raise Financial Services | Associate Product Manager | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4433160381 | LinkedIn India PM | Founding AI Product Manager | posted=2026-07-03
+- [ ] https://job-boards.greenhouse.io/narvar/jobs/8041566 | Narvar | Principal Product Manager | posted=2026-07-02
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013919626 | Nielsen | Director, Product Management - Sports Content | posted=2026-07-02
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013919586 | Nielsen | Director, Product Management - Content Lifecycle | posted=2026-07-02
+- [ ] https://jobs.lever.co/jobgether/2d6a3ed3-745f-4be7-8c99-f66e8d2bdabb | Jobgether | Group Product Manager - AI | posted=2026-07-03
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

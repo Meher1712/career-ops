@@ -1874,6 +1874,18 @@ Pune, India | posted=2026-06-28
 - [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013919586 | Nielsen | Director, Product Management - Content Lifecycle | posted=2026-07-02
 - [ ] https://jobs.lever.co/jobgether/2d6a3ed3-745f-4be7-8c99-f66e8d2bdabb | Jobgether | Group Product Manager - AI | posted=2026-07-03
 
+- [ ] https://www.linkedin.com/jobs/view/4424643534 | Blackbaud India | Senior Product Manager – Agents for Good | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4436717055 | Leap | Growth Product Manager | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4433175306 | AiSensy | Growth Product Manager | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4417310055 | Salesforce | Sr. Product Manager (Vertex Tax) | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4398516028 | D. E. Shaw India Private Limited | Senior Technical Product Manager - Legal & Compliance | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4436702527 | Wells Fargo | Lead Digital Product Manager | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4407051415 | Pearson | Lead  specialist, Product Management | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4435442068 | Neo | Product Manager I | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4436498718 | Flexiple | Product Manager | posted=2026-07-03
+- [ ] https://jobs.lever.co/jobgether/93a8e54a-4801-4e53-992d-28d9969c13ac | Jobgether | Principal Product Manager | posted=2026-07-03
+- [ ] https://jobs.lever.co/jobgether/a21f4a90-d541-464e-9b57-d204a7d9fffc | Jobgether | Product Manager, Smart Building Platform | posted=2026-07-03
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

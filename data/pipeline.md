@@ -1919,6 +1919,10 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4424819278 | Mastercard | Senior Specialist, Product Management - Data Analytics | posted=2026-07-03
 - [ ] https://www.linkedin.com/jobs/view/4427901358 | Hitachi Energy | Product Owner ( SCADA EMS application ) | posted=2026-07-03
 
+- [ ] https://www.linkedin.com/jobs/view/4377838331 | Microsoft AI | Principal Product Manager | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4426970733 | Citi | VP- Lead Product Owner- Issuer Services | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4436778092 | State Street | Officer - Custody Product Management | posted=2026-07-03
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

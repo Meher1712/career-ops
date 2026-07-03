@@ -1886,6 +1886,16 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/jobgether/93a8e54a-4801-4e53-992d-28d9969c13ac | Jobgether | Principal Product Manager | posted=2026-07-03
 - [ ] https://jobs.lever.co/jobgether/a21f4a90-d541-464e-9b57-d204a7d9fffc | Jobgether | Product Manager, Smart Building Platform | posted=2026-07-03
 
+- [ ] https://www.linkedin.com/jobs/view/4417308171 | QAD | Senior Product Manager | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4433183517 | Azodha | Product Owner | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4426617242 | DISCO | Senior Product Manager - India | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4436711796 | Sleek | Growth Product Manager (Sleek Business Account and Payroll) | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4433186115 | SUN PHARMA | Group Product Manager - CNS | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4436722339 | Flexiple | Technical Product Manager | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4427582187 | Visa | Senior Product Manager - Payments Platform / Payment Framework | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4436732052 | Fidelity International | Kubernetes Product Owner | posted=2026-07-03
+- [ ] https://www.linkedin.com/jobs/view/4436721182 | Happiest Minds Technologies | SENIOR PROJECT MANAGER - Product Management | posted=2026-07-03
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

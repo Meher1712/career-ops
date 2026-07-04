@@ -1937,6 +1937,23 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4427978323 | Opella | AI Products Expert – Enterprise Planning | posted=2026-07-04
 - [ ] https://www.linkedin.com/jobs/view/4436939403 | Flexiple | Senior Product Manager | posted=2026-07-04
 
+- [ ] https://www.linkedin.com/jobs/view/4387879949 | Amazon | Senior Product Manager, Retail Business Services | posted=2026-07-04
+- [ ] https://www.linkedin.com/jobs/view/4433743641 | Sense | Lead Product Manager | posted=2026-07-04
+- [ ] https://www.linkedin.com/jobs/view/4435781947 | IDFC FIRST Bank | Senior Product Manager - Alliances | posted=2026-07-04
+- [ ] https://www.linkedin.com/jobs/view/4436955342 | Flexiple | Group Product Manager | posted=2026-07-04
+- [ ] https://www.linkedin.com/jobs/view/4418041767 | Amazon | Senior Product Manager - Tech, Shipment Technologies | posted=2026-07-04
+- [ ] https://www.linkedin.com/jobs/view/4428188453 | Amazon | Senior Product Manager - Technical, Alexa Smart Home Visual Experiences | posted=2026-07-04
+- [ ] https://www.linkedin.com/jobs/view/4374896750 | Sitetracker | Product Manager | posted=2026-07-04
+- [ ] https://www.linkedin.com/jobs/view/4436947561 | GoComet | Product Manager | posted=2026-07-04
+- [ ] https://www.linkedin.com/jobs/view/4436947580 | myHQ by ANAROCK | Product Manager | posted=2026-07-04
+- [ ] https://www.linkedin.com/jobs/view/4436953266 | Microsoft | Product Manager II | posted=2026-07-04
+- [ ] https://www.linkedin.com/jobs/view/4436959009 | Skeps | Associate Product Manager | posted=2026-07-04
+- [ ] https://www.linkedin.com/jobs/view/4436946587 | DevX | Product Manager | posted=2026-07-04
+- [ ] https://www.linkedin.com/jobs/view/4436944607 | Syook | Product Manager | posted=2026-07-04
+- [ ] https://www.linkedin.com/jobs/view/4436959014 | GoKwik | Product Manager | posted=2026-07-04
+- [ ] https://www.linkedin.com/jobs/view/4436944609 | Gameberry Labs | AI - Product Manager | posted=2026-07-04
+- [ ] https://www.linkedin.com/jobs/view/4436955293 | AskLaila | Product Manager | posted=2026-07-04
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

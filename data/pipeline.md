@@ -1954,6 +1954,15 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4436944609 | Gameberry Labs | AI - Product Manager | posted=2026-07-04
 - [ ] https://www.linkedin.com/jobs/view/4436955293 | AskLaila | Product Manager | posted=2026-07-04
 
+- [ ] https://www.linkedin.com/jobs/view/4332280068 | Citi | Product Management Senior Manager - VP | posted=2026-07-04
+- [ ] https://www.linkedin.com/jobs/view/4387491890 | Aditya Birla Capital | Sr. Product Owner (LOS) | posted=2026-07-04
+- [ ] https://www.linkedin.com/jobs/view/4398475196 | HARMAN India | Product Owner, Microsoft Dynamics CRM | posted=2026-07-04
+- [ ] https://www.linkedin.com/jobs/view/4436006041 | CG-VAK Software & Exports Ltd. | Product Manager-Retail Tech, ERP, POS | posted=2026-07-04
+- [ ] https://www.linkedin.com/jobs/view/4435793619 | CG-VAK Software & Exports Ltd. | Senior Product Manager -Retail-Tech / ERP | posted=2026-07-04
+- [ ] https://www.linkedin.com/jobs/view/4433740786 | CodeRound AI | AI Product Manager (Up to 65LPA) | posted=2026-07-04
+- [ ] https://www.linkedin.com/jobs/view/4435792641 | Mudrex | Senior Product Manager, Investments & Derivatives Products | posted=2026-07-04
+- [ ] https://www.linkedin.com/jobs/view/4433738826 | Dahua Technology India | Area Product Manager – Intrusion Alarm | posted=2026-07-04
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

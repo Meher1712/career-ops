@@ -1,12 +1,19 @@
 {
-  "generated_at": "2026-07-04T06:29:34.770Z",
+  "generated_at": "2026-07-04T09:32:09.015Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Product Manager",
-      "company": "Bullet Microdrama OTT",
-      "location": "New Delhi, Delhi, India",
-      "url": "https://www.linkedin.com/jobs/view/4435767282"
+      "title": "Senior Principal Product Management",
+      "company": "Equinix",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4413678061"
+    },
+    {
+      "n": 2,
+      "title": "Technical Product Owner",
+      "company": "Experian",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.linkedin.com/jobs/view/4345765470"
     }
   ]
 }

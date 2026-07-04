@@ -1928,6 +1928,15 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4413678061 | Equinix | Senior Principal Product Management | posted=2026-07-04
 - [ ] https://www.linkedin.com/jobs/view/4345765470 | Experian | Technical Product Owner | posted=2026-07-04
 
+- [ ] https://www.linkedin.com/jobs/view/4424889582 | HackerRank | Senior Product Manager | posted=2026-07-04
+- [ ] https://www.linkedin.com/jobs/view/4436952119 | Cvent | Product Manager II | posted=2026-07-04
+- [ ] https://www.linkedin.com/jobs/view/4436939451 | Cvent | Product Manager | posted=2026-07-04
+- [ ] https://www.linkedin.com/jobs/view/4427989157 | Opella | AI Products Expert | posted=2026-07-04
+- [ ] https://www.linkedin.com/jobs/view/4435782775 | Equitas Small Finance Bank | Product Manager Credit Card | posted=2026-07-04
+- [ ] https://www.linkedin.com/jobs/view/4418126752 | Bluevine | Product Manager II (Lending & Credit) | posted=2026-07-04
+- [ ] https://www.linkedin.com/jobs/view/4427978323 | Opella | AI Products Expert – Enterprise Planning | posted=2026-07-04
+- [ ] https://www.linkedin.com/jobs/view/4436939403 | Flexiple | Senior Product Manager | posted=2026-07-04
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

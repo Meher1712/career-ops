@@ -2003,6 +2003,16 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4437404306 | Caterpillar Inc. | Senior Digital Product Owner -Adobe Experience Manager (AEM) | posted=2026-07-06
 - [ ] https://www.linkedin.com/jobs/view/4437197681 | Reckitt | IT&D Product Manager - Genesis | posted=2026-07-06
 
+- [ ] https://www.linkedin.com/jobs/view/4425780635 | Mastercard | Specialist, Product Management | posted=2026-07-06
+- [ ] https://www.linkedin.com/jobs/view/4287945222 | Skyflow | Product Manager, Skyflow Vault | posted=2026-07-06
+- [ ] https://www.linkedin.com/jobs/view/4288699900 | Skillz | Product Manager, Engagement | posted=2026-07-06
+- [ ] https://www.linkedin.com/jobs/view/4437424705 | Visa | Product Manager | posted=2026-07-06
+- [ ] https://www.linkedin.com/jobs/view/4418965255 | Itron, Inc. | Sr. Product Manager | posted=2026-07-06
+- [ ] https://www.linkedin.com/jobs/view/4366859260 | Wolters Kluwer | Senior Technology Product Manager | posted=2026-07-06
+- [ ] https://www.linkedin.com/jobs/view/4418938737 | BNY | Senior Vice President, POM Product Management | posted=2026-07-06
+- [ ] https://www.linkedin.com/jobs/view/4428657775 | Aditya Birla Capital | Product Owner (LMS-FinnOne) | posted=2026-07-06
+- [ ] https://www.linkedin.com/jobs/view/4428675614 | Aditya Birla Capital | Product Owner - Digital Partneships | posted=2026-07-06
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -1977,6 +1977,18 @@ Pune, India | posted=2026-06-28
 
 - [ ] https://www.linkedin.com/jobs/view/4427298606 | Atlas Copco Group | IT Product Owner, Manager - Order Management | posted=2026-07-05
 
+- [ ] https://www.linkedin.com/jobs/view/4436068903 | _&Circus | Ecommerce & Digital Product Manager | posted=2026-07-06
+- [ ] https://www.linkedin.com/jobs/view/4433924525 | DealerOn | Product Manager | posted=2026-07-06
+- [ ] https://www.linkedin.com/jobs/view/4436070730 | Cvent | Product Manager | posted=2026-07-06
+- [ ] https://www.linkedin.com/jobs/view/4436083132 | Esco | Product Manager | posted=2026-07-06
+- [ ] https://www.linkedin.com/jobs/view/4436083118 | Fastcurve | Product Manager GRC (Governance, Risk & Compliance) | posted=2026-07-06
+- [ ] https://www.linkedin.com/jobs/view/4436070740 | Tata Consultancy Services | Product Manager | posted=2026-07-06
+- [ ] https://www.linkedin.com/jobs/view/4437140742 | ixigo | Founding Head of Product (Voice AI/SaaS) | posted=2026-07-06
+- [ ] https://www.linkedin.com/jobs/view/4436085088 | Dezerv | Senior Product Manager | posted=2026-07-06
+- [ ] https://www.linkedin.com/jobs/view/4437149484 | Rakuten Symphony | Senior Product Manager, Customer Data Platform | posted=2026-07-06
+- [ ] https://job-boards.greenhouse.io/newrelic/jobs/5276234008 | New Relic | Senior Product Manager | posted=2026-07-06
+- [ ] https://job-boards.greenhouse.io/jazzx-ai/jobs/5291461008 | JazzX AI | Principal Product Manager | posted=2026-07-06
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

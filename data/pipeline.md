@@ -1995,6 +1995,14 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4437161883 | TMUS Global Solutions | Product Owner - Kronos [T500-26879] | posted=2026-07-06
 - [ ] https://www.linkedin.com/jobs/view/4437171668 | Promaynov Advisory Services Pvt. Ltd | Associate Director, AI Product Architect | posted=2026-07-06
 
+- [ ] https://www.linkedin.com/jobs/view/4437407435 | GE Vernova | Product Owner – Enterprise Applications | posted=2026-07-06
+- [ ] https://www.linkedin.com/jobs/view/4437151172 | HolaTeams | Senior Product Manager | posted=2026-07-06
+- [ ] https://www.linkedin.com/jobs/view/4428830305 | Purplle.com | Senior Product Manager -Post Order Experience | posted=2026-07-06
+- [ ] https://www.linkedin.com/jobs/view/4437403528 | Flexiple | Group Product Manager | posted=2026-07-06
+- [ ] https://www.linkedin.com/jobs/view/4436210526 | Mudrex | Associate Product Manager (Data & Compliance) | posted=2026-07-06
+- [ ] https://www.linkedin.com/jobs/view/4437404306 | Caterpillar Inc. | Senior Digital Product Owner -Adobe Experience Manager (AEM) | posted=2026-07-06
+- [ ] https://www.linkedin.com/jobs/view/4437197681 | Reckitt | IT&D Product Manager - Genesis | posted=2026-07-06
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

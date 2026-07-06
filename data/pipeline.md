@@ -1989,6 +1989,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://job-boards.greenhouse.io/newrelic/jobs/5276234008 | New Relic | Senior Product Manager | posted=2026-07-06
 - [ ] https://job-boards.greenhouse.io/jazzx-ai/jobs/5291461008 | JazzX AI | Principal Product Manager | posted=2026-07-06
 
+- [ ] https://www.linkedin.com/jobs/view/4436089771 | Qoruz | Senior Product Manager - Revenue Growth | posted=2026-07-06
+- [ ] https://www.linkedin.com/jobs/view/4437172495 | Bureau | Group Product Manager | posted=2026-07-06
+- [ ] https://www.linkedin.com/jobs/view/4436084869 | American Express | Manager Product Owner (Global Treasury controllership) | posted=2026-07-06
+- [ ] https://www.linkedin.com/jobs/view/4437161883 | TMUS Global Solutions | Product Owner - Kronos [T500-26879] | posted=2026-07-06
+- [ ] https://www.linkedin.com/jobs/view/4437171668 | Promaynov Advisory Services Pvt. Ltd | Associate Director, AI Product Architect | posted=2026-07-06
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

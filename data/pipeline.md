@@ -2013,6 +2013,14 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4428657775 | Aditya Birla Capital | Product Owner (LMS-FinnOne) | posted=2026-07-06
 - [ ] https://www.linkedin.com/jobs/view/4428675614 | Aditya Birla Capital | Product Owner - Digital Partneships | posted=2026-07-06
 
+- [ ] https://www.linkedin.com/jobs/view/4436517565 | nexocean | Group Product Manager-Growth | posted=2026-07-07
+- [ ] https://www.linkedin.com/jobs/view/4434516148 | BiofuelCircle | Product Manager | posted=2026-07-07
+- [ ] https://www.linkedin.com/jobs/view/4434517135 | Bombay Shaving Company | Product Manager – Website & Digital Experience | posted=2026-07-07
+- [ ] https://www.linkedin.com/jobs/view/4432190920 | IDfy | Associate Product Manager | posted=2026-07-07
+- [ ] https://www.linkedin.com/jobs/view/4434508403 | Fermentis Lifesciences (FLS) | Product Management Executive | posted=2026-07-07
+- [ ] https://www.linkedin.com/jobs/view/4434507394 | Swym | Product Builder, Founder's Office Swym | posted=2026-07-07
+- [ ] https://boards.greenhouse.io/modulrfinance/jobs/8415270002?gh_jid=8415270002 | Modulr | Senior Product Manager, Payments | posted=2026-07-07
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -2051,6 +2051,22 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.ashbyhq.com/onhires/c4ae7297-9540-4312-abff-cfb27a6c682a | OnHires | AI Project / Product Manager (PSP / Fintech) | posted=2026-07-07
 - [ ] https://jobs.lever.co/coupa/b7cae566-a0fd-47e8-8008-24d3449b0722 | Coupa | Product Manager, Core Platform - 11630 | posted=2026-06-25
 
+- [ ] https://www.linkedin.com/jobs/view/4369352525 | Tilt | Founding Product Manager, NIRA | posted=2026-07-07
+- [ ] https://www.linkedin.com/jobs/view/4437815839 | Johnson & Johnson | ServiceNow Solutions Technical Product Owner | posted=2026-07-07
+- [ ] https://www.linkedin.com/jobs/view/4437838194 | The Depository Trust & Clearing Corporation (DTCC) | Product Manager Senior Associate | posted=2026-07-07
+- [ ] https://www.linkedin.com/jobs/view/4399613837 | Wolters Kluwer | Lead Technology Product Manager | posted=2026-07-07
+- [ ] https://www.linkedin.com/jobs/view/4437822025 | GE Vernova | Senior Product Manager - AI | posted=2026-07-07
+- [ ] https://www.linkedin.com/jobs/view/4437809870 | GE Vernova | Senior Product Manager | posted=2026-07-07
+- [ ] https://www.linkedin.com/jobs/view/4437805931 | GE Vernova | Technical Product Manager | posted=2026-07-07
+- [ ] https://www.linkedin.com/jobs/view/4434560366 | Persistent Systems | Technical Product Owner | posted=2026-07-07
+- [ ] https://www.linkedin.com/jobs/view/4436815411 | CG-VAK Software & Exports Ltd. | Senior Product Manager-Consumer Growth | posted=2026-07-07
+- [ ] https://www.linkedin.com/jobs/view/4428014268 | Persistent Systems | Product Owner | posted=2026-07-07
+- [ ] https://www.linkedin.com/jobs/view/4437827088 | Target | Sr Product Manager - Supply Chain WMS | posted=2026-07-07
+- [ ] https://www.linkedin.com/jobs/view/4437825001 | GE Vernova | Sr Product Owner - NMS | posted=2026-07-07
+- [ ] https://www.linkedin.com/jobs/view/4437798998 | GE Vernova | Product Owner – Enterprise Applications | posted=2026-07-07
+- [ ] https://www.linkedin.com/jobs/view/4437809836 | GE Vernova | Product Owner – Teamcenter | posted=2026-07-07
+- [ ] https://job-boards.greenhouse.io/tekion/jobs/7790682003 | Tekion Corp | Senior Product Manager | posted=2026-07-07
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

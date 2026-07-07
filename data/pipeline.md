@@ -2021,6 +2021,21 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4434507394 | Swym | Product Builder, Founder's Office Swym | posted=2026-07-07
 - [ ] https://boards.greenhouse.io/modulrfinance/jobs/8415270002?gh_jid=8415270002 | Modulr | Senior Product Manager, Payments | posted=2026-07-07
 
+- [ ] https://www.linkedin.com/jobs/view/4436529561 | Open Network For Digital Commerce (ONDC) | Product Manager | posted=2026-07-07
+- [ ] https://www.linkedin.com/jobs/view/4437771078 | Priority | Sr. Product Manager | posted=2026-07-07
+- [ ] https://www.linkedin.com/jobs/view/4434517881 | Coupa | Product Manager, Core Platform - 11630 | posted=2026-07-07
+- [ ] https://www.linkedin.com/jobs/view/4437754858 | Snapmint | Product Manager - Payments & Repayments | posted=2026-07-07
+- [ ] https://www.linkedin.com/jobs/view/4434522685 | MedhaAI | Product Manager - GTM | posted=2026-07-07
+- [ ] https://www.linkedin.com/jobs/view/4418968188 | PayPal | Sr Manager, Product Management | posted=2026-07-07
+- [ ] https://www.linkedin.com/jobs/view/4429183404 | RapidCanvas | Senior Product Manager(Enterprise AI Platform) | posted=2026-07-07
+- [ ] https://www.linkedin.com/jobs/view/4434512938 | Harness | Staff Product Manager - Continuous Deployment | posted=2026-07-07
+- [ ] https://www.linkedin.com/jobs/view/4387973302 | Autodesk | Senior Technical Product Manager (Search and AI) | posted=2026-07-07
+- [ ] https://www.linkedin.com/jobs/view/4436548139 | Esse India | Canada immigration consultants in delhi | visa consultant delhi | Senior Product Manager For Canada Opportunities | posted=2026-07-07
+- [ ] https://www.linkedin.com/jobs/view/4427700376 | Flexera | Product Owner | posted=2026-07-07
+- [ ] https://www.linkedin.com/jobs/view/4436526672 | Toppan Merrill | Senior Technical Product Owner | posted=2026-07-07
+- [ ] https://jobs.lever.co/jobgether/5d2eb2ff-f5d7-4ce3-ae96-c9c96dd0bdd3 | Jobgether | Technical Product Manager | posted=2026-07-07
+- [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Principal-Product-Manager_R166017 | Adobe | Senior Product Manager | posted=2026-07-07
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -2036,6 +2036,21 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/jobgether/5d2eb2ff-f5d7-4ce3-ae96-c9c96dd0bdd3 | Jobgether | Technical Product Manager | posted=2026-07-07
 - [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Principal-Product-Manager_R166017 | Adobe | Senior Product Manager | posted=2026-07-07
 
+- [ ] https://www.linkedin.com/jobs/view/4436803182 | Cvent | Product Manager II | posted=2026-07-07
+- [ ] https://www.linkedin.com/jobs/view/4437795448 | GoCharting | Senior Product Manager - Trading Platform, Backend & Data (India, Chennai) | posted=2026-07-07
+- [ ] https://www.linkedin.com/jobs/view/4437804126 | Flexiple | Senior Product Manager | posted=2026-07-07
+- [ ] https://www.linkedin.com/jobs/view/4434546333 | EaseMyTrip.com | Product Manager | posted=2026-07-07
+- [ ] https://www.linkedin.com/jobs/view/4428010261 | Persistent Systems | Product Owner | posted=2026-07-07
+- [ ] https://www.linkedin.com/jobs/view/4436806018 | SES Satellites | Software Product Owner | posted=2026-07-07
+- [ ] https://www.linkedin.com/jobs/view/4437786557 | MCO (MyComplianceOffice) | Product Owner - II Enterprise Data | posted=2026-07-07
+- [ ] https://www.linkedin.com/jobs/view/4432337560 | TAAS Partners | Director of Product Management (MarTech) | posted=2026-07-07
+- [ ] https://www.linkedin.com/jobs/view/4391688260 | hackajob | AI Product Owner | posted=2026-07-07
+- [ ] https://www.linkedin.com/jobs/view/4436593590 | Levi Strauss & Co. | Associate Technical Product Manager | posted=2026-07-07
+- [ ] https://www.linkedin.com/jobs/view/4437789390 | Delta Exchange | Associate Product Manager (Payment Operations) | posted=2026-07-07
+- [ ] https://www.linkedin.com/jobs/view/4437768978 | LinkCxO (The CxO's Marketplace) | Product Manager - Crop Protection | posted=2026-07-07
+- [ ] https://jobs.ashbyhq.com/onhires/c4ae7297-9540-4312-abff-cfb27a6c682a | OnHires | AI Project / Product Manager (PSP / Fintech) | posted=2026-07-07
+- [ ] https://jobs.lever.co/coupa/b7cae566-a0fd-47e8-8008-24d3449b0722 | Coupa | Product Manager, Core Platform - 11630 | posted=2026-06-25
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

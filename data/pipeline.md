@@ -2103,6 +2103,21 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4425669982 | LPL Financial Global Capability Center | VP, Data Product Owner – Wealth Management (Data Products) | posted=2026-07-08
 - [ ] https://www.linkedin.com/jobs/view/4438196661 | Škoda Auto Volkswagen India Private Limited | Cybersecurity - Product Management | posted=2026-07-08
 
+- [ ] https://www.linkedin.com/jobs/view/4437052677 | Cvent | Senior Product Manager | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4437042987 | Trantor | Product Owner | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4438237127 | Flexiple | Senior Product Manager | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4430700905 | Experity | Product Owner II | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4389497636 | Amazon | Senior Product Manager Tech, Cart Building and Consolidation | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4438232759 | Caterpillar Inc. | Lead Product Owner | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4437059224 | IDFC FIRST Bank | Senior Product Manager-Loan Against Property | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4438233125 | Simplify Healthcare | Product Manager | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4436329706 | Xurrent | Product Manager (ITAM) | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4437040965 | VectorShift | Product Manager - Platform (India) | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4427328411 | EY | Tech S and T Cloud Dev-Product Manager-NGTO-Senior-GDSF02 | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4437046985 | Tide | Senior Product Manager, Insurance Services | posted=2026-07-08
+- [ ] https://job-boards.greenhouse.io/tide/jobs/7779681003 | Tide | Senior Product Manager,  Insurance Services | posted=2026-07-08
+- [ ] https://job-boards.greenhouse.io/fourkites/jobs/7982071 | FourKites | Associate Product Manager  | posted=2026-07-08
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

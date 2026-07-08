@@ -2075,6 +2075,20 @@ Pune, India | posted=2026-06-28
 - [ ] https://api.smartrecruiters.com/v1/companies/ixigo/postings/744000136307459 | ixigo | Senior Product Manager | posted=2026-07-07
 - [ ] https://jobs.lever.co/bazaarvoice/edffc98e-a42b-45b5-b0ef-c114e77cf83c | Bazaarvoice | Senior Product Manager -Galleries | posted=2026-06-23
 
+- [ ] https://www.linkedin.com/jobs/view/4438177580 | AppsForBharat | Senior Product Manager | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4434825488 | airtel | Senior Product Manager - Fintech / Financial Services | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4438175595 | Valor PayTech | Senior Technical Product Manager | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4434829435 | IBM | Senior Product Manager - Confluent PLG & Monetization | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4434833284 | CodeRound AI | AI Product Manager (Up to 65LPA) | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4438182485 | Rusk Media | Product Manager | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4438188315 | CodeRound AI | Product Manager (Up to 60LPA) | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4434832223 | IG Group | Tech Product Manager - Platforms | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4438174830 | LifeCell International Pvt.Ltd | Senior Product Manager - Genomics | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4434834303 | Airtel Digital | Product Manager - Fintech | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4437003940 | Edvak EHR | Product Owner / Product Manager | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4438180135 | Infinx | Product Manager | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4437016299 | Esse India | Canada immigration consultants in delhi | visa consultant delhi | Product Manager For Canada Opportunities | posted=2026-07-08
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

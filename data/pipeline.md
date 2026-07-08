@@ -2118,6 +2118,16 @@ Pune, India | posted=2026-06-28
 - [ ] https://job-boards.greenhouse.io/tide/jobs/7779681003 | Tide | Senior Product Manager,  Insurance Services | posted=2026-07-08
 - [ ] https://job-boards.greenhouse.io/fourkites/jobs/7982071 | FourKites | Associate Product Manager  | posted=2026-07-08
 
+- [ ] https://www.linkedin.com/jobs/view/4437077218 | Lowe's India | Senior Product Manager (Lowe's Blue Technology) | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4437084092 | Carrier | Data Product Manager | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4437059989 | Lowe's India | Lead Product Manager (Lowe's Blue Technology) | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4437061916 | Intuit | Principal Product Manager, Conversational Intelligence | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4438250619 | Embrace Software Inc | Product Manager | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4438263583 | Jubilant Generics Limited | Sr Product Manager (CVD) | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4437086072 | Carrier | Technical Product Manager | posted=2026-07-08
+- [ ] https://job-boards.greenhouse.io/ocrolusinc/jobs/6076366004 | Ocrolus | Senior Product Manager | posted=2026-07-08
+- [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Lead-Product-Manager---Bundle-Optimization_JR108315 | Sabre | Lead Product Manager - Bundle Optimization | posted=2026-07-08
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

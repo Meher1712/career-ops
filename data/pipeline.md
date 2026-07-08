@@ -2067,6 +2067,14 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4437809836 | GE Vernova | Product Owner – Teamcenter | posted=2026-07-07
 - [ ] https://job-boards.greenhouse.io/tekion/jobs/7790682003 | Tekion Corp | Senior Product Manager | posted=2026-07-07
 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8597805002 | GitLab | Senior Product Manager, Plan to Code | posted=2026-07-07
+- [ ] https://www.linkedin.com/jobs/view/4438148626 | Infinity Learn | Senior Product Manager | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4436898748 | Livspace | Associate Product Manager | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4437009278 | Groww | Associate Product Manager | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4438144881 | Infinity Learn | Assistant Product Manager | posted=2026-07-08
+- [ ] https://api.smartrecruiters.com/v1/companies/ixigo/postings/744000136307459 | ixigo | Senior Product Manager | posted=2026-07-07
+- [ ] https://jobs.lever.co/bazaarvoice/edffc98e-a42b-45b5-b0ef-c114e77cf83c | Bazaarvoice | Senior Product Manager -Galleries | posted=2026-06-23
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -2089,6 +2089,20 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4438180135 | Infinx | Product Manager | posted=2026-07-08
 - [ ] https://www.linkedin.com/jobs/view/4437016299 | Esse India | Canada immigration consultants in delhi | visa consultant delhi | Product Manager For Canada Opportunities | posted=2026-07-08
 
+- [ ] https://www.linkedin.com/jobs/view/4437034189 | RunLoyal: Pet Software | Senior Product Manager | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4399549727 | Zebra Technologies | Senior Manager Product Management | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4437040007 | Talentgigs | Product Manager | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4437027419 | TechGrove by Banyan Software | Product Manager | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4438190884 | Gruve | Product Owner | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4438190631 | Dr. Martens plc | Principal Product Owner | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4437029439 | GoKwik | Product Manager | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4426851154 | HighLevel | Sr. Product Manager - Commerce Operations | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4434845227 | NetZhero (Formerly known as RIU) | Product Manager | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4427727844 | American Express | Associate - Digital Product Management | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4434838711 | Aurumix | Lead Product Manager | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4425669982 | LPL Financial Global Capability Center | VP, Data Product Owner – Wealth Management (Data Products) | posted=2026-07-08
+- [ ] https://www.linkedin.com/jobs/view/4438196661 | Škoda Auto Volkswagen India Private Limited | Cybersecurity - Product Management | posted=2026-07-08
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

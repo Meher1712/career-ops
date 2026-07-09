@@ -2170,6 +2170,16 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/jobgether/309af2e5-2a20-4585-b606-4b1821385b5f | Jobgether | Associate Product Manager | posted=2026-07-09
 - [ ] https://careers.toasttab.com/jobs?gh_jid=7760634 | Toast | Senior Product Manager | posted=2026-07-09
 
+- [ ] https://www.linkedin.com/jobs/view/4399791480 | Tata Electronics | Product Owner - GenAI Manufacturing | posted=2026-07-09
+- [ ] https://www.linkedin.com/jobs/view/4419921740 | Eightfold AI | Product Manager II - Talent Management | posted=2026-07-09
+- [ ] https://www.linkedin.com/jobs/view/4437562876 | Google | Senior Product Manager, Google One, Personalization, Promotions, Upgrades | posted=2026-07-09
+- [ ] https://www.linkedin.com/jobs/view/4438660753 | Cisco | Senior Product Manager - Voice AI | posted=2026-07-09
+- [ ] https://www.linkedin.com/jobs/view/4437561846 | Google | Product Manager, Google Cloud Business Platform | posted=2026-07-09
+- [ ] https://www.linkedin.com/jobs/view/4437564338 | Algo8 AI | AI Product Manager | posted=2026-07-09
+- [ ] https://www.linkedin.com/jobs/view/4437868996 | Nike | Lead Technical Product Manager, ITC | posted=2026-07-09
+- [ ] https://www.linkedin.com/jobs/view/4438678232 | Abbott | Product Manager- GI Optima | posted=2026-07-09
+- [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Sr-Product-Manager_JR108272-1 | Sabre | Sr Product Manager | posted=2026-07-09
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

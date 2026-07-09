@@ -2151,6 +2151,25 @@ Pune, India | posted=2026-06-28
 - [ ] https://careers.godaddy/jobs?gh_jid=7779650003 | GoDaddy | Principal Product Manager | posted=2026-07-08
 - [ ] https://careers.toasttab.com/jobs?gh_jid=7957617 | Toast | Director of Product Management, Lending | posted=2026-07-08
 
+- [ ] https://www.linkedin.com/jobs/view/4416853480 | Birdeye | Senior Product Manager | posted=2026-07-09
+- [ ] https://www.linkedin.com/jobs/view/4437545648 | TravClan | Product Manager | posted=2026-07-09
+- [ ] https://www.linkedin.com/jobs/view/4438658009 | Razorpay | Senior Product Manager | posted=2026-07-09
+- [ ] https://www.linkedin.com/jobs/view/4438637983 | BMC Software | Lead / Principal Product Manager (Add-ons) | posted=2026-07-09
+- [ ] https://www.linkedin.com/jobs/view/4436294704 | DHL Supply Chain | Senior Manager, Product Management, TMS | posted=2026-07-09
+- [ ] https://www.linkedin.com/jobs/view/4438651520 | Flexiple | Senior Product Manager | posted=2026-07-09
+- [ ] https://www.linkedin.com/jobs/view/4402067362 | HG Insights | Director, Platform Product Management | posted=2026-07-09
+- [ ] https://www.linkedin.com/jobs/view/4410476729 | MiQ | Product Manager | posted=2026-07-09
+- [ ] https://www.linkedin.com/jobs/view/4435672627 | Siemens Healthineers | Product Owner | posted=2026-07-09
+- [ ] https://www.linkedin.com/jobs/view/4435688346 | Persistent Systems | Product Owner | posted=2026-07-09
+- [ ] https://www.linkedin.com/jobs/view/4429086552 | SUN PHARMA | Group Product Manager - Arian (CVD) | posted=2026-07-09
+- [ ] https://www.linkedin.com/jobs/view/4438646309 | Flexiple | Product Manager | posted=2026-07-09
+- [ ] https://www.linkedin.com/jobs/view/4438639931 | LPL Financial Global Capability Center | AVP, Data Product Owner, Advisor – Wealth Management (Data Products) | posted=2026-07-09
+- [ ] https://www.linkedin.com/jobs/view/4435221338 | Einstein Box | Associate Product Manager – STEM Kits | posted=2026-07-09
+- [ ] https://www.linkedin.com/jobs/view/4437563032 | Jobgether | Product Manager – Mobile Apps 2026 | posted=2026-07-09
+- [ ] https://jobs.lever.co/meesho/3279b339-aad6-4522-80d4-2587693651cb | Meesho | Product Manager ( Data Platforms) | posted=2025-09-15
+- [ ] https://jobs.lever.co/jobgether/309af2e5-2a20-4585-b606-4b1821385b5f | Jobgether | Associate Product Manager | posted=2026-07-09
+- [ ] https://careers.toasttab.com/jobs?gh_jid=7760634 | Toast | Senior Product Manager | posted=2026-07-09
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

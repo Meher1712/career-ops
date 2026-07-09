@@ -2128,6 +2128,29 @@ Pune, India | posted=2026-06-28
 - [ ] https://job-boards.greenhouse.io/ocrolusinc/jobs/6076366004 | Ocrolus | Senior Product Manager | posted=2026-07-08
 - [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Lead-Product-Manager---Bundle-Optimization_JR108315 | Sabre | Lead Product Manager - Bundle Optimization | posted=2026-07-08
 
+- [ ] https://www.linkedin.com/jobs/view/4437364664 | VerSe Innovation | Senior Product Manager | posted=2026-07-09
+- [ ] https://www.linkedin.com/jobs/view/4438593182 | Damco Solutions | Product Owner | posted=2026-07-09
+- [ ] https://www.linkedin.com/jobs/view/4437371167 | Airtel International LLP-Airtel Africa | Senior Technical Product Manager | posted=2026-07-09
+- [ ] https://www.linkedin.com/jobs/view/4437373326 | Redcliffe Labs | Sr. Product Manager | posted=2026-07-09
+- [ ] https://www.linkedin.com/jobs/view/4437374240 | Arcana | Principal Product Manager (AI) | posted=2026-07-09
+- [ ] https://www.linkedin.com/jobs/view/4437368148 | Webknot Technologies | Technical Product Owner | posted=2026-07-09
+- [ ] https://www.linkedin.com/jobs/view/4438583372 | Happiest Minds Technologies | PRODUCT MANAGER - Product Management | posted=2026-07-09
+- [ ] https://www.linkedin.com/jobs/view/4437367431 | MoreTasks | Associate Product Manager | posted=2026-07-09
+- [ ] https://www.linkedin.com/jobs/view/4438577977 | CNH | Current Product Manager - Compact Tractors | posted=2026-07-09
+- [ ] https://www.linkedin.com/jobs/view/4438590364 | Vishal Mega Mart Limited | Ecommerce Product Manager | posted=2026-07-09
+- [ ] https://www.linkedin.com/jobs/view/4437356732 | Versatile Club Employer of Record | Growth Product Manager (B2B) | posted=2026-07-09
+- [ ] https://www.linkedin.com/jobs/view/4435645111 | Pocket FM | AI Product Manager | posted=2026-07-09
+- [ ] https://www.linkedin.com/jobs/view/4437356689 | Lexsi Labs | Product Manager (AI Platform) | posted=2026-07-09
+- [ ] https://www.linkedin.com/jobs/view/4438585253 | IFS | Outbound Product Manager, Demo Architect - IFS Loops | posted=2026-07-09
+- [ ] https://www.linkedin.com/jobs/view/4438591317 | Hire Feed | Product Manager (Remote) | posted=2026-07-09
+- [ ] https://www.linkedin.com/jobs/view/4437185178 | SourcingXPress | Product Manager | posted=2026-07-09
+- [ ] https://www.linkedin.com/jobs/view/4437357961 | Atlys | Product Manager | posted=2026-07-09
+- [ ] https://job-boards.greenhouse.io/tekion/jobs/7790694003 | Tekion Corp | Staff Product Manager | posted=2026-07-09
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013995156 | Nielsen | Senior Product Manager I | posted=2026-07-09
+- [ ] https://jobs.lever.co/jobgether/857a765d-55a2-4439-a8bc-838e30b1bf1d | Jobgether | Senior Product Manager | posted=2026-07-09
+- [ ] https://careers.godaddy/jobs?gh_jid=7779650003 | GoDaddy | Principal Product Manager | posted=2026-07-08
+- [ ] https://careers.toasttab.com/jobs?gh_jid=7957617 | Toast | Director of Product Management, Lending | posted=2026-07-08
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

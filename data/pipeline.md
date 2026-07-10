@@ -2222,6 +2222,19 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4439081263 | Flexiple | Product Manager | posted=2026-07-10
 - [ ] https://www.linkedin.com/jobs/view/4437982948 | Ingram Micro | Lead Product Manager | posted=2026-07-10
 
+- [ ] https://www.linkedin.com/jobs/view/4418829690 | ABC Fitness | Lead Product Manager, Insights | posted=2026-07-10
+- [ ] https://www.linkedin.com/jobs/view/4438331273 | DevHub | Principal Product Manager | posted=2026-07-10
+- [ ] https://www.linkedin.com/jobs/view/4417944479 | Skyhigh Security | Senior Product Manager | posted=2026-07-10
+- [ ] https://www.linkedin.com/jobs/view/4438325702 | Siemens | Associate Product Owner | posted=2026-07-10
+- [ ] https://www.linkedin.com/jobs/view/4439314000 | PMs for Hire | Group Product Manager, Google Play | posted=2026-07-10
+- [ ] https://www.linkedin.com/jobs/view/4417635108 | Kroll | Product Owner | posted=2026-07-10
+- [ ] https://www.linkedin.com/jobs/view/4439311533 | Abbott | Group Product Manager - Vaccines | posted=2026-07-10
+- [ ] https://www.linkedin.com/jobs/view/4439097736 | Noble Cortex Incorporated | Product Manager – Invoicing Automation (Remote) | posted=2026-07-10
+- [ ] https://www.linkedin.com/jobs/view/4436610243 | Copeland | Product Manager | posted=2026-07-10
+- [ ] https://www.linkedin.com/jobs/view/4436613176 | Taglynk | Associate Product Manager | posted=2026-07-10
+- [ ] https://www.linkedin.com/jobs/view/4439316119 | Roche | Head of Product Continuity | posted=2026-07-10
+- [ ] https://www.linkedin.com/jobs/view/4439092931 | PMs for Hire | Product Manager - Quant Research / Investment Solutions | posted=2026-07-10
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

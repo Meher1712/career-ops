@@ -2180,6 +2180,22 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4438678232 | Abbott | Product Manager- GI Optima | posted=2026-07-09
 - [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Sr-Product-Manager_JR108272-1 | Sabre | Sr Product Manager | posted=2026-07-09
 
+- [ ] https://stripe.com/jobs/search?gh_jid=7517535 | Stripe | Staff Product Manager, ML Foundations and GenAI | posted=2026-07-09
+- [ ] https://www.linkedin.com/jobs/view/4435951476 | OLX India | Product Manager | posted=2026-07-10
+- [ ] https://www.linkedin.com/jobs/view/4428028524 | Recruise India Consulting Pvt Ltd | Product Owner(B2b Enterprise) | posted=2026-07-10
+- [ ] https://www.linkedin.com/jobs/view/4439008236 | MCO (MyComplianceOffice) | Product Owner - KYT Team | posted=2026-07-10
+- [ ] https://www.linkedin.com/jobs/view/4439000594 | Rakuten Symphony | Senior Product Manager, Customer Data Platform | posted=2026-07-10
+- [ ] https://www.linkedin.com/jobs/view/4435956358 | RhythmX AI | Technical Product Manager – AI Platform & Interoperability | posted=2026-07-10
+- [ ] https://www.linkedin.com/jobs/view/4435958404 | Cadila Pharmaceuticals Limited | Group Product Manager /AGM-Derma | posted=2026-07-10
+- [ ] https://www.linkedin.com/jobs/view/4437959548 | Neo | Director of Product Management | posted=2026-07-10
+- [ ] https://www.linkedin.com/jobs/view/4435946470 | Detoxit | Lead Product Manager | posted=2026-07-10
+- [ ] https://www.linkedin.com/jobs/view/4435960108 | Happiest Minds Technologies | TECHNICAL LEAD - Product Management | posted=2026-07-10
+- [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Lead-Product-Manager-Airline-Experience--_JR108327-1 | Sabre | Lead Product Manager–Airline Experience ​ | posted=2026-07-10
+- [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Product-Manager_R167941 | Adobe | Senior Product Manager - Firefly Gen AI Experiences | posted=2026-07-10
+- [ ] https://jobs.lever.co/jobgether/7104ce9a-9c6f-4e50-b54b-a1c5125a3cd5 | Jobgether | Product Manager – Mobile Apps 2026 | posted=2026-07-09
+- [ ] https://jobs.lever.co/jobgether/bef14e8e-9edd-4965-ad0d-4a59e0f60044 | Jobgether | Senior Product Manager (Telephony / VoIP / IVR) | posted=2026-07-10
+- [ ] https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Graduate-Builder_JR351412 | Salesforce | Graduate Builder | posted=2026-07-10
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

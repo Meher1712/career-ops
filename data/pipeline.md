@@ -2208,6 +2208,20 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4437978265 | Sabre | Lead Product Manager–Airline Experience | posted=2026-07-10
 - [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990014019786 | Nielsen | Senior Product Manager II - (Media Planning/Ad Tech/Ad Intel) | posted=2026-07-10
 
+- [ ] https://www.linkedin.com/jobs/view/4437993935 | CTeBS | Senior Product Manager | posted=2026-07-10
+- [ ] https://www.linkedin.com/jobs/view/4438310201 | TalentXO | Senior Product Manager (Consumer Growth) | posted=2026-07-10
+- [ ] https://www.linkedin.com/jobs/view/4438310010 | iZOOlogic | Product Manager | posted=2026-07-10
+- [ ] https://www.linkedin.com/jobs/view/4439071139 | Providence India | Principal Product Manager | posted=2026-07-10
+- [ ] https://www.linkedin.com/jobs/view/4437999593 | Revolut | Product Owner (Credit) | posted=2026-07-10
+- [ ] https://www.linkedin.com/jobs/view/4439072059 | SourcingXPress | Product Manager | posted=2026-07-10
+- [ ] https://www.linkedin.com/jobs/view/4439074289 | GoKwik | Product Manager | posted=2026-07-10
+- [ ] https://www.linkedin.com/jobs/view/4435991206 | Navneet Education Limited | Product Manager- Publications | posted=2026-07-10
+- [ ] https://www.linkedin.com/jobs/view/4439053898 | TMUS Global Solutions | Senior Product owner - ServiceNow [T500-27014] | posted=2026-07-10
+- [ ] https://www.linkedin.com/jobs/view/4439053859 | Commonwealth Bank | Product Owner | posted=2026-07-10
+- [ ] https://www.linkedin.com/jobs/view/4438305171 | Files & Tools | Product Manager &amp;#8211; Steel Files | posted=2026-07-10
+- [ ] https://www.linkedin.com/jobs/view/4439081263 | Flexiple | Product Manager | posted=2026-07-10
+- [ ] https://www.linkedin.com/jobs/view/4437982948 | Ingram Micro | Lead Product Manager | posted=2026-07-10
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

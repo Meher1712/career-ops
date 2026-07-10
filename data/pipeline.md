@@ -2196,6 +2196,18 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/jobgether/bef14e8e-9edd-4965-ad0d-4a59e0f60044 | Jobgether | Senior Product Manager (Telephony / VoIP / IVR) | posted=2026-07-10
 - [ ] https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Graduate-Builder_JR351412 | Salesforce | Graduate Builder | posted=2026-07-10
 
+- [ ] https://www.linkedin.com/jobs/view/4439029733 | Hitachi Energy | Local Product Manager - Instrument Transformer | posted=2026-07-10
+- [ ] https://www.linkedin.com/jobs/view/4435969300 | Tekion Corp | Product Manager | posted=2026-07-10
+- [ ] https://www.linkedin.com/jobs/view/4439029797 | INDmoney | Platform Product Manager | posted=2026-07-10
+- [ ] https://www.linkedin.com/jobs/view/4439047135 | Mushroom Solutions | Product Manager/Product Owner – Compliance & Data Privacy Solutions | posted=2026-07-10
+- [ ] https://www.linkedin.com/jobs/view/4437989317 | Umanist NA | Associate Product Manager | posted=2026-07-10
+- [ ] https://www.linkedin.com/jobs/view/4435979167 | Vtricks Technologies | Lead Product Manager (AI Products & Platforms) | posted=2026-07-10
+- [ ] https://www.linkedin.com/jobs/view/4437976528 | Electric Miles | Technical Product Manager | posted=2026-07-10
+- [ ] https://www.linkedin.com/jobs/view/4435971316 | ClanX | Director of Product Management | posted=2026-07-10
+- [ ] https://www.linkedin.com/jobs/view/4437991052 | Lam Research | Director, Product Management | posted=2026-07-10
+- [ ] https://www.linkedin.com/jobs/view/4437978265 | Sabre | Lead Product Manager–Airline Experience | posted=2026-07-10
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990014019786 | Nielsen | Senior Product Manager II - (Media Planning/Ad Tech/Ad Intel) | posted=2026-07-10
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

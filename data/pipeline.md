@@ -2251,6 +2251,9 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4409047130 | Toast | Director of Product Management, New Ventures | posted=2026-07-11
 - [ ] https://www.linkedin.com/jobs/view/4438919579 | Jobgether | Sr. Product Manager - Emerging Mobile Apps | posted=2026-07-11
 
+- [ ] https://www.linkedin.com/jobs/view/4438933009 | Esse India | Canada immigration consultants in delhi | visa consultant delhi | Lead Product Manager For Canada Opportunities | posted=2026-07-11
+- [ ] https://jobs.lever.co/jobgether/a39528d8-51b3-4039-8431-d6cc7376c3bf | Jobgether | Sr. Product Manager - Emerging Mobile Apps | posted=2026-07-11
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -2261,6 +2261,11 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4429688640 | Google | Product Manager, Advanced Enterprise Data Platform | posted=2026-07-11
 - [ ] https://jobs.lever.co/jobgether/d36a2490-ccbb-46b7-890b-a65ee41f61f6 | Jobgether | Senior Product Owner - Accounting & ERP Software | posted=2026-07-11
 
+- [ ] https://www.linkedin.com/jobs/view/4438932400 | UKG | Principal Product Manager- Platform Infrastructure | posted=2026-07-11
+- [ ] https://www.linkedin.com/jobs/view/4439568278 | Flexiple | Senior Product Manager | posted=2026-07-11
+- [ ] https://www.linkedin.com/jobs/view/4439571149 | Caterpillar Inc. | Digital Product Owner- Workfront | posted=2026-07-11
+- [ ] https://www.linkedin.com/jobs/view/4439562367 | Caterpillar Inc. | Digital Product Owner - Adobe Experience Manager (AEM) | posted=2026-07-11
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

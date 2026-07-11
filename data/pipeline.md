@@ -2243,6 +2243,14 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4438915593 | Proho | Product Manager | posted=2026-07-11
 - [ ] https://www.linkedin.com/jobs/view/4439536478 | Ishan Technologies | Product Manager - Public Cloud | posted=2026-07-11
 
+- [ ] https://www.linkedin.com/jobs/view/4409292453 | eBay | Senior Product Manager | posted=2026-07-11
+- [ ] https://www.linkedin.com/jobs/view/4439515328 | Target | Sr Product Manager - Cybersecurity | posted=2026-07-11
+- [ ] https://www.linkedin.com/jobs/view/4439539653 | Optum India | Lead Digital Product Manager | posted=2026-07-11
+- [ ] https://www.linkedin.com/jobs/view/4390108275 | Hitachi Digital Services | Product Manager-63827 | posted=2026-07-11
+- [ ] https://www.linkedin.com/jobs/view/4419093130 | Teradata | Senior Director, Product Management | posted=2026-07-11
+- [ ] https://www.linkedin.com/jobs/view/4409047130 | Toast | Director of Product Management, New Ventures | posted=2026-07-11
+- [ ] https://www.linkedin.com/jobs/view/4438919579 | Jobgether | Sr. Product Manager - Emerging Mobile Apps | posted=2026-07-11
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

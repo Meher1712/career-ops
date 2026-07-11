@@ -2239,6 +2239,10 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4439522699 | Ur Technology and Computers | Technical Product Manager | posted=2026-07-11
 - [ ] https://job-boards.greenhouse.io/webflow/jobs/8054709 | Webflow | Staff Product Manager, AI | posted=2026-07-10
 
+- [ ] https://www.linkedin.com/jobs/view/4438917496 | Talentgigs | Product Owner | posted=2026-07-11
+- [ ] https://www.linkedin.com/jobs/view/4438915593 | Proho | Product Manager | posted=2026-07-11
+- [ ] https://www.linkedin.com/jobs/view/4439536478 | Ishan Technologies | Product Manager - Public Cloud | posted=2026-07-11
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -2254,6 +2254,13 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4438933009 | Esse India | Canada immigration consultants in delhi | visa consultant delhi | Lead Product Manager For Canada Opportunities | posted=2026-07-11
 - [ ] https://jobs.lever.co/jobgether/a39528d8-51b3-4039-8431-d6cc7376c3bf | Jobgether | Sr. Product Manager - Emerging Mobile Apps | posted=2026-07-11
 
+- [ ] https://www.linkedin.com/jobs/view/4390830562 | Amazon | Sr. Product Manager - Tech, Amazon Payment Products (MAPLE) | posted=2026-07-11
+- [ ] https://www.linkedin.com/jobs/view/4438945060 | PlanetSpark | Product Manager – Learning | posted=2026-07-11
+- [ ] https://www.linkedin.com/jobs/view/4411324177 | IDFC FIRST Bank | Senior Lead-Product Owner- Trade | posted=2026-07-11
+- [ ] https://www.linkedin.com/jobs/view/4439569142 | Flexiple | Product Manager | posted=2026-07-11
+- [ ] https://www.linkedin.com/jobs/view/4429688640 | Google | Product Manager, Advanced Enterprise Data Platform | posted=2026-07-11
+- [ ] https://jobs.lever.co/jobgether/d36a2490-ccbb-46b7-890b-a65ee41f61f6 | Jobgether | Senior Product Owner - Accounting & ERP Software | posted=2026-07-11
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

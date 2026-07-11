@@ -2235,6 +2235,10 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4439316119 | Roche | Head of Product Continuity | posted=2026-07-10
 - [ ] https://www.linkedin.com/jobs/view/4439092931 | PMs for Hire | Product Manager - Quant Research / Investment Solutions | posted=2026-07-10
 
+- [ ] https://www.linkedin.com/jobs/view/4439522697 | Ur Technology and Computers | Associate Product Manager (APM) | posted=2026-07-11
+- [ ] https://www.linkedin.com/jobs/view/4439522699 | Ur Technology and Computers | Technical Product Manager | posted=2026-07-11
+- [ ] https://job-boards.greenhouse.io/webflow/jobs/8054709 | Webflow | Staff Product Manager, AI | posted=2026-07-10
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

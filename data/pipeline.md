@@ -2280,6 +2280,10 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4439724877 | Flexiple | Product Manager | posted=2026-07-12
 - [ ] https://www.linkedin.com/jobs/view/4437216516 | Feedspot | Product Manager | posted=2026-07-12
 
+- [ ] https://www.linkedin.com/jobs/view/4439753088 | Flexiple | Senior Product Manager | posted=2026-07-12
+- [ ] https://www.linkedin.com/jobs/view/4439748348 | PMs for Hire | Senior Product Manager | posted=2026-07-12
+- [ ] https://www.linkedin.com/jobs/view/4439753127 | PMs for Hire | Principal Product Manager | posted=2026-07-12
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

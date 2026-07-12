@@ -1,19 +1,26 @@
 {
-  "generated_at": "2026-07-12T15:17:12.471Z",
+  "generated_at": "2026-07-12T16:15:27.021Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Product Manager",
+      "title": "Senior Product Manager",
       "company": "Flexiple",
       "location": "India",
-      "url": "https://www.linkedin.com/jobs/view/4439724877"
+      "url": "https://www.linkedin.com/jobs/view/4439753088"
     },
     {
       "n": 2,
-      "title": "Product Manager",
-      "company": "Feedspot",
-      "location": "Mumbai Metropolitan Region",
-      "url": "https://www.linkedin.com/jobs/view/4437216516"
+      "title": "Senior Product Manager",
+      "company": "PMs for Hire",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4439748348"
+    },
+    {
+      "n": 3,
+      "title": "Principal Product Manager",
+      "company": "PMs for Hire",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4439753127"
     }
   ]
 }

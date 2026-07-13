@@ -2331,6 +2331,14 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/saviynt/53b6e38f-ed8d-4764-bc39-8671961ca8c7 | Saviynt | Staff Product Manager | posted=2026-07-13
 - [ ] https://jobs.lever.co/z1tech/ae558bd6-d78d-4869-a750-aaa91bc9680b | Z1 Tech | Associate - Product Management | posted=2020-02-13
 
+- [ ] https://www.linkedin.com/jobs/view/4440059267 | DBSync | Senior Product Manager | posted=2026-07-13
+- [ ] https://www.linkedin.com/jobs/view/4430391779 | CommerceIQ | Senior Product Manager-I | posted=2026-07-13
+- [ ] https://www.linkedin.com/jobs/view/4439431193 | The Standard India | Agile Product Owner - BenTech Integrations | posted=2026-07-13
+- [ ] https://www.linkedin.com/jobs/view/4437601167 | Cube | Product Manager | posted=2026-07-13
+- [ ] https://www.linkedin.com/jobs/view/4439442174 | Project Sales Corp (PSC) | Associate Product Manager - PSC Hand Safety | posted=2026-07-13
+- [ ] https://job-boards.eu.greenhouse.io/valtech/jobs/4906383101 | Valtech | Forward Deployed Product Manager | posted=2026-07-13
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990014055816 | Nielsen | Senior Product Manager II | posted=2026-07-13
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

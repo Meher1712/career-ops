@@ -2295,6 +2295,31 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4439125807 | EZSpace Ventures | Product Manager | posted=2026-07-13
 - [ ] https://www.linkedin.com/jobs/view/4439782437 | LinkedIn India PM | Product Manager | posted=2026-07-13
 
+- [ ] https://www.linkedin.com/jobs/view/4440010368 | Mindtickle | Senior Product Manager | posted=2026-07-13
+- [ ] https://www.linkedin.com/jobs/view/4437260390 | Weekday (YC W21) | Staff Product Manager | posted=2026-07-13
+- [ ] https://www.linkedin.com/jobs/view/4437262316 | Happiest Minds Technologies | PRODUCT MANAGER - Product Management | posted=2026-07-13
+- [ ] https://www.linkedin.com/jobs/view/4437253940 | Weekday (YC W21) | Product Manager | posted=2026-07-13
+- [ ] https://www.linkedin.com/jobs/view/4411999260 | Visteon Corporation | Senior Product Owner | posted=2026-07-13
+- [ ] https://www.linkedin.com/jobs/view/4437274160 | airtel | Product Manager | posted=2026-07-13
+- [ ] https://www.linkedin.com/jobs/view/4440007316 | Impact Analytics | Product Manager - Mobile | posted=2026-07-13
+- [ ] https://www.linkedin.com/jobs/view/4437256609 | Innovatiview | Product Manager | posted=2026-07-13
+- [ ] https://www.linkedin.com/jobs/view/4437264341 | Grafton Recruitment India | Product Manager | posted=2026-07-13
+- [ ] https://www.linkedin.com/jobs/view/4427712515 | Thomson Reuters | Technical Product Manager, CIAM | posted=2026-07-13
+- [ ] https://www.linkedin.com/jobs/view/4440000829 | Nasdaq | Product Owner - Data Platform | posted=2026-07-13
+- [ ] https://www.linkedin.com/jobs/view/4439166196 | WhiteLotus Talent Partners | Product Owner nCino | posted=2026-07-13
+- [ ] https://www.linkedin.com/jobs/view/4439165080 | Esco | Product Manager | posted=2026-07-13
+- [ ] https://www.linkedin.com/jobs/view/4439150641 | SBNRI | Product Manager – Tax & Compliance | posted=2026-07-13
+- [ ] https://www.linkedin.com/jobs/view/4437261286 | reach52 | Product Manager - Gynaecology | posted=2026-07-13
+- [ ] https://www.linkedin.com/jobs/view/4439149915 | Premas Life Sciences Pvt Ltd. | Product Manager (Clinical) | posted=2026-07-13
+- [ ] https://www.linkedin.com/jobs/view/4439158372 | Bridgestone Americas | Product Owner AI/ML | posted=2026-07-13
+- [ ] https://www.linkedin.com/jobs/view/4437267100 | Ferro Concrete Construction (India) Pvt. Ltd | Head of Product Development | posted=2026-07-13
+- [ ] https://www.linkedin.com/jobs/view/4429560168 | Impact Analytics | Product Manager | posted=2026-07-13
+- [ ] https://www.linkedin.com/jobs/view/4439153308 | LeadSquared | Senior Product Manager | posted=2026-07-13
+- [ ] https://www.linkedin.com/jobs/view/4440010172 | Saviynt | Staff Product Manager | posted=2026-07-13
+- [ ] https://www.linkedin.com/jobs/view/4439537344 | Saint-Gobain Group in India | SENIOR MANAGER - DESIGN & PRODUCT MANAGEMENT | posted=2026-07-13
+- [ ] https://www.linkedin.com/jobs/view/4439791938 | Innovaccer | 4266- Senior Product Manager-Risk and Quality | posted=2026-07-13
+- [ ] https://api.smartrecruiters.com/v1/companies/Entain/postings/744000137363729 | Entain India | Director of Product | posted=2026-07-13
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -2284,6 +2284,17 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4439748348 | PMs for Hire | Senior Product Manager | posted=2026-07-12
 - [ ] https://www.linkedin.com/jobs/view/4439753127 | PMs for Hire | Principal Product Manager | posted=2026-07-12
 
+- [ ] https://www.linkedin.com/jobs/view/4439790336 | CTeBS | Senior Product Manager | posted=2026-07-13
+- [ ] https://www.linkedin.com/jobs/view/4439145211 | Aurigo Software Technologies | Senior Product Manager - AI Platform | posted=2026-07-13
+- [ ] https://www.linkedin.com/jobs/view/4437230964 | AB InBev GCC India | Product Manager | posted=2026-07-13
+- [ ] https://www.linkedin.com/jobs/view/4437238562 | Saleshandy | Head of Product | posted=2026-07-13
+- [ ] https://www.linkedin.com/jobs/view/4439793265 | Fidelity International | PAM Product Owner | posted=2026-07-13
+- [ ] https://www.linkedin.com/jobs/view/4439785462 | Entain India | Director of Product | posted=2026-07-13
+- [ ] https://www.linkedin.com/jobs/view/4437234650 | Saint-Gobain Group in India | SENIOR MANAGER - DESIGN & PRODUCT MANAGEMENT | posted=2026-07-13
+- [ ] https://www.linkedin.com/jobs/view/4439781601 | AutomatR | Product Owner | posted=2026-07-13
+- [ ] https://www.linkedin.com/jobs/view/4439125807 | EZSpace Ventures | Product Manager | posted=2026-07-13
+- [ ] https://www.linkedin.com/jobs/view/4439782437 | LinkedIn India PM | Product Manager | posted=2026-07-13
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

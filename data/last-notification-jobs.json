@@ -1,26 +1,75 @@
 {
-  "generated_at": "2026-07-12T16:15:27.021Z",
+  "generated_at": "2026-07-13T06:31:18.173Z",
   "jobs": [
     {
       "n": 1,
       "title": "Senior Product Manager",
-      "company": "Flexiple",
-      "location": "India",
-      "url": "https://www.linkedin.com/jobs/view/4439753088"
+      "company": "CTeBS",
+      "location": "Kochi, Kerala, India",
+      "url": "https://www.linkedin.com/jobs/view/4439790336"
     },
     {
       "n": 2,
-      "title": "Senior Product Manager",
-      "company": "PMs for Hire",
+      "title": "Senior Product Manager - AI Platform",
+      "company": "Aurigo Software Technologies",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4439748348"
+      "url": "https://www.linkedin.com/jobs/view/4439145211"
     },
     {
       "n": 3,
-      "title": "Principal Product Manager",
-      "company": "PMs for Hire",
+      "title": "Product Manager",
+      "company": "AB InBev GCC India",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4439753127"
+      "url": "https://www.linkedin.com/jobs/view/4437230964"
+    },
+    {
+      "n": 4,
+      "title": "Head of Product",
+      "company": "Saleshandy",
+      "location": "Ahmedabad, Gujarat, India",
+      "url": "https://www.linkedin.com/jobs/view/4437238562"
+    },
+    {
+      "n": 5,
+      "title": "PAM Product Owner",
+      "company": "Fidelity International",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4439793265"
+    },
+    {
+      "n": 6,
+      "title": "Director of Product",
+      "company": "Entain India",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.linkedin.com/jobs/view/4439785462"
+    },
+    {
+      "n": 7,
+      "title": "SENIOR MANAGER - DESIGN & PRODUCT MANAGEMENT",
+      "company": "Saint-Gobain Group in India",
+      "location": "Thane, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4437234650"
+    },
+    {
+      "n": 8,
+      "title": "Product Owner",
+      "company": "AutomatR",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.linkedin.com/jobs/view/4439781601"
+    },
+    {
+      "n": 9,
+      "title": "Product Manager",
+      "company": "EZSpace Ventures",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4439125807"
+    },
+    {
+      "n": 10,
+      "title": "Product Manager",
+      "company": "LinkedIn India PM",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4439782437"
     }
   ]
 }

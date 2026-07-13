@@ -2320,6 +2320,17 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4439791938 | Innovaccer | 4266- Senior Product Manager-Risk and Quality | posted=2026-07-13
 - [ ] https://api.smartrecruiters.com/v1/companies/Entain/postings/744000137363729 | Entain India | Director of Product | posted=2026-07-13
 
+- [ ] https://www.linkedin.com/jobs/view/4437282061 | Credila Financial Services Limited | Senior Product Manager | posted=2026-07-13
+- [ ] https://www.linkedin.com/jobs/view/4439197774 | LeadSquared | Group Product Manager | posted=2026-07-13
+- [ ] https://www.linkedin.com/jobs/view/4440041049 | BNY | Director, POM Product Management Manager | posted=2026-07-13
+- [ ] https://www.linkedin.com/jobs/view/4435658981 | Ontic | Product Owner | posted=2026-07-13
+- [ ] https://www.linkedin.com/jobs/view/4440015724 | Amazon | Senior Product Manager, IN Fees | posted=2026-07-13
+- [ ] https://www.linkedin.com/jobs/view/4440043014 | Neurealm | Product Owner_Financial Domain | posted=2026-07-13
+- [ ] https://www.linkedin.com/jobs/view/4439402324 | Schneider Electric | Senior Product Owner II | posted=2026-07-13
+- [ ] https://www.linkedin.com/jobs/view/4440021986 | NTT DATA North America | Project Manager/ Product owner / Scrum Master | posted=2026-07-13
+- [ ] https://jobs.lever.co/saviynt/53b6e38f-ed8d-4764-bc39-8671961ca8c7 | Saviynt | Staff Product Manager | posted=2026-07-13
+- [ ] https://jobs.lever.co/z1tech/ae558bd6-d78d-4869-a750-aaa91bc9680b | Z1 Tech | Associate - Product Management | posted=2020-02-13
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

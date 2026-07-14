@@ -2399,6 +2399,14 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/jobgether/b0da990b-a318-4bb2-9fb8-f1d5a62a7f13 | Jobgether | Senior Marketplace Product Manager | posted=2026-07-14
 - [ ] https://jobs.lever.co/jobgether/f64bffb7-d0a7-4177-853c-8ab4a22f381d | Jobgether | Senior Product Manager, Warranty | posted=2026-07-14
 
+- [ ] https://www.linkedin.com/jobs/view/4403374074 | IDFC FIRST Bank | Product Manager-Corporate Salary | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4418398667 | G-P | Principal Product Manager – Agentic AI Platform | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4440572038 | Diligent | Product Manager | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4440566395 | Skillz | Group Product Manager | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4440573021 | Experian | Director of Product Ownership | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4399786655 | EY | USS Product Management Lead | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4410017618 | Ecolab | Process Orchestration and AI Solutions Product Manager | posted=2026-07-14
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

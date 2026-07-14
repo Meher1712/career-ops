@@ -2339,6 +2339,21 @@ Pune, India | posted=2026-06-28
 - [ ] https://job-boards.eu.greenhouse.io/valtech/jobs/4906383101 | Valtech | Forward Deployed Product Manager | posted=2026-07-13
 - [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990014055816 | Nielsen | Senior Product Manager II | posted=2026-07-13
 
+- [ ] https://www.linkedin.com/jobs/view/4437637671 | Zendesk | Senior Product Manager | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4437650279 | bp | O2C Competitiveness Senior Product Owner- SME | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4439820363 | Esse India | Canada immigration consultants in delhi | visa consultant delhi | Senior Product Manager For Canada Opportunities | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4437630947 | TechRBM | Senior BI Product Owner | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4437637599 | Thermo Fisher Scientific | Senior Manager, Product Owner – Automation & AI Products | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4439810529 | Standard Chartered India | Product Owner - Risk Analytics | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4439809657 | Standard Chartered India | Director, AI Product Owner, Cash PDC | posted=2026-07-14
+- [ ] https://jobs.lever.co/meesho/de6cf222-9dd6-4c8b-ab6f-45fa1b9b4c62 | Meesho | Product Manager II - AI | posted=2026-04-20
+- [ ] https://www.linkedin.com/jobs/view/4440384940 | Embrace Software Inc | Product Manager | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4439810413 | NASTECH CONSULTING | Product manager - SAAS | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4440395232 | Hire Feed | Product Manager (Remote) | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4435961539 | omniXM | Technical Product Manager - AI Products | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4437648550 | Bhanzu | Product Manager | posted=2026-07-14
+- [ ] https://job-boards.greenhouse.io/tekion/jobs/7796013003 | Tekion Corp | Product Manager II | posted=2026-07-14
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

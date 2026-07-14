@@ -2378,6 +2378,27 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4430810050 | MillerKnoll | Associate Product Manager | posted=2026-07-14
 - [ ] https://www.linkedin.com/jobs/view/4437670273 | Tekion Corp | Product Manager II | posted=2026-07-14
 
+- [ ] https://www.linkedin.com/jobs/view/4431732841 | American Express | Senior Manager Digital Product Management | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4440547049 | Happiest Minds Technologies | PRODUCT MANAGER - Product Management | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4437663969 | Kratikal | Product Manager | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4440547137 | Amazon | Sr. Product Manager - Tech, FinTech Accounting | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4440546091 | Biotech Healthcare | Product Manager | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4437685103 | SUN Mobility | Product Manager – Battery & Energy Products | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4403372133 | IDFC FIRST Bank | Product Manager-2 Wheeler Loan | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4440532730 | Phenom | Associate Product Manager | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4430882598 | IDFC FIRST Bank | Product Manager - Customer Life Cycle, MSME | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4440540584 | TalentXO | Forward Deployed Product Manager (Ex-Sprinklr) | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4439843902 | One97 Communications Limited | Product Management - Director Product - Lending | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4439852366 | redBus | Associate Product Manager | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4439839901 | The Blue Venture Fund | Product Owner | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4440538554 | Meesho | Product Manager II - AI | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4440539579 | Bausch + Lomb | Product Manager | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4437665914 | SUN PHARMA | Product Manager - CVD (Akuna) | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4432222752 | HighLevel | Staff Product Manager - Agency Revenue Growth | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4439833852 | Corpay | Lead Product Manager – Bank Connectivity Delivery | posted=2026-07-14
+- [ ] https://jobs.lever.co/jobgether/b0da990b-a318-4bb2-9fb8-f1d5a62a7f13 | Jobgether | Senior Marketplace Product Manager | posted=2026-07-14
+- [ ] https://jobs.lever.co/jobgether/f64bffb7-d0a7-4177-853c-8ab4a22f381d | Jobgether | Senior Product Manager, Warranty | posted=2026-07-14
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

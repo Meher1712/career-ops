@@ -2407,6 +2407,16 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4399786655 | EY | USS Product Management Lead | posted=2026-07-14
 - [ ] https://www.linkedin.com/jobs/view/4410017618 | Ecolab | Process Orchestration and AI Solutions Product Manager | posted=2026-07-14
 
+- [ ] https://www.linkedin.com/jobs/view/4429402406 | Palo Alto Networks | Senior Product Manager (Platform) | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4432281354 | Arcesium | Product Manager - Order & Portfolio Management System | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4440578599 | Societe Generale Global Solution Centre | Product owner - Payments | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4440568862 | Ford Motor Company | Product Owner | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4439871893 | Tata Consultancy Services | Product Manager | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4423221563 | Google Operations Center | Product Manager - Tools and Automation | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4421809335 | Honeywell Technologies | Sr Product Management Specialist | posted=2026-07-14
+- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8064530 | Smartsheet | Sr. Product Manager II, Audit & History (Hybrid, Bangalore) | posted=2026-07-14
+- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8064552 | Smartsheet | Sr, Product Manager II - Gantt View (Hybrid, Bangalore) | posted=2026-07-14
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -2354,6 +2354,15 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4437648550 | Bhanzu | Product Manager | posted=2026-07-14
 - [ ] https://job-boards.greenhouse.io/tekion/jobs/7796013003 | Tekion Corp | Product Manager II | posted=2026-07-14
 
+- [ ] https://www.linkedin.com/jobs/view/4439839099 | SuperPe Marketplace Private Limited | Product Manager | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4439833287 | CG-VAK Software & Exports Ltd. | Forward Deployed Product Manager | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4439828475 | GoComet | Agentic AI Product Manager | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4439832338 | TalentXO | Forward Deployed Product Manager (Ex-Sprinklr) | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4437650840 | EY | Digital Experience Product Owner | posted=2026-07-14
+- [ ] https://jobs.lever.co/jobgether/998ae120-4383-415d-b41e-2018a2ed612c | Jobgether | Senior Product Manager, Payments | posted=2026-07-14
+- [ ] https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Senior-Product-Manager_112926-JOB | Sprinklr | Senior Product Manager | posted=2026-07-14
+- [ ] https://zendesk.wd1.myworkdayjobs.com/Zendesk/job/Pune-India/Senior-Product-Manager_R34220 | Zendesk | Senior Product Manager | posted=2026-07-14
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

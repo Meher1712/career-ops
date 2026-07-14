@@ -2363,6 +2363,21 @@ Pune, India | posted=2026-06-28
 - [ ] https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Senior-Product-Manager_112926-JOB | Sprinklr | Senior Product Manager | posted=2026-07-14
 - [ ] https://zendesk.wd1.myworkdayjobs.com/Zendesk/job/Pune-India/Senior-Product-Manager_R34220 | Zendesk | Senior Product Manager | posted=2026-07-14
 
+- [ ] https://www.linkedin.com/jobs/view/4439852125 | Xactly Corp | Senior Product Manager | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4440528545 | Sprinklr | Senior Product Manager | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4432211535 | Equinix | Senior Technical Product Manager | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4437676108 | Mastercard | Manager, Product Management | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4439848203 | Jobgether | Senior Product Manager, Warranty | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4439828958 | ValueLabs | Product Owner | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4439851036 | Jobgether | Senior Marketplace Product Manager | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4439837689 | Zorba AI | Product Owner | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4438884319 | Target | Sr Product Manager - Roundel | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4429914147 | Ipca Laboratories Limited | Group Product Manager - Rheumat/Ortho | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4429903161 | Ipca Laboratories Limited | Group Product Manager - Cardio-Metabolic | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4363392864 | Endava | Product Owner | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4430810050 | MillerKnoll | Associate Product Manager | posted=2026-07-14
+- [ ] https://www.linkedin.com/jobs/view/4437670273 | Tekion Corp | Product Manager II | posted=2026-07-14
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

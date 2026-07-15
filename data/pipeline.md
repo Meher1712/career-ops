@@ -2417,6 +2417,16 @@ Pune, India | posted=2026-06-28
 - [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8064530 | Smartsheet | Sr. Product Manager II, Audit & History (Hybrid, Bangalore) | posted=2026-07-14
 - [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8064552 | Smartsheet | Sr, Product Manager II - Gantt View (Hybrid, Bangalore) | posted=2026-07-14
 
+- [ ] https://www.linkedin.com/jobs/view/4439987197 | Soch Street | Product Manager | posted=2026-07-15
+- [ ] https://www.linkedin.com/jobs/view/4439976615 | Tropical Agrosystem (India) Pvt. Ltd. | Product Manager - Digital & Artificial Intelligence | posted=2026-07-15
+- [ ] https://www.linkedin.com/jobs/view/4440917102 | Novac Technology Solutions | Product Manager | posted=2026-07-15
+- [ ] https://www.linkedin.com/jobs/view/4436299823 | Scapia | Senior Product Manager | posted=2026-07-15
+- [ ] https://www.linkedin.com/jobs/view/4436510474 | Scapia | Group Product Manager | posted=2026-07-15
+- [ ] https://www.linkedin.com/jobs/view/4440915004 | CAREER141 | Product Manager | posted=2026-07-15
+- [ ] https://www.linkedin.com/jobs/view/4439983153 | Teradata | Senior Director, Product Management | posted=2026-07-15
+- [ ] https://job-boards.greenhouse.io/tekion/jobs/7804972003 | Tekion Corp | Senior Product Manager | posted=2026-07-14
+- [ ] https://www.inovalon.com/careers/job/?gh_jid=7804891003 | Inovalon | Senior Product Manager (Real World Data) | posted=2026-07-14
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

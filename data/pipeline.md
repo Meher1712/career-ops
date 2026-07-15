@@ -2468,6 +2468,18 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4440967253 | TekWissen India | Technical Program Product Manager III | posted=2026-07-15
 - [ ] https://api.smartrecruiters.com/v1/companies/ixigo/postings/744000137874737 | ixigo | Founding Product Manager (Voice AI/SaaS) | posted=2026-07-15
 
+- [ ] https://www.linkedin.com/jobs/view/4440228607 | MoxiWorks | Product Manager- Mobile | posted=2026-07-15
+- [ ] https://www.linkedin.com/jobs/view/4431848317 | Orion Innovation | Product Owner | posted=2026-07-15
+- [ ] https://www.linkedin.com/jobs/view/4440986899 | ASAPP | Senior Product Manager, Data & Solution Strategy | posted=2026-07-15
+- [ ] https://www.linkedin.com/jobs/view/4441201316 | ASAPP | Senior Product Manager, Messaging Platform & AI Services | posted=2026-07-15
+- [ ] https://www.linkedin.com/jobs/view/4440985670 | Alvarez & Marsal | Associate Director, Product Manager, DTS - Global Capability Center | posted=2026-07-15
+- [ ] https://www.linkedin.com/jobs/view/4440213929 | CBTS | PRODUCT MANAGER – BUSINESS PRODUCT MANAGEMENT | posted=2026-07-15
+- [ ] https://www.linkedin.com/jobs/view/4440234157 | Amendss | Product Manager-Consumer Mobile App | posted=2026-07-15
+- [ ] https://www.linkedin.com/jobs/view/4438408223 | UST | Product Manager I | posted=2026-07-15
+- [ ] https://www.linkedin.com/jobs/view/4438402379 | SoTalent | Product Owner | posted=2026-07-15
+- [ ] https://job-boards.greenhouse.io/scopely/jobs/5323240008?gh_jid=5323240008 | Scopely | Product Manager - Star Trek Fleet Command | posted=2026-07-15
+- [ ] https://job-boards.greenhouse.io/scopely/jobs/5323238008?gh_jid=5323238008 | Scopely | Senior Product Manager - Star Trek Fleet Command | posted=2026-07-15
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

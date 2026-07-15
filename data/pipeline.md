@@ -2444,6 +2444,17 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4438078119 | QuCatalyst Corporate Services LLP | Product Manager | posted=2026-07-15
 - [ ] https://www.linkedin.com/jobs/view/4439979799 | CG-VAK Software & Exports Ltd. | Forward Deployed Product Manager | posted=2026-07-15
 
+- [ ] https://www.linkedin.com/jobs/view/4438072709 | Mastercard | Senior Product Manager - Technical | posted=2026-07-15
+- [ ] https://www.linkedin.com/jobs/view/4440959329 | Xplor Technologies | Product Manager - Data & Analytics | posted=2026-07-15
+- [ ] https://www.linkedin.com/jobs/view/4438082380 | Zenwork, Inc | Product Manager | posted=2026-07-15
+- [ ] https://www.linkedin.com/jobs/view/4440966010 | Xplor Technologies | Product Manager- In Person Payments | posted=2026-07-15
+- [ ] https://www.linkedin.com/jobs/view/4440951707 | Xplor Technologies | Product Manager - Direct Debit & Alternate Payments | posted=2026-07-15
+- [ ] https://www.linkedin.com/jobs/view/4438076743 | ValGenesis | Platform Product Manager, AI/ML | posted=2026-07-15
+- [ ] https://www.linkedin.com/jobs/view/4440203490 | Truevet Animal Nutrition | Product Manager | posted=2026-07-15
+- [ ] https://jobs.lever.co/jobgether/821f51e2-b6f6-4985-b3a3-24cce0f7677b | Jobgether | Chief Product Officer | posted=2026-07-15
+- [ ] https://jobs.lever.co/jobgether/ed5ec5ce-0217-42b7-9b82-8381c57774b4 | Jobgether | Product Manager, Self Managed Service | posted=2026-07-15
+- [ ] https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Senior-Director--Builder-SE_JR350005 | Salesforce | Senior Director, Builder SE | posted=2026-07-15
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

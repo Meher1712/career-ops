@@ -2480,6 +2480,13 @@ Pune, India | posted=2026-06-28
 - [ ] https://job-boards.greenhouse.io/scopely/jobs/5323240008?gh_jid=5323240008 | Scopely | Product Manager - Star Trek Fleet Command | posted=2026-07-15
 - [ ] https://job-boards.greenhouse.io/scopely/jobs/5323238008?gh_jid=5323238008 | Scopely | Senior Product Manager - Star Trek Fleet Command | posted=2026-07-15
 
+- [ ] https://www.linkedin.com/jobs/view/4440228772 | Sunlane Cleantech | Senior Product Manager | posted=2026-07-15
+- [ ] https://www.linkedin.com/jobs/view/4440228862 | Scopely | Product Manager - Star Trek Fleet Command | posted=2026-07-15
+- [ ] https://www.linkedin.com/jobs/view/4440244434 | Lowe's India | Sr Product Manager | posted=2026-07-15
+- [ ] https://www.linkedin.com/jobs/view/4440229800 | Scopely | Senior Product Manager - Star Trek Fleet Command | posted=2026-07-15
+- [ ] https://www.linkedin.com/jobs/view/4440239483 | TalentXO | Forward Deployed Product Manager (Ex-Sprinklr) | posted=2026-07-15
+- [ ] https://www.linkedin.com/jobs/view/4441212318 | Roche | P&C Integration Product Owner - RDT Group Functions | posted=2026-07-15
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

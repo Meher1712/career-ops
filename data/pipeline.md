@@ -2427,6 +2427,23 @@ Pune, India | posted=2026-06-28
 - [ ] https://job-boards.greenhouse.io/tekion/jobs/7804972003 | Tekion Corp | Senior Product Manager | posted=2026-07-14
 - [ ] https://www.inovalon.com/careers/job/?gh_jid=7804891003 | Inovalon | Senior Product Manager (Real World Data) | posted=2026-07-14
 
+- [ ] https://www.linkedin.com/jobs/view/4438074126 | Delphi Consulting | Product Owner & Business Analysis | posted=2026-07-15
+- [ ] https://www.linkedin.com/jobs/view/4438072095 | MSBC Group | Product Owner | posted=2026-07-15
+- [ ] https://www.linkedin.com/jobs/view/4438072278 | JioStar | Senior Product Manager | posted=2026-07-15
+- [ ] https://www.linkedin.com/jobs/view/4440204001 | Michael Page | Group Product Manager, Growth || 8+ yrs || Bangalore || Hybrid | posted=2026-07-15
+- [ ] https://www.linkedin.com/jobs/view/4440950257 | Aptiv | Product Owner - AUTOSAR, Embedded Systems | posted=2026-07-15
+- [ ] https://www.linkedin.com/jobs/view/4438063817 | Northern Trust | Sr Principal - ServiceNow Product Owner | posted=2026-07-15
+- [ ] https://www.linkedin.com/jobs/view/4439988414 | IKEA | Product Owner- Total Rewards | posted=2026-07-15
+- [ ] https://www.linkedin.com/jobs/view/4440935590 | Tek Grove | Oracle HCM Product Manager - IMMEDIATE Joiner | posted=2026-07-15
+- [ ] https://www.linkedin.com/jobs/view/4440917450 | Flexiple | Technical Product Manager | posted=2026-07-15
+- [ ] https://www.linkedin.com/jobs/view/4439450428 | GovPreneurs | Associate Product Manager - AI | posted=2026-07-15
+- [ ] https://www.linkedin.com/jobs/view/4439984708 | Jobgether | Chief Product Officer | posted=2026-07-15
+- [ ] https://www.linkedin.com/jobs/view/4439990579 | Ourshopee.com | Product Manager | posted=2026-07-15
+- [ ] https://www.linkedin.com/jobs/view/4439980700 | Jobgether | Product Manager, Self Managed Service | posted=2026-07-15
+- [ ] https://www.linkedin.com/jobs/view/4439989716 | Adwize.io | Product Manager | posted=2026-07-15
+- [ ] https://www.linkedin.com/jobs/view/4438078119 | QuCatalyst Corporate Services LLP | Product Manager | posted=2026-07-15
+- [ ] https://www.linkedin.com/jobs/view/4439979799 | CG-VAK Software & Exports Ltd. | Forward Deployed Product Manager | posted=2026-07-15
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

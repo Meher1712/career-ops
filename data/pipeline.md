@@ -2492,6 +2492,19 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4438474034 | Persistent Systems | Product Manager | posted=2026-07-16
 - [ ] https://www.digicert.com/careers/?gh_jid=8624349002 | Digicert | Product Manager | posted=2026-07-15
 
+- [ ] https://www.linkedin.com/jobs/view/4438488514 | Credarix | Product Manager | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4440659413 | ADP | Lead Product Manager | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4436674878 | BASF | Product Manager Procurement Solutions - (m/f/d) | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4441438308 | FIRY | Lead Product Manager | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4436676867 | BASF | Product Manager Order to Invoice - (m/f/d) | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4438481665 | PayU | Associate Product Manager - Growth & Retention | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4441427809 | Truein | Senior Technical Product Manager | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4441429740 | Flexiple | Technical Product Manager | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4438473962 | Carrier | Data Product Owner | posted=2026-07-16
+- [ ] https://job-boards.greenhouse.io/inmobi/jobs/8030079 | InMobi Advertising | Product Manager - Central Data Repository for People Analytics & AI/Automation  | posted=2026-07-16
+- [ ] https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Senior-Product-Manager---Informatica_JR343874 | Salesforce | Senior Product Manager - Informatica | posted=2026-07-16
+- [ ] https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Director--Product-Management--AgentExchange_JR351271 | Salesforce | Director, Product Management, AgentExchange | posted=2026-07-16
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

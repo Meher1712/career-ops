@@ -2505,6 +2505,15 @@ Pune, India | posted=2026-06-28
 - [ ] https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Senior-Product-Manager---Informatica_JR343874 | Salesforce | Senior Product Manager - Informatica | posted=2026-07-16
 - [ ] https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Director--Product-Management--AgentExchange_JR351271 | Salesforce | Director, Product Management, AgentExchange | posted=2026-07-16
 
+- [ ] https://www.linkedin.com/jobs/view/4441446879 | Emerson | Senior Product Manager | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4438712098 | Mastercard | Senior Specialist, Product Management - Data Analytics | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4440690395 | TechRBM | Senior BI Product Owner | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4412778489 | NTT DATA North America | Product Manager - Microsoft Dynamics CRM & Field Service | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4440689447 | ADP | Senior Manager - Product Management | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4440697071 | RBST Consulting | Product Manager – Ophthalmic Diagnostic Portfolio (8+ yrs exp in Optha Medical devices) | posted=2026-07-16
+- [ ] https://jobs.lever.co/jobgether/76ad2fed-1741-4b35-b524-9d93760cc8ce | Jobgether | Head of Product (Core/PAM) | posted=2026-07-16
+- [ ] https://jobs.lever.co/jobgether/3e59212c-12b3-4bba-88fa-92962c988012 | Jobgether | Senior Product Builder | posted=2026-07-16
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

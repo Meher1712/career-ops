@@ -2514,6 +2514,30 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/jobgether/76ad2fed-1741-4b35-b524-9d93760cc8ce | Jobgether | Head of Product (Core/PAM) | posted=2026-07-16
 - [ ] https://jobs.lever.co/jobgether/3e59212c-12b3-4bba-88fa-92962c988012 | Jobgether | Senior Product Builder | posted=2026-07-16
 
+- [ ] https://www.linkedin.com/jobs/view/4441460482 | Flexiple | Group Product Manager | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4438705791 | IQnext | Sr Product Manager | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4432893534 | Amazon | Sr. Product Manager, Returns, Worldwide Returns and Recommerce | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4381349344 | hackajob | Technical Product Owner | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4420714142 | HighLevel | Sr. Product Manager - Phone Platform | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4437613096 | Ontic | Product Owner | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4441470568 | Commonwealth Bank | Technology Product Owner | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4441463570 | Amazon | Sr. Product Manager - Tech, Alexa Smart Properties | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4440717662 | TechRBM | Sr. BI Product Owner | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4441467582 | PwC India | IN_Senior Associate_Technical Product Manager_GCC_Advisory_Bnaglore | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4441470603 | Lokal | Associate Product Manager - Lokal Jobs App | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4441461968 | Viceroy Engineering | Product Manager | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4440734732 | NxtWave | Product Manager | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4438705811 | CodeRound AI | AI Product Manager (Up to 65LPA) | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4440746333 | Tanla Platforms Limited | Product Manager | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4404834210 | Vensure Employer Solutions | Product Manager | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4414583411 | TeamViewer | Product Manager – Asset Inventory & Asset Optimization (Core DEX Platform) | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4433058501 | QAD | Senior Product Manager | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4422473108 | Appian | Product Manager II - Cloud Infrastructure | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4433009171 | Amazon | Sr Manager, Product Management, Amazon Customer Service | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4440736201 | Scoutit | Product Manager | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4432596169 | LPL Financial Global Capability Center | AVP - Product Manager – Cash & Liquidity Management | posted=2026-07-16
+- [ ] https://apply.workable.com/j/3F4C4CC972 | Lokal App | Associate Product Manager - Lokal Jobs App | posted=2026-07-16
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

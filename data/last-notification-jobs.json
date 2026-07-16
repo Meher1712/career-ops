@@ -1,33 +1,89 @@
 {
-  "generated_at": "2026-07-16T05:50:14.327Z",
+  "generated_at": "2026-07-16T08:35:42.878Z",
   "jobs": [
     {
       "n": 1,
       "title": "Product Manager",
-      "company": "Nua",
+      "company": "Credarix",
       "location": "Mumbai Metropolitan Region",
-      "url": "https://www.linkedin.com/jobs/view/4438459761"
+      "url": "https://www.linkedin.com/jobs/view/4438488514"
     },
     {
       "n": 2,
-      "title": "Product Manager",
-      "company": "ValueLabs",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://www.linkedin.com/jobs/view/4440646254"
+      "title": "Lead Product Manager",
+      "company": "ADP",
+      "location": "Chennai, Tamil Nadu, India",
+      "url": "https://www.linkedin.com/jobs/view/4440659413"
     },
     {
       "n": 3,
-      "title": "Product Manager",
-      "company": "Persistent Systems",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4438474034"
+      "title": "Product Manager Procurement Solutions - (m/f/d)",
+      "company": "BASF",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.linkedin.com/jobs/view/4436674878"
     },
     {
       "n": 4,
-      "title": "Product Manager",
-      "company": "Digicert",
+      "title": "Lead Product Manager",
+      "company": "FIRY",
+      "location": "Greater Bengaluru Area",
+      "url": "https://www.linkedin.com/jobs/view/4441438308"
+    },
+    {
+      "n": 5,
+      "title": "Product Manager Order to Invoice - (m/f/d)",
+      "company": "BASF",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.linkedin.com/jobs/view/4436676867"
+    },
+    {
+      "n": 6,
+      "title": "Associate Product Manager - Growth & Retention",
+      "company": "PayU",
+      "location": "Mumbai Metropolitan Region",
+      "url": "https://www.linkedin.com/jobs/view/4438481665"
+    },
+    {
+      "n": 7,
+      "title": "Senior Technical Product Manager",
+      "company": "Truein",
+      "location": "Pune District, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4441427809"
+    },
+    {
+      "n": 8,
+      "title": "Technical Product Manager",
+      "company": "Flexiple",
+      "location": "India",
+      "url": "https://www.linkedin.com/jobs/view/4441429740"
+    },
+    {
+      "n": 9,
+      "title": "Data Product Owner",
+      "company": "Carrier",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.linkedin.com/jobs/view/4438473962"
+    },
+    {
+      "n": 10,
+      "title": "Product Manager - Central Data Repository for People Analytics & AI/Automation ",
+      "company": "InMobi Advertising",
       "location": "Bangalore",
-      "url": "https://www.digicert.com/careers/?gh_jid=8624349002"
+      "url": "https://job-boards.greenhouse.io/inmobi/jobs/8030079"
+    },
+    {
+      "n": 11,
+      "title": "Senior Product Manager - Informatica",
+      "company": "Salesforce",
+      "location": "India - Bangalore",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Senior-Product-Manager---Informatica_JR343874"
+    },
+    {
+      "n": 12,
+      "title": "Director, Product Management, AgentExchange",
+      "company": "Salesforce",
+      "location": "India - Bangalore",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Director--Product-Management--AgentExchange_JR351271"
     }
   ]
 }

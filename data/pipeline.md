@@ -2551,6 +2551,11 @@ Pune, India | posted=2026-06-28
 - [ ] https://api.smartrecruiters.com/v1/companies/nagarro1/postings/744000138135910 | Nagarro | Product Manager | posted=2026-07-16
 - [ ] https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Senior-Product-Manager---Agentforce-IT_JR347614 | Salesforce | Senior Product Manager - Agentforce IT | posted=2026-07-16
 
+- [ ] https://www.linkedin.com/jobs/view/4438723728 | Swastika Investmart Limited | Senior Product Manager | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4432875071 | Five9 | Senior Product Manager - Agentic Cloud | India | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4432583993 | Acceldata | Principal Product Manager | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4440773177 | Recro | Product Manager | posted=2026-07-16
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

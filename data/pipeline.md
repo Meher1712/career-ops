@@ -2538,6 +2538,19 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4432596169 | LPL Financial Global Capability Center | AVP - Product Manager – Cash & Liquidity Management | posted=2026-07-16
 - [ ] https://apply.workable.com/j/3F4C4CC972 | Lokal App | Associate Product Manager - Lokal Jobs App | posted=2026-07-16
 
+- [ ] https://www.linkedin.com/jobs/view/4440751693 | TransUnion | Manager- Product Management | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4440748933 | GlobalLogic | Product Owner IRC296893 | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4440766221 | TransUnion | AVP - Product Management | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4441496349 | Caterpillar Inc. | Senior Digital Product Owner | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4413037499 | Sabre | Lead Product Manager – Reservations | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4441481885 | Caterpillar Inc. | Lead Product Owner | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4420712643 | SUN PHARMA | Product Manager - Prohance HP | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4439025023 | Aptiv | Software Product Owner | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4404440283 | Precision Medicine Group | Product Owner | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4404272419 | IDFC FIRST Bank | Product Manager - POS | posted=2026-07-16
+- [ ] https://api.smartrecruiters.com/v1/companies/nagarro1/postings/744000138135910 | Nagarro | Product Manager | posted=2026-07-16
+- [ ] https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Senior-Product-Manager---Agentforce-IT_JR347614 | Salesforce | Senior Product Manager - Agentforce IT | posted=2026-07-16
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

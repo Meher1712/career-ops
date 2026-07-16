@@ -2487,6 +2487,11 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4440239483 | TalentXO | Forward Deployed Product Manager (Ex-Sprinklr) | posted=2026-07-15
 - [ ] https://www.linkedin.com/jobs/view/4441212318 | Roche | P&C Integration Product Owner - RDT Group Functions | posted=2026-07-15
 
+- [ ] https://www.linkedin.com/jobs/view/4438459761 | Nua | Product Manager | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4440646254 | ValueLabs | Product Manager | posted=2026-07-16
+- [ ] https://www.linkedin.com/jobs/view/4438474034 | Persistent Systems | Product Manager | posted=2026-07-16
+- [ ] https://www.digicert.com/careers/?gh_jid=8624349002 | Digicert | Product Manager | posted=2026-07-15
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

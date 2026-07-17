@@ -2578,6 +2578,22 @@ Pune, India | posted=2026-06-28
 - [ ] https://api.smartrecruiters.com/v1/companies/nagarro1/postings/744000138274610 | Nagarro | Associate Director Product Owner (Retail and CPG) | posted=2026-07-17
 - [ ] https://jobs.lever.co/jobgether/4b03bcbf-cbcd-4bbf-9bb6-d521bbb5c0f7 | Jobgether | Manager- Product Management | posted=2026-07-17
 
+- [ ] https://www.linkedin.com/jobs/view/4441170896 | Acko | Principal Product Manager (D2C) | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4441968405 | Harjai Technologies | Product Owner – Commercial Lines Mumbai / Pune | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4441168873 | Clarity Tax Technologies | Senior Product Manager - Tax Automation | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4439221046 | PwC Acceleration Center India | AI Product Manager  - Senior Associate | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4441961338 | SalesForce-ad | Senior Product Manager - LLM Fleet Management | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4432599596 | MSD | Senior Specialist, Technical Product Management | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4439204874 | Sapat global health pvt. ltd. | Technology Product Manager | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4441190122 | Exotel | Product Manager - 2 | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4439215449 | CodeRound AI | Product Manager (Upto 60 LPA) | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4441171749 | FITPASS | Associate Product Manager / PM-1 | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4441952745 | Johnson & Johnson Innovative Medicine | Technical Product Manager - Treasury | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4432652471 | ShipBob | Senior AI Product Builder - Transportation Technologies | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4441178323 | Truevet Animal Nutrition | Product Manager (Animal Health & Nutrition) | posted=2026-07-17
+- [ ] https://job-boards.greenhouse.io/tekion/jobs/7790505003 | Tekion Corp | Product Manager II | posted=2026-07-17
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990014142226 | Nielsen | Senior Product Manager I ( Product Owner- Sports Products) | posted=2026-07-17
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

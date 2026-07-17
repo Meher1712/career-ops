@@ -2608,6 +2608,18 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4412875352 | Accenture in India | Product Owner | posted=2026-07-17
 - [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Lead-Product-Manager_JR108280-1 | Sabre | Lead Product Manager | posted=2026-07-17
 
+- [ ] https://www.linkedin.com/jobs/view/4441191651 | HealthRecon Connect | Product Manager | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4439223663 | ERP Logic Israel, SAP Partner | Digital COE Product Owner | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4439219981 | iServeU | Product Manager – Cards | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4441993296 | Flexiple | Senior Product Manager | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4433368450 | Honeywell Technologies | Sr Advanced Tech Product Owner | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4430284229 | Nielsen | Senior Product Manager II | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4441301388 | Nagarro | Associate Director Product Owner (Retail and CPG) | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4404721677 | IDFC FIRST Bank | Senior AI Product Manager | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4404503489 | Amazon | Sr.Product Manager - Tech, Trustworthy Shopping Experience - Ops | posted=2026-07-17
+- [ ] https://jobs.lever.co/jobgether/5a018460-b645-4b91-b0fa-44c39f5d3a47 | Jobgether | Product Manager – Progressive Web Apps (PWA) | posted=2026-07-17
+- [ ] https://jobs.lever.co/jobgether/13dd419d-75cb-4bfd-aa23-5d3736559462 | Jobgether | Senior Product Manager, Reporting & Insights | posted=2026-07-17
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

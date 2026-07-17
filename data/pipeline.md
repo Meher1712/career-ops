@@ -2620,6 +2620,21 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/jobgether/5a018460-b645-4b91-b0fa-44c39f5d3a47 | Jobgether | Product Manager – Progressive Web Apps (PWA) | posted=2026-07-17
 - [ ] https://jobs.lever.co/jobgether/13dd419d-75cb-4bfd-aa23-5d3736559462 | Jobgether | Senior Product Manager, Reporting & Insights | posted=2026-07-17
 
+- [ ] https://www.linkedin.com/jobs/view/4433232714 | Redpin | Senior Product Manager &gt; | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4441301734 | Commergence | Senior Adobe Commerce Product Owner | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4441303659 | Sabre | Lead Product Manager | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4439239662 | Barclays | Product Owner Technology - VP | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4433859585 | Solventum | Product Owner | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4439256150 | Barclays | Product Owner Technology | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4442122255 | Epicor | Product Manager -AI | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4410353455 | Lucy Electric | Primary Switchgear Product Manager | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4438779586 | Barclays | Product Manager | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4439239661 | Barclays | Product Manager - AVP | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4442120115 | r3 Consultant | AI Product Manager | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4442118368 | Volvo Financial Services | Digital Product Manager EaaS-Rental | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4442128116 | Volvo Financial Services | Digital Product Manager Payments and PSF | posted=2026-07-17
+- [ ] https://jobs.ashbyhq.com/Aspora/942572d4-2add-42b0-b0d5-88190d180145 | Aspora | Product Manager | posted=2026-07-17
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -1,33 +1,47 @@
 {
-  "generated_at": "2026-07-16T16:43:48.631Z",
+  "generated_at": "2026-07-17T05:56:40.900Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Senior Product Manager",
-      "company": "Swastika Investmart Limited",
-      "location": "Indore, Madhya Pradesh, India",
-      "url": "https://www.linkedin.com/jobs/view/4438723728"
+      "title": "Product Owner",
+      "company": "Mallow Technologies Private Limited",
+      "location": "Coimbatore, Tamil Nadu, India",
+      "url": "https://www.linkedin.com/jobs/view/4441160156"
     },
     {
       "n": 2,
-      "title": "Senior Product Manager - Agentic Cloud | India",
-      "company": "Five9",
-      "location": "Greater Bengaluru Area",
-      "url": "https://www.linkedin.com/jobs/view/4432875071"
+      "title": "Product Manager",
+      "company": "Jeffs group of companies",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4438778992"
     },
     {
       "n": 3,
-      "title": "Principal Product Manager",
-      "company": "Acceldata",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4432583993"
+      "title": "AI Product Manager",
+      "company": "r3 Consultant",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.linkedin.com/jobs/view/4441923868"
     },
     {
       "n": 4,
-      "title": "Product Manager",
-      "company": "Recro",
-      "location": "Mumbai Metropolitan Region",
-      "url": "https://www.linkedin.com/jobs/view/4440773177"
+      "title": "Product Manager - Tools and Automation",
+      "company": "Google Operations Center",
+      "location": "Bengaluru East, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4441156515"
+    },
+    {
+      "n": 5,
+      "title": "Lead Product Manager (Accounting Integrations)",
+      "company": "Zenoti",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://job-boards.greenhouse.io/zenoti/jobs/7806710003"
+    },
+    {
+      "n": 6,
+      "title": "Product Manager II",
+      "company": "Nielsen",
+      "location": "Gurugram, in",
+      "url": "https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990014141725"
     }
   ]
 }

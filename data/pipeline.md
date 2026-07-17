@@ -2563,6 +2563,21 @@ Pune, India | posted=2026-06-28
 - [ ] https://job-boards.greenhouse.io/zenoti/jobs/7806710003 | Zenoti | Lead Product Manager (Accounting Integrations) | posted=2026-07-17
 - [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990014141725 | Nielsen | Product Manager II | posted=2026-07-17
 
+- [ ] https://www.linkedin.com/jobs/view/4438798707 | Nielsen | Senior Product Manager I ( Product Owner- Sports Products) | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4438798427 | BT Group | Senior Manager, Product Owner | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4441157751 | IDFC FIRST Bank | Senior Product Manager - Current Account | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4441164617 | Cotiviti | Technical Product Owner | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4441953296 | Weekday AI (YC W21) | Technical Product Manager Staff | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4439207333 | Weekday (YC W21) | Technical Product Manager Staff | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4439206406 | Nielsen | Product Manager II | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4441173371 | DeHaat | AI - Product Manager | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4441171403 | IDFC FIRST Bank | Portfolio Product Manager-NRI | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4441938941 | Rakuten Symphony | Product Manager (Telecom) | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4441936894 | SquadStack.ai | Assistant Product Manager | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4441926981 | Degreed | Product Manager, Analytics | Bengaluru, IN | posted=2026-07-17
+- [ ] https://api.smartrecruiters.com/v1/companies/nagarro1/postings/744000138274610 | Nagarro | Associate Director Product Owner (Retail and CPG) | posted=2026-07-17
+- [ ] https://jobs.lever.co/jobgether/4b03bcbf-cbcd-4bbf-9bb6-d521bbb5c0f7 | Jobgether | Manager- Product Management | posted=2026-07-17
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

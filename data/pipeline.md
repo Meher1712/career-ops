@@ -2594,6 +2594,20 @@ Pune, India | posted=2026-06-28
 - [ ] https://job-boards.greenhouse.io/tekion/jobs/7790505003 | Tekion Corp | Product Manager II | posted=2026-07-17
 - [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990014142226 | Nielsen | Senior Product Manager I ( Product Owner- Sports Products) | posted=2026-07-17
 
+- [ ] https://www.linkedin.com/jobs/view/4441962930 | Clearwater Analytics | Product Manager – PMS Reporting | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4392953708 | Amazon | Sr. Manager, Product Management Tech, India Advertising | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4441177961 | Jobgether | Senior Product Manager, Reporting & Insights | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4439227458 | Chevron | Digital Product Owner | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4439234113 | Cotecna | Product Owner – CCH Tagetik EPM | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4441192409 | Jobgether | Product Manager – Progressive Web Apps (PWA) | posted=2026-07-17
+- [ ] https://job-boards.greenhouse.io/capco/jobs/8045191 | Capco | Product Manager | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4441195355 | DUA - The Joy of Sharing | technical product manager - technology | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4441969493 | Flexiple | Group Product Manager | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4441189332 | American Express | Senior Associate-Digital Product Management | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4441967603 | Flexiple | Technical Product Manager | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4412875352 | Accenture in India | Product Owner | posted=2026-07-17
+- [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Lead-Product-Manager_JR108280-1 | Sabre | Lead Product Manager | posted=2026-07-17
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

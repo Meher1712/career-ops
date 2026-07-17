@@ -1,47 +1,103 @@
 {
-  "generated_at": "2026-07-17T05:56:40.900Z",
+  "generated_at": "2026-07-17T08:29:19.089Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Product Owner",
-      "company": "Mallow Technologies Private Limited",
-      "location": "Coimbatore, Tamil Nadu, India",
-      "url": "https://www.linkedin.com/jobs/view/4441160156"
+      "title": "Senior Product Manager I ( Product Owner- Sports Products)",
+      "company": "Nielsen",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4438798707"
     },
     {
       "n": 2,
-      "title": "Product Manager",
-      "company": "Jeffs group of companies",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4438778992"
+      "title": "Senior Manager, Product Owner",
+      "company": "BT Group",
+      "location": "Delhi, India",
+      "url": "https://www.linkedin.com/jobs/view/4438798427"
     },
     {
       "n": 3,
-      "title": "AI Product Manager",
-      "company": "r3 Consultant",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://www.linkedin.com/jobs/view/4441923868"
+      "title": "Senior Product Manager - Current Account",
+      "company": "IDFC FIRST Bank",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4441157751"
     },
     {
       "n": 4,
-      "title": "Product Manager - Tools and Automation",
-      "company": "Google Operations Center",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4441156515"
+      "title": "Technical Product Owner",
+      "company": "Cotiviti",
+      "location": "Greater Hyderabad Area",
+      "url": "https://www.linkedin.com/jobs/view/4441164617"
     },
     {
       "n": 5,
-      "title": "Lead Product Manager (Accounting Integrations)",
-      "company": "Zenoti",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://job-boards.greenhouse.io/zenoti/jobs/7806710003"
+      "title": "Technical Product Manager Staff",
+      "company": "Weekday AI (YC W21)",
+      "location": "Chennai, Tamil Nadu, India",
+      "url": "https://www.linkedin.com/jobs/view/4441953296"
     },
     {
       "n": 6,
+      "title": "Technical Product Manager Staff",
+      "company": "Weekday (YC W21)",
+      "location": "Chennai, Tamil Nadu, India",
+      "url": "https://www.linkedin.com/jobs/view/4439207333"
+    },
+    {
+      "n": 7,
       "title": "Product Manager II",
       "company": "Nielsen",
-      "location": "Gurugram, in",
-      "url": "https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990014141725"
+      "location": "Gurugram, Haryana, India",
+      "url": "https://www.linkedin.com/jobs/view/4439206406"
+    },
+    {
+      "n": 8,
+      "title": "AI - Product Manager",
+      "company": "DeHaat",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://www.linkedin.com/jobs/view/4441173371"
+    },
+    {
+      "n": 9,
+      "title": "Portfolio Product Manager-NRI",
+      "company": "IDFC FIRST Bank",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4441171403"
+    },
+    {
+      "n": 10,
+      "title": "Product Manager (Telecom)",
+      "company": "Rakuten Symphony",
+      "location": "Bangalore Urban, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4441938941"
+    },
+    {
+      "n": 11,
+      "title": "Assistant Product Manager",
+      "company": "SquadStack.ai",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://www.linkedin.com/jobs/view/4441936894"
+    },
+    {
+      "n": 12,
+      "title": "Product Manager, Analytics | Bengaluru, IN",
+      "company": "Degreed",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4441926981"
+    },
+    {
+      "n": 13,
+      "title": "Associate Director Product Owner (Retail and CPG)",
+      "company": "Nagarro",
+      "location": "Remote, in",
+      "url": "https://api.smartrecruiters.com/v1/companies/nagarro1/postings/744000138274610"
+    },
+    {
+      "n": 14,
+      "title": "Manager- Product Management",
+      "company": "Jobgether",
+      "location": "India",
+      "url": "https://jobs.lever.co/jobgether/4b03bcbf-cbcd-4bbf-9bb6-d521bbb5c0f7"
     }
   ]
 }

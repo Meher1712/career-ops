@@ -2556,6 +2556,13 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4432583993 | Acceldata | Principal Product Manager | posted=2026-07-16
 - [ ] https://www.linkedin.com/jobs/view/4440773177 | Recro | Product Manager | posted=2026-07-16
 
+- [ ] https://www.linkedin.com/jobs/view/4441160156 | Mallow Technologies Private Limited | Product Owner | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4438778992 | Jeffs group of companies | Product Manager | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4441923868 | r3 Consultant | AI Product Manager | posted=2026-07-17
+- [ ] https://www.linkedin.com/jobs/view/4441156515 | Google Operations Center | Product Manager - Tools and Automation | posted=2026-07-17
+- [ ] https://job-boards.greenhouse.io/zenoti/jobs/7806710003 | Zenoti | Lead Product Manager (Accounting Integrations) | posted=2026-07-17
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990014141725 | Nielsen | Product Manager II | posted=2026-07-17
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

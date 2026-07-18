@@ -2649,6 +2649,17 @@ Pune, India | posted=2026-06-28
 
 - [ ] https://www.linkedin.com/jobs/view/4442450653 | Freshworks | Staff Product Manager – IT Operations Management (ITOM) | posted=2026-07-18
 
+- [ ] https://www.linkedin.com/jobs/view/4439612678 | Smart Food Safe | Senior Product Manager | posted=2026-07-18
+- [ ] https://www.linkedin.com/jobs/view/4404435272 | Precision AQ | Product Owner | posted=2026-07-18
+- [ ] https://www.linkedin.com/jobs/view/4433280462 | Scopely | Lead Product Manager - Star Trek Fleet Command | posted=2026-07-18
+- [ ] https://www.linkedin.com/jobs/view/4442478000 | Flexiple | Senior Product Manager | posted=2026-07-18
+- [ ] https://www.linkedin.com/jobs/view/4411588698 | Modulr | Senior Product Manager- Cards | posted=2026-07-18
+- [ ] https://www.linkedin.com/jobs/view/4442469352 | U.S. Bank | Senior Product Manager | posted=2026-07-18
+- [ ] https://www.linkedin.com/jobs/view/4441717949 | AstraZeneca | Senior Product Manager – Enterprise DevOps Platforms | posted=2026-07-18
+- [ ] https://www.linkedin.com/jobs/view/4439620370 | Meril | Product Manager – Sterilization Capital Equipment | posted=2026-07-18
+- [ ] https://www.linkedin.com/jobs/view/4442475205 | Flexiple | Product Manager | posted=2026-07-18
+- [ ] https://api.smartrecruiters.com/v1/companies/Freshworks/postings/744000138453019 | Freshworks | Staff Product Manager – IT Operations Management (ITOM) | posted=2026-07-18
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

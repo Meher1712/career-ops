@@ -2635,6 +2635,10 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4442128116 | Volvo Financial Services | Digital Product Manager Payments and PSF | posted=2026-07-17
 - [ ] https://jobs.ashbyhq.com/Aspora/942572d4-2add-42b0-b0d5-88190d180145 | Aspora | Product Manager | posted=2026-07-17
 
+- [ ] https://www.linkedin.com/jobs/view/4439286827 | Takeda | Digital Pricing Product Owner | posted=2026-07-18
+- [ ] https://www.linkedin.com/jobs/view/4439296520 | Takeda | Digital Access Product Owner | posted=2026-07-18
+- [ ] https://www.linkedin.com/jobs/view/4439284888 | Takeda | Value and Evidence Product Owner | posted=2026-07-18
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

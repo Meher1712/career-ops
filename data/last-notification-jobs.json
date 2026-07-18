@@ -1,12 +1,75 @@
 {
-  "generated_at": "2026-07-18T11:18:48.111Z",
+  "generated_at": "2026-07-18T13:51:31.426Z",
   "jobs": [
     {
       "n": 1,
+      "title": "Senior Product Manager",
+      "company": "Smart Food Safe",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4439612678"
+    },
+    {
+      "n": 2,
+      "title": "Product Owner",
+      "company": "Precision AQ",
+      "location": "India",
+      "url": "https://www.linkedin.com/jobs/view/4404435272"
+    },
+    {
+      "n": 3,
+      "title": "Lead Product Manager - Star Trek Fleet Command",
+      "company": "Scopely",
+      "location": "Greater Bengaluru Area",
+      "url": "https://www.linkedin.com/jobs/view/4433280462"
+    },
+    {
+      "n": 4,
+      "title": "Senior Product Manager",
+      "company": "Flexiple",
+      "location": "India",
+      "url": "https://www.linkedin.com/jobs/view/4442478000"
+    },
+    {
+      "n": 5,
+      "title": "Senior Product Manager- Cards",
+      "company": "Modulr",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4411588698"
+    },
+    {
+      "n": 6,
+      "title": "Senior Product Manager",
+      "company": "U.S. Bank",
+      "location": "Chennai, Tamil Nadu, India",
+      "url": "https://www.linkedin.com/jobs/view/4442469352"
+    },
+    {
+      "n": 7,
+      "title": "Senior Product Manager – Enterprise DevOps Platforms",
+      "company": "AstraZeneca",
+      "location": "Chennai, Tamil Nadu, India",
+      "url": "https://www.linkedin.com/jobs/view/4441717949"
+    },
+    {
+      "n": 8,
+      "title": "Product Manager – Sterilization Capital Equipment",
+      "company": "Meril",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4439620370"
+    },
+    {
+      "n": 9,
+      "title": "Product Manager",
+      "company": "Flexiple",
+      "location": "India",
+      "url": "https://www.linkedin.com/jobs/view/4442475205"
+    },
+    {
+      "n": 10,
       "title": "Staff Product Manager – IT Operations Management (ITOM)",
       "company": "Freshworks",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4442450653"
+      "location": "Bengaluru, in",
+      "url": "https://api.smartrecruiters.com/v1/companies/Freshworks/postings/744000138453019"
     }
   ]
 }

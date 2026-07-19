@@ -2683,6 +2683,9 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4442536119 | Snapdeal | Associate Product Manager | posted=2026-07-19
 - [ ] https://www.linkedin.com/jobs/view/4442524705 | Flexiple | Senior Product Manager | posted=2026-07-19
 
+- [ ] https://www.linkedin.com/jobs/view/4439690035 | UniversityTech.io 🦾 Grow your business with IP | Product Manager | posted=2026-07-19
+- [ ] https://www.linkedin.com/jobs/view/4414979550 | BNY | Senior Specialist, POM Product Owner | posted=2026-07-19
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -1,19 +1,26 @@
 {
-  "generated_at": "2026-07-18T16:13:40.225Z",
+  "generated_at": "2026-07-19T08:34:07.134Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Product Owner - Data Management - Associate",
-      "company": "hackajob",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4441741074"
+      "title": "Group Product Manager - Fulfillment",
+      "company": "Kwan Ventures",
+      "location": "Greater Bengaluru Area",
+      "url": "https://www.linkedin.com/jobs/view/4441774454"
     },
     {
       "n": 2,
-      "title": "Product Manager Performance - Star Trek Fleet Command",
-      "company": "Scopely",
-      "location": "Greater Bengaluru Area",
-      "url": "https://www.linkedin.com/jobs/view/4433279467"
+      "title": "Associate Product Manager",
+      "company": "Scoutit",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4441758956"
+    },
+    {
+      "n": 3,
+      "title": "Ops and Growth (Founding Team)",
+      "company": "Echovane",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4441780109"
     }
   ]
 }

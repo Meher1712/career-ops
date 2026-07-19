@@ -2671,6 +2671,10 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4441758956 | Scoutit | Associate Product Manager | posted=2026-07-19
 - [ ] https://www.linkedin.com/jobs/view/4441780109 | Echovane | Ops and Growth (Founding Team) | posted=2026-07-19
 
+- [ ] https://www.linkedin.com/jobs/view/4427823912 | EPAM Systems | Product Manager - ServiceNow | posted=2026-07-19
+- [ ] https://www.linkedin.com/jobs/view/4442527123 | OneInbox.ai (Techstars '25) | Product Manager — Studio & Growth | posted=2026-07-19
+- [ ] https://www.linkedin.com/jobs/view/4442516561 | OneInbox.ai (Techstars '25) | Product Manager — Data Platform & Marketplace | posted=2026-07-19
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -2702,6 +2702,21 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/jobgether/3224680d-12a1-44dc-86c3-f204714287e5 | Jobgether | Technical Product Owner 2 | posted=2026-07-20
 - [ ] https://www.linkedin.com/jobs/view/4442571576 | PW (PhysicsWallah) | Product Manager - II | posted=2026-07-20
 
+- [ ] https://www.linkedin.com/jobs/view/4440129328 | Soar | Senior Product Manager | posted=2026-07-20
+- [ ] https://www.linkedin.com/jobs/view/4433668231 | Fractal | Senior Product Owner | posted=2026-07-20
+- [ ] https://www.linkedin.com/jobs/view/4440125511 | IOT Solutions World | Senior Product Manager | posted=2026-07-20
+- [ ] https://www.linkedin.com/jobs/view/4442596308 | Wells Fargo | Senior Lead Product Owner - Payment Products | posted=2026-07-20
+- [ ] https://www.linkedin.com/jobs/view/4440130257 | Soar | Chief Product Officer | posted=2026-07-20
+- [ ] https://www.linkedin.com/jobs/view/4442701054 | LoansJagat | Product Manager | posted=2026-07-20
+- [ ] https://www.linkedin.com/jobs/view/4442592506 | TMUS Global Solutions | Technical Product Manager [T500-27206] | posted=2026-07-20
+- [ ] https://www.linkedin.com/jobs/view/4442589612 | Leucine - AI for Pharma | Product Manager | posted=2026-07-20
+- [ ] https://www.linkedin.com/jobs/view/4440129144 | LTIMindtree | Product Manager | posted=2026-07-20
+- [ ] https://www.linkedin.com/jobs/view/4412255723 | Revenera | Product Owner Manager | posted=2026-07-20
+- [ ] https://www.linkedin.com/jobs/view/4442023714 | Esse India | Canada immigration consultants in delhi | visa consultant delhi | Product manager For Australia  Opportunities | posted=2026-07-20
+- [ ] https://www.linkedin.com/jobs/view/4442584682 | Aditya Birla Fashion and Retail Ltd. | Product Manager, Van Heusen | posted=2026-07-20
+- [ ] https://api.smartrecruiters.com/v1/companies/Freshworks/postings/744000138563850 | Freshworks | Staff Product Manager | posted=2026-07-20
+- [ ] https://api.smartrecruiters.com/v1/companies/ixigo/postings/744000138573376 | ixigo | Senior Product Manager | posted=2026-07-20
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -2717,6 +2717,17 @@ Pune, India | posted=2026-06-28
 - [ ] https://api.smartrecruiters.com/v1/companies/Freshworks/postings/744000138563850 | Freshworks | Staff Product Manager | posted=2026-07-20
 - [ ] https://api.smartrecruiters.com/v1/companies/ixigo/postings/744000138573376 | ixigo | Senior Product Manager | posted=2026-07-20
 
+- [ ] https://www.linkedin.com/jobs/view/4440128907 | OpenText | Lead Product Manager | posted=2026-07-20
+- [ ] https://www.linkedin.com/jobs/view/4442708410 | NorthStar HR Consultants | Technical Product Manager | posted=2026-07-20
+- [ ] https://www.linkedin.com/jobs/view/4442713575 | iServeU | Product Manager - Prepaid  Card Solutions | posted=2026-07-20
+- [ ] https://www.linkedin.com/jobs/view/4440147277 | Inovalon | Senior Product Owner | posted=2026-07-20
+- [ ] https://www.linkedin.com/jobs/view/4431083575 | Motive | Senior / Staff Product Manager, Financial Products | posted=2026-07-20
+- [ ] https://www.linkedin.com/jobs/view/4442707426 | Amazon | Product Manager (FTC), Cross Border Science and Analytics | posted=2026-07-20
+- [ ] https://www.linkedin.com/jobs/view/4433839439 | D. E. Shaw India Private Limited | Lead, Product Management (Human Capital Products) | posted=2026-07-20
+- [ ] https://www.linkedin.com/jobs/view/4440147185 | Aperture Technical | Product Manager - Student | posted=2026-07-20
+- [ ] https://www.linkedin.com/jobs/view/4442712253 | Amazon | Senior Product Manager, Cross Border Science and Analytics | posted=2026-07-20
+- [ ] https://jobs.lever.co/jobgether/b46aec7b-c1f8-4e1a-855b-c0281d569af9 | Jobgether | Sr. Product Manager - Emerging Mobile Apps | posted=2026-07-20
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

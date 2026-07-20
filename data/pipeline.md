@@ -2728,6 +2728,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4442712253 | Amazon | Senior Product Manager, Cross Border Science and Analytics | posted=2026-07-20
 - [ ] https://jobs.lever.co/jobgether/b46aec7b-c1f8-4e1a-855b-c0281d569af9 | Jobgether | Sr. Product Manager - Emerging Mobile Apps | posted=2026-07-20
 
+- [ ] https://www.linkedin.com/jobs/view/4442721894 | Vanguard | Technical Product Manager, Senior Specialist | posted=2026-07-20
+- [ ] https://www.linkedin.com/jobs/view/4442729453 | Vanguard | Associate Product Manager, Specialist- Core - Tax Form and Delivery | posted=2026-07-20
+- [ ] https://www.linkedin.com/jobs/view/4442724710 | Vanguard | Senior Manager, Product Manager | posted=2026-07-20
+- [ ] https://job-boards.greenhouse.io/tekion/jobs/7651166003 | Tekion Corp | Senior Product Manager | posted=2026-07-20
+- [ ] https://www.inovalon.com/careers/job/?gh_jid=7797946003 | Inovalon | Senior Product Owner | posted=2026-07-20
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -2691,6 +2691,17 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4442542112 | SynthBee, Inc. | Product Manager | posted=2026-07-19
 - [ ] https://www.linkedin.com/jobs/view/4439682350 | FORVIA HELLA | Head of Product Management (Aftermarket ) | posted=2026-07-19
 
+- [ ] https://www.linkedin.com/jobs/view/4442024130 | Josys | Senior Product Manager | posted=2026-07-20
+- [ ] https://www.linkedin.com/jobs/view/4440106467 | HighRadius | Principal Product Manager | posted=2026-07-20
+- [ ] https://www.linkedin.com/jobs/view/4442580206 | Bureau | Senior Product Manager (Fintech Payments) | posted=2026-07-20
+- [ ] https://www.linkedin.com/jobs/view/4442025119 | Kazam | Product Manager - Electrical Systems | posted=2026-07-20
+- [ ] https://www.linkedin.com/jobs/view/4431653633 | INDmoney | Product Manager — US Stocks | posted=2026-07-20
+- [ ] https://www.linkedin.com/jobs/view/4442569806 | Innova ESI | Product Owner | posted=2026-07-20
+- [ ] https://www.linkedin.com/jobs/view/4440118130 | ClanX | Director of Product Management | posted=2026-07-20
+- [ ] https://www.linkedin.com/jobs/view/4440119021 | airtel | Associate Product Manager - Fintech | posted=2026-07-20
+- [ ] https://jobs.lever.co/jobgether/3224680d-12a1-44dc-86c3-f204714287e5 | Jobgether | Technical Product Owner 2 | posted=2026-07-20
+- [ ] https://www.linkedin.com/jobs/view/4442571576 | PW (PhysicsWallah) | Product Manager - II | posted=2026-07-20
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

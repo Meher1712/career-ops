@@ -2734,6 +2734,13 @@ Pune, India | posted=2026-06-28
 - [ ] https://job-boards.greenhouse.io/tekion/jobs/7651166003 | Tekion Corp | Senior Product Manager | posted=2026-07-20
 - [ ] https://www.inovalon.com/careers/job/?gh_jid=7797946003 | Inovalon | Senior Product Owner | posted=2026-07-20
 
+- [ ] https://www.linkedin.com/jobs/view/4442759460 | Revantage, A Blackstone Portfolio Company | Product Manager | posted=2026-07-20
+- [ ] https://www.linkedin.com/jobs/view/4442782036 | Amazon | Product Manager - Tech, TimeHub | posted=2026-07-20
+- [ ] https://www.linkedin.com/jobs/view/4421930777 | Mastercard | Manager, Product Management | posted=2026-07-20
+- [ ] https://www.linkedin.com/jobs/view/4442217232 | TransUnion | Senior Advisor, GenAI Technical Product Management | posted=2026-07-20
+- [ ] https://www.linkedin.com/jobs/view/4442098563 | Western Union | Product Owner | posted=2026-07-20
+- [ ] https://www.linkedin.com/jobs/view/4442200767 | Schneider Electric | Principal, Product Owner | posted=2026-07-20
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

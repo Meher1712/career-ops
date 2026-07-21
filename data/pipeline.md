@@ -2757,6 +2757,24 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4440424547 | Arctic Wolf | Director of Product Operations | posted=2026-07-21
 - [ ] https://job-boards.greenhouse.io/tekion/jobs/7782738003 | Tekion Corp | Senior Product Manager | posted=2026-07-21
 
+- [ ] https://www.linkedin.com/jobs/view/4440447344 | Upland Software | Product Owner | posted=2026-07-21
+- [ ] https://www.linkedin.com/jobs/view/4442626289 | Standard Chartered India | Product Owner, WM Core Platform | posted=2026-07-21
+- [ ] https://www.linkedin.com/jobs/view/4430548580 | Securonix | Senior Product Manager (Cyber-Security) | posted=2026-07-21
+- [ ] https://job-boards.greenhouse.io/capco/jobs/8045190 | Capco | Product Manager | posted=2026-07-21
+- [ ] https://www.linkedin.com/jobs/view/4442613499 | Scoutit | Associate Product Manager | posted=2026-07-21
+- [ ] https://www.linkedin.com/jobs/view/4440450211 | VyomFix Labs | Product Manager | posted=2026-07-21
+- [ ] https://www.linkedin.com/jobs/view/4443356148 | i-TEK RFID | Product Manager | posted=2026-07-21
+- [ ] https://www.linkedin.com/jobs/view/4443361143 | Weekday AI (YC W21) | Technical Product Manager | posted=2026-07-21
+- [ ] https://www.linkedin.com/jobs/view/4443356051 | Dr. Reddy's Laboratories | Product Manager | posted=2026-07-21
+- [ ] https://www.linkedin.com/jobs/view/4443342814 | CodeRound AI | AI Product Manager (Up to 65LPA) | posted=2026-07-21
+- [ ] https://www.linkedin.com/jobs/view/4443353329 | Credgenics | Product Manager | posted=2026-07-21
+- [ ] https://www.linkedin.com/jobs/view/4442628295 | Recode Solutions | Product Manager | posted=2026-07-21
+- [ ] https://www.linkedin.com/jobs/view/4442612366 | Premas Life Sciences Pvt Ltd. | Product Manager - Clinical | posted=2026-07-21
+- [ ] https://www.linkedin.com/jobs/view/4442299937 | Jobin & Jismi |  Oracle Netsuite Solution provider Partner | SuiteCommerce Expert | VR and 3D | Technical Product Manager | posted=2026-07-21
+- [ ] https://www.linkedin.com/jobs/view/4442612602 | Association for Vision Rehabilitation and Employment - AVRE | Product Manager | posted=2026-07-21
+- [ ] https://www.linkedin.com/jobs/view/4439315487 | ABB | Technical Product Manager | posted=2026-07-21
+- [ ] https://www.linkedin.com/jobs/view/4442624375 | TE Connectivity | SPECIALIST - PRODUCT MANAGEMENT | posted=2026-07-21
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

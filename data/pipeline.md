@@ -2792,6 +2792,15 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4442635556 | Intel | Requisition to Order (R2O) – Technology Product Owner | posted=2026-07-21
 - [ ] https://www.linkedin.com/jobs/view/4442142794 | Ameriprise Financial Services, LLC | Manager-Servicenow Product Owner | posted=2026-07-21
 
+- [ ] https://www.linkedin.com/jobs/view/4425477749 | Honeywell Technologies | Sr Product Management Specialist | posted=2026-07-21
+- [ ] https://www.linkedin.com/jobs/view/4442652772 | Lyzr AI | Associate Product Manager | posted=2026-07-21
+- [ ] https://www.linkedin.com/jobs/view/4434955667 | MKS Inc. | Product Manager | posted=2026-07-21
+- [ ] https://www.linkedin.com/jobs/view/4443010008 | Nike | Senior Technical Product Manager, ITC | posted=2026-07-21
+- [ ] https://www.linkedin.com/jobs/view/4443392898 | PMs for Hire | Senior Product Manager | posted=2026-07-21
+- [ ] https://www.linkedin.com/jobs/view/4443511070 | PMs for Hire | Technical Product Manager, Specialist | posted=2026-07-21
+- [ ] https://careers.godaddy/jobs?gh_jid=7796115003 | GoDaddy | Product Manager | posted=2026-07-21
+- [ ] https://job-boards.greenhouse.io/dunnhumby/jobs/7806370003 | dunnhumby | Product Manager - Retail & Insights | posted=2026-07-21
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -2775,6 +2775,23 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4439315487 | ABB | Technical Product Manager | posted=2026-07-21
 - [ ] https://www.linkedin.com/jobs/view/4442624375 | TE Connectivity | SPECIALIST - PRODUCT MANAGEMENT | posted=2026-07-21
 
+- [ ] https://www.linkedin.com/jobs/view/4443370847 | dunnhumby | Product Manager - Retail & Insights | posted=2026-07-21
+- [ ] https://www.linkedin.com/jobs/view/4442649155 | super.money | Product Manager | posted=2026-07-21
+- [ ] https://www.linkedin.com/jobs/view/4440461377 | Kratikal | Product Manager | posted=2026-07-21
+- [ ] https://www.linkedin.com/jobs/view/4442650133 | Southwest Airlines | Product Owner | posted=2026-07-21
+- [ ] https://www.linkedin.com/jobs/view/4442651128 | Southwest Airlines | Sr Product Owner | posted=2026-07-21
+- [ ] https://www.linkedin.com/jobs/view/4425477748 | Honeywell Technologies | Sr Product Management Specialist | posted=2026-07-21
+- [ ] https://www.linkedin.com/jobs/view/4442635755 | TJX India | Staff Product Manager - Manhattan WMS/Active, SCI | posted=2026-07-21
+- [ ] https://www.linkedin.com/jobs/view/4443372750 | Flexiple | Product Manager | posted=2026-07-21
+- [ ] https://www.linkedin.com/jobs/view/4442651030 | Quince | Principal Product Manager (Accounts + Identity) | posted=2026-07-21
+- [ ] https://www.linkedin.com/jobs/view/4421907740 | project44 | Sr. Staff / Staff Product Manager | posted=2026-07-21
+- [ ] https://www.linkedin.com/jobs/view/4443375401 | The Premier Consultants ( Recruitment Company ) | Product Manager / Senior Product Manager – Merchant Platform Optimization | posted=2026-07-21
+- [ ] https://www.linkedin.com/jobs/view/4440470133 | Flexiple | Senior Product Manager | posted=2026-07-21
+- [ ] https://www.linkedin.com/jobs/view/4442631861 | IDFC FIRST Bank | Senior Product Manager-Digital Lending (Consumer Loans) | posted=2026-07-21
+- [ ] https://www.linkedin.com/jobs/view/4443392060 | Viceroy Engineering | Product Owner | posted=2026-07-21
+- [ ] https://www.linkedin.com/jobs/view/4442635556 | Intel | Requisition to Order (R2O) – Technology Product Owner | posted=2026-07-21
+- [ ] https://www.linkedin.com/jobs/view/4442142794 | Ameriprise Financial Services, LLC | Manager-Servicenow Product Owner | posted=2026-07-21
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

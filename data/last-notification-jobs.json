@@ -1,47 +1,61 @@
 {
-  "generated_at": "2026-07-21T06:06:56.042Z",
+  "generated_at": "2026-07-21T08:46:33.511Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Principal Product Manager",
-      "company": "Airtel Digital",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://www.linkedin.com/jobs/view/4440424146"
+      "title": "Product Manager - Data Platforms",
+      "company": "EPAM Systems",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4440415925"
     },
     {
       "n": 2,
-      "title": "Senior Product Manager",
-      "company": "Tekion Corp",
-      "location": "Chennai, Tamil Nadu, India",
-      "url": "https://www.linkedin.com/jobs/view/4440408742"
+      "title": "Product Manager",
+      "company": "Asper.ai",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4442609206"
     },
     {
       "n": 3,
-      "title": "Sr Manager/Director, Product Management – Platform Security & Privacy",
-      "company": "FICO",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4440423257"
+      "title": "Product Manager – AI Products",
+      "company": "OnPoint Insights",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4443312845"
     },
     {
       "n": 4,
-      "title": "Product Manager",
-      "company": "KeyValue",
-      "location": "Kochi, Kerala, India",
-      "url": "https://www.linkedin.com/jobs/view/4440414725"
+      "title": "Product Manager - Ad Tech & Monetization",
+      "company": "Mirchi",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://www.linkedin.com/jobs/view/4443337052"
     },
     {
       "n": 5,
-      "title": "AI Product Manager",
-      "company": "ThirdEye Data",
+      "title": "Product Manager",
+      "company": "Marvin",
       "location": "India",
-      "url": "https://www.linkedin.com/jobs/view/4443306491"
+      "url": "https://www.linkedin.com/jobs/view/4443316709"
     },
     {
       "n": 6,
-      "title": "Consultant , Product Management",
-      "company": "TransUnion",
+      "title": "Associate Product Manager",
+      "company": "Phenom",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.linkedin.com/jobs/view/4443329155"
+    },
+    {
+      "n": 7,
+      "title": "Director of Product Operations",
+      "company": "Arctic Wolf",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4442297224"
+      "url": "https://www.linkedin.com/jobs/view/4440424547"
+    },
+    {
+      "n": 8,
+      "title": "Senior Product Manager",
+      "company": "Tekion Corp",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://job-boards.greenhouse.io/tekion/jobs/7782738003"
     }
   ]
 }

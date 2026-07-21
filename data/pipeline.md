@@ -2748,6 +2748,15 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4443306491 | ThirdEye Data | AI Product Manager | posted=2026-07-21
 - [ ] https://www.linkedin.com/jobs/view/4442297224 | TransUnion | Consultant , Product Management | posted=2026-07-21
 
+- [ ] https://www.linkedin.com/jobs/view/4440415925 | EPAM Systems | Product Manager - Data Platforms | posted=2026-07-21
+- [ ] https://www.linkedin.com/jobs/view/4442609206 | Asper.ai | Product Manager | posted=2026-07-21
+- [ ] https://www.linkedin.com/jobs/view/4443312845 | OnPoint Insights | Product Manager – AI Products | posted=2026-07-21
+- [ ] https://www.linkedin.com/jobs/view/4443337052 | Mirchi | Product Manager - Ad Tech & Monetization | posted=2026-07-21
+- [ ] https://www.linkedin.com/jobs/view/4443316709 | Marvin | Product Manager | posted=2026-07-21
+- [ ] https://www.linkedin.com/jobs/view/4443329155 | Phenom | Associate Product Manager | posted=2026-07-21
+- [ ] https://www.linkedin.com/jobs/view/4440424547 | Arctic Wolf | Director of Product Operations | posted=2026-07-21
+- [ ] https://job-boards.greenhouse.io/tekion/jobs/7782738003 | Tekion Corp | Senior Product Manager | posted=2026-07-21
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

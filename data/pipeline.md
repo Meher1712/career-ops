@@ -2801,6 +2801,19 @@ Pune, India | posted=2026-06-28
 - [ ] https://careers.godaddy/jobs?gh_jid=7796115003 | GoDaddy | Product Manager | posted=2026-07-21
 - [ ] https://job-boards.greenhouse.io/dunnhumby/jobs/7806370003 | dunnhumby | Product Manager - Retail & Insights | posted=2026-07-21
 
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/8069243 | Twilio | Principal Product Manager, Enterprise Commerce Platform | posted=2026-07-21
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/8069245 | Twilio | Principal Product Manager - Product Catalog | posted=2026-07-21
+- [ ] https://www.linkedin.com/jobs/view/4442976779 | Torrent Pharmaceuticals Ltd | Group Product Manager | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4443732944 | Aditya Birla Lifestyle Brands Limited | Product Manager, Van Heusen | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4442985445 | Pine Labs | AI Associate Product Manager | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4443753515 | icogz | Digital Product Owner (Website & Growth) | posted=2026-07-22
+- [ ] https://job-boards.greenhouse.io/tekion/jobs/7806634003 | Tekion Corp | Senior Product Manager | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4440467642 | Ether | All-in-one Operating System for Schools | Product Manager | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4443733921 | Jobgether | Product Owner | posted=2026-07-22
+- [ ] https://jobs.ashbyhq.com/tilthq/244ef5e8-27e8-48b5-a186-d82dde4f25f6 | Tilt | Product Manager, Credit Card Growth | posted=2026-07-21
+- [ ] https://jobs.ashbyhq.com/tilthq/14108b61-76e4-4ac2-9e74-b9e8286bd7d8 | Tilt | Lead Product Manager, Everyday Money | posted=2026-07-21
+- [ ] https://jobs.ashbyhq.com/tilthq/4ca36cc4-295f-4709-90a8-2a3baec8eac1 | Tilt | Lead Product Manager, Growth | posted=2026-07-21
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

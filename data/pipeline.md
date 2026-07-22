@@ -2828,6 +2828,25 @@ Pune, India | posted=2026-06-28
 - [ ] https://api.smartrecruiters.com/v1/companies/Entain/postings/744000139021865 | Entain India | Jr Product Manager - ServiceNow | posted=2026-07-22
 - [ ] https://www.linkedin.com/jobs/view/4442998455 | Zenoti | Director -  Product Management (Payments/Fintech) | posted=2026-07-22
 
+- [ ] https://job-boards.greenhouse.io/tekion/jobs/7790680003 | Tekion Corp | Director, Product Management | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4443129386 | LateShipment.com | Senior Product Manager, Post-Purchase, On Autopilot | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4441037074 | Shipturtle | Product Manager | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4443137059 | Teradata | Principal Product Manager | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4441035322 | HCLTech | AI Product Manager | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4443794359 | Progress Software | Lead Product Manager I ( Product Manager ) | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4443142047 | Feature1.ai | Product Manager | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4443901356 | Trellix | Senior Product Manager - I | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4443126413 | Ericsson | Strategic Product Manager - HCP&P | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4443135179 | Jobgether | Senior Product Manager - Core Platform | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4435177917 | Accenture in India | Product Owner | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4443111880 | TechRBM | Senior BI Product Owner | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4426343316 | UST | Product Owner I | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4441023487 | INTANGLES LAB PRIVATE LIMITED | Product Owner-Embedded Systems | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4443135282 | Navi | Associate Product Manager | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4443125440 | Scoutit | Associate Product Manager | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4422762169 | Anaqua | Product Owner | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4441021783 | Infor | Product Manager, Associate | posted=2026-07-22
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

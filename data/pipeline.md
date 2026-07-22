@@ -2814,6 +2814,20 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.ashbyhq.com/tilthq/14108b61-76e4-4ac2-9e74-b9e8286bd7d8 | Tilt | Lead Product Manager, Everyday Money | posted=2026-07-21
 - [ ] https://jobs.ashbyhq.com/tilthq/4ca36cc4-295f-4709-90a8-2a3baec8eac1 | Tilt | Lead Product Manager, Growth | posted=2026-07-21
 
+- [ ] https://www.linkedin.com/jobs/view/4443101118 | Oracle | Principal Product Manager | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4442999345 | Zenoti | Lead Product Manager (Market + Billing) | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4443102252 | Zenoti | Lead Product Manager (Accounting Integrations) | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4440424217 | RCK Techiees Inc | Technical Product Owner | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4443773205 | Evolute Group | Senior Manager_Product Management | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4443771572 | CodeRound AI | Technical Product Manager - AI Platform (Up to 80LPA) | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4443772370 | Innova ESI | Product Manager (SaaS) - F2F Interview | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4442998892 | Finovate Global | Associate Product Manager - AI Products | posted=2026-07-22
+- [ ] https://job-boards.greenhouse.io/zenoti/jobs/7729931003 | Zenoti |  Lead Product Manager (Market + Billing) | posted=2026-07-22
+- [ ] https://job-boards.greenhouse.io/capco/jobs/8078733 | Capco | Product Manager | posted=2026-07-22
+- [ ] https://jobs.lever.co/jobgether/24d16d2d-bbca-4d14-a2ca-4ff36d46841c | Jobgether | Product Owner | posted=2026-07-22
+- [ ] https://api.smartrecruiters.com/v1/companies/Entain/postings/744000139021865 | Entain India | Jr Product Manager - ServiceNow | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4442998455 | Zenoti | Director -  Product Management (Payments/Fintech) | posted=2026-07-22
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

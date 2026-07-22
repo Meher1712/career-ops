@@ -2847,6 +2847,21 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4422762169 | Anaqua | Product Owner | posted=2026-07-22
 - [ ] https://www.linkedin.com/jobs/view/4441021783 | Infor | Product Manager, Associate | posted=2026-07-22
 
+- [ ] https://jobs.ashbyhq.com/sarvam/adbc090f-3aad-4b12-af36-a2f4b55c017e | Sarvam AI | Product Manager – Media & Entertainment, Sarvam Studio | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4425296556 | Priceline | Senior Product Manager | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4443130904 | ICON plc | Product Manager | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4443926497 | Sarvam | Product Manager – Media & Entertainment, Sarvam Studio | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4443142834 | Flexiple | Senior Product Manager | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4443915915 | Caterpillar Inc. | Lead Product Owner/Digital Product Manager | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4441045361 | Customer Capital | Product Manager(Flight Bookings) | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4441034942 | BT Group | Product Management Specialist | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4425530176 | hackajob | Product Manager | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4425804514 | ModMed India | Technical Product Owner | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4443152119 | Mahindra and Mahindra Limited [Automotive and Farm Equipment Business] | Product Manager - Product Insight Hub | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4443129949 | Shaadi.com | Associate Product Manager (B2C Product company, AI exposure, Tier 1 IIT) | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4443148506 | Flexiple | Product Manager | posted=2026-07-22
+- [ ] https://jobs.lever.co/jobgether/8431ab8c-6bfd-4280-9ece-f628e9df8f5c | Jobgether | Senior Product Manager - Core Platform | posted=2026-07-22
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

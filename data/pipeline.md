@@ -2862,6 +2862,15 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4443148506 | Flexiple | Product Manager | posted=2026-07-22
 - [ ] https://jobs.lever.co/jobgether/8431ab8c-6bfd-4280-9ece-f628e9df8f5c | Jobgether | Senior Product Manager - Core Platform | posted=2026-07-22
 
+- [ ] https://www.linkedin.com/jobs/view/4443183040 | Vanguard India | Senior Manager, Technical Product Manager | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4443936557 | TeamViewer | Product Manager – Unified Endpoint Management (UEM) | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4443156871 | Citi | Digital Product Manager - Vice President | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4441059543 | Mastercard | Manager, Product Management | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4443939772 | Capgemini | AI Product Manager | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4443181151 | Teradata | Senior Director, Product Management | posted=2026-07-22
+- [ ] https://www.linkedin.com/jobs/view/4422723431 | SUN PHARMA | Product Manager - Sunvizen | posted=2026-07-22
+- [ ] https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Product-Manager_JR352794 | Salesforce | Product Manager | posted=2026-07-22
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

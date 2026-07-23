@@ -2871,6 +2871,13 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4422723431 | SUN PHARMA | Product Manager - Sunvizen | posted=2026-07-22
 - [ ] https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Product-Manager_JR352794 | Salesforce | Product Manager | posted=2026-07-22
 
+- [ ] https://www.linkedin.com/jobs/view/4443490346 | Matrimony.com Limited | Growth Product Manager | posted=2026-07-23
+- [ ] https://www.linkedin.com/jobs/view/4444280529 | Titan Company Limited | Product Manager Revenue - Web-E-commerce P-105975 | posted=2026-07-23
+- [ ] https://www.linkedin.com/jobs/view/4443493241 | EXL | Product Owner | posted=2026-07-23
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/8076800 | Twilio | Staff, Data Product Manager | posted=2026-07-22
+- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8080890 | Smartsheet | Principal Product Manager - AI Creation & Growth (Remote Eligible) | posted=2026-07-22
+- [ ] https://jobs.lever.co/jobgether/de04fc89-c3f3-4e73-a94d-71f6d8503b20 | Jobgether | Anaplan Model Builder | posted=2026-07-23
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -2899,6 +2899,21 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4434674336 | McAfee | Product Manager - Payments | posted=2026-07-23
 - [ ] https://www.linkedin.com/jobs/view/4444424320 | Sage | Product Manager | posted=2026-07-23
 
+- [ ] https://www.linkedin.com/jobs/view/4443878376 | Clearwater Analytics | Senior Product Manager | posted=2026-07-23
+- [ ] https://www.linkedin.com/jobs/view/4443885085 | IDFC FIRST Bank | Senior Product Manager-Debit Cards | posted=2026-07-23
+- [ ] https://www.linkedin.com/jobs/view/4441535266 | Paul Street | AI Product Manager | posted=2026-07-23
+- [ ] https://www.linkedin.com/jobs/view/4443875322 | nTech Workforce | Hybris Product Manager | posted=2026-07-23
+- [ ] https://www.linkedin.com/jobs/view/4444446680 | Flexiple | Senior Product Manager | posted=2026-07-23
+- [ ] https://www.linkedin.com/jobs/view/4416629958 | TELUS Digital | Product Manager AI | posted=2026-07-23
+- [ ] https://www.linkedin.com/jobs/view/4443883136 | IDFC FIRST Bank | Product Manager-Retail FX/Remittances | posted=2026-07-23
+- [ ] https://www.linkedin.com/jobs/view/4444456247 | Flexiple | Product Manager | posted=2026-07-23
+- [ ] https://www.linkedin.com/jobs/view/4444463334 | Shuru | Product Manager | posted=2026-07-23
+- [ ] https://www.linkedin.com/jobs/view/4443875122 | CG-VAK Software & Exports Ltd. | Associate Product Manager-IIT | posted=2026-07-23
+- [ ] https://www.linkedin.com/jobs/view/4443864962 | Versatile Club Employer of Record | Growth Product Manager | posted=2026-07-23
+- [ ] https://www.linkedin.com/jobs/view/4444437803 | Airtel International LLP-Airtel Africa | Product Manager - NaaS | posted=2026-07-23
+- [ ] https://www.linkedin.com/jobs/view/4443877126 | CargoEZ | Product Manager | posted=2026-07-23
+- [ ] https://www.linkedin.com/jobs/view/4441532088 | DexCare | Technical Product Manager | posted=2026-07-23
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

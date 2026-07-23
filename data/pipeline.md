@@ -2890,6 +2890,15 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4443498847 | First Advantage | Director, Product Management (Crim Automation) | posted=2026-07-23
 - [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Lead-Product-Manager---Airline-Experience---AI_JR108400 | Sabre | Lead Product Manager - Airline Experience & AI | posted=2026-07-23
 
+- [ ] https://www.linkedin.com/jobs/view/4434668418 | Atlys | Senior Product Manager - Growth | posted=2026-07-23
+- [ ] https://www.linkedin.com/jobs/view/4441505767 | Airtel Digital | Senior Product Manager | posted=2026-07-23
+- [ ] https://www.linkedin.com/jobs/view/4444431094 | Rakuten Symphony | Product Manager, OSS | posted=2026-07-23
+- [ ] https://www.linkedin.com/jobs/view/4444425405 | Acara Solutions India, An Aleron Company | Product Manager | posted=2026-07-23
+- [ ] https://www.linkedin.com/jobs/view/4444416835 | Uplers | Staff Product Manager (Hybrid) | posted=2026-07-23
+- [ ] https://www.linkedin.com/jobs/view/4441522016 | Chapman Freeborn Airchartering | Microsoft Dynamics 365 Product Manager, India | posted=2026-07-23
+- [ ] https://www.linkedin.com/jobs/view/4434674336 | McAfee | Product Manager - Payments | posted=2026-07-23
+- [ ] https://www.linkedin.com/jobs/view/4444424320 | Sage | Product Manager | posted=2026-07-23
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

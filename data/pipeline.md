@@ -2914,6 +2914,13 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4443877126 | CargoEZ | Product Manager | posted=2026-07-23
 - [ ] https://www.linkedin.com/jobs/view/4441532088 | DexCare | Technical Product Manager | posted=2026-07-23
 
+- [ ] https://job-boards.greenhouse.io/phonepe/jobs/7813734003 | PhonePe | Product Manager : Data Platform | posted=2026-07-23
+- [ ] https://www.linkedin.com/jobs/view/4444004181 | Vanguard India | Senior Product Manager – Wealth Management | posted=2026-07-23
+- [ ] https://www.linkedin.com/jobs/view/4443577282 | Target | Sr Product Manager - Task Intelligence and Agentic Automation | posted=2026-07-23
+- [ ] https://www.linkedin.com/jobs/view/4345783059 | Glean | Product Manager, Glean Protect (Security & Governance) | posted=2026-07-23
+- [ ] https://www.linkedin.com/jobs/view/4443888637 | hackajob | Technical Product Manager | posted=2026-07-23
+- [ ] https://www.linkedin.com/jobs/view/4441529866 | Tekion Corp | Lead Product Manager | posted=2026-07-23
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

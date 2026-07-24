@@ -2940,6 +2940,15 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4444099729 | Zynga | Product Manager II | posted=2026-07-24
 - [ ] https://www.payoneer.com/careers/position/7361831/?gh_jid=7361831 | Payoneer | Senior Product Manager - Mobile App | posted=2026-07-24
 
+- [ ] https://jobs.ashbyhq.com/supabase/23c9ce7e-6b7b-4316-8f00-8f318e902441 | Supabase | Product Manager - Marketplace | posted=2026-07-24
+- [ ] https://job-boards.eu.greenhouse.io/sportygroup/jobs/4726304101 | Sporty Group | EU Product Manager | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4444953104 | Payoneer | Senior Product Manager - Mobile App | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4444331509 | Google | Group Product Manager, Agentic Transformation | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4444424261 | Hewlett Packard Enterprise | Senior Product Manager – Routing Portfolio (Enterprise & Service Provider Networking) | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4444947204 | OneTrust | Staff Product Manager (Technical) | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4444330611 | iProfit | Product Owner | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4436496937 | A.P. Moller - Maersk | Functional Product Manager - ITX | posted=2026-07-24
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

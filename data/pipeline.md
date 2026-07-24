@@ -2977,6 +2977,14 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4442789072 | E2M | AI Technical Product Manager | posted=2026-07-24
 - [ ] https://jobs.ashbyhq.com/tilthq/ffa705ba-4597-478a-9f88-dc33b006b93d | Tilt | Product Manager, Cash | posted=2026-07-24
 
+- [ ] https://www.linkedin.com/jobs/view/4436417403 | Oportun | Principal Product Manager | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4436409729 | Oportun | Principal Product Manager (R14043) | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4444978861 | GTMfund | Senior Product Manager | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4417065182 | SOTI | Manager, Product Management | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4441827226 | ACG World | Assistant Manager, Product Management | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4423657903 | Palo Alto Networks | Sr. Product Manager (AI Security, Primsa AIRS) - NetSec | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4416483007 | Ralph Lauren | Senior Associate, Product Management- Composable Commerce | posted=2026-07-24
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

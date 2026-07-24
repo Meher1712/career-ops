@@ -2963,6 +2963,20 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4433124201 | Candescent | Product Owner II | posted=2026-07-24
 - [ ] https://www.linkedin.com/jobs/view/4444937881 | HighLevel | Staff Product Manager - Mobile Platform | posted=2026-07-24
 
+- [ ] https://www.linkedin.com/jobs/view/4444971764 | Flexiple | Senior Product Manager | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4444366157 | Haystek Technologies | Product Owner - Website Conversion & Growth | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4424810013 | SUN PHARMA | Group Product Manager - Sunvizen | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4436710457 | Warner Bros. Discovery | Senior Staff Product Manager - Technical (AI/ML), Data & Audience Platform Team, Hyderabad | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4444363742 | Amadeus | Senior Product Owner | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4444961798 | Experian | Senior Product Manager – Behavioral Analytics | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4427612165 | Clean Harbors | Product Owner | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4435438097 | TransUnion | Sr. Advisor - Product Management | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4444961786 | Experian | Senior Product Manager – Digital Intelligence | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4444967607 | Flexiple | Product Manager | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4401305574 | QUEST Alliance | Product Manager - Operations | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4442789072 | E2M | AI Technical Product Manager | posted=2026-07-24
+- [ ] https://jobs.ashbyhq.com/tilthq/ffa705ba-4597-478a-9f88-dc33b006b93d | Tilt | Product Manager, Cash | posted=2026-07-24
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

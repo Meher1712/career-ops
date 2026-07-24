@@ -2921,6 +2921,14 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4443888637 | hackajob | Technical Product Manager | posted=2026-07-23
 - [ ] https://www.linkedin.com/jobs/view/4441529866 | Tekion Corp | Lead Product Manager | posted=2026-07-23
 
+- [ ] https://www.linkedin.com/jobs/view/4444312084 | PlaySimple Games | Product Manager | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4434974709 | Finkraft | Product Manager — Travel & Hospitality Tech | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4432196639 | NxtWave | Product Manager | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4443818683 | Finkraft | Product Manager — Virtual Cards | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4444790994 | Job-scouts.com | Product Manager : Data Platform | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4444911248 | Innova ESI | Product Owner || Pharmacy Benefit Manager (PBM ) Must hv || 5+ Yrs || Pan India | posted=2026-07-24
+- [ ] https://job-boards.greenhouse.io/zyngacareers/jobs/6112484004 | Zynga | Product Manager II | posted=2026-07-24
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

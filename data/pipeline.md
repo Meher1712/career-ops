@@ -2929,6 +2929,17 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4444911248 | Innova ESI | Product Owner || Pharmacy Benefit Manager (PBM ) Must hv || 5+ Yrs || Pan India | posted=2026-07-24
 - [ ] https://job-boards.greenhouse.io/zyngacareers/jobs/6112484004 | Zynga | Product Manager II | posted=2026-07-24
 
+- [ ] https://www.linkedin.com/jobs/view/4444323306 | S&P Global | Servicenow Product Manager | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4413494556 | Stripe | Product Manager, Risk & Compliance | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4441577713 | CodeRound AI | Technical Product Manager - AI Platform (Up to 80LPA) | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4444098778 | Sea Makeup | Product Manager | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4444306836 | JFrog | Senior Product Manager (Platform Access) | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4403727611 | Hireginie | AI Agent Product Manager | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4444933003 | Flexiple | Group Product Manager | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4444318065 | Eazybe | Technical Product Manager (B2B SaaS, Hybrid, New Delhi, 3-6 LPA) | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4444099729 | Zynga | Product Manager II | posted=2026-07-24
+- [ ] https://www.payoneer.com/careers/position/7361831/?gh_jid=7361831 | Payoneer | Senior Product Manager - Mobile App | posted=2026-07-24
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

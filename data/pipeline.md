@@ -2949,6 +2949,20 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4444330611 | iProfit | Product Owner | posted=2026-07-24
 - [ ] https://www.linkedin.com/jobs/view/4436496937 | A.P. Moller - Maersk | Functional Product Manager - ITX | posted=2026-07-24
 
+- [ ] https://www.linkedin.com/jobs/view/4444952804 | Microsoft | Product Manager | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4435215843 | Arctic Wolf | Senior Product Manager - Aurora Exposure Management ASM | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4435236057 | Arctic Wolf | Senior Product Manager - Aurora Exposure Management: Cross-Portfolio Solutions | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4444948833 | Microsoft | Principal Product Manager | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4432780824 | Siemens Healthineers | Product Management, Portfolio & Innovation Team Leader | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4416324077 | SonicWall | Senior Product Manager – ZTNA or VPN experience is required | posted=2026-07-24
+- [ ] https://job-boards.greenhouse.io/onetrust/jobs/8067458 | OneTrust | Staff Product Manager (Technical) | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4440660649 | Cvent | Product Manager II | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4425265171 | Leegality | Associate Product Manager | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4444954306 | FRND | Senior Product Manager (New Initiatives) | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4444317989 | Esse India | Canada immigration consultants in delhi | visa consultant delhi | Product Manager For Canada Opportunities | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4433124201 | Candescent | Product Owner II | posted=2026-07-24
+- [ ] https://www.linkedin.com/jobs/view/4444937881 | HighLevel | Staff Product Manager - Mobile Platform | posted=2026-07-24
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

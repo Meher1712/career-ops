@@ -2995,6 +2995,14 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4445318360 | Flexiple | Group Product Manager | posted=2026-07-25
 - [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Product-Manager--Adobe-Express---Imaging-Experience-_R170777 | Adobe | Product Manager (Adobe Express - Imaging Experience) | posted=2026-07-25
 
+- [ ] https://www.linkedin.com/jobs/view/4442301499 | Cialfo | Senior Product Manager | posted=2026-07-25
+- [ ] https://www.linkedin.com/jobs/view/4413633520 | Playlist | Principal Product Manager | posted=2026-07-25
+- [ ] https://www.linkedin.com/jobs/view/4434037526 | MSD | Product Manager, Context Serving, Data Context Layer | posted=2026-07-25
+- [ ] https://www.linkedin.com/jobs/view/4445316785 | Bureau | Group Product Manager | posted=2026-07-25
+- [ ] https://www.linkedin.com/jobs/view/4434041358 | MSD | Assoc. Dir. , Technical Product Management | posted=2026-07-25
+- [ ] https://www.linkedin.com/jobs/view/4442303425 | Sailormen Inc | Product Manager | posted=2026-07-25
+- [ ] https://www.linkedin.com/jobs/view/4444675082 | Lovely Professional University | Project Manager/ Product Manager | posted=2026-07-25
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

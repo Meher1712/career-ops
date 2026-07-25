@@ -3012,6 +3012,11 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4445329905 | Flexiple | Product Manager | posted=2026-07-25
 - [ ] https://www.linkedin.com/jobs/view/4410541947 | Volante Technologies | Associate Director / Director, Technical Product Owner | posted=2026-07-25
 
+- [ ] https://www.linkedin.com/jobs/view/4445353150 | AMIGO TRAVELS PRIVATE LIMITED | Product Manager | posted=2026-07-25
+- [ ] https://www.linkedin.com/jobs/view/4433465149 | Finkraft | Product Manager — GST & Tax Tech | posted=2026-07-25
+- [ ] https://www.linkedin.com/jobs/view/4445331704 | Waltcorp | Associate Technical Product Manager - Roadmap, Design, Growth & Delivery | posted=2026-07-25
+- [ ] https://www.linkedin.com/jobs/view/4444687635 | CG-VAK Software & Exports Ltd. | Forward Deployed Product Manager | posted=2026-07-25
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

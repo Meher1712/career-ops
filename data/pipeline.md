@@ -3003,6 +3003,8 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4442303425 | Sailormen Inc | Product Manager | posted=2026-07-25
 - [ ] https://www.linkedin.com/jobs/view/4444675082 | Lovely Professional University | Project Manager/ Product Manager | posted=2026-07-25
 
+- [ ] https://www.linkedin.com/jobs/view/4433185647 | Atos | PRODUCT MANAGER | posted=2026-07-25
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

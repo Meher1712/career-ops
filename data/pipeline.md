@@ -3005,6 +3005,13 @@ Pune, India | posted=2026-06-28
 
 - [ ] https://www.linkedin.com/jobs/view/4433185647 | Atos | PRODUCT MANAGER | posted=2026-07-25
 
+- [ ] https://www.linkedin.com/jobs/view/4425602946 | Stripe | Staff Product Manager, Global Expansion | posted=2026-07-25
+- [ ] https://www.linkedin.com/jobs/view/4445347248 | Flexiple | Senior Product Manager | posted=2026-07-25
+- [ ] https://www.linkedin.com/jobs/view/4427910212 | Hitachi Energy | R&D Product Owner – GPQSS Digital & Service - IDC | posted=2026-07-25
+- [ ] https://www.linkedin.com/jobs/view/4435465222 | Arcesium | Product Manager - Opterra - Performance & Investor Allocations (PerformA) | posted=2026-07-25
+- [ ] https://www.linkedin.com/jobs/view/4445329905 | Flexiple | Product Manager | posted=2026-07-25
+- [ ] https://www.linkedin.com/jobs/view/4410541947 | Volante Technologies | Associate Director / Director, Technical Product Owner | posted=2026-07-25
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

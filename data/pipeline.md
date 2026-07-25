@@ -2992,6 +2992,9 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4445288898 | Hired | Product Manager (Remote) | posted=2026-07-25
 - [ ] https://www.linkedin.com/jobs/view/4444659574 | Adobe | Product Manager (Adobe Express - Imaging Experience) | posted=2026-07-25
 
+- [ ] https://www.linkedin.com/jobs/view/4445318360 | Flexiple | Group Product Manager | posted=2026-07-25
+- [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Product-Manager--Adobe-Express---Imaging-Experience-_R170777 | Adobe | Product Manager (Adobe Express - Imaging Experience) | posted=2026-07-25
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

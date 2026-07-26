@@ -3017,6 +3017,8 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4445331704 | Waltcorp | Associate Technical Product Manager - Roadmap, Design, Growth & Delivery | posted=2026-07-25
 - [ ] https://www.linkedin.com/jobs/view/4444687635 | CG-VAK Software & Exports Ltd. | Forward Deployed Product Manager | posted=2026-07-25
 
+- [ ] https://www.linkedin.com/jobs/view/4445387425 | GEDU Services | MetaCode Product Manager | posted=2026-07-26
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

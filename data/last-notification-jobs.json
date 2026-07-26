@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-07-26T06:15:32.523Z",
+  "generated_at": "2026-07-26T08:41:07.655Z",
   "jobs": [
     {
       "n": 1,
-      "title": "MetaCode Product Manager",
-      "company": "GEDU Services",
-      "location": "Noida, Uttar Pradesh, India",
-      "url": "https://www.linkedin.com/jobs/view/4445387425"
+      "title": "Group Product Manager",
+      "company": "Flexiple",
+      "location": "India",
+      "url": "https://www.linkedin.com/jobs/view/4445379710"
+    },
+    {
+      "n": 2,
+      "title": "Senior Product Manager",
+      "company": "Netomi",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://www.linkedin.com/jobs/view/4442337911"
+    },
+    {
+      "n": 3,
+      "title": "Director -  Product Management (BNPL)",
+      "company": "PayU",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4442333971"
     }
   ]
 }

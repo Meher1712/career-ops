@@ -3041,6 +3041,18 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.logicmonitor.com/career/?gh_jid=8080902 | LogicMonitor | Principal Product Manager, AI | posted=2026-07-27
 - [ ] https://jobs.lever.co/jobgether/a4348b7a-49ff-48b9-987e-62b31ab76105 | Jobgether | Senior Product Manager - Medical Inquiry | posted=2026-07-27
 
+- [ ] https://www.linkedin.com/jobs/view/4440993153 | JioSaavn | Senior Product Manager,JioTunes | posted=2026-07-27
+- [ ] https://www.linkedin.com/jobs/view/4445906796 | TresVista | Principal Product Manager | posted=2026-07-27
+- [ ] https://www.linkedin.com/jobs/view/4442834170 | HARMAN India | Director, Product Managerment | posted=2026-07-27
+- [ ] https://www.linkedin.com/jobs/view/4444874954 | Store INC | Product Owner Store Performer | posted=2026-07-27
+- [ ] https://www.linkedin.com/jobs/view/4442835144 | Ansira | Product Owner | posted=2026-07-27
+- [ ] https://www.linkedin.com/jobs/view/4444883965 | Lowe's India | Associate Product Manager | posted=2026-07-27
+- [ ] https://www.linkedin.com/jobs/view/4445913676 | Geniffy | Product Manager | posted=2026-07-27
+- [ ] https://www.linkedin.com/jobs/view/4445911625 | MMTC-PAMP India Private Limited | Product Manager | posted=2026-07-27
+- [ ] https://www.linkedin.com/jobs/view/4445922503 | FutureLeap Search | Senior Product Manager | posted=2026-07-27
+- [ ] https://www.linkedin.com/jobs/view/4445100031 | Trianz | Associate Technical Product Manager | posted=2026-07-27
+- [ ] https://www.linkedin.com/jobs/view/4445916476 | GEDU Global Education | Product Manager – PriSMS (Student Management System) | posted=2026-07-27
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

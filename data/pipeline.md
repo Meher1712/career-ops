@@ -3067,6 +3067,11 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4445130579 | Shaadi.com | Associate Product Manager (B2C Product company, AI exposure, Tier 1 IIT) | posted=2026-07-27
 - [ ] https://job-boards.greenhouse.io/capco/jobs/8088176 | Capco | Product Manager- Lending | posted=2026-07-27
 
+- [ ] https://www.linkedin.com/jobs/view/4445952784 | Trao | Senior Product Manager | posted=2026-07-27
+- [ ] https://www.linkedin.com/jobs/view/4445975059 | Flexiple | Senior Product Manager | posted=2026-07-27
+- [ ] https://www.linkedin.com/jobs/view/4445959821 | Aethon AI | Product Manager | posted=2026-07-27
+- [ ] https://www.linkedin.com/jobs/view/4445980018 | Uber | Sr Product Manager, Tech | posted=2026-07-27
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

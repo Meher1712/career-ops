@@ -3053,6 +3053,20 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4445100031 | Trianz | Associate Technical Product Manager | posted=2026-07-27
 - [ ] https://www.linkedin.com/jobs/view/4445916476 | GEDU Global Education | Product Manager – PriSMS (Student Management System) | posted=2026-07-27
 
+- [ ] https://www.linkedin.com/jobs/view/4248972449 | UPS | Senior Product Owner - Agile, ADO, Dashboards | posted=2026-07-27
+- [ ] https://www.linkedin.com/jobs/view/4428683806 | ExxonMobil India Careers | SC Product Management Owner/Advisor | posted=2026-07-27
+- [ ] https://www.linkedin.com/jobs/view/4442851633 | Siemens Healthineers | Product Owner - Medical Devices Domain | posted=2026-07-27
+- [ ] https://www.linkedin.com/jobs/view/4445938699 | NTT DATA North America | Technical Product Owner - AI & Digital Solutions (CDMO) | posted=2026-07-27
+- [ ] https://www.linkedin.com/jobs/view/4445131712 | Arrive | Platform Product manager | posted=2026-07-27
+- [ ] https://www.linkedin.com/jobs/view/4445139556 | Google | Product Manager, Workspace Search | posted=2026-07-27
+- [ ] https://www.linkedin.com/jobs/view/4442848653 | Milestone Technologies, Inc. | Product Manager - (NPW) | posted=2026-07-27
+- [ ] https://www.linkedin.com/jobs/view/4445144437 | TartanHQ | Product Manager | posted=2026-07-27
+- [ ] https://www.linkedin.com/jobs/view/4442832734 | Chapter Home | Product Manager | posted=2026-07-27
+- [ ] https://www.linkedin.com/jobs/view/4445128607 | AR GLOBAL HUB | Product Manager | EdTech | AI | posted=2026-07-27
+- [ ] https://www.linkedin.com/jobs/view/4445133699 | Sova Health | Associate Product Manager | posted=2026-07-27
+- [ ] https://www.linkedin.com/jobs/view/4445130579 | Shaadi.com | Associate Product Manager (B2C Product company, AI exposure, Tier 1 IIT) | posted=2026-07-27
+- [ ] https://job-boards.greenhouse.io/capco/jobs/8088176 | Capco | Product Manager- Lending | posted=2026-07-27
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

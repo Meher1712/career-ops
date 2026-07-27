@@ -3028,6 +3028,19 @@ Pune, India | posted=2026-06-28
 
 - [ ] https://www.linkedin.com/jobs/view/4445614833 | Flexiple | Senior Product Manager | posted=2026-07-26
 
+- [ ] https://www.linkedin.com/jobs/view/4445681175 | ixigo | Senior Product Manager | posted=2026-07-27
+- [ ] https://www.linkedin.com/jobs/view/4444895190 | Haleon | Senior Product Manager - Total Workforce Management | posted=2026-07-27
+- [ ] https://www.linkedin.com/jobs/view/4444882256 | nexocean | Technical Product Manager | posted=2026-07-27
+- [ ] https://www.linkedin.com/jobs/view/4444879266 | The NineHertz | Product Owner (AI & Enterprise Solution) | posted=2026-07-27
+- [ ] https://www.linkedin.com/jobs/view/4445687057 | MyYogaTeacher | Product Manager : Consumer Experience | posted=2026-07-27
+- [ ] https://www.linkedin.com/jobs/view/4442822161 | CareerXperts Consulting | Product Manager – SaaS | Remote (India) | posted=2026-07-27
+- [ ] https://www.linkedin.com/jobs/view/4444877263 | Remedo | Associate Product Manager | posted=2026-07-27
+- [ ] https://jobs.lever.co/meesho/d7924eb1-301e-4098-ab7b-f3a4c92c210a | Meesho | Group Product Manager | posted=2026-06-29
+- [ ] https://www.linkedin.com/jobs/view/4445674950 | LifeCell International Pvt.Ltd | Assistant Product Manager – Oncology & Transplant | posted=2026-07-27
+- [ ] https://api.smartrecruiters.com/v1/companies/Freshworks/postings/744000139878879 | Freshworks | Staff Product Manager | posted=2026-07-27
+- [ ] https://www.logicmonitor.com/career/?gh_jid=8080902 | LogicMonitor | Principal Product Manager, AI | posted=2026-07-27
+- [ ] https://jobs.lever.co/jobgether/a4348b7a-49ff-48b9-987e-62b31ab76105 | Jobgether | Senior Product Manager - Medical Inquiry | posted=2026-07-27
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -1,12 +1,89 @@
 {
-  "generated_at": "2026-07-26T16:14:58.441Z",
+  "generated_at": "2026-07-27T06:43:15.349Z",
   "jobs": [
     {
       "n": 1,
       "title": "Senior Product Manager",
-      "company": "Flexiple",
+      "company": "ixigo",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://www.linkedin.com/jobs/view/4445681175"
+    },
+    {
+      "n": 2,
+      "title": "Senior Product Manager - Total Workforce Management",
+      "company": "Haleon",
+      "location": "Greater Bengaluru Area",
+      "url": "https://www.linkedin.com/jobs/view/4444895190"
+    },
+    {
+      "n": 3,
+      "title": "Technical Product Manager",
+      "company": "nexocean",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.linkedin.com/jobs/view/4444882256"
+    },
+    {
+      "n": 4,
+      "title": "Product Owner (AI & Enterprise Solution)",
+      "company": "The NineHertz",
+      "location": "Jaipur, Rajasthan, India",
+      "url": "https://www.linkedin.com/jobs/view/4444879266"
+    },
+    {
+      "n": 5,
+      "title": "Product Manager : Consumer Experience",
+      "company": "MyYogaTeacher",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4445687057"
+    },
+    {
+      "n": 6,
+      "title": "Product Manager – SaaS | Remote (India)",
+      "company": "CareerXperts Consulting",
       "location": "India",
-      "url": "https://www.linkedin.com/jobs/view/4445614833"
+      "url": "https://www.linkedin.com/jobs/view/4442822161"
+    },
+    {
+      "n": 7,
+      "title": "Associate Product Manager",
+      "company": "Remedo",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://www.linkedin.com/jobs/view/4444877263"
+    },
+    {
+      "n": 8,
+      "title": "Group Product Manager",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/d7924eb1-301e-4098-ab7b-f3a4c92c210a"
+    },
+    {
+      "n": 9,
+      "title": "Assistant Product Manager – Oncology & Transplant",
+      "company": "LifeCell International Pvt.Ltd",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://www.linkedin.com/jobs/view/4445674950"
+    },
+    {
+      "n": 10,
+      "title": "Staff Product Manager",
+      "company": "Freshworks",
+      "location": "Hyderabad, in",
+      "url": "https://api.smartrecruiters.com/v1/companies/Freshworks/postings/744000139878879"
+    },
+    {
+      "n": 11,
+      "title": "Principal Product Manager, AI",
+      "company": "LogicMonitor",
+      "location": "Bangalore, India",
+      "url": "https://www.logicmonitor.com/career/?gh_jid=8080902"
+    },
+    {
+      "n": 12,
+      "title": "Senior Product Manager - Medical Inquiry",
+      "company": "Jobgether",
+      "location": "India",
+      "url": "https://jobs.lever.co/jobgether/a4348b7a-49ff-48b9-987e-62b31ab76105"
     }
   ]
 }

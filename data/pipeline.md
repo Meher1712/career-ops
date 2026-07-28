@@ -3082,6 +3082,17 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4445466171 | Hired | Product Manager (Remote) | posted=2026-07-28
 - [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Senior-Manager--Product-Management---Sabre-Payments_JR108396 | Sabre | Senior Manager, Product Management - Sabre Payments | posted=2026-07-28
 
+- [ ] https://www.linkedin.com/jobs/view/4443268064 | Persistent Systems | Product Owner | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4445479471 | PayU | Senior Product Manager | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4443251158 | Flexiple | Group Product Manager | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4445495429 | S&P Global | Security Product Owner | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4436252068 | YASH Technologies | Contractor - Product Owner Job | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4443245514 | VIVO Life Sciences | PRODUCT MANAGER | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4445481571 | Novartis India | Associate Director Tech Product Management (DAM & MLR) | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4445493235 | InCred Financial Services | Product Manager | posted=2026-07-28
+- [ ] https://jobs.lever.co/jobgether/2372682f-5bb8-469c-bad6-2116ea48def0 | Jobgether | Health Product Manager, Claims | posted=2026-07-28
+- [ ] https://gonoise.freshteam.com/jobs/koWP5BCPNaP7/product-manager-growth | boAt / GoNoise | Product Manager - Growth
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

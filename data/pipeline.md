@@ -3072,6 +3072,16 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4445959821 | Aethon AI | Product Manager | posted=2026-07-27
 - [ ] https://www.linkedin.com/jobs/view/4445980018 | Uber | Sr Product Manager, Tech | posted=2026-07-27
 
+- [ ] https://www.linkedin.com/jobs/view/4445452512 | Visa | Product Manager | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4443206858 | NeerInfo Solutions | Digital Product Manager | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4443216891 | JyoSH AI Solutions Pvt. Ltd. | EV Tractor Product Manager | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4443211735 | Jobgether | Health Product Manager, Claims | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4428021155 | InfoVision Inc. | Product Owner | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4443221807 | YALAVARTHI SOFTWARE SOLUTIONS PRIVATE LIMITED | Product Owner – Mobile Apps | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4443203972 | Webito | Product Manager | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4445466171 | Hired | Product Manager (Remote) | posted=2026-07-28
+- [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Senior-Manager--Product-Management---Sabre-Payments_JR108396 | Sabre | Senior Manager, Product Management - Sabre Payments | posted=2026-07-28
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

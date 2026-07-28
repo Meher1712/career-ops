@@ -3108,6 +3108,23 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4443272184 | Webito | Product Manager | posted=2026-07-28
 - [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990014310898 | Nielsen | Senior Product Manager II | posted=2026-07-28
 
+- [ ] https://www.linkedin.com/jobs/view/4443292881 | Nielsen | Senior Product Manager II | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4427486734 | Smartsheet | Principal Product Manager, Data & AI Platforms ( Hybrid in Bangalore ) | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4418208199 | Sabre | Senior Product Manager - Data & AI Governance | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4446312432 | TMUS Global Solutions | Sr Product Owner [T500-27956] | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4446306095 | ProLegion | Senior Product Manager | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4445721865 | IDFC FIRST Bank | Senior Product Manager - Gen AI | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4401043714 | GHX India | Product Owner | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4445744148 | UKG | Lead Product Manager | posted=2026-07-28
+- [ ] https://job-boards.greenhouse.io/zinnia/jobs/4700361006 | Zinnia | Senior Product Manager (Technical) | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4443276833 | LTIMindtree | Product Manager | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4445739064 | Umanist NA | Associate Product Manager | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4446305033 | Sage | Product Manager | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4445729144 | Jobgether | Technical Product Manager | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4433915909 | EY | Product Manager - TST - MANAGER | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4445740022 | Jobgether | Data Product Manager (Derivatives) | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4445743086 | GoComet | Head of AI Products | posted=2026-07-28
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

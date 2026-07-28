@@ -3093,6 +3093,21 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/jobgether/2372682f-5bb8-469c-bad6-2116ea48def0 | Jobgether | Health Product Manager, Claims | posted=2026-07-28
 - [ ] https://gonoise.freshteam.com/jobs/koWP5BCPNaP7/product-manager-growth | boAt / GoNoise | Product Manager - Growth
 
+- [ ] https://www.linkedin.com/jobs/view/4443268991 | One97 Communications Limited | Product Management - Senior Product Manager - UPI Product | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4445705275 | Showpad | Senior Product Manager | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4445487979 | Upland Software | Product Owner | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4445713175 | Takeda | Senior Product Owner | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4445713343 | Zinnia | Senior Product Manager (Technical) | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4445714116 | ABB | Product Owner - Automation Extended OS | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4445701458 | SUN PHARMA | Product Manager - Digital Healthcare & Transformation | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4443271825 | The Premier Consultants ( Recruitment Company ) | Product Manager - Merchant Platform | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4445499694 | CodeRound AI | Product Manager (Up to 60LPA) | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4443280151 | Ntimes AI | Product Manager | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4445701463 | TriNet | Product Manager | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4436540227 | B. Braun Group | Assistant Product Manager | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4443272184 | Webito | Product Manager | posted=2026-07-28
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990014310898 | Nielsen | Senior Product Manager II | posted=2026-07-28
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

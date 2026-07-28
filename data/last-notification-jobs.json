@@ -1,110 +1,89 @@
 {
-  "generated_at": "2026-07-28T14:39:25.444Z",
+  "generated_at": "2026-07-28T16:51:48.377Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Senior Product Manager II",
-      "company": "Nielsen",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4443292881"
+      "title": "Product Owner / Product Manager – Retail Domain",
+      "company": "HARP",
+      "location": "India",
+      "url": "https://www.linkedin.com/jobs/view/4443612204"
     },
     {
       "n": 2,
-      "title": "Principal Product Manager, Data & AI Platforms ( Hybrid in Bangalore )",
-      "company": "Smartsheet",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4427486734"
+      "title": "Senior Product Manager",
+      "company": "Flexiple",
+      "location": "India",
+      "url": "https://www.linkedin.com/jobs/view/4446321684"
     },
     {
       "n": 3,
-      "title": "Senior Product Manager - Data & AI Governance",
-      "company": "Sabre",
+      "title": "Senior Product Manager, Help Center (CX Automation)",
+      "company": "Coinbase",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4418208199"
+      "url": "https://www.linkedin.com/jobs/view/4437475084"
     },
     {
       "n": 4,
-      "title": "Sr Product Owner [T500-27956]",
-      "company": "TMUS Global Solutions",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://www.linkedin.com/jobs/view/4446312432"
+      "title": "Principal Product Manager, Conversational Intelligence",
+      "company": "Intuit",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4445727866"
     },
     {
       "n": 5,
-      "title": "Senior Product Manager",
-      "company": "ProLegion",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4446306095"
+      "title": "Product Owner",
+      "company": "hackajob",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4445745439"
     },
     {
       "n": 6,
-      "title": "Senior Product Manager - Gen AI",
-      "company": "IDFC FIRST Bank",
-      "location": "Mumbai, Maharashtra, India",
-      "url": "https://www.linkedin.com/jobs/view/4445721865"
+      "title": "Senior Product Manager, Geo Content Trust",
+      "company": "Google",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4445738728"
     },
     {
       "n": 7,
-      "title": "Product Owner",
-      "company": "GHX India",
+      "title": "Mgr Tech Product Management",
+      "company": "Johnson & Johnson Innovative Medicine",
       "location": "Hyderabad, Telangana, India",
-      "url": "https://www.linkedin.com/jobs/view/4401043714"
+      "url": "https://www.linkedin.com/jobs/view/4446317911"
     },
     {
       "n": 8,
-      "title": "Lead Product Manager",
-      "company": "UKG",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4445744148"
+      "title": "Sr Product Owner ",
+      "company": "Valtech",
+      "location": "United States - Remote",
+      "url": "https://job-boards.eu.greenhouse.io/valtech/jobs/4936383101"
     },
     {
       "n": 9,
-      "title": "Senior Product Manager (Technical)",
-      "company": "Zinnia",
-      "location": "Noida, Uttar Pradesh, India; Pune, Maharashtra, India",
-      "url": "https://job-boards.greenhouse.io/zinnia/jobs/4700361006"
-    },
-    {
-      "n": 10,
-      "title": "Product Manager",
-      "company": "LTIMindtree",
-      "location": "Chennai, Tamil Nadu, India",
-      "url": "https://www.linkedin.com/jobs/view/4443276833"
-    },
-    {
-      "n": 11,
-      "title": "Associate Product Manager",
-      "company": "Umanist NA",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://www.linkedin.com/jobs/view/4445739064"
-    },
-    {
-      "n": 12,
-      "title": "Product Manager",
-      "company": "Sage",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4446305033"
-    },
-    {
-      "n": 13,
-      "title": "Technical Product Manager",
-      "company": "Jobgether",
-      "location": "India",
-      "url": "https://www.linkedin.com/jobs/view/4445729144"
-    },
-    {
-      "n": 14,
-      "title": "Product Manager - TST - MANAGER",
-      "company": "EY",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4433915909"
-    },
-    {
-      "n": 15,
       "title": "Data Product Manager (Derivatives)",
       "company": "Jobgether",
       "location": "India",
-      "url": "https://www.linkedin.com/jobs/view/4445740022"
+      "url": "https://jobs.lever.co/jobgether/007331b7-6f3c-47e4-aec0-3ff0e471eb84"
+    },
+    {
+      "n": 10,
+      "title": "Technical Product Manager",
+      "company": "Jobgether",
+      "location": "India",
+      "url": "https://jobs.lever.co/jobgether/2abc5cf6-6a3f-4bfc-936b-820e2588bcfd"
+    },
+    {
+      "n": 11,
+      "title": "Product Manager- Derma",
+      "company": "Abbott",
+      "location": "Mumbai Metropolitan Region",
+      "url": "https://www.linkedin.com/jobs/view/4446319824"
+    },
+    {
+      "n": 12,
+      "title": "Product Manager - TST - MANAGER",
+      "company": "EY",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4433918858"
     }
   ]
 }

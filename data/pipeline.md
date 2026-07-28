@@ -3125,6 +3125,19 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4445740022 | Jobgether | Data Product Manager (Derivatives) | posted=2026-07-28
 - [ ] https://www.linkedin.com/jobs/view/4445743086 | GoComet | Head of AI Products | posted=2026-07-28
 
+- [ ] https://www.linkedin.com/jobs/view/4443612204 | HARP | Product Owner / Product Manager – Retail Domain | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4446321684 | Flexiple | Senior Product Manager | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4437475084 | Coinbase | Senior Product Manager, Help Center (CX Automation) | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4445727866 | Intuit | Principal Product Manager, Conversational Intelligence | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4445745439 | hackajob | Product Owner | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4445738728 | Google | Senior Product Manager, Geo Content Trust | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4446317911 | Johnson & Johnson Innovative Medicine | Mgr Tech Product Management | posted=2026-07-28
+- [ ] https://job-boards.eu.greenhouse.io/valtech/jobs/4936383101 | Valtech | Sr Product Owner  | posted=2026-07-28
+- [ ] https://jobs.lever.co/jobgether/007331b7-6f3c-47e4-aec0-3ff0e471eb84 | Jobgether | Data Product Manager (Derivatives) | posted=2026-07-28
+- [ ] https://jobs.lever.co/jobgether/2abc5cf6-6a3f-4bfc-936b-820e2588bcfd | Jobgether | Technical Product Manager | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4446319824 | Abbott | Product Manager- Derma | posted=2026-07-28
+- [ ] https://www.linkedin.com/jobs/view/4433918858 | EY | Product Manager - TST - MANAGER | posted=2026-07-28
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

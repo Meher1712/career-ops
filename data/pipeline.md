@@ -3160,6 +3160,18 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4444100027 | EY | Tech S and T-AI Product Manager-NGTO-RT-GDSF02 | posted=2026-07-29
 - [ ] https://www.linkedin.com/jobs/view/4446587097 | MSD | Senior Specialist, Technical Product Management | posted=2026-07-29
 
+- [ ] https://www.linkedin.com/jobs/view/4445452947 | Artech Infosystem Private Limited | Product Owner | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4444106657 | Havas Life Mumbai | Group Product Manager | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4446044895 | Hewlett Packard Enterprise | Sr. Product Owner | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4444115348 | Fynd | Growth Product Manager | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4446067200 | SUN PHARMA | Product Manager - Radiant | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4443690361 | Kasparro AI | Product Manager | posted=2026-07-29
+- [ ] https://jobs.lever.co/jobgether/ba88d22b-5dff-4fe8-aef9-a457c96a5ffc | Jobgether | Product Manager - AI Neobank App | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4446032958 | Lowe's India | Product Manager | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4438159651 | IndiaMART InterMESH Limited | Assistant Product Manager | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4444107403 | Affle | Assistant Manager - Product management, Newton | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4434533666 | PowerSchool | Associate Product Manager 1 | posted=2026-07-29
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

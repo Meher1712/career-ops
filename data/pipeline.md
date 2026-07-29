@@ -3148,6 +3148,18 @@ Pune, India | posted=2026-06-28
 - [ ] https://apply.workable.com/j/51A4BA8C54 | Lokal App | Group Product Manager (Microtransaction Products) | posted=2026-07-29
 - [ ] https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Product-Management-Director_JR351810 | Salesforce | Product Management Director | posted=2026-07-29
 
+- [ ] https://www.linkedin.com/jobs/view/4446572439 | Flexiple | Group Product Manager | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4443690854 | Q2 | Senior Product Owner | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4445362012 | Caterpillar Inc. | Senior Digital Product Owner D365 - Retail & Commerce | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4446052184 | Lumenci | Product Manager | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4443694530 | PayU | Associate Product Manager - SMB Lending | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4443677909 | PayU | Product Manager - SMB Lending | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4446581192 | Syndigo | Product Manager | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4446040555 | Servify | Lead Product Manager | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4446028864 | Jobgether | Product Manager - AI Neobank App | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4444100027 | EY | Tech S and T-AI Product Manager-NGTO-RT-GDSF02 | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4446587097 | MSD | Senior Specialist, Technical Product Management | posted=2026-07-29
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

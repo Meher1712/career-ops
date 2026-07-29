@@ -3172,6 +3172,19 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4444107403 | Affle | Assistant Manager - Product management, Newton | posted=2026-07-29
 - [ ] https://www.linkedin.com/jobs/view/4434533666 | PowerSchool | Associate Product Manager 1 | posted=2026-07-29
 
+- [ ] https://www.linkedin.com/jobs/view/4436867373 | Adobe | Senior Product Manager | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4446590697 | Razorpay | Senior Product Manager | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4446587959 | Evolute Group | Senior Manager_Product Management | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4446072763 | Razorpay | Senior Product Manager - AI | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4446068959 | UKG | Senior Product Manager | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4437858238 | Clean Harbors | Product Owner | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4444123702 | Happiest Minds Technologies | PRODUCT MANAGER - Product Management | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4446082134 | IDFC FIRST Bank | Product Manager-Payments & Fintech Partnerships | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4436928927 | Wells Fargo | Senior Lead Digital Product Manager - Access & Entitlements Platform | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4446596554 | Weekday AI (YC W21) | Technical Product Manager | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4446597354 | PaperFIRST | Södra’s seeking a Technical Product Manager | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4446801481 | Leah | Associate Product Manager | posted=2026-07-29
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

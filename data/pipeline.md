@@ -3185,6 +3185,20 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4446597354 | PaperFIRST | Södra’s seeking a Technical Product Manager | posted=2026-07-29
 - [ ] https://www.linkedin.com/jobs/view/4446801481 | Leah | Associate Product Manager | posted=2026-07-29
 
+- [ ] https://www.linkedin.com/jobs/view/4437867650 | Skillz | Lead Product Manager | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4446401429 | Confidential Jobs | Senior Product Manager | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4446817570 | HP | Software Product Manager | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4446813754 | Flexiple | Senior Product Manager | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4444148108 | Kotak Mahindra Bank | Product Manager-SALARIED PERSONAL LOANS-NEW-Product Manager | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4446318956 | equniewalls | Product Manager | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4446819500 | Flexiple | Product Manager | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4446808792 | Ecolab | Lead Product Owner - Business Intelligence | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4446597829 | Nike | Lead Technical Product Manager, ITC | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4426460823 | Oracle | Product Manager/Strategy 3-ProdDev | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4400761802 | Aurora Energy Research | Associate Product Manager | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4427333378 | EY | Tech S and T Cloud Dev-Product Manager-NGTO-Senior-GDSF02 | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4444144012 | Pegasystems | Senior Product Manager, Cloud | posted=2026-07-29
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

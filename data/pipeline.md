@@ -3138,6 +3138,16 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4446319824 | Abbott | Product Manager- Derma | posted=2026-07-28
 - [ ] https://www.linkedin.com/jobs/view/4433918858 | EY | Product Manager - TST - MANAGER | posted=2026-07-28
 
+- [ ] https://jobs.lever.co/kobie/6ac177a0-a175-46a3-a3c2-637e104aff8c | Kobie | Product Owner | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4443681372 | ClanX | Senior Product Manager | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4446007976 | Molecular Connections | Product Owner – Peer Review & Publishing Systems | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4446555631 | Lokal | Group Product Manager (Microtransaction Products) | posted=2026-07-29
+- [ ] https://jobs.lever.co/jobgether/ed572180-eafd-4ba0-9376-250ac0121b45 | Jobgether | Staff Product Manager – Agency Monetization & Wallet | posted=2026-07-29
+- [ ] https://job-boards.greenhouse.io/inmobi/jobs/8076327 | InMobi Advertising | Group Product Manager - Accelerate | posted=2026-07-29
+- [ ] https://job-boards.greenhouse.io/inmobi/jobs/8076340 | InMobi Advertising | Product Manager - Accelerate | posted=2026-07-29
+- [ ] https://apply.workable.com/j/51A4BA8C54 | Lokal App | Group Product Manager (Microtransaction Products) | posted=2026-07-29
+- [ ] https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Product-Management-Director_JR351810 | Salesforce | Product Management Director | posted=2026-07-29
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

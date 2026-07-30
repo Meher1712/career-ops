@@ -3209,6 +3209,16 @@ Pune, India | posted=2026-06-28
 - [ ] https://job-boards.greenhouse.io/fourkites/jobs/8095407 | FourKites | Associate Product Manager  | posted=2026-07-29
 - [ ] https://job-boards.greenhouse.io/commvault/jobs/5371533008 | Commvault | Senior Product Manager, AI & Platform | posted=2026-07-30
 
+- [ ] https://www.linkedin.com/jobs/view/4446744406 | MnD Consultation Services Pvt. Ltd. | Group Product Manager | posted=2026-07-30
+- [ ] https://www.linkedin.com/jobs/view/4444548229 | DigiRecruitx | Senior Product Manager(L&D/EdTech/SaaS) | posted=2026-07-30
+- [ ] https://www.linkedin.com/jobs/view/4446742176 | MarketMinds Digital Solutions | Senior AI Product Manager | posted=2026-07-30
+- [ ] https://www.linkedin.com/jobs/view/4444562136 | Commvault | Senior Product Manager, AI & Platform | posted=2026-07-30
+- [ ] https://www.linkedin.com/jobs/view/4443689197 | Scalixity | Technical Product Manager / Technical Project Coordinator | posted=2026-07-30
+- [ ] https://www.linkedin.com/jobs/view/4444555182 | UKG | Product Manager II | posted=2026-07-30
+- [ ] https://www.linkedin.com/jobs/view/4446744399 | Shuru | Product Manager (Trading) | posted=2026-07-30
+- [ ] https://www.linkedin.com/jobs/view/4446727371 | EY | Power and Utilities-Product Management-Data and AI - Senior Consultant | posted=2026-07-30
+- [ ] https://jobs.lever.co/coupa/c7d9dfc5-68a6-4eb4-a138-3e6dec1502cc | Coupa | Principal Product Manager -  11744 | posted=2026-07-23
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

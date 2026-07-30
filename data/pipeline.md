@@ -3251,6 +3251,10 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4447020236 | GTMfund | Sr. Product Manager | posted=2026-07-30
 - [ ] https://www.linkedin.com/jobs/view/4438585755 | Tieto | Area Product Owner - Tieto Banktech (m/f/d) | posted=2026-07-30
 
+- [ ] https://www.linkedin.com/jobs/view/4446789696 | Google | Product Manager, User Voice AI and Agentic Experiences | posted=2026-07-30
+- [ ] https://www.linkedin.com/jobs/view/4447048128 | Flexiple | Product Manager | posted=2026-07-30
+- [ ] https://www.linkedin.com/jobs/view/4447035037 | DBS Bank | Assistant Vice President, Product Manager - Business Management, Small Medium Enterprises | posted=2026-07-30
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

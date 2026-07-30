@@ -3199,6 +3199,16 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4427333378 | EY | Tech S and T Cloud Dev-Product Manager-NGTO-Senior-GDSF02 | posted=2026-07-29
 - [ ] https://www.linkedin.com/jobs/view/4444144012 | Pegasystems | Senior Product Manager, Cloud | posted=2026-07-29
 
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/8088442 | Twilio | Staff Impartner Product Owner, PRM | posted=2026-07-29
+- [ ] https://www.linkedin.com/jobs/view/4446714430 | Intelo.ai | Product Manager | posted=2026-07-30
+- [ ] https://www.linkedin.com/jobs/view/4446826726 | Amazon | Senior Product Manager - Tech, Selection Monitoring | posted=2026-07-30
+- [ ] https://www.linkedin.com/jobs/view/4446702533 | BCE Global Tech - A Bell Canada Company | Technical product Owner | posted=2026-07-30
+- [ ] https://www.linkedin.com/jobs/view/4444181977 | Amazon | Principal Product Manager - Tech, Featured Merchant Algorithm | posted=2026-07-30
+- [ ] https://www.linkedin.com/jobs/view/4444513861 | Coupa | Principal Product Manager -  11744 | posted=2026-07-30
+- [ ] https://www.linkedin.com/jobs/view/4446711009 | Thermo Fisher Scientific | AI Automation Product Owner | posted=2026-07-30
+- [ ] https://job-boards.greenhouse.io/fourkites/jobs/8095407 | FourKites | Associate Product Manager  | posted=2026-07-29
+- [ ] https://job-boards.greenhouse.io/commvault/jobs/5371533008 | Commvault | Senior Product Manager, AI & Platform | posted=2026-07-30
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

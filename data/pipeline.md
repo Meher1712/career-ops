@@ -3219,6 +3219,25 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4446727371 | EY | Power and Utilities-Product Management-Data and AI - Senior Consultant | posted=2026-07-30
 - [ ] https://jobs.lever.co/coupa/c7d9dfc5-68a6-4eb4-a138-3e6dec1502cc | Coupa | Principal Product Manager -  11744 | posted=2026-07-23
 
+- [ ] https://job-boards.greenhouse.io/phonepe/jobs/7799414003 | PhonePe | Product Manager | posted=2026-07-30
+- [ ] https://www.linkedin.com/jobs/view/4428050826 | Google | Senior Product Manager, AI Garage | posted=2026-07-30
+- [ ] https://www.linkedin.com/jobs/view/4446746755 | Wrike | Senior Product Manager (Platform & AI) | posted=2026-07-30
+- [ ] https://www.linkedin.com/jobs/view/4446738824 | Arup | Product Manager (AI/ML) | posted=2026-07-30
+- [ ] https://www.linkedin.com/jobs/view/4446747794 | Procol | Platform Product Manager | posted=2026-07-30
+- [ ] https://www.linkedin.com/jobs/view/4446740996 | Standard Chartered India | Product Manager - SME BWC | posted=2026-07-30
+- [ ] https://www.linkedin.com/jobs/view/4446734985 | Porch Group | Senior Product Manager, Insurance and Warranty CX | posted=2026-07-30
+- [ ] https://www.linkedin.com/jobs/view/4435657530 | HighLevel | Staff Product Manager - App Marketplace | posted=2026-07-30
+- [ ] https://www.linkedin.com/jobs/view/4426065924 | Adyen | Group Product Manager - Payments | India [Head of Product, India] | posted=2026-07-30
+- [ ] https://www.linkedin.com/jobs/view/4444565577 | algoleap | Senior Product Manager | posted=2026-07-30
+- [ ] https://www.linkedin.com/jobs/view/4446738853 | Scoutit | Associate Product Manager | posted=2026-07-30
+- [ ] https://www.linkedin.com/jobs/view/4444582140 | Lokal | Product Manager / Senior Product Manager ( Dostt ) | posted=2026-07-30
+- [ ] https://www.linkedin.com/jobs/view/4444575626 | DMI Finance Private Limited | Product Manager - D2C | posted=2026-07-30
+- [ ] https://www.linkedin.com/jobs/view/4444588148 | Noka.ai | Product Manager | posted=2026-07-30
+- [ ] https://www.linkedin.com/jobs/view/4444569899 | Raise Financial Services | Product Manager | posted=2026-07-30
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990014358226 | Nielsen | Senior Product Manager II | posted=2026-07-30
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990014357706 | Nielsen | Senior Product Manager I | posted=2026-07-30
+- [ ] https://apply.workable.com/j/79148467AA | Lokal App | Product Manager / Senior Product Manager ( Dostt ) | posted=2026-07-30
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

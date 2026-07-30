@@ -3238,6 +3238,19 @@ Pune, India | posted=2026-06-28
 - [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990014357706 | Nielsen | Senior Product Manager I | posted=2026-07-30
 - [ ] https://apply.workable.com/j/79148467AA | Lokal App | Product Manager / Senior Product Manager ( Dostt ) | posted=2026-07-30
 
+- [ ] https://www.linkedin.com/jobs/view/4444592961 | Nielsen | Senior Product Manager II | posted=2026-07-30
+- [ ] https://www.linkedin.com/jobs/view/4445000804 | Nielsen | Senior Product Manager I | posted=2026-07-30
+- [ ] https://www.linkedin.com/jobs/view/4438289157 | Microsoft | Senior Product Manager | posted=2026-07-30
+- [ ] https://www.linkedin.com/jobs/view/4447004683 | MantriAI | Product Manager | posted=2026-07-30
+- [ ] https://www.linkedin.com/jobs/view/4445007593 | NiCE | Specialist Product Owner, Actimize | posted=2026-07-30
+- [ ] https://www.linkedin.com/jobs/view/4447010237 | MRI Software | Product Owner II | posted=2026-07-30
+- [ ] https://www.linkedin.com/jobs/view/4446897818 | GreyOrange | Associate Product Manager | posted=2026-07-30
+- [ ] https://www.linkedin.com/jobs/view/4445000515 | VapusData | Senior Product Manager | posted=2026-07-30
+- [ ] https://www.linkedin.com/jobs/view/4444590670 | Coverfox Insurance | Product Manager - Motor Insurance | posted=2026-07-30
+- [ ] https://www.linkedin.com/jobs/view/4444308780 | Eazybe | Technical Product Manager (B2B SaaS, Hybrid, New Delhi, 3-7 LPA) | posted=2026-07-30
+- [ ] https://www.linkedin.com/jobs/view/4447020236 | GTMfund | Sr. Product Manager | posted=2026-07-30
+- [ ] https://www.linkedin.com/jobs/view/4438585755 | Tieto | Area Product Owner - Tieto Banktech (m/f/d) | posted=2026-07-30
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

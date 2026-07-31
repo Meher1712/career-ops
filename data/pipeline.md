@@ -3298,6 +3298,18 @@ Pune, India | posted=2026-06-28
 - [ ] https://job-boards.greenhouse.io/sumologic/jobs/8098451 | Sumo Logic | Principal Product Manager | posted=2026-07-31
 - [ ] https://jobs.lever.co/jobgether/9c272d3b-2c07-4c2c-aff7-9341962afb84 | Jobgether | Senior Product Manager, Tradfi Options | posted=2026-07-31
 
+- [ ] https://www.linkedin.com/jobs/view/4447514994 | US Pharmacopeia | Senior Product Manager | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4437910507 | Sabre | Sr Product Manager | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4447148573 | GlobalLogic | Technical Product Owner IRC293239 | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4447138957 | SAP | Product Expert - Ariba Product Management organization (14+ years) | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4447137859 | hackajob | Product Owner | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4409354062 | Ingram Micro | Assistant Product Manager | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4435946998 | Nielsen | Senior Product Manager II - (Media Planning/Ad Tech/Ad Intel) | posted=2026-07-31
+- [ ] https://job-boards.greenhouse.io/zinnia/jobs/4700484006 | Zinnia | Product Manager (Tech) - Compliance & Regulatory Operations Platform | posted=2026-07-31
+- [ ] https://job-boards.greenhouse.io/zinnia/jobs/4701513006 | Zinnia | Product Manager (Technical) - Identity & Access Management | posted=2026-07-31
+- [ ] https://job-boards.greenhouse.io/zinnia/jobs/4699271006 | Zinnia | Senior Product Manager (Technical) - Case Management | posted=2026-07-31
+- [ ] https://job-boards.greenhouse.io/zinnia/jobs/4701510006 | Zinnia | Senior Product Manager (Technical) - Identity & Access Management | posted=2026-07-31
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

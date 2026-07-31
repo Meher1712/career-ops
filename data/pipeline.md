@@ -3272,6 +3272,23 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4446962862 | PlaySimple Games | Product Manager | posted=2026-07-31
 - [ ] https://www.zoominfo.com/careers?gh_jid=8561603002 | ZoomInfo | Senior Product Manager | posted=2026-07-30
 
+- [ ] https://www.linkedin.com/jobs/view/4447290486 | Spice Money | Senior Product Manager | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4438878011 | U.S. Bank | Digital Product Manager | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4438617276 | Galderma | South Asia - Product Manager | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4427801052 | UST | Product Manager I | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4445503042 | CareerXperts Consulting | Product Manager | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4446983758 | LotusFlare | Technical Product Manager | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4447506217 | Impact Analytics | Technical Product Manager | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4418502428 | Pearson | Lead Specialist, Product Management | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4446987719 | Acko | Head of Product – Health Claims & Customer Experience | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4447502247 | Flexiple | Group Product Manager | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4447272785 | Sumo Logic | Principal Product Manager | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4446998325 | PlaySimple Games | Associate Product Manager | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4447285114 | Eli Lilly and Company | Product Manager - GenAI | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4447277746 | BJAK | Technical Product Manager | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4447277861 | Events by L | Senior Product Manager | posted=2026-07-31
+- [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Product-Manager-3_R170963 | Adobe | Product Manager 3 | posted=2026-07-31
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

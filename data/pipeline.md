@@ -3310,6 +3310,20 @@ Pune, India | posted=2026-06-28
 - [ ] https://job-boards.greenhouse.io/zinnia/jobs/4699271006 | Zinnia | Senior Product Manager (Technical) - Case Management | posted=2026-07-31
 - [ ] https://job-boards.greenhouse.io/zinnia/jobs/4701510006 | Zinnia | Senior Product Manager (Technical) - Identity & Access Management | posted=2026-07-31
 
+- [ ] https://job-boards.greenhouse.io/webflow/jobs/8097442 | Webflow | Senior Product Manager, Code | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4436615040 | Copeland | Product Manager | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4437533819 | Docusign | Product Manager - Commerce Integrations & AI | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4447152671 | Zinnia | Product Manager (Technical) - Identity & Access Management | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4447054299 | TLC Worldwide | Product Owner | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4445534387 | Booking Holdings (NASDAQ: BKNG) | Principal Product Manager | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4437536765 | Docusign | Product Manager – Commerce Applications | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4447554832 | Flexiple | Senior Product Manager | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4447158551 | Zinnia | Product Manager (Tech) - Compliance & Regulatory Operations Platform | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4447166405 | Zinnia | Senior Product Manager (Technical) - Identity & Access Management | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4447165448 | Zinnia | Senior Product Manager (Technical) - Case Management | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4447541478 | Trimble Inc. | Product Owner - Worksite Ecosystem | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4447549472 | HP | Senior PLM COE Product Owner | posted=2026-07-31
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

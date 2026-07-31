@@ -3255,6 +3255,23 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4447048128 | Flexiple | Product Manager | posted=2026-07-30
 - [ ] https://www.linkedin.com/jobs/view/4447035037 | DBS Bank | Assistant Vice President, Product Manager - Business Management, Small Medium Enterprises | posted=2026-07-30
 
+- [ ] https://job-boards.greenhouse.io/webflow/jobs/8097749 | Webflow | Senior Product Manager, AI | posted=2026-07-30
+- [ ] https://www.linkedin.com/jobs/view/4435561885 | Avantor | Product Manager - IVD Diagnostics | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4446964969 | BJAK | Technical Product Manager | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4446988114 | Lenovo | AP Tablets Product Manager - Consumer | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4446979187 | The Tann Mann Gaadi | Senior Product Manager - SaaS - Fashion - Unpaid - Voluntary | posted=2026-07-31
+- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8097699 | Smartsheet | Sr. Product Manager II (Remote Eligible) | posted=2026-07-30
+- [ ] https://job-boards.greenhouse.io/sumologic/jobs/8089130 | Sumo Logic | Principal Product Manager | posted=2026-07-31
+- [ ] https://jobs.ashbyhq.com/telus-digital/008dc404-76b9-479d-a019-f259c6d1ee68 | TELUS Digital | Product Manager, Robotics & Physical AI  | posted=2026-07-31
+- [ ] https://jobs.ashbyhq.com/telus-digital/515e46a8-5960-41e8-b21d-15bd15269942 | TELUS Digital | Physical AI Robotics Product Manager  | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4446972795 | Cloud Security Web | Associate Product Manager - Product Operations & Adoption | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4446975044 | BeastLife | Associate Product Manager -D2C | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4446980131 | Cloud Security Web | Associate Product Manager - Clinical Product | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4447275338 | Hired | Product Manager (Remote) | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4446964842 | Franklin Templeton | Digital Product Manager | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4446962862 | PlaySimple Games | Product Manager | posted=2026-07-31
+- [ ] https://www.zoominfo.com/careers?gh_jid=8561603002 | ZoomInfo | Senior Product Manager | posted=2026-07-30
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

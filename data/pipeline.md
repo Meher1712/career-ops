@@ -3289,6 +3289,15 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4447277861 | Events by L | Senior Product Manager | posted=2026-07-31
 - [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Product-Manager-3_R170963 | Adobe | Product Manager 3 | posted=2026-07-31
 
+- [ ] https://www.linkedin.com/jobs/view/4447289865 | ANSR | Sr Product Owner, Technology Products [T500-28090] | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4447500709 | ANSR | Sr Product Owner, Technology Products [T500-28091] | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4447292866 | KeyStone Software LLC | Product Manager — Sublime LMS | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4447137176 | AU SMALL FINANCE BANK | Technical Product Manager | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4447504706 | BioTalent Search® | Product Manager / Assistant Manager – RT-PCR | posted=2026-07-31
+- [ ] https://www.linkedin.com/jobs/view/4447286869 | ANSR | Sr Product Owner, Technology Products [T500-28089] | posted=2026-07-31
+- [ ] https://job-boards.greenhouse.io/sumologic/jobs/8098451 | Sumo Logic | Principal Product Manager | posted=2026-07-31
+- [ ] https://jobs.lever.co/jobgether/9c272d3b-2c07-4c2c-aff7-9341962afb84 | Jobgether | Senior Product Manager, Tradfi Options | posted=2026-07-31
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

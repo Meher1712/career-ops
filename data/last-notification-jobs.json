@@ -1,12 +1,40 @@
 {
-  "generated_at": "2026-08-01T10:49:44.120Z",
+  "generated_at": "2026-08-01T12:13:52.156Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Product Manager (AI/ML)",
-      "company": "JobCrexa",
+      "title": "Product Manager",
+      "company": "PASSIONMOJO-PHRCRM",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4447481412"
+    },
+    {
+      "n": 2,
+      "title": "Senior Product Owner",
+      "company": "UPS",
+      "location": "Chennai, Tamil Nadu, India",
+      "url": "https://www.linkedin.com/jobs/view/4308852091"
+    },
+    {
+      "n": 3,
+      "title": "Lead Product Manager AIOPs",
+      "company": "S&P Global",
       "location": "Hyderabad, Telangana, India",
-      "url": "https://www.linkedin.com/jobs/view/4447780745"
+      "url": "https://www.linkedin.com/jobs/view/4438913058"
+    },
+    {
+      "n": 4,
+      "title": "Reconciliation Business Delivery Manager (Product Owner)",
+      "company": "BNP Paribas",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4419864949"
+    },
+    {
+      "n": 5,
+      "title": "Product Manager (Baby segment)",
+      "company": "Neuraleap Group",
+      "location": "Mumbai Metropolitan Region",
+      "url": "https://www.linkedin.com/jobs/view/4447492156"
     }
   ]
 }

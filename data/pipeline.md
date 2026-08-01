@@ -3342,6 +3342,11 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4419864949 | BNP Paribas | Reconciliation Business Delivery Manager (Product Owner) | posted=2026-08-01
 - [ ] https://www.linkedin.com/jobs/view/4447492156 | Neuraleap Group | Product Manager (Baby segment) | posted=2026-08-01
 
+- [ ] https://www.linkedin.com/jobs/view/4447800950 | Evolute Group | Senior Manager_Product Management | posted=2026-08-01
+- [ ] https://www.linkedin.com/jobs/view/4430486749 | AlphaSense | Product Manager I | posted=2026-08-01
+- [ ] https://www.linkedin.com/jobs/view/4447492404 | IDFC FIRST Bank | Lead AI Product Manager | posted=2026-08-01
+- [ ] https://www.linkedin.com/jobs/view/4447802304 | Easiio, Inc | Digital Product Manager | posted=2026-08-01
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

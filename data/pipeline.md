@@ -3336,6 +3336,12 @@ Pune, India | posted=2026-06-28
 
 - [ ] https://www.linkedin.com/jobs/view/4447780745 | JobCrexa | Product Manager (AI/ML) | posted=2026-08-01
 
+- [ ] https://www.linkedin.com/jobs/view/4447481412 | PASSIONMOJO-PHRCRM | Product Manager | posted=2026-08-01
+- [ ] https://www.linkedin.com/jobs/view/4308852091 | UPS | Senior Product Owner | posted=2026-08-01
+- [ ] https://www.linkedin.com/jobs/view/4438913058 | S&P Global | Lead Product Manager AIOPs | posted=2026-08-01
+- [ ] https://www.linkedin.com/jobs/view/4419864949 | BNP Paribas | Reconciliation Business Delivery Manager (Product Owner) | posted=2026-08-01
+- [ ] https://www.linkedin.com/jobs/view/4447492156 | Neuraleap Group | Product Manager (Baby segment) | posted=2026-08-01
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -3330,6 +3330,10 @@ Pune, India | posted=2026-06-28
 - [ ] https://job-boards.greenhouse.io/zscaler/jobs/5199215007 | Zscaler | Principal AI Product Manager | posted=2026-07-31
 - [ ] https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Toronto-Metro---Remote/Product-Management-Senior-Director--Medtech_JR353376 | Salesforce | Product Management Senior Director, Medtech | posted=2026-08-01
 
+- [ ] https://www.linkedin.com/jobs/view/4445806043 | SMA - Strategic Management Alliance | Senior Product Manager | posted=2026-08-01
+- [ ] https://www.linkedin.com/jobs/view/4447454746 | Olyv | Product Manager | posted=2026-08-01
+- [ ] https://www.linkedin.com/jobs/view/4445582962 | Shakambhari Group | Technical Product Manager | posted=2026-08-01
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -3347,6 +3347,9 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4447492404 | IDFC FIRST Bank | Lead AI Product Manager | posted=2026-08-01
 - [ ] https://www.linkedin.com/jobs/view/4447802304 | Easiio, Inc | Digital Product Manager | posted=2026-08-01
 
+- [ ] https://www.linkedin.com/jobs/view/4411321141 | IDFC FIRST Bank | Senior Lead-Product Owner- Cash Management Service (CMS) | posted=2026-08-01
+- [ ] https://www.linkedin.com/jobs/view/4430943165 | Hitachi Energy | Product Manager | posted=2026-08-01
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

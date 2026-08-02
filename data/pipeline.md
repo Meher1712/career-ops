@@ -3367,6 +3367,13 @@ Pune, India | posted=2026-06-28
 
 - [ ] https://www.linkedin.com/jobs/view/4447891845 | Evolute Group | Senior Manager_Product Management | posted=2026-08-02
 
+- [ ] https://www.linkedin.com/jobs/view/4447653301 | GiftsBazaar.in | Product Manager (Remote) | posted=2026-08-02
+- [ ] https://www.linkedin.com/jobs/view/4447667013 | hackajob | Product Manager Technical | posted=2026-08-02
+- [ ] https://www.linkedin.com/jobs/view/4447660079 | ASCENT E DIGIT SOLUTIONS PRIVATE LIMITED | Product Manager IT Hardware | posted=2026-08-02
+- [ ] https://www.linkedin.com/jobs/view/4447659098 | ResultFlow | Technical Product Manager | posted=2026-08-02
+- [ ] https://www.linkedin.com/jobs/view/4447892810 | r3 Consultant | Product Manager | posted=2026-08-02
+- [ ] https://www.linkedin.com/jobs/view/4448101113 | r3 Consultant | Business Development Manager – IT Services & AI Products | posted=2026-08-02
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

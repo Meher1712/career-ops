@@ -3355,6 +3355,14 @@ Pune, India | posted=2026-06-28
 
 - [ ] https://www.linkedin.com/jobs/view/4445842049 | Smart Food Safe | Product Manager | posted=2026-08-02
 
+- [ ] https://www.linkedin.com/jobs/view/4445851248 | Capgemini | FBS Customer Experience Product Manager | posted=2026-08-02
+- [ ] https://www.linkedin.com/jobs/view/4447647522 | Scoutit | Associate Product Manager | posted=2026-08-02
+- [ ] https://www.linkedin.com/jobs/view/4409287689 | eBay | Sr. Product Manager - Payments Platform | posted=2026-08-02
+- [ ] https://www.linkedin.com/jobs/view/4409275979 | eBay | Sr Product Manager - Seller Payments | posted=2026-08-02
+- [ ] https://www.linkedin.com/jobs/view/4447887388 | Flexiple | Group Product Manager | posted=2026-08-02
+- [ ] https://www.linkedin.com/jobs/view/4447885420 | Atlassian | Principal Product Manager - Talent, Strategy Collection | posted=2026-08-02
+- [ ] https://www.linkedin.com/jobs/view/4447882488 | Atlassian | Principal Product Manager - Enterprise Readiness | posted=2026-08-02
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

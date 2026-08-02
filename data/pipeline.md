@@ -3365,6 +3365,8 @@ Pune, India | posted=2026-06-28
 
 - [ ] https://www.linkedin.com/jobs/view/4447636888 | Swiggy | Senior Product Manager | posted=2026-08-02
 
+- [ ] https://www.linkedin.com/jobs/view/4447891845 | Evolute Group | Senior Manager_Product Management | posted=2026-08-02
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

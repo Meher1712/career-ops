@@ -1,19 +1,40 @@
 {
-  "generated_at": "2026-08-02T17:17:02.103Z",
+  "generated_at": "2026-08-03T06:36:24.012Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Associate Product Manager",
-      "company": "Katyayani Organics",
-      "location": "Bhopal, Madhya Pradesh, India",
-      "url": "https://www.linkedin.com/jobs/view/4445851679"
+      "title": "AI First Product Manager",
+      "company": "Deltek",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4447684750"
     },
     {
       "n": 2,
-      "title": "Product Manager",
-      "company": "Data Eminence",
-      "location": "Delhi, India",
-      "url": "https://www.linkedin.com/jobs/view/4447660199"
+      "title": "Product Manager (Up to 60LPA)",
+      "company": "CodeRound AI",
+      "location": "India",
+      "url": "https://www.linkedin.com/jobs/view/4448129869"
+    },
+    {
+      "n": 3,
+      "title": "Product Manager (UX-Focused)",
+      "company": "Exemplifi",
+      "location": "India",
+      "url": "https://www.linkedin.com/jobs/view/4447691624"
+    },
+    {
+      "n": 4,
+      "title": "Director, Product Management",
+      "company": "Ethos",
+      "location": "Bangalore, India",
+      "url": "https://job-boards.greenhouse.io/ethoslife/jobs/8653777002"
+    },
+    {
+      "n": 5,
+      "title": "Principal Product Manager, Underwriting",
+      "company": "Ethos",
+      "location": "Bangalore, India",
+      "url": "https://job-boards.greenhouse.io/ethoslife/jobs/8653797002"
     }
   ]
 }

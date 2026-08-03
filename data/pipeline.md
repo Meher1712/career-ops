@@ -3377,6 +3377,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4445851679 | Katyayani Organics | Associate Product Manager | posted=2026-08-02
 - [ ] https://www.linkedin.com/jobs/view/4447660199 | Data Eminence | Product Manager | posted=2026-08-02
 
+- [ ] https://www.linkedin.com/jobs/view/4447684750 | Deltek | AI First Product Manager | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4448129869 | CodeRound AI | Product Manager (Up to 60LPA) | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4447691624 | Exemplifi | Product Manager (UX-Focused) | posted=2026-08-03
+- [ ] https://job-boards.greenhouse.io/ethoslife/jobs/8653777002 | Ethos | Director, Product Management | posted=2026-08-03
+- [ ] https://job-boards.greenhouse.io/ethoslife/jobs/8653797002 | Ethos | Principal Product Manager, Underwriting | posted=2026-08-03
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

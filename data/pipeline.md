@@ -3405,6 +3405,30 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/keyloop/4f2a39bc-77cc-41b1-93aa-122da0896eb1 | Keyloop | Product Owner | posted=2026-08-03
 - [ ] https://jobs.lever.co/keyloop/700d7fff-d78a-4f18-82e7-79d93ce0a93f | Keyloop | Product Owner (Integrations) | posted=2026-08-03
 
+- [ ] https://careers.airbnb.com/positions/8091831?gh_jid=8091831 | Airbnb | Staff Platform Manager, Loyalty Platform Lead (Product Management) | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4448181774 | Snapmint | Senior Product Manager | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4448188649 | Nasiko | Senior Product Manager | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4440013556 | LeadSquared | Senior Product Manager - Collections | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4448185795 | Saaki Argus and Averil Consulting | Technical Product Manager – ServiceNow Platform | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4448185732 | CloudKeeper | Product Manager | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4437257715 | Porch Group | Senior Product Manager, Warranty | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4445899965 | SoTalent | Product Manager | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4448188681 | Rupeezy | Product Manager - Mutual Fund Distribution | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4448173904 | GeoIQ | Product Manager | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4448186757 | Cypherock | Technical Product Manager | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4448195114 | Embrace Software Inc | Product Manager | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4448192575 | RHIA.ai | Product Owner | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4447979482 | IDFC FIRST Bank | Product Manager-Personal Loan | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4448193023 | HDIPlatform | Associate Product Manager | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4446217014 | Safari Industries India Ltd. | Assistant Product Manager | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4448180770 | GeoIQ | Associate Product Manager - AI Stylist | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4448198216 | First Advantage | Director, Product Management (Crim Automation) | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4447950826 | IGEL Technology | Product Manager-Bangalore | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4448169520 | Amazon | Sr. Product Manager, ROW SHARP | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4448184147 | Amazon | Senior Product Manager - Tech | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4447975420 | Octave | Technical Product Manager | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4448172709 | Ethos | Principal Product Manager, Underwriting | posted=2026-08-03
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

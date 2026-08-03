@@ -3383,6 +3383,28 @@ Pune, India | posted=2026-06-28
 - [ ] https://job-boards.greenhouse.io/ethoslife/jobs/8653777002 | Ethos | Director, Product Management | posted=2026-08-03
 - [ ] https://job-boards.greenhouse.io/ethoslife/jobs/8653797002 | Ethos | Principal Product Manager, Underwriting | posted=2026-08-03
 
+- [ ] https://www.linkedin.com/jobs/view/4448156709 | Flexiple | Group Product Manager | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4445896430 | Capgemini | FBS Sr. Customer Experience Product Manager | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4448156895 | Baser | Technical Product Owner - E-commerce Magento | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4448173059 | VGreen Technology Solutions (VGreenTEK) | Senior Product Manager – Motor Insurance_Onsite | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4448168643 | ABB | (80 - 100%) Senior Product Manager | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4447910360 | Atlas Copco Group | Product Owner - Enterprise Application | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4448146910 | Cisco | Senior Product Manager - Cisco Wireless | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4438548720 | U.S. Bank | Data Product Owner | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4448157776 | A.P. Moller - Maersk | Platform Product Owner - Data Analytics | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4448146954 | GREYTIP SOFTWARE PRIVATE LIMITED | Associate Product Manager | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4448155760 | Olik Global | Product Manager - UPI (Consumer) | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4447922098 | UBS | Product Manager | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4447920200 | ElderGo | Travel Product Manager – Tours & Itineraries | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4448151754 | Cisco | Product Manager - Cisco Wireless | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4447913365 | Q-Line Biotech Limited | Product Manager/Asst Product Manager/Product Specialist - CLIA | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4447923155 | Google | Senior Product Manager, Google Cloud Business Platform | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4445894298 | Airtel Business | Tech consultant(Cyber Security)/ Product Manager(Cyber Security) | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4445893253 | Taglynk | AI Product Manager (Manufacturing, Renewable & Power) | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4445893449 | HARMAN India | Product Manager - VX/UX/HUD/Display (Automotive Domain) | posted=2026-08-03
+- [ ] https://jobs.lever.co/keyloop/4f2a39bc-77cc-41b1-93aa-122da0896eb1 | Keyloop | Product Owner | posted=2026-08-03
+- [ ] https://jobs.lever.co/keyloop/700d7fff-d78a-4f18-82e7-79d93ce0a93f | Keyloop | Product Owner (Integrations) | posted=2026-08-03
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

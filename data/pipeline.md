@@ -3429,6 +3429,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4447975420 | Octave | Technical Product Manager | posted=2026-08-03
 - [ ] https://www.linkedin.com/jobs/view/4448172709 | Ethos | Principal Product Manager, Underwriting | posted=2026-08-03
 
+- [ ] https://www.linkedin.com/jobs/view/4448309671 | Nasdaq | Lead Product Manager | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4446210999 | Accenture in India | Product Management Lead | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4448318126 | Keyloop | Product Owner (Integrations) | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4448302861 | Keyloop | Product Owner | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4448326035 | Amazon | Sr. Product Manager - Technical, WW Prime - Benefits, Pricing & Constructs | posted=2026-08-03
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

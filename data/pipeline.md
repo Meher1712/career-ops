@@ -3454,6 +3454,20 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/nium/0b795f90-7cef-4e5f-9279-f6dc2be45090 | Nium | Sr Product Manager - Payments Platform | posted=2026-08-04
 - [ ] https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Data-Integration-Product-Manager---Informatica_JR353953 | Salesforce | Data Integration Product Manager - Informatica | posted=2026-08-04
 
+- [ ] https://www.linkedin.com/jobs/view/4448269834 | Axeno Consulting | Product Owner | posted=2026-08-04
+- [ ] https://www.linkedin.com/jobs/view/4446623644 | HCLTech | Sr. AI Product Manager | posted=2026-08-04
+- [ ] https://www.linkedin.com/jobs/view/4446636275 | Torrent Pharmaceuticals Ltd | Group Product Manager | posted=2026-08-04
+- [ ] https://www.linkedin.com/jobs/view/4448848997 | Innova ESI | Digital Analytics Product Owner | posted=2026-08-04
+- [ ] https://www.linkedin.com/jobs/view/4438271699 | Syneos Health | Principal Product Manager- Hyderabad (hybrid) | posted=2026-08-04
+- [ ] https://www.linkedin.com/jobs/view/4448283608 | Cloud Software Group | Lead Product Manager | posted=2026-08-04
+- [ ] https://www.linkedin.com/jobs/view/4448837969 | Hewlett Packard Enterprise | Principal Product Manager - Switching | posted=2026-08-04
+- [ ] https://www.linkedin.com/jobs/view/4446627719 | TIAA | Senior Associate - Product Owner | posted=2026-08-04
+- [ ] https://www.linkedin.com/jobs/view/4440073244 | ABB | Product Management Specialist | posted=2026-08-04
+- [ ] https://www.linkedin.com/jobs/view/4440051010 | Diligent | Product Manager – Ethics & Compliance (Fixed Term, 1 Year) | posted=2026-08-04
+- [ ] https://www.linkedin.com/jobs/view/4448849577 | Abbott | Group Product Manager- GI Maxima | posted=2026-08-04
+- [ ] https://www.linkedin.com/jobs/view/4440013374 | ABB | Bids and Proposal, Product Manager | posted=2026-08-04
+- [ ] https://job-boards.greenhouse.io/scopely/jobs/5376213008?gh_jid=5376213008 | Scopely | Product Manager, Performance | posted=2026-08-04
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

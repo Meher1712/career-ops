@@ -3468,6 +3468,14 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4440013374 | ABB | Bids and Proposal, Product Manager | posted=2026-08-04
 - [ ] https://job-boards.greenhouse.io/scopely/jobs/5376213008?gh_jid=5376213008 | Scopely | Product Manager, Performance | posted=2026-08-04
 
+- [ ] https://www.linkedin.com/jobs/view/4448890150 | Evolute Group | Senior Manager_Product Management | posted=2026-08-04
+- [ ] https://www.linkedin.com/jobs/view/4448506522 | Orokyn | Product Manager - Community Engagement | posted=2026-08-04
+- [ ] https://www.linkedin.com/jobs/view/4440078852 | GE Vernova | Staff Technical Product Manager | posted=2026-08-04
+- [ ] https://www.linkedin.com/jobs/view/4438327190 | hackajob | Product Manager - Vice President | posted=2026-08-04
+- [ ] https://www.linkedin.com/jobs/view/4446634992 | Diatom Technologies | Product Owner | posted=2026-08-04
+- [ ] https://www.linkedin.com/jobs/view/4440086432 | PwC India | IN_Senior Associate_ Product Owner_GCC_Advisory_Bangalore | posted=2026-08-04
+- [ ] https://jobs.ashbyhq.com/Aspora/051457c0-84d6-426f-b84b-651088dd77c1 | Aspora | Head of Product Design | posted=2026-06-18
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

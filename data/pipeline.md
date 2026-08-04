@@ -3476,6 +3476,13 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4440086432 | PwC India | IN_Senior Associate_ Product Owner_GCC_Advisory_Bangalore | posted=2026-08-04
 - [ ] https://jobs.ashbyhq.com/Aspora/051457c0-84d6-426f-b84b-651088dd77c1 | Aspora | Head of Product Design | posted=2026-06-18
 
+- [ ] https://www.linkedin.com/jobs/view/4446658862 | PHOENIX CONTACT (I) Pvt. Ltd. | Product Manager | posted=2026-08-04
+- [ ] https://www.linkedin.com/jobs/view/4446674319 | Mastercard | Specialist, Product Management | posted=2026-08-04
+- [ ] https://www.linkedin.com/jobs/view/4446668524 | Flam | Associate Product Manager (Native Ads) | posted=2026-08-04
+- [ ] https://www.linkedin.com/jobs/view/4446668660 | Okta | Director, Product Management - Integrations | posted=2026-08-04
+- [ ] https://www.linkedin.com/jobs/view/4448548373 | Goldman Sachs | Corporate Planning & Management-Bengaluru-Associate-Product Management | posted=2026-08-04
+- [ ] https://www.inovalon.com/careers/job/?gh_jid=7826367003 | Inovalon | Senior Product Manager (Healthcare Data Products/API) | posted=2026-08-04
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

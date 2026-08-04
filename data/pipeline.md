@@ -3435,6 +3435,17 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4448302861 | Keyloop | Product Owner | posted=2026-08-03
 - [ ] https://www.linkedin.com/jobs/view/4448326035 | Amazon | Sr. Product Manager - Technical, WW Prime - Benefits, Pricing & Constructs | posted=2026-08-03
 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8658878002 | GitLab | Principal Product Manager, AI Software Factory | posted=2026-08-03
+- [ ] https://www.linkedin.com/jobs/view/4448806913 | Nium | Sr Product Manager - Payments Platform | posted=2026-08-04
+- [ ] https://www.linkedin.com/jobs/view/4448811349 | Innova ESI | Product Owner – Retail Media Network (RMN) | posted=2026-08-04
+- [ ] https://www.linkedin.com/jobs/view/4446607264 | Swiggy | Product Manager II | posted=2026-08-04
+- [ ] https://www.linkedin.com/jobs/view/4446290623 | Hireginie | AI Agent Product Manager | posted=2026-08-04
+- [ ] https://www.linkedin.com/jobs/view/4448811566 | Aaizel International Technologies Pvt Ltd | Project/Product Manager-IT | posted=2026-08-04
+- [ ] https://www.linkedin.com/jobs/view/4446288813 | ClanX | Director of Product Management | posted=2026-08-04
+- [ ] https://job-boards.greenhouse.io/newrelic/jobs/5288154008 | New Relic | Senior Product Manager | posted=2026-08-04
+- [ ] https://job-boards.eu.greenhouse.io/valtech/jobs/4943844101 | Valtech | Product Owner | posted=2026-08-03
+- [ ] https://jobs.ashbyhq.com/snowflake/15d2f360-2670-4ea2-bfc3-b26407bd6eea | Snowflake | Enterprise Product Manager | posted=2026-08-04
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -3446,6 +3446,14 @@ Pune, India | posted=2026-06-28
 - [ ] https://job-boards.eu.greenhouse.io/valtech/jobs/4943844101 | Valtech | Product Owner | posted=2026-08-03
 - [ ] https://jobs.ashbyhq.com/snowflake/15d2f360-2670-4ea2-bfc3-b26407bd6eea | Snowflake | Enterprise Product Manager | posted=2026-08-04
 
+- [ ] https://www.linkedin.com/jobs/view/4448270775 | Eazybe | Technical Product Manager (B2B SaaS, Hybrid, New Delhi, 3-7 LPA) | posted=2026-08-04
+- [ ] https://www.linkedin.com/jobs/view/4448279156 | IDFC FIRST Bank | Product Manager-2 Wheeler Loan | posted=2026-08-04
+- [ ] https://www.linkedin.com/jobs/view/4446614413 | Walker Digital Table Systems, LLC | Senior Product Owner | posted=2026-08-04
+- [ ] https://www.linkedin.com/jobs/view/4448279179 | Multiplier | Senior Product Manager – KYB And Risk | posted=2026-08-04
+- [ ] https://www.linkedin.com/jobs/view/4446612466 | ZS | Group Product Manager | posted=2026-08-04
+- [ ] https://jobs.lever.co/nium/0b795f90-7cef-4e5f-9279-f6dc2be45090 | Nium | Sr Product Manager - Payments Platform | posted=2026-08-04
+- [ ] https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Data-Integration-Product-Manager---Informatica_JR353953 | Salesforce | Data Integration Product Manager - Informatica | posted=2026-08-04
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

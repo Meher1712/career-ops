@@ -3523,6 +3523,19 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4439689062 | JioStar | Staff Product Manager | posted=2026-08-05
 - [ ] https://www.linkedin.com/jobs/view/4429244266 | JioStar | Director Product Management - Viewer Experience | posted=2026-08-05
 
+- [ ] https://www.linkedin.com/jobs/view/4439880540 | Smartsheet | Sr, Product Manager II - Gantt View (Hybrid, Bangalore) | posted=2026-08-05
+- [ ] https://www.linkedin.com/jobs/view/4449652454 | Ford Motor Company | Manager, Data Product Management | posted=2026-08-05
+- [ ] https://www.linkedin.com/jobs/view/4448035046 | HighLevel | Senior Product Manager - Workflow Core | posted=2026-08-05
+- [ ] https://www.linkedin.com/jobs/view/4448052303 | Ansira | Product Owner | posted=2026-08-05
+- [ ] https://www.linkedin.com/jobs/view/4449111806 | hackajob | Intelligent Automation - Product Owner - Associate | posted=2026-08-05
+- [ ] https://www.linkedin.com/jobs/view/4449119847 | Deloitte | Product Management - Senior Product Specialist | posted=2026-08-05
+- [ ] https://www.linkedin.com/jobs/view/4438015157 | SUN PHARMA | Product Manager - Croslands | posted=2026-08-05
+- [ ] https://www.linkedin.com/jobs/view/4449659299 | zocket-test | Product Manager | posted=2026-08-05
+- [ ] https://www.linkedin.com/jobs/view/4449125975 | Google | Product Manager, Google Cloud Security | posted=2026-08-05
+- [ ] https://www.linkedin.com/jobs/view/4449129621 | Support Stanislaus Cancer Treatment | Product Manager | posted=2026-08-05
+- [ ] https://www.linkedin.com/jobs/view/4449650177 | MSD | Senior Specialist, Technical Product Management | posted=2026-08-05
+- [ ] https://jobs.ashbyhq.com/credo.ai/28c6ff0a-ab04-45f9-a1b2-e5d412dc93e8 | Credo AI | Chief Product Officer | posted=2026-08-04
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

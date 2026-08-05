@@ -3513,6 +3513,16 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4449103556 | ResumeOpen | Free ATS-Optimized Product Manager Resume Template | posted=2026-08-05
 - [ ] https://jobs.lever.co/jobgether/425c4fa4-5939-400a-9bda-b3dac0978b4c | Jobgether | Product Manager, Self Managed Service | posted=2026-08-05
 
+- [ ] https://www.linkedin.com/jobs/view/4448010462 | JioSaavn | Senior Product Manager - Engagement, Personalisation & AI | posted=2026-08-05
+- [ ] https://www.linkedin.com/jobs/view/4440836476 | CGI | Technical Product Owner | posted=2026-08-05
+- [ ] https://www.linkedin.com/jobs/view/4449122167 | Knowledge Artisans Private Limited | Senior Program/Portfolio Manager — Chief Product Officer (CPO) | posted=2026-08-05
+- [ ] https://www.linkedin.com/jobs/view/4449119103 | VerSe Innovation | Product Manager | posted=2026-08-05
+- [ ] https://www.linkedin.com/jobs/view/4449121146 | Zocket | Product Manager | posted=2026-08-05
+- [ ] https://www.linkedin.com/jobs/view/4448020499 | EOK GEMS & JEWELLERY PRIVATE LIMITED | Technical Product Manager | posted=2026-08-05
+- [ ] https://www.linkedin.com/jobs/view/4429234410 | JioStar | Staff Product Manager (Recommendations) | posted=2026-08-05
+- [ ] https://www.linkedin.com/jobs/view/4439689062 | JioStar | Staff Product Manager | posted=2026-08-05
+- [ ] https://www.linkedin.com/jobs/view/4429244266 | JioStar | Director Product Management - Viewer Experience | posted=2026-08-05
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

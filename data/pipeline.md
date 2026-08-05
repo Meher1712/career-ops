@@ -3483,6 +3483,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4448548373 | Goldman Sachs | Corporate Planning & Management-Bengaluru-Associate-Product Management | posted=2026-08-04
 - [ ] https://www.inovalon.com/careers/job/?gh_jid=7826367003 | Inovalon | Senior Product Manager (Healthcare Data Products/API) | posted=2026-08-04
 
+- [ ] https://www.linkedin.com/jobs/view/4447367040 | Zydus Group | Product Manager | posted=2026-08-05
+- [ ] https://www.linkedin.com/jobs/view/4447361008 | Omnibound AI | Product Manager | posted=2026-08-05
+- [ ] https://www.linkedin.com/jobs/view/4447349751 | Edme Insurance Brokers | Product Manager-Employee Benefits (Group Insurance) | posted=2026-08-05
+- [ ] https://www.linkedin.com/jobs/view/4447343732 | Jobgether | Sr. Product Manager - Lead Generation Suite | posted=2026-08-05
+- [ ] https://job-boards.greenhouse.io/zinnia/jobs/4699303006 | Zinnia | Product Manager -Technical | posted=2026-08-04
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

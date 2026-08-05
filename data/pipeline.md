@@ -3489,6 +3489,16 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4447343732 | Jobgether | Sr. Product Manager - Lead Generation Suite | posted=2026-08-05
 - [ ] https://job-boards.greenhouse.io/zinnia/jobs/4699303006 | Zinnia | Product Manager -Technical | posted=2026-08-04
 
+- [ ] https://www.linkedin.com/jobs/view/4447385259 | Netomi | Senior Product Manager - Autonomous Agents | posted=2026-08-05
+- [ ] https://www.linkedin.com/jobs/view/4448989118 | Jobgether | Product Manager, Self Managed Service | posted=2026-08-05
+- [ ] https://www.linkedin.com/jobs/view/4447392004 | Essential Fine Ingredients Inc. | Product Management Director | posted=2026-08-05
+- [ ] https://www.linkedin.com/jobs/view/4447370992 | Popular Foods Co | Associate Product Manager | posted=2026-08-05
+- [ ] https://www.linkedin.com/jobs/view/4448988204 | GlobalLogic | Forward-Deployed AI Product Architect – APAC IRC300053 | posted=2026-08-05
+- [ ] https://www.linkedin.com/jobs/view/4449459472 | MakeMyTrip | Associate Product Manager | posted=2026-08-05
+- [ ] https://www.linkedin.com/jobs/view/4449460230 | Flexiple | Senior Product Manager | posted=2026-08-05
+- [ ] https://www.linkedin.com/jobs/view/4448979845 | GTV | Product Manager | posted=2026-08-05
+- [ ] https://jobs.lever.co/jobgether/80292d31-8b03-478b-9046-38253c71bec9 | Jobgether | Sr. Product Manager - Lead Generation Suite | posted=2026-08-05
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

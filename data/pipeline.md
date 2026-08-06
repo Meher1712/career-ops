@@ -3536,6 +3536,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4449650177 | MSD | Senior Specialist, Technical Product Management | posted=2026-08-05
 - [ ] https://jobs.ashbyhq.com/credo.ai/28c6ff0a-ab04-45f9-a1b2-e5d412dc93e8 | Credo AI | Chief Product Officer | posted=2026-08-04
 
+- [ ] https://www.linkedin.com/jobs/view/4449995237 | NationsBenefits India | Product Manager (Cards & Payments) | posted=2026-08-06
+- [ ] https://careers.airbnb.com/positions/8108846?gh_jid=8108846 | Airbnb | Staff Advanced Analytics, Digital & AI Products | posted=2026-08-05
+- [ ] https://job-boards.greenhouse.io/ethoslife/jobs/8641210002 | Ethos | Director of Product Design | posted=2026-08-05
+- [ ] https://jobs.lever.co/jobgether/19e18a94-01cc-4f43-be5d-383290344934 | Jobgether | Senior Product Manager - Workflow Core | posted=2026-08-06
+- [ ] https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Senior-Product-Manager---Platform-Identity-Service_JR352771-1 | Salesforce | Senior Product Manager - Platform Identity Services | posted=2026-08-06
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

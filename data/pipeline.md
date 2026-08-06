@@ -3567,6 +3567,19 @@ Pune, India | posted=2026-06-28
 - [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990014466136 | Nielsen | Senior Product Manager I | posted=2026-08-06
 - [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Principal-Product-Manager--DSP-Advertising-_R171043 | Adobe | Principal Product Manager (DSP Advertising) | posted=2026-08-06
 
+- [ ] https://www.linkedin.com/jobs/view/4450254853 | BuzzBoard | Product Manager — AI Products | posted=2026-08-06
+- [ ] https://www.linkedin.com/jobs/view/4450269003 | INDmoney | Product Manager — Web Trading | posted=2026-08-06
+- [ ] https://www.linkedin.com/jobs/view/4448435133 | Nielsen | Senior Product Manager I | posted=2026-08-06
+- [ ] https://www.linkedin.com/jobs/view/4450262666 | Reo.Dev | Product Manager - Founding Team [RevOps Experience] | posted=2026-08-06
+- [ ] https://www.linkedin.com/jobs/view/4450263802 | Events by L | Senior Product Manager | posted=2026-08-06
+- [ ] https://www.linkedin.com/jobs/view/4449741563 | IDFC FIRST Bank | Product Manager-Credit Cards | posted=2026-08-06
+- [ ] https://www.linkedin.com/jobs/view/4449754169 | IDFC FIRST Bank | Senior Product Manager-Credit Cards | posted=2026-08-06
+- [ ] https://www.linkedin.com/jobs/view/4434968286 | Nielsen | Lead Product Manager/ AI Product Manager | posted=2026-08-06
+- [ ] https://www.linkedin.com/jobs/view/4450274123 | Parati | Technical Product Manager | posted=2026-08-06
+- [ ] https://www.linkedin.com/jobs/view/4450271054 | LPL Financial Global Capability Center | Product Owner – Centralized Branding Management | posted=2026-08-06
+- [ ] https://www.linkedin.com/jobs/view/4448416666 | Siemens Healthineers | Product Owner (AI-enabled Medical Imaging Solutions ) | posted=2026-08-06
+- [ ] https://www.linkedin.com/jobs/view/4450262865 | Caterpillar Inc. | Senior Digital Product Owner - AEM ( Adobe Experience Manager) | posted=2026-08-06
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

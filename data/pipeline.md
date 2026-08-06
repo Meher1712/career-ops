@@ -3549,6 +3549,24 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4450208846 | SOTI | Senior Manager, Product Management | posted=2026-08-06
 - [ ] https://www.linkedin.com/jobs/view/4448092517 | Domestique.live | Technical Founder in Residence | posted=2026-08-06
 
+- [ ] https://www.linkedin.com/jobs/view/4448417074 | Mastercard | Manager, Product Management | posted=2026-08-06
+- [ ] https://www.linkedin.com/jobs/view/4449397314 | Ericsson | Product Owner | posted=2026-08-06
+- [ ] https://www.linkedin.com/jobs/view/4449386580 | Dentsu Global Services | Lead Product Owner | posted=2026-08-06
+- [ ] https://www.linkedin.com/jobs/view/4441421709 | Gruve | Product Owner | posted=2026-08-06
+- [ ] https://www.linkedin.com/jobs/view/4429312972 | Visteon Corporation | Product Owner | posted=2026-08-06
+- [ ] https://www.linkedin.com/jobs/view/4440254240 | DigiCert | Product Manager | posted=2026-08-06
+- [ ] https://www.linkedin.com/jobs/view/4449397358 | enGen Global | Senior Consultant - Product Owner | posted=2026-08-06
+- [ ] https://www.linkedin.com/jobs/view/4449385599 | Meritto | Product Manager-Mobile App(B2B SaaS) | posted=2026-08-06
+- [ ] https://www.linkedin.com/jobs/view/4449396354 | Locus | Director of Product Management | posted=2026-08-06
+- [ ] https://www.linkedin.com/jobs/view/4449397360 | IncrediPets | Associate Product Manager | posted=2026-08-06
+- [ ] https://www.linkedin.com/jobs/view/4449389498 | BLJ Tech Geeks | Vice President of Product Management | posted=2026-08-06
+- [ ] https://www.linkedin.com/jobs/view/4450233608 | Jubilant Generics Limited | Product Manager | posted=2026-08-06
+- [ ] https://www.linkedin.com/jobs/view/4429864050 | HighLevel | Sr. Director, Product Management (Revenue Products) | posted=2026-08-06
+- [ ] https://www.linkedin.com/jobs/view/4449390457 | Ujjivan Small Finance Bank | Product Manager-Group Loan | posted=2026-08-06
+- [ ] https://www.linkedin.com/jobs/view/4450227640 | Abbott | Product Manager CCD | posted=2026-08-06
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990014466136 | Nielsen | Senior Product Manager I | posted=2026-08-06
+- [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Principal-Product-Manager--DSP-Advertising-_R171043 | Adobe | Principal Product Manager (DSP Advertising) | posted=2026-08-06
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

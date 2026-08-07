@@ -3652,6 +3652,15 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4448779858 | Flexiple | Product Manager | posted=2026-08-07
 - [ ] https://www.linkedin.com/jobs/view/4450312878 | Umanist NA | Associate Product Manager | posted=2026-08-07
 
+- [ ] https://www.linkedin.com/jobs/view/4450713221 | Securin Inc. | Product Manager | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4450342299 | PeopleGene | Product Manager - Automotive/ Media (AI/ D2C) | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4450703822 | Eli Lilly and Company | Product Manager, Unified Experience Agentic Platform | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4450703729 | Reckitt | IT&D Product Manager - Genesis Procurement | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4450347067 | Digit Life Insurance | Product Manager | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4448796602 | Purplle.com | Associate Product Manager/ Product Manager – Supply Chain | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4450692982 | Kissht | Associate Product Manager - Acquisition | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4450338439 | MissFit Coaching | Director of Product Management USA Startup | posted=2026-08-07
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

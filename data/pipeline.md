@@ -3615,6 +3615,9 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4450305127 | CyberCube Services | Product Manager | posted=2026-08-07
 - [ ] https://www.druva.com/why-druva/explore/careers/jobs/8651130002/?gh_jid=8651130002 | Druva | Product Manager | posted=2026-08-07
 
+- [ ] https://www.linkedin.com/jobs/view/4450094824 | Kantata | Principal Product Manager | posted=2026-08-07
+- [ ] https://jobs.ashbyhq.com/ema/8e8544c8-95ff-460b-a73b-aa029fb12bdb | Ema | Forward Deployed Builder | posted=2026-08-07
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

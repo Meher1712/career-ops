@@ -3640,6 +3640,18 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4450317260 | SUN PHARMA | Product Manager - (Amphion) - Urology | posted=2026-08-07
 - [ ] https://jobs.ashbyhq.com/ema/b6114740-f6a9-4d98-8d2c-6c6017ba9417 | Ema | Forward Deployed Builder | posted=2026-08-07
 
+- [ ] https://www.linkedin.com/jobs/view/4450314679 | Microsoft | Senior Product Manager | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4448775914 | Avencore Tech Services | Senior Product manager - Procurement | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4433521399 | G2 | Product Manager | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4450696521 | GE HealthCare | Product Manager - CT West | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4443284434 | L&T Finance | Product Manager – Voice Agentic AI | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4450701360 | Informatica Brasil | Product Manager - Informatica (PIM) | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4448781630 | CareerXperts Consulting | Product Manager | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4450239627 | LinkedIn India Senior PM | product manager in pharmaceutical company | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4450703085 | BNY | Senior Specialist, POM Technical Product Management - Reporting & Analytics | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4448779858 | Flexiple | Product Manager | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4450312878 | Umanist NA | Associate Product Manager | posted=2026-08-07
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -3600,6 +3600,21 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/jobgether/628a76b5-fdab-44b4-9592-6c2beba6e5e5 | Jobgether | Product Manager Biosimilars | posted=2026-08-07
 - [ ] https://jobs.lever.co/jobgether/5994c6e3-5e3d-49d8-abb2-45889caecb5b | Jobgether | Senior Product Manager, Advertising & Publisher Monetization | posted=2026-08-07
 
+- [ ] https://www.linkedin.com/jobs/view/4434622025 | Zippee | Product Manager | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4448755629 | kim.cc | Product Manager | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4450090493 | dunnhumby | Product Manager - Retail & Insights | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4438871451 | U.S. Bank | Product Manager | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4448765174 | Delhivery | Senior Product Manager | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4450087769 | Bain & Company | Lead, Product Management & Innovation | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4450305171 | super.money | Product Manager | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4448756562 | Kantata | Principal Product Manager | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4448773027 | Tekion Corp | Manager, Product Management | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4448750930 | SalesForce-ad | Senior Product Manager - Tableau | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4448756505 | Flexiple | Senior Product Manager | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4448766065 | Wipro | CTO - AI/ML Product Owner | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4450305127 | CyberCube Services | Product Manager | posted=2026-08-07
+- [ ] https://www.druva.com/why-druva/explore/careers/jobs/8651130002/?gh_jid=8651130002 | Druva | Product Manager | posted=2026-08-07
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

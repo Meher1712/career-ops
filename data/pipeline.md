@@ -3584,6 +3584,14 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4448705904 | Overseas Healthcare Pvt Ltd | Product Executive /Assistant Product Manager/Product Manager | posted=2026-08-07
 - [ ] https://job-boards.greenhouse.io/gitlab/jobs/8684348002 | GitLab | Senior Product Manager, Growth | posted=2026-08-06
 
+- [ ] https://www.linkedin.com/jobs/view/4450071291 | Brillio | Product Manager | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4448729483 | Jobgether | Senior Product Manager, Advertising & Publisher Monetization | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4450077201 | Kissht | Product Manager – Trading Platform | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4435558969 | Avantor | Product Manager - IVD Diagnostics | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4450073210 | Ujjivan Small Finance Bank | Product Manager-Individual Loans | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4448734188 | Jobgether | Product Manager Biosimilars | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4450058711 | Hire22.ai | Growth Product Manager | posted=2026-08-07
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

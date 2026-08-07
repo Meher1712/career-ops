@@ -3592,6 +3592,14 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4448734188 | Jobgether | Product Manager Biosimilars | posted=2026-08-07
 - [ ] https://www.linkedin.com/jobs/view/4450058711 | Hire22.ai | Growth Product Manager | posted=2026-08-07
 
+- [ ] https://www.linkedin.com/jobs/view/4448749500 | Couchbase | Sr Product Manager | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4448744196 | alphastream.ai | Senior Product Manager – Legal Data Extraction Platform | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4448736558 | CoinGape News | PRODUCT MANAGER | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4450070611 | Specscart. | Head of Product & Digital | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4450091169 | Mint Lifesciences Pvt Ltd | Product Manager | posted=2026-08-07
+- [ ] https://jobs.lever.co/jobgether/628a76b5-fdab-44b4-9592-6c2beba6e5e5 | Jobgether | Product Manager Biosimilars | posted=2026-08-07
+- [ ] https://jobs.lever.co/jobgether/5994c6e3-5e3d-49d8-abb2-45889caecb5b | Jobgether | Senior Product Manager, Advertising & Publisher Monetization | posted=2026-08-07
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -3580,6 +3580,10 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4448416666 | Siemens Healthineers | Product Owner (AI-enabled Medical Imaging Solutions ) | posted=2026-08-06
 - [ ] https://www.linkedin.com/jobs/view/4450262865 | Caterpillar Inc. | Senior Digital Product Owner - AEM ( Adobe Experience Manager) | posted=2026-08-06
 
+- [ ] https://www.linkedin.com/jobs/view/4450038972 | Azim Premji Foundation | Enterprise Product Manager (EPM) | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4448705904 | Overseas Healthcare Pvt Ltd | Product Executive /Assistant Product Manager/Product Manager | posted=2026-08-07
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8684348002 | GitLab | Senior Product Manager, Growth | posted=2026-08-06
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

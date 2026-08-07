@@ -3618,6 +3618,28 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4450094824 | Kantata | Principal Product Manager | posted=2026-08-07
 - [ ] https://jobs.ashbyhq.com/ema/8e8544c8-95ff-460b-a73b-aa029fb12bdb | Ema | Forward Deployed Builder | posted=2026-08-07
 
+- [ ] https://www.linkedin.com/jobs/view/4422462234 | Appian | Senior Product Manager - API's | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4448768789 | Toast | Senior Product Manager | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4450305841 | AVEVA | Senior Product Manager | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4450323127 | Schreiber Foods | Digital Product Manager | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4450319307 | Philips | Product Manager IGT-S | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4450317262 | SUN PHARMA | Product Manager - Digital Healthcare & Transformation | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4448782135 | Nium | Sr Product Manager - Payments Platform | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4450319029 | Standard Chartered India | Sr. Associate, Product Owner, WRB Tech | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4450310517 | SUN PHARMA | Product Manager - Croslands | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4448769550 | IndusInd Bank | Product Manager | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4450322198 | SUN PHARMA | Group Product Manager - Milmet | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4450316308 | SUN PHARMA | Group Product Manager - CNS | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4450310521 | SUN PHARMA | Group Product Manager - CVD | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4450321194 | SUN PHARMA | Group Product Manager - Oncology | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4450315305 | SUN PHARMA | Product Manager - Radiant | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4450307731 | SUN PHARMA | Group Product Manager | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4450320236 | SUN PHARMA | Product Manager - CVD (Akuna) | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4450318283 | SUN PHARMA | Product Manager - Branded Products (Emerging Markets) | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4450327080 | SUN PHARMA | Senior Product Manager | posted=2026-08-07
+- [ ] https://www.linkedin.com/jobs/view/4450317260 | SUN PHARMA | Product Manager - (Amphion) - Urology | posted=2026-08-07
+- [ ] https://jobs.ashbyhq.com/ema/b6114740-f6a9-4d98-8d2c-6c6017ba9417 | Ema | Forward Deployed Builder | posted=2026-08-07
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

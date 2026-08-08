@@ -3669,6 +3669,8 @@ Pune, India | posted=2026-06-28
 
 - [ ] https://job-boards.greenhouse.io/twilio/jobs/8108776 | Twilio | Sr. Principal Product Manager | posted=2026-08-07
 
+- [ ] https://www.linkedin.com/jobs/view/4450567826 | LinkedIn India PM | Sr. Product Manager #Pharmaceutical#Cardiac & Diabetic | posted=2026-08-08
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

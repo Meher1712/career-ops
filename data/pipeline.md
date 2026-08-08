@@ -3692,6 +3692,9 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4450907546 | hackajob | Product Manager (Vice President) - Trading Desk | posted=2026-08-08
 - [ ] https://www.linkedin.com/jobs/view/4450904709 | hackajob | Product Manager (Vice President) - Agentic AI | posted=2026-08-08
 
+- [ ] https://www.linkedin.com/jobs/view/4451081475 | Ford Motor Company | Product Manager | posted=2026-08-08
+- [ ] https://www.linkedin.com/jobs/view/4451096052 | Sapphire Partners | Product Manager, LSP44 | posted=2026-08-08
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

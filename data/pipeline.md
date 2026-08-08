@@ -3673,6 +3673,11 @@ Pune, India | posted=2026-06-28
 
 - [ ] https://www.linkedin.com/jobs/view/4451064299 | PW (PhysicsWallah) | Senior Product Manager (E-commerce) | posted=2026-08-08
 
+- [ ] https://www.linkedin.com/jobs/view/4451073203 | Pidge | Product Manager | posted=2026-08-08
+- [ ] https://www.linkedin.com/jobs/view/4449257045 | NeoRecruit | Product Manager | posted=2026-08-08
+- [ ] https://www.linkedin.com/jobs/view/4442415363 | LPL Financial Global Capability Center | AVP, Data Product Owner – Wealth Management (Data Products) | posted=2026-08-08
+- [ ] https://www.linkedin.com/jobs/view/4451072087 | Hiring Prism | Product Manager – Dental (Healthcare experience mandatory) | posted=2026-08-08
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

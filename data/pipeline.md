@@ -3713,6 +3713,14 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4448154053 | INDmoney | Product Manager - Lending | posted=2026-08-10
 - [ ] https://jobs.lever.co/coupa/e128694b-4674-46d0-b26b-3eb7f3ccdb7a | Coupa | Sr Product Manager -  11801 | posted=2026-08-05
 
+- [ ] https://www.linkedin.com/jobs/view/4451117968 | Neo | Product Manager II | posted=2026-08-10
+- [ ] https://www.linkedin.com/jobs/view/4449541670 | Opalus Investments Limited | Senior Product Delivery Manager / Product Owner | posted=2026-08-10
+- [ ] https://www.linkedin.com/jobs/view/4449532989 | Duck Creek Technologies | Senior Product Manager | posted=2026-08-10
+- [ ] https://www.linkedin.com/jobs/view/4451109950 | Neo | Senior Product Manager | posted=2026-08-10
+- [ ] https://www.linkedin.com/jobs/view/4451118955 | Albemarle Corporation | Data Product Manager | posted=2026-08-10
+- [ ] https://www.linkedin.com/jobs/view/4451512099 | IDfy | Associate Product Manager 2 | posted=2026-08-10
+- [ ] https://www.linkedin.com/jobs/view/4451114908 | Neo | Product Manager I | posted=2026-08-10
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

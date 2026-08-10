@@ -3707,6 +3707,12 @@ Pune, India | posted=2026-06-28
 
 - [ ] https://jobs.lever.co/jobgether/3adfbea0-c8d9-489c-b1ba-f40da481dbf1 | Jobgether | Product Management Expert | posted=2026-08-10
 
+- [ ] https://www.linkedin.com/jobs/view/4451505038 | Xplor Technologies | Senior Product Manager - Billing | posted=2026-08-10
+- [ ] https://www.linkedin.com/jobs/view/4451383989 | Xplor Technologies | Product Manager - Merchant Experience | posted=2026-08-10
+- [ ] https://www.linkedin.com/jobs/view/4451110499 | Navi | Group Product Manager | posted=2026-08-10
+- [ ] https://www.linkedin.com/jobs/view/4448154053 | INDmoney | Product Manager - Lending | posted=2026-08-10
+- [ ] https://jobs.lever.co/coupa/e128694b-4674-46d0-b26b-3eb7f3ccdb7a | Coupa | Sr Product Manager -  11801 | posted=2026-08-05
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

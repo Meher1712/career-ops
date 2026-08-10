@@ -3721,6 +3721,20 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4451512099 | IDfy | Associate Product Manager 2 | posted=2026-08-10
 - [ ] https://www.linkedin.com/jobs/view/4451114908 | Neo | Product Manager I | posted=2026-08-10
 
+- [ ] https://www.linkedin.com/jobs/view/4449567082 | BlackLine | Senior Product Manager (6yrs - 10yrs) | posted=2026-08-10
+- [ ] https://www.linkedin.com/jobs/view/4451132080 | Procol | Platform Product Manager | posted=2026-08-10
+- [ ] https://www.linkedin.com/jobs/view/4449564177 | Hero Vired | AI Tech Product Manager | posted=2026-08-10
+- [ ] https://www.linkedin.com/jobs/view/4451140240 | Easyship | Growth Product Manager | posted=2026-08-10
+- [ ] https://www.linkedin.com/jobs/view/4442576533 | Freshworks | Staff Product Manager | posted=2026-08-10
+- [ ] https://www.linkedin.com/jobs/view/4451505674 | Flexiple | Senior Product Manager | posted=2026-08-10
+- [ ] https://www.linkedin.com/jobs/view/4451141266 | Ultimutt™ | Product Manager | posted=2026-08-10
+- [ ] https://www.linkedin.com/jobs/view/4451142242 | Auric AI Labs | Product Manager | posted=2026-08-10
+- [ ] https://www.linkedin.com/jobs/view/4451131280 | GoKwik | Product Manager | posted=2026-08-10
+- [ ] https://www.linkedin.com/jobs/view/4451132341 | Tata Consultancy Services | Product Manager | posted=2026-08-10
+- [ ] https://www.linkedin.com/jobs/view/4451128314 | GoKwik | Associate Product Manager | posted=2026-08-10
+- [ ] https://www.linkedin.com/jobs/view/4449564051 | UNPlus Solutions | AI Product Operation Lead (AI PMO) | posted=2026-08-10
+- [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Director--Product-Management_R170967-1 | Adobe | Director, Product Management | posted=2026-08-10
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

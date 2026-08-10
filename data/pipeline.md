@@ -3756,6 +3756,11 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4451528694 | BNY | Senior Specialist, POM Technical Product Management - 1 BNY Experience | posted=2026-08-10
 - [ ] https://jobs.lever.co/mindtickle/4365dc2a-87b1-4751-bd30-c90c70dea92c | MindTickle | Group Product Manager | posted=2026-08-10
 
+- [ ] https://www.linkedin.com/jobs/view/4451189673 | Albertsons Companies India | Associate Digital Product Manager [T500-28362] | posted=2026-08-10
+- [ ] https://www.linkedin.com/jobs/view/4439826971 | Acko | Head of Product – Claims & Customer Experience | posted=2026-08-10
+- [ ] https://www.linkedin.com/jobs/view/4451561156 | Uplers | Product Manager/Project Manager | posted=2026-08-10
+- [ ] https://jobs.lever.co/jobgether/1f0a60ea-9cd3-42d4-be84-ddb9ddf662ec | Jobgether | Product Manager, Data Activation | posted=2026-08-10
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

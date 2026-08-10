@@ -3735,6 +3735,18 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4449564051 | UNPlus Solutions | AI Product Operation Lead (AI PMO) | posted=2026-08-10
 - [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Director--Product-Management_R170967-1 | Adobe | Director, Product Management | posted=2026-08-10
 
+- [ ] https://www.linkedin.com/jobs/view/4451128431 | Hoora | Sr. Product Manager | posted=2026-08-10
+- [ ] https://www.linkedin.com/jobs/view/4449565381 | OLX India | Product Manager | posted=2026-08-10
+- [ ] https://www.linkedin.com/jobs/view/4431090142 | HighLevel | Staff Product Manager – Voice AI | posted=2026-08-10
+- [ ] https://www.linkedin.com/jobs/view/4449566385 | Miratech | Associate Product Manager, Workforce Management (Verint) | posted=2026-08-10
+- [ ] https://www.linkedin.com/jobs/view/4451145324 | Swiss Re | Lead IT Product Owner Financial Reporting & Analytics | posted=2026-08-10
+- [ ] https://www.linkedin.com/jobs/view/4442521885 | LPL Financial Global Capability Center | Senior Data Product Owner, Advisor – Wealth Management (Data Products) | posted=2026-08-10
+- [ ] https://www.linkedin.com/jobs/view/4440112595 | Mouser Electronics | Product Owner | posted=2026-08-10
+- [ ] https://www.linkedin.com/jobs/view/4442525641 | LPL Financial Global Capability Center | Senior Data Product Owner – Wealth Management Participant Data Domain | posted=2026-08-10
+- [ ] https://www.linkedin.com/jobs/view/4451525404 | Honeywell Technologies | Lead Technical Product Owner | posted=2026-08-10
+- [ ] https://www.linkedin.com/jobs/view/4442540059 | LPL Financial Global Capability Center | Senior Product Owner– Security and Pricing SOR and Enterprise Reference data Capabilities | posted=2026-08-10
+- [ ] https://careers.godaddy/jobs?gh_jid=7523084003 | GoDaddy | Principal Product Manager | posted=2026-08-10
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

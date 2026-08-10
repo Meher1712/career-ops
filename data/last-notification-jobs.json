@@ -1,12 +1,40 @@
 {
-  "generated_at": "2026-08-10T04:55:32.310Z",
+  "generated_at": "2026-08-10T06:42:53.016Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Product Management Expert",
-      "company": "Jobgether",
-      "location": "India",
-      "url": "https://jobs.lever.co/jobgether/3adfbea0-c8d9-489c-b1ba-f40da481dbf1"
+      "title": "Senior Product Manager - Billing",
+      "company": "Xplor Technologies",
+      "location": "Pune/Pimpri-Chinchwad Area",
+      "url": "https://www.linkedin.com/jobs/view/4451505038"
+    },
+    {
+      "n": 2,
+      "title": "Product Manager - Merchant Experience",
+      "company": "Xplor Technologies",
+      "location": "Pune/Pimpri-Chinchwad Area",
+      "url": "https://www.linkedin.com/jobs/view/4451383989"
+    },
+    {
+      "n": 3,
+      "title": "Group Product Manager",
+      "company": "Navi",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4451110499"
+    },
+    {
+      "n": 4,
+      "title": "Product Manager - Lending",
+      "company": "INDmoney",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://www.linkedin.com/jobs/view/4448154053"
+    },
+    {
+      "n": 5,
+      "title": "Sr Product Manager -  11801",
+      "company": "Coupa",
+      "location": "Pune, India",
+      "url": "https://jobs.lever.co/coupa/e128694b-4674-46d0-b26b-3eb7f3ccdb7a"
     }
   ]
 }

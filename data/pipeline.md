@@ -3747,6 +3747,15 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4442540059 | LPL Financial Global Capability Center | Senior Product Owner– Security and Pricing SOR and Enterprise Reference data Capabilities | posted=2026-08-10
 - [ ] https://careers.godaddy/jobs?gh_jid=7523084003 | GoDaddy | Principal Product Manager | posted=2026-08-10
 
+- [ ] https://www.linkedin.com/jobs/view/4449554948 | StoneX Global | Product Manager | posted=2026-08-10
+- [ ] https://www.linkedin.com/jobs/view/4451174618 | Google | Product Manager, Search Platforms | posted=2026-08-10
+- [ ] https://www.linkedin.com/jobs/view/4451528935 | Delta Exchange | Product Manager (Algo Trading) | posted=2026-08-10
+- [ ] https://www.linkedin.com/jobs/view/4451175501 | Bridge AI | Product Owner/ Delivery Manager | posted=2026-08-10
+- [ ] https://www.linkedin.com/jobs/view/4451173802 | Jobgether | Product Manager, Data Activation | posted=2026-08-10
+- [ ] https://www.linkedin.com/jobs/view/4451546553 | Motorola Solutions | IT Subscription Product Owner | posted=2026-08-10
+- [ ] https://www.linkedin.com/jobs/view/4451528694 | BNY | Senior Specialist, POM Technical Product Management - 1 BNY Experience | posted=2026-08-10
+- [ ] https://jobs.lever.co/mindtickle/4365dc2a-87b1-4751-bd30-c90c70dea92c | MindTickle | Group Product Manager | posted=2026-08-10
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

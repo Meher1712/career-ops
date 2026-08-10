@@ -3705,6 +3705,8 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4450951608 | Kwan Ventures | Senior Product Manager - Fulfillment (SCM & Logistics) | posted=2026-08-09
 - [ ] https://www.linkedin.com/jobs/view/4450958306 | Bajaj Capital Ltd | Vice President of Product Management | posted=2026-08-09
 
+- [ ] https://jobs.lever.co/jobgether/3adfbea0-c8d9-489c-b1ba-f40da481dbf1 | Jobgether | Product Management Expert | posted=2026-08-10
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -3761,6 +3761,11 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4451561156 | Uplers | Product Manager/Project Manager | posted=2026-08-10
 - [ ] https://jobs.lever.co/jobgether/1f0a60ea-9cd3-42d4-be84-ddb9ddf662ec | Jobgether | Product Manager, Data Activation | posted=2026-08-10
 
+- [ ] https://www.linkedin.com/jobs/view/4449583642 | Mastercard | Director, Product Management | posted=2026-08-10
+- [ ] https://www.linkedin.com/jobs/view/4451421150 | Adobe | Director, Product Management | posted=2026-08-10
+- [ ] https://www.linkedin.com/jobs/view/4451405310 | Citi | Technology Product Owner - Senior Vice President | posted=2026-08-10
+- [ ] https://www.linkedin.com/jobs/view/4451189337 | Lenovo | AP Tablets Product Manager - Commercial | posted=2026-08-10
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

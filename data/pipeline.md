@@ -3905,6 +3905,17 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4452468923 | Flexiple | Product Manager | posted=2026-08-11
 - [ ] https://www.linkedin.com/jobs/view/4440176857 | Mastercard | Senior Specialist, Product Management - Data Analytics | posted=2026-08-11
 
+- [ ] https://www.linkedin.com/jobs/view/4449860637 | Mastercard | Director, Product Management - CRM Platform | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4449857608 | Tech Data APAC | National Product Manager | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4445167505 | Carrier | AI Product Manager | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4443038290 | Amazon | Sr. Product Manager, Operations Evaluation, Worldwide Returns and Recommerce | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4443014800 | Amazon | Senior Product Manager, Cross Border Science and Analytics | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4451903932 | ACV Auctions | Director of Product | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4452495470 | Mercer | Associate Product Manager | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4443028124 | Amazon | Product Manager (FTC), Cross Border Science and Analytics | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4451901848 | Citi | Technology Product Owner - Vice President | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4452490340 | Societe Generale Global Solution Centre | Senior Product Owner IT Foundation - ServiceNow | posted=2026-08-11
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

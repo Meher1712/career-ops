@@ -3805,6 +3805,18 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/jobgether/4038a067-d835-4b28-bd27-decf85f7ff51 | Jobgether | Product Manager - Merchant Experience | posted=2026-08-11
 - [ ] https://jobs.lever.co/jobgether/c8213496-53e6-4faa-b6a3-3c30df2b6198 | Jobgether | Product owner | posted=2026-08-11
 
+- [ ] https://www.linkedin.com/jobs/view/4451668122 | Navi | Senior Product Manager | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4451636321 | Y-Axis Overseas Careers | Product Manager - Healthcare | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4452441168 | Kratikal | Product Manager | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4432640047 | Philips | Global Product Manager | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4452431399 | airtel | Product Manager - Payment Aggregator | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4452436141 | slice | Product Manager | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4440167100 | UST | Product Manager I | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4452439039 | Omnibound AI | Product Manager | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4439827104 | Infosys Consulting | Senior Consultant / Principal - Business Consulting (FS - Product Owner) | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4452424930 | Jobgether | Product Manager - Merchant Experience | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4451652728 | Curefit | Product Manager | posted=2026-08-11
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

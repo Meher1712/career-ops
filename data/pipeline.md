@@ -3817,6 +3817,19 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4452424930 | Jobgether | Product Manager - Merchant Experience | posted=2026-08-11
 - [ ] https://www.linkedin.com/jobs/view/4451652728 | Curefit | Product Manager | posted=2026-08-11
 
+- [ ] https://www.linkedin.com/jobs/view/4442262317 | Google | Product Manager, AI Platform Operations and Tooling | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4451629901 | MySivi (YC W22) | AI Product Manager | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4451667428 | Mage Data | Technical Product Manager | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4452437384 | Vzy | Senior Product Manager | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4452441442 | Meesho | Product Manager I ( Data Platforms) | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4451671339 | Lagrange Point International | Group Product Manager | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4440960163 | Albertsons Companies India | AI Senior Digital Product Manager [T500-27617] | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4452442233 | Flexiple | Senior Product Manager | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4452441531 | Visa | Product Manager | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4451674685 | Tata Consultancy Services | Network Product manager WAN | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4449832541 | Miratech | WFM Product Manager (Verint) | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4451657778 | American Express | Associate-Digital Product Management | posted=2026-08-11
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

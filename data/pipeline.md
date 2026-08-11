@@ -3775,6 +3775,11 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4451620670 | Artech L.L.C. | Product Manager | posted=2026-08-11
 - [ ] https://jobs.lever.co/meesho/2f1dba8f-bc99-4490-8200-d2cd7f92f544 | Meesho | Product Manager I ( Data Platforms) | posted=2026-08-07
 
+- [ ] https://www.linkedin.com/jobs/view/4451631161 | BiteSpeed | AI Product Manager | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4452196909 | Responsive | Senior Product Manager (content management) | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4449832349 | True Balance | Product Manager | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4449844339 | Zebra Technologies | Product Owner, Advanced | posted=2026-08-11
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

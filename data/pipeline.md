@@ -3830,6 +3830,30 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4449832541 | Miratech | WFM Product Manager (Verint) | posted=2026-08-11
 - [ ] https://www.linkedin.com/jobs/view/4451657778 | American Express | Associate-Digital Product Management | posted=2026-08-11
 
+- [ ] https://www.linkedin.com/jobs/view/4449834883 | Reputation | Product Manager | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4451697097 | Eloelo | Product Manager | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4443040498 | Amazon | Product Manager, Amazon Now | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4451699008 | GoKwik | Product Manager | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4451684178 | Google | Senior Product Manager, AI Garage | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4443028864 | Amazon | Senior Product Manager, Retail Business Services | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4443309917 | QAD | Senior Applied AI Product Manager | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4416483933 | GE HealthCare | Product Manager, IB Upgrade - South India | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4452447801 | MCO (MyComplianceOffice) | Product Owner II - eComms AI | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4440108198 | AI CERTs® | Product Manager | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4452435853 | TMUS Global Solutions | Sr Product Owner [T500-28392] | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4451675758 | TransUnion | Sr Consultant Product Management | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4443037416 | Amazon | Product Manager - Tech, Amazon Travel and Events | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4443038822 | Amazon | Senior Product Manager, RBS Organization Excellence | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4443045028 | Amazon | Sr. Product Manager, Returns, Worldwide Returns and Recommerce | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4443039335 | Amazon | Sr Product Manager Tech, Amazon Customer Service | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4443049269 | Amazon | Senior Product Manager - Tech, Shipment Technologies | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4421938738 | Motive | Senior Product Manager, Fleet Management | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4451694114 | Intel | Requisition to Order (R2O) – Technology Product Owner | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4443040647 | Amazon | Sr. Product Manager, Free Streaming Platform, FTV Free Streaming | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4443014788 | Amazon | Sr. Product Manager, Technical, Small and Medium Business Financing | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4443035856 | Amazon | Sr. Manager, Product Management Tech, India Advertising | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4443050223 | Amazon | Product Manager Technical - Business Data Technologies, Business Data Technologies | posted=2026-08-11
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

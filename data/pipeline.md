@@ -3875,6 +3875,36 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4443037413 | Amazon | Sr. Product Manager, OPTIMA | posted=2026-08-11
 - [ ] https://www.linkedin.com/jobs/view/4452462683 | Reo.Dev | Product Manager - Data | posted=2026-08-11
 
+- [ ] https://www.linkedin.com/jobs/view/4440180685 | Mastercard | Lead Product Manager- Technical | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4443025497 | Amazon | Product Manager, Amazon Payment Services | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4443025913 | Amazon | Sr. Product Manager, OPTIMA | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4244902916 | Skillz | Product Manager | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4442617171 | SAP | Product Manager Application AI | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4440194238 | Mastercard | Senior Specialist, Product Management | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4451699895 | Citi | Technology Product Owner - Vice President | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4442791080 | BNY | Vice President, POM Product Owner | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4451690772 | TransUnion | Sr Consultant Product Management | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4449853450 | IE Media, Inc. | Product Owner — Subscription & App | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4451900661 | Lam Research | Director, Product Management | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4452485392 | Societe Generale Global Solution Centre | Senior Product Owner IT Foundation - ServiceNow | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4443042377 | Amazon | Product Manager, Value added services | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4443035915 | Amazon | Senior Product Manager, RBS Organization Excellence | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4443039301 | Amazon | Senior Product Manager - Tech, TimeHub | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4443047403 | Amazon | Sr Product Manager, WW Returns and Recommerce | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4443061042 | Amazon | Senior Product Manager, Amazon Business India | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4443033666 | Amazon | Sr Product Manager Tech, Amazon Customer Service | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4443059090 | Amazon | Sr Product Manager, Amazon Wholesale | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4443041261 | Amazon | Sr. Product Manager – Tech, 3P Pricing | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4443029543 | Amazon | Principal Product Manager Technical, Associate Experience | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4443031459 | Amazon | Sr. Product Manager, ROW SHARP | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4443030319 | Amazon | Senior Product Manager, IN Fees | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4443033427 | Amazon | Senior Product Manager - Brand Growth, RBS Brand Experience | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4443033245 | Amazon | Sr. Product Manager, IN Payments | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4440181634 | Mastercard | Director, Product Management-Technical | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4443370076 | Amazon | Sr. Product Manager - Technical, Amazon Payments, Amazon Monthly Payments | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4452468923 | Flexiple | Product Manager | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4440176857 | Mastercard | Senior Specialist, Product Management - Data Analytics | posted=2026-08-11
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

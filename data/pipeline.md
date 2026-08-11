@@ -3854,6 +3854,27 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4443035856 | Amazon | Sr. Manager, Product Management Tech, India Advertising | posted=2026-08-11
 - [ ] https://www.linkedin.com/jobs/view/4443050223 | Amazon | Product Manager Technical - Business Data Technologies, Business Data Technologies | posted=2026-08-11
 
+- [ ] https://www.linkedin.com/jobs/view/4449869021 | Webito | Product Manager | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4451695450 | Michael Page | Tech Product Manager - Health | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4443066000 | Amazon | Product Manager- Return defect eliminaiton , RBS Return reduction | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4443033561 | Amazon | Product Manager - Tech, Amazon Travel and Events | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4452457942 | ixigo | Senior Product Manager | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4449848995 | eBay | Product Manager - Assisted Service | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4449831619 | CR Fence & Rail | Product Manager | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4440196233 | Mastercard | Consumer Credit Analytics – Global Product Manager - Specialist | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4452459612 | Arcade.com | Product Manager - (NR-2026-0237) | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4442609425 | Wise | Principal Product Manager - Business Onboarding Verification | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4451901423 | Native Milk | Ecommerce Product Manager | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4442229552 | TransUnion | Senior Advisor, GenAI Technical Product Management | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4443026681 | Amazon | Sr. Product Manager Technical - Associate Workspace | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4443027657 | Amazon | Sr. Product Manager - Tech, India Ads | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4443024706 | Amazon | Senior Product Manager - Tech, DP&R | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4443032847 | Amazon | Sr. Product Manager-Tech, DSP-DA Lifecycle Solutions | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4443040691 | Amazon | Senior Product Manager - Tech, Selection Monitoring | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4443033516 | Amazon | Sr Manager, Product Management, Amazon Customer Service | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4443037413 | Amazon | Sr. Product Manager, OPTIMA | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4452462683 | Reo.Dev | Product Manager - Data | posted=2026-08-11
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

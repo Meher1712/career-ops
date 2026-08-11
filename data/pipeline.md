@@ -3766,6 +3766,9 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4451405310 | Citi | Technology Product Owner - Senior Vice President | posted=2026-08-10
 - [ ] https://www.linkedin.com/jobs/view/4451189337 | Lenovo | AP Tablets Product Manager - Commercial | posted=2026-08-10
 
+- [ ] https://www.linkedin.com/jobs/view/4451610457 | Rawzor Technologies | Technical Product Manager - Music AI App | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4451614582 | Unolo | Product Manager | posted=2026-08-11
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

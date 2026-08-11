@@ -3780,6 +3780,18 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4449832349 | True Balance | Product Manager | posted=2026-08-11
 - [ ] https://www.linkedin.com/jobs/view/4449844339 | Zebra Technologies | Product Owner, Advanced | posted=2026-08-11
 
+- [ ] https://www.linkedin.com/jobs/view/4452410755 | Redpin | Senior Product Manager &gt; | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4451647728 | Versatile Club Employer of Record | Growth Product Manager | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4451655296 | Caterpillar Inc. | Lead Product Owner/Digital Product Manager | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4452405657 | Aptiv | Product Owner - AUTOSAR, Embedded Systems | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4452403959 | Jobgether | Product owner | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4451654009 | Cog Culture | Product Manager. | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4439406630 | Olympus Corporation | Product Owner, Data Platform | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4452419171 | Mashreq | Associate Director, Cash Product Management | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4451642515 | Signal Corps Regimental Association | Lead IT Product Owner Financial Reporting & Analytics | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4452420647 | Golden Opportunities | Product Owner ( Automation ) | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4452426510 | Flam | Associate Product Manager | posted=2026-08-11
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

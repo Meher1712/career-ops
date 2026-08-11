@@ -3769,6 +3769,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4451610457 | Rawzor Technologies | Technical Product Manager - Music AI App | posted=2026-08-11
 - [ ] https://www.linkedin.com/jobs/view/4451614582 | Unolo | Product Manager | posted=2026-08-11
 
+- [ ] https://www.linkedin.com/jobs/view/4451605851 | TalentXO | Senior Product Manager (Consumer Growth) | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4451623848 | Karan Group | Product Manager – Retail Fuel Technology & Digital Transformation | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4451628594 | One97 Communications Limited | Product Management - Senior Product Manager - Paytm Money (Mutual Funds) | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4451620670 | Artech L.L.C. | Product Manager | posted=2026-08-11
+- [ ] https://jobs.lever.co/meesho/2f1dba8f-bc99-4490-8200-d2cd7f92f544 | Meesho | Product Manager I ( Data Platforms) | posted=2026-08-07
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

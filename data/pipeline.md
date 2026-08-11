@@ -3792,6 +3792,19 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4452420647 | Golden Opportunities | Product Owner ( Automation ) | posted=2026-08-11
 - [ ] https://www.linkedin.com/jobs/view/4452426510 | Flam | Associate Product Manager | posted=2026-08-11
 
+- [ ] https://www.linkedin.com/jobs/view/4442720660 | Experian | Senior Product Manager | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4450939283 | Excel Controlinkage Pvt. Ltd. | Product Manager | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4452416721 | Golden Opportunities | Senior - Product Owner | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4452411995 | HighLevel | Staff Product Manager - WhatsApp | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4452422677 | Target | Director Product Management | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4451650872 | The Sleep Company | Assistant Product Manager - Supply chain | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4452414766 | Golden Opportunities | Product Owner ( Global Payments ) | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4452412831 | Golden Opportunities | Product Management | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4451655622 | Allstate India | Principal Digital Product Manager | posted=2026-08-11
+- [ ] https://www.linkedin.com/jobs/view/4442789911 | JPMorganChase | Reference Data Product Owner - Associate | posted=2026-08-11
+- [ ] https://jobs.lever.co/jobgether/4038a067-d835-4b28-bd27-decf85f7ff51 | Jobgether | Product Manager - Merchant Experience | posted=2026-08-11
+- [ ] https://jobs.lever.co/jobgether/c8213496-53e6-4faa-b6a3-3c30df2b6198 | Jobgether | Product owner | posted=2026-08-11
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

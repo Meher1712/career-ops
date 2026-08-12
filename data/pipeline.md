@@ -3929,6 +3929,18 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/meesho/128cee5f-5e62-43f4-8339-6ead8b5498e7 | Meesho | Senior Product Manager | posted=2026-08-12
 - [ ] https://jobs.lever.co/jobgether/fcbceba4-9d6d-4bb4-bfaa-26cd72f5e7cd | Jobgether | Staff Product Manager - WhatsApp | posted=2026-08-12
 
+- [ ] https://www.linkedin.com/jobs/view/4453066971 | CTeBS | Senior Product Manager | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4452368462 | Wazbuy | Product Owner / Product Manager | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4453076298 | Snapmint | Senior Product Manager (Fulfilment) | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4453080028 | Gruve | Product Owner | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4453080272 | Merge | Platform Product Manager - Payments Fintech | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4450106453 | BarrierBreak | Product Owner | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4452375323 | Aaizel International Technologies Pvt Ltd | Project/Product Management Officer-IT | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4439888181 | Tata Consultancy Services | Product Manager | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4452379160 | Cvent | Product Manager II | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4452355775 | Jobgether | Technical Product Manager, Data Capture to Insights | posted=2026-08-12
+- [ ] https://jobs.lever.co/jobgether/2fd27cee-1abc-48c2-88c7-dc630f760c25 | Jobgether | Customer Solution Architect — Arango AI Product Suite | posted=2026-08-12
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

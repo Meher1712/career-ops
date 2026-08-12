@@ -3941,6 +3941,24 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4452355775 | Jobgether | Technical Product Manager, Data Capture to Insights | posted=2026-08-12
 - [ ] https://jobs.lever.co/jobgether/2fd27cee-1abc-48c2-88c7-dc630f760c25 | Jobgether | Customer Solution Architect — Arango AI Product Suite | posted=2026-08-12
 
+- [ ] https://www.linkedin.com/jobs/view/4450118795 | Policybazaar.com | Product Manager | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4450121665 | Sika | Product Manager - Industrial Flooring | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4452362894 | Fiserv | Expertise Product Owner (P2P Payments) || Chennai | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4450105789 | HighLevel | Principal Product Manager - Knowledge Bases & Ask AI | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4434361690 | Teradata | Senior Staff Product Manager, AI & Data Governance, Teradata | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4453079734 | ETS | Lead Product Manager | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4453076871 | Bain & Company | Manager, Product Management | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4453089612 | ANSR | Sr Product Owner - Technology Products [T500-28440] | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4453085735 | Bain & Company | Lead, Product Management & Innovation | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4452395006 | Kuku | Product Manager - Engagement | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4443358797 | Capco | Product Manager | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4453075766 | Tekion Corp | Product Manager II | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4452366920 | Pebble | Product Manager — Wearables & Fitness Apps | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4450132022 | HDFC securities | Product Manager | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4452381113 | AR GLOBAL HUB | Product Manager | EDTECH | AI | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4452369908 | PDI Technologies | Product Owner II | posted=2026-08-12
+- [ ] https://jobs.lever.co/jobgether/b6a91880-bbea-426e-a2ee-5bdbac49d007 | Jobgether | Technical Product Manager, Data Capture to Insights | posted=2026-08-12
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -4011,6 +4011,14 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4453124741 | Flexiple | Product Manager | posted=2026-08-12
 - [ ] https://www.linkedin.com/jobs/view/4434755065 | BNY | Vice President, POM Technical Product Management | posted=2026-08-12
 
+- [ ] https://www.linkedin.com/jobs/view/4453156216 | LeadSquared | Senior Product Manager | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4453156082 | John Cockerill | AI Product Manager (Energy) | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4450156482 | Webito | Product Manager | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4452720498 | Job-scouts.com | Product Manager II - Growth | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4453156276 | Meesho | Product Manager II - Growth | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4443559287 | TELUS Digital | Senior Product Manager | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4453159293 | McKinsey & Company | Product Manager I - ServiceNow | posted=2026-08-12
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

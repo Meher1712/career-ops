@@ -4005,6 +4005,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4452718132 | Tech Economy | Manager, Product Management | posted=2026-08-12
 - [ ] https://jobs.ashbyhq.com/helpscout/a8437e9c-7510-4322-9eaa-c0599f039091 | Help Scout | Head of Product, Conversations | posted=2026-08-12
 
+- [ ] https://www.linkedin.com/jobs/view/4452711191 | Aaizel International Technologies Pvt Ltd | Senior Product Manager | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4443521715 | Amazon | Sr Mgr, Product Management Lifecycle Experiences, EM PLX | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4453040953 | Barclays | Payments - AVP Product Owner | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4453124741 | Flexiple | Product Manager | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4434755065 | BNY | Vice President, POM Technical Product Management | posted=2026-08-12
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

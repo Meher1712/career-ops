@@ -3925,6 +3925,10 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/jobgether/1f18f73b-41c4-4073-b377-44643571451c | Jobgether | Gujarati - AI Product Evaluator | posted=2026-08-12
 - [ ] https://jobs.lever.co/jobgether/18b41ca5-417a-46d1-bb46-51a942431cac | Jobgether | Kannada - AI Product Evaluator | posted=2026-08-12
 
+- [ ] https://www.linkedin.com/jobs/view/4453058643 | One97 Communications Limited | Product Management - Senior Product Manager - Futures & Options (F&O) / Derivatives | posted=2026-08-12
+- [ ] https://jobs.lever.co/meesho/128cee5f-5e62-43f4-8339-6ead8b5498e7 | Meesho | Senior Product Manager | posted=2026-08-12
+- [ ] https://jobs.lever.co/jobgether/fcbceba4-9d6d-4bb4-bfaa-26cd72f5e7cd | Jobgether | Staff Product Manager - WhatsApp | posted=2026-08-12
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

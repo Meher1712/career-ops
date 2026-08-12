@@ -3916,6 +3916,15 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4451901848 | Citi | Technology Product Owner - Vice President | posted=2026-08-11
 - [ ] https://www.linkedin.com/jobs/view/4452490340 | Societe Generale Global Solution Centre | Senior Product Owner IT Foundation - ServiceNow | posted=2026-08-11
 
+- [ ] https://www.linkedin.com/jobs/view/4452348795 | Deloitte | Product Owner | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4453060260 | Mastercard | Senior Product Manager - Technical | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4453039949 | Jobgether | Staff Product Manager - WhatsApp | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4452334960 | INVENTIC | Senior AI Product Manager (Enterprise Agentic AI) (8+ Years) | Immediate joiners preferred | Bangalore | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4452337912 | Takeda | Senior Access and Pricing Product Owner | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4452351866 | Versatile Club Employer of Record | Growth Product Manager | posted=2026-08-12
+- [ ] https://jobs.lever.co/jobgether/1f18f73b-41c4-4073-b377-44643571451c | Jobgether | Gujarati - AI Product Evaluator | posted=2026-08-12
+- [ ] https://jobs.lever.co/jobgether/18b41ca5-417a-46d1-bb46-51a942431cac | Jobgether | Kannada - AI Product Evaluator | posted=2026-08-12
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

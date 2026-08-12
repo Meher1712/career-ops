@@ -3995,6 +3995,16 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4453105763 | BNY | Senior Vice President, POM Product Owner | posted=2026-08-12
 - [ ] https://www.linkedin.com/jobs/view/4450149475 | CodeRound AI | Associate Product Manager (AI | Up to 20LPA) | posted=2026-08-12
 
+- [ ] https://www.linkedin.com/jobs/view/4453127405 | Enterpret | Senior Product Manager, Integration Ecosystem | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4452392832 | PriceSenz | Technical Product Manager | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4453145162 | シンクロン・ジャパン | Senior Product Owner – AI/ML | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4453136156 | Merge | Technical Platform Product Manager | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4443534251 | Honeywell Technologies | Technical Product Owner II | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4450150757 | JioStar | Senior Director - Product Management | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4441596997 | VOIS | Technical Product Owner (Cloud-Native Insurance Platforms) - VOIS | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4452718132 | Tech Economy | Manager, Product Management | posted=2026-08-12
+- [ ] https://jobs.ashbyhq.com/helpscout/a8437e9c-7510-4322-9eaa-c0599f039091 | Help Scout | Head of Product, Conversations | posted=2026-08-12
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -3959,6 +3959,27 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4452369908 | PDI Technologies | Product Owner II | posted=2026-08-12
 - [ ] https://jobs.lever.co/jobgether/b6a91880-bbea-426e-a2ee-5bdbac49d007 | Jobgether | Technical Product Manager, Data Capture to Insights | posted=2026-08-12
 
+- [ ] https://www.linkedin.com/jobs/view/4452700122 | Franklin Templeton India | GENAI Product Manager (Strong Pedigree Candidates, Quality Tenure Profiles) | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4452381266 | Franklin Templeton India | Digital Product Manager (AI/ML, Fintech or Technology - Driven Organizations) | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4453087993 | Meesho | Senior Product Manager | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4450147076 | Mastercard | Lead Product Manager- Technical | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4453113218 | Worldline | Product Owner - Professional | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4453117070 | Bureau | Group Product Manager | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4453103063 | ENGIE India | Aveva Wonderware Product Owner | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4452397145 | Standard Chartered India | Product Owner Risk Analytics | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4453091991 | Tek Grove | Oracle HCM Product Manager - IMMEDIATE Joiner | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4449858290 | TRUCKTEC Automotive GmbH | Product Management Specialist | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4443541965 | LPL Financial Global Capability Center | AVP, Data Product Owner – Transactions, Positions & Books and Records (TBAR) | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4443372252 | DBS Bank | Senior Associate, Product Manager – Savings Accounts, Consumer Banking Group | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4450147075 | Mastercard | Director - Agentic AI and API, Product Management Technical | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4443367545 | DBS Bank | Senior Associate, Product Manager PLAP, Consumer Banking Group | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4453082996 | The Premier Consultants ( Recruitment Company ) | Senior Manager/AVP- Product Manager-Wealth Management- Wealth Management Co- Mumbai | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4453089879 | Quess Corp Limited | Product Owner | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4452389081 | Zoca | AI Product Manager | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4450142122 | Shipturtle | Associate Product Manager | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4453096717 | Rocket India | Associate Product Manager | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4453083826 | Abbott | Group Product Manager-GI Prima-Mumbai | posted=2026-08-12
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

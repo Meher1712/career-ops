@@ -3980,6 +3980,21 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4453096717 | Rocket India | Associate Product Manager | posted=2026-08-12
 - [ ] https://www.linkedin.com/jobs/view/4453083826 | Abbott | Group Product Manager-GI Prima-Mumbai | posted=2026-08-12
 
+- [ ] https://www.linkedin.com/jobs/view/4453119761 | Cosmofeed | Product Manager, Growth (AI-first) | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4452394594 | ICON plc | Product Manager - (Chennai / Scheduled Walk-in Drive - 21st August) | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4452388637 | Spyne | AI Product Manager | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4450151139 | Siemens | AI Product Owner | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4452399605 | Quess Corp Limited | Product Owner | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4452398538 | Scrut Automation | Technical Product Manager | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4450133821 | Siemens Healthineers | Genesys Cloud Product Owner | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4434989568 | Celonis | Associate Principal Product Manager - Networks | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4450146522 | Syncron | Senior Product Owner – AI/ML | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4453001543 | Amazon | Senior Manager, Product Management - Tech, Selection Monitoring | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4450138529 | Zebra Technologies | Product Manager, Professional Senior | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4450146516 | HungerBox | Product Manager | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4453105763 | BNY | Senior Vice President, POM Product Owner | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4450149475 | CodeRound AI | Associate Product Manager (AI | Up to 20LPA) | posted=2026-08-12
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

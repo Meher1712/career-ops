@@ -4078,6 +4078,10 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4452976593 | Chota Kisan | Founding team member Agri-Tech robotics | posted=2026-08-13
 - [ ] https://www.linkedin.com/jobs/view/4452984270 | Searchnscore | Product manager - CRO | posted=2026-08-13
 
+- [ ] https://www.linkedin.com/jobs/view/4452989378 | UKG | Sr Product Manager | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4450801229 | Nielsen | Senior Product Manager II - Research/Survey methodologie | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4443826183 | Sabre | Lead Product Manager - Airline Experience & AI | posted=2026-08-13
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

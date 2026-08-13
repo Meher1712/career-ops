@@ -4056,6 +4056,14 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4452913621 | Amadeus | Product Owner | posted=2026-08-13
 - [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990014577996 | Nielsen | Senior Product Manager II - Research/Survey methodologie | posted=2026-08-13
 
+- [ ] https://www.linkedin.com/jobs/view/4450477544 | Salesloft | Sr. Product Manager | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4454011412 | Flexiple | Senior Product Manager | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4450480507 | SUN PHARMA | Group Product Manager - Avesta (Opthal) | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4452944322 | Umanist NA | Associate Product Manager | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4452957247 | Scoutit India | Associate Product Manager | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4452940182 | Axeno Consulting | Product Owner | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4450477530 | HDFC securities | Head of Product Design | posted=2026-08-13
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

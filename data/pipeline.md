@@ -4043,6 +4043,19 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4450458745 | Bischat | Product Manager | posted=2026-08-13
 - [ ] https://www.linkedin.com/jobs/view/4450122448 | LinkedIn India PM | Founding Team Member | posted=2026-08-13
 
+- [ ] https://www.linkedin.com/jobs/view/4453697130 | Wells Fargo | Senior Digital Product Manager | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4450486004 | Happiest Minds Technologies | PRODUCT MANAGER - Product Management | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4453687964 | Shuru | Trading Product Manager | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4432341615 | Clearwater Analytics | Senior Product Manager I - Regulatory Reporting | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4454006098 | Wells Fargo | Lead Digital Product Manager - API | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4450452987 | Pilgrim | Product Manager | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4450474230 | HighLevel | Principal Product Manager - Voice AI | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4452911696 | Karix | Product Manager | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4450455958 | HighLevel | Principal Product Manager - Conversation AI | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4452930603 | BJAK | Technical Product Manager | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4452913621 | Amadeus | Product Owner | posted=2026-08-13
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990014577996 | Nielsen | Senior Product Manager II - Research/Survey methodologie | posted=2026-08-13
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

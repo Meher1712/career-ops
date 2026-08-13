@@ -4026,6 +4026,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4441974279 | Ferguson India | Lead - AI Builder [T500-27693] | posted=2026-08-13
 - [ ] https://job-boards.greenhouse.io/conga/jobs/5205858007 | Conga | Senior Product Manager | posted=2026-08-12
 
+- [ ] https://www.linkedin.com/jobs/view/4450458245 | UNIVARIETY | Senior Product Manager | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4450460406 | Cityflo | Product Manager | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4452924041 | Aaizel International Technologies Pvt Ltd | Senior Product Manager | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4450455357 | CentricaSoft | Senior MDM Product Owner | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4452929000 | Scoutit India | Associate Product Manager | posted=2026-08-13
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

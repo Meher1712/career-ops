@@ -4082,6 +4082,13 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4450801229 | Nielsen | Senior Product Manager II - Research/Survey methodologie | posted=2026-08-13
 - [ ] https://www.linkedin.com/jobs/view/4443826183 | Sabre | Lead Product Manager - Airline Experience & AI | posted=2026-08-13
 
+- [ ] https://www.linkedin.com/jobs/view/4450807400 | Barclays | Senior Digital Product Owner - Homepage | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4454038633 | Flexiple | Product Manager | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4441670571 | NatWest Group | Product Owner, VP | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4454047667 | DBS Bank | Associate, Digital Product Manager, Consumer Banking Group | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4452984970 | NYX | Associate Product Manager (APM) | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4453204497 | GradRight Inc. | Product Manager | posted=2026-08-13
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

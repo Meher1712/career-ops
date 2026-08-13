@@ -4064,6 +4064,20 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4452940182 | Axeno Consulting | Product Owner | posted=2026-08-13
 - [ ] https://www.linkedin.com/jobs/view/4450477530 | HDFC securities | Head of Product Design | posted=2026-08-13
 
+- [ ] https://www.linkedin.com/jobs/view/4452976649 | Crisil | Product Manager | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4452962564 | onthegotech.in | Product Manager | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4454029082 | Microsoft | Senior Product Manager | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4454011706 | Albertsons Companies India | Digital Product Manager [T500-28501] | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4450477690 | Miratech | WFM Product Manager (Verint) | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4452982730 | GoComet | Agentic AI Product Manager | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4454003834 | Amazon | Sr. Product Manager - Tech, Alexa Smart Properties | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4453699834 | Amazon | Sr. Product Manager, Tech, Amazon Prime | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4452984109 | Flexera | Senior Product Manager | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4454021157 | Viceroy Engineering | Product Owner | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4452982674 | TransUnion | Consultant , Product Management | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4452976593 | Chota Kisan | Founding team member Agri-Tech robotics | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4452984270 | Searchnscore | Product manager - CRO | posted=2026-08-13
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

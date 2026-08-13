@@ -4032,6 +4032,17 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4450455357 | CentricaSoft | Senior MDM Product Owner | posted=2026-08-13
 - [ ] https://www.linkedin.com/jobs/view/4452929000 | Scoutit India | Associate Product Manager | posted=2026-08-13
 
+- [ ] https://www.linkedin.com/jobs/view/4452902642 | RockED Research & Development Private Limited | Senior Product Manager | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4452921348 | Navsan | Senior Product Manager - Business Applications | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4453669738 | Bain & Company | Lead, Product Management & Innovation | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4452921385 | NextMantra AI | Product Manager – B2B Marketplace | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4452931330 | BJAK | Product Manager | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4450459619 | Policybazaar.com | Product Manager | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4453671732 | BMC Software | Product Owner - Revenue Intelligence Platform & Data Quality | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4453666978 | CodeRound AI | Product Manager (Up to 60LPA) | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4450458745 | Bischat | Product Manager | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4450122448 | LinkedIn India PM | Founding Team Member | posted=2026-08-13
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

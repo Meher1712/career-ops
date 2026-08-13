@@ -4019,6 +4019,13 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4443559287 | TELUS Digital | Senior Product Manager | posted=2026-08-12
 - [ ] https://www.linkedin.com/jobs/view/4453159293 | McKinsey & Company | Product Manager I - ServiceNow | posted=2026-08-12
 
+- [ ] https://www.linkedin.com/jobs/view/4450468043 | INVENTIC | Senior AI Product Manager | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4450452068 | Barclays | Agile Product Owner | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4450468021 | Barclays | USCB GTA Technical Product Owner | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4450450374 | River | Product Manager - Vehicle | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4441974279 | Ferguson India | Lead - AI Builder [T500-27693] | posted=2026-08-13
+- [ ] https://job-boards.greenhouse.io/conga/jobs/5205858007 | Conga | Senior Product Manager | posted=2026-08-12
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

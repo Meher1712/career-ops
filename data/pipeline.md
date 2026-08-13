@@ -4089,6 +4089,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4452984970 | NYX | Associate Product Manager (APM) | posted=2026-08-13
 - [ ] https://www.linkedin.com/jobs/view/4453204497 | GradRight Inc. | Product Manager | posted=2026-08-13
 
+- [ ] https://www.linkedin.com/jobs/view/4452987954 | CG-VAK Software & Exports Ltd. | Product Manager-Tier 1 | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4452997794 | Google | Product Manager, Advanced Enterprise Data Platform | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4450818548 | TechnoIogy@IA | ASSOCIATE PRODUCT MANAGER - AI | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4453226147 | American Express | Associate-Digital Product Management | posted=2026-08-13
+- [ ] https://www.linkedin.com/jobs/view/4453207863 | Goldman Sachs | Global Banking & Markets -TxB Product Management - Vice President - Bengaluru | posted=2026-08-13
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

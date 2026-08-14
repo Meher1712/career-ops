@@ -4121,6 +4121,20 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4453518948 | AR GLOBAL HUB | Product Manager | posted=2026-08-14
 - [ ] https://www.linkedin.com/jobs/view/4454393454 | Dyson | IT Technical Product Owner | posted=2026-08-14
 
+- [ ] https://www.linkedin.com/jobs/view/4453581166 | Responsive | Senior Product Manager | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4453582035 | Seclore | Senior Product Manager | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4450898882 | LinkedIn India Senior PM | Senior Product Manager | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4454507946 | Flexiple | Senior Product Manager | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4453577215 | Jobgether | Senior Product Manager | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4454510098 | MakeMyTrip | Product Manager (BookMyForex) | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4451232052 | SUN PHARMA | Group Product Manager - GI Ortho (Solitra) | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4450899937 | METRO Global Solution Center IN | Product Management - Solution Expert | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4451224042 | Digital Finance International | Head of Product | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4453579032 | Scoutit India | Associate Product Manager | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4453566068 | Goldman Sachs | Asset and Wealth Management- Product Management- Associate-Bengaluru | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4454515310 | Alion | Senior Product manager, Product App Sec | posted=2026-08-14
+- [ ] https://job-boards.greenhouse.io/oportun/jobs/4724142005 | Oportun | Principal Product Manager (R14170) | posted=2026-08-14
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

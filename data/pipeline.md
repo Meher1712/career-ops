@@ -4099,6 +4099,15 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4450860851 | Barclays | UL - Loans AVP Product Owner | posted=2026-08-14
 - [ ] https://api.smartrecruiters.com/v1/companies/Freshworks/postings/744000143437720 | Freshworks | Staff Product Manager | posted=2026-08-14
 
+- [ ] https://www.linkedin.com/jobs/view/4454369197 | Xplor Technologies | Product Manager - Merchant Experience | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4453526501 | Carra | Product Manager - Merchant Experience | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4453522516 | Carra | Product Manager - Direct Debit & Alternate Payments | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4454365267 | Xplor Technologies | Product Manager - Direct Debit & Alternate Payments | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4454058377 | LH2 AI Labs | Founding Product Manager | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4453532402 | One97 Communications Limited | Telco - Product Management - Manager. | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4454368226 | Xplor Technologies | Senior Product Manager - Billing | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4453523521 | Carra | Senior Product Manager - Billing | posted=2026-08-14
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

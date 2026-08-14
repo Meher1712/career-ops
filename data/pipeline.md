@@ -4135,6 +4135,24 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4454515310 | Alion | Senior Product manager, Product App Sec | posted=2026-08-14
 - [ ] https://job-boards.greenhouse.io/oportun/jobs/4724142005 | Oportun | Principal Product Manager (R14170) | posted=2026-08-14
 
+- [ ] https://www.linkedin.com/jobs/view/4453572499 | AssetPlus | Senior Product Manager – Mutual Funds | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4453573518 | Grexa AI | Product Manager | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4453580415 | One97 Communications Limited | Product Management - Product Manager - UPI | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4453573585 | CG-VAK Software & Exports Ltd. | Product Manager – HealthTech / Consumer Health | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4444708270 | Augury | Principal Product Manager, AI Applications | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4454516367 | Valiance Solutions | Product Manager | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4444035536 | Google | Product Manager, Android GPU Quality | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4453575379 | Vorro | AI Product Manager | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4423624822 | UiPath | Principal Product Manager | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4454525321 | Amazon | Principal Product Manager, RBS Growth | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4432751779 | Mouser Electronics | Product Owner | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4454523249 | HuntingCube | Senior Product Manager, Integration Ecosystem | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4454509678 | MUFG | Associate - Transaction Banking Product Management | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4454525338 | Fujitsu | Global Automation & AI Architecture Product Owner | posted=2026-08-14
+- [ ] https://jobs.ashbyhq.com/spotdraft/4c635c45-27c4-4e53-892d-da09156ef0e6 | SpotDraft | Product Manager | posted=2026-08-14
+- [ ] https://jobs.ashbyhq.com/spotdraft/88fc1f00-e546-463a-8ba0-78bc89a95cc6 | SpotDraft | Senior Product Manager - AI | posted=2026-08-14
+- [ ] https://jobs.lever.co/jobgether/129374f2-f377-4fd8-b98a-717dbc3adfd5 | Jobgether | Senior Product Manager | posted=2026-08-14
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

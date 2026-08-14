@@ -4163,6 +4163,13 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4451240532 | Clocknext | Head of Product (AI) | posted=2026-08-14
 - [ ] https://www.linkedin.com/jobs/view/4453587280 | Spyne | Associate Product manager | posted=2026-08-14
 
+- [ ] https://www.linkedin.com/jobs/view/4453598234 | Signify | Product Manager | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4436109312 | YES BANK | Product Manager | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4454548610 | Target | Principal Product Manager | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4454534923 | Flexiple | Product Manager | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4453700320 | The Magnum Ice Cream Company | IT Product Manager - S4H Manufacturing | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4454551643 | Target | Director of Product Management | posted=2026-08-14
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

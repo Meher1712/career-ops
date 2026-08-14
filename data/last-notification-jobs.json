@@ -1,33 +1,54 @@
 {
-  "generated_at": "2026-08-14T08:38:25.226Z",
+  "generated_at": "2026-08-14T10:17:40.870Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Associate - Business Product Management",
-      "company": "Emeritus",
-      "location": "India",
-      "url": "https://www.linkedin.com/jobs/view/4453511745"
+      "title": "Senior Product Manager",
+      "company": "Autodesk",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4435547307"
     },
     {
       "n": 2,
-      "title": "AI Senior Product Manager",
-      "company": "Hiver",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4454504292"
+      "title": "AI Product Manager",
+      "company": "enGen Global",
+      "location": "Chennai, Tamil Nadu, India",
+      "url": "https://www.linkedin.com/jobs/view/4453521959"
     },
     {
       "n": 3,
-      "title": "Senior Product Manager - Risk",
-      "company": "FalconX",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4453516795"
+      "title": "Product Manager [T500-28541]",
+      "company": "Inspire",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.linkedin.com/jobs/view/4454387340"
     },
     {
       "n": 4,
-      "title": "AI Product Manager",
-      "company": "Algo8 AI",
-      "location": "Noida, Uttar Pradesh, India",
-      "url": "https://www.linkedin.com/jobs/view/4453527840"
+      "title": "Lead I - Product Management",
+      "company": "UST",
+      "location": "Trivandrum, Kerala, India",
+      "url": "https://www.linkedin.com/jobs/view/4451200443"
+    },
+    {
+      "n": 5,
+      "title": "Product Manager — B2B SaaS & AI",
+      "company": "Charlie",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4453518873"
+    },
+    {
+      "n": 6,
+      "title": "Product Manager",
+      "company": "AR GLOBAL HUB",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.linkedin.com/jobs/view/4453518948"
+    },
+    {
+      "n": 7,
+      "title": "IT Technical Product Owner",
+      "company": "Dyson",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4454393454"
     }
   ]
 }

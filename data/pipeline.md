@@ -4113,6 +4113,14 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4453516795 | FalconX | Senior Product Manager - Risk | posted=2026-08-14
 - [ ] https://www.linkedin.com/jobs/view/4453527840 | Algo8 AI | AI Product Manager | posted=2026-08-14
 
+- [ ] https://www.linkedin.com/jobs/view/4435547307 | Autodesk | Senior Product Manager | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4453521959 | enGen Global | AI Product Manager | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4454387340 | Inspire | Product Manager [T500-28541] | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4451200443 | UST | Lead I - Product Management | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4453518873 | Charlie | Product Manager — B2B SaaS & AI | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4453518948 | AR GLOBAL HUB | Product Manager | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4454393454 | Dyson | IT Technical Product Owner | posted=2026-08-14
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -4153,6 +4153,16 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.ashbyhq.com/spotdraft/88fc1f00-e546-463a-8ba0-78bc89a95cc6 | SpotDraft | Senior Product Manager - AI | posted=2026-08-14
 - [ ] https://jobs.lever.co/jobgether/129374f2-f377-4fd8-b98a-717dbc3adfd5 | Jobgether | Senior Product Manager | posted=2026-08-14
 
+- [ ] https://www.linkedin.com/jobs/view/4454554102 | SpotDraft | Senior Product Manager - AI | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4453703001 | Cvent | Senior Product Manager (Integrations) | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4454545326 | Stripe | Staff Product Manager, Global Expansion | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4454541351 | Stripe | Product Manager, Risk & Compliance | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4454548143 | SpotDraft | Product Manager | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4454544527 | Uplers | Technical Product Manager, Data | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4454537509 | Oportun | Principal Product Manager (R14170) | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4451240532 | Clocknext | Head of Product (AI) | posted=2026-08-14
+- [ ] https://www.linkedin.com/jobs/view/4453587280 | Spyne | Associate Product manager | posted=2026-08-14
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

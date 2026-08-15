@@ -4176,6 +4176,8 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4453704411 | Dentira | Group Product Manager- Growth Bets | posted=2026-08-14
 - [ ] https://www.linkedin.com/jobs/view/4453591533 | Dentira | Group Product Manager-Procurement | posted=2026-08-14
 
+- [ ] https://jobs.ashbyhq.com/aios/299eba4f-69aa-484c-a9e9-37bd818d8aee | AIOS | Product Manager - Engagement  — Remote, $100k-200k/yr inc equity | posted=2026-08-14
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

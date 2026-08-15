@@ -4196,6 +4196,8 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4451724235 | Larsen & Toubro-Vyoma | Technical Product Manager | posted=2026-08-15
 - [ ] https://www.linkedin.com/jobs/view/4435236159 | Intuit | Senior Staff Product Manager - Expert Platform | posted=2026-08-15
 
+- [ ] https://www.linkedin.com/jobs/view/4451734280 | IE Media, Inc. | Product Manager - Mobile Applications | posted=2026-08-15
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

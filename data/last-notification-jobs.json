@@ -1,19 +1,26 @@
 {
-  "generated_at": "2026-08-15T11:34:53.056Z",
+  "generated_at": "2026-08-15T12:59:54.395Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Senior Product Manager",
-      "company": "Flexiple",
-      "location": "India",
-      "url": "https://www.linkedin.com/jobs/view/4455101042"
+      "title": "Lead Product Manager",
+      "company": "ADP",
+      "location": "Chennai, Tamil Nadu, India",
+      "url": "https://www.linkedin.com/jobs/view/4451739114"
     },
     {
       "n": 2,
-      "title": "Freelance Product Manager",
-      "company": "Amendss",
-      "location": "Delhi, India",
-      "url": "https://www.linkedin.com/jobs/view/4453914060"
+      "title": "Technical Product Manager",
+      "company": "Larsen & Toubro-Vyoma",
+      "location": "Chennai, Tamil Nadu, India",
+      "url": "https://www.linkedin.com/jobs/view/4451724235"
+    },
+    {
+      "n": 3,
+      "title": "Senior Staff Product Manager - Expert Platform",
+      "company": "Intuit",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4435236159"
     }
   ]
 }

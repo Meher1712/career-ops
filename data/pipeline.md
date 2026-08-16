@@ -4216,6 +4216,9 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4453985024 | Hinduja Leyland Finance | Product Manager - LAP | posted=2026-08-16
 - [ ] https://www.linkedin.com/jobs/view/4453964761 | Scoutit India | Associate Product Manager | posted=2026-08-16
 
+- [ ] https://www.linkedin.com/jobs/view/4455193110 | Flexiple | Senior Product Manager | posted=2026-08-16
+- [ ] https://www.linkedin.com/jobs/view/4453962830 | Lorven Technologies Inc. | Technical Product Manager 'Vibe Coder' | posted=2026-08-16
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

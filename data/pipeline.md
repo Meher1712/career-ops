@@ -4222,6 +4222,9 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4453967901 | Kwan Ventures | Product Manager - Personal Loans | posted=2026-08-16
 - [ ] https://www.linkedin.com/jobs/view/4453981877 | airtel | Product Manager | posted=2026-08-16
 
+- [ ] https://www.linkedin.com/jobs/view/4455203407 | Bristol Myers Squibb | Manager, Product Management | posted=2026-08-16
+- [ ] https://www.linkedin.com/jobs/view/4400315641 | Clean Harbors | Product Owner | posted=2026-08-16
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

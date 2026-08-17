@@ -4242,6 +4242,13 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4452200934 | ClanX | Director of Product Management | posted=2026-08-17
 - [ ] https://www.linkedin.com/jobs/view/4454228878 | OmVrti.ai | Omvrti.ai Hiring Product Builders( Java ) | posted=2026-08-17
 
+- [ ] https://www.linkedin.com/jobs/view/4454230974 | PlaySimple Games | Product Manager | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4455236499 | Topia MedTech | Product Manager | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4454246102 | Aspire | Senior Product Manager - Cards Issuance | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4452218827 | SeadNXT Education | Robotics Product Manager | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4452235043 | Benz Calder | Product Manager - Payment Aggregator & Payment Gateway (PAPG) - API Integration / Payments - Mumbai | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4452223167 | Nexie | Product Owner (Agentic AI Startup) | posted=2026-08-17
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -4249,6 +4249,16 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4452235043 | Benz Calder | Product Manager - Payment Aggregator & Payment Gateway (PAPG) - API Integration / Payments - Mumbai | posted=2026-08-17
 - [ ] https://www.linkedin.com/jobs/view/4452223167 | Nexie | Product Owner (Agentic AI Startup) | posted=2026-08-17
 
+- [ ] https://www.linkedin.com/jobs/view/4454247131 | Euronet | Product Manager | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4455241938 | Arrive | Platform Product manager | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4455238625 | Sage Metrics Services | Product Manager - Servo & Automation | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4454252216 | NielsenIQ | EEMEA Ecommerce Product Manager | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4454255195 | mPokket | Product Manager | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4454239248 | Versatile Club Employer of Record | Product Manager | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4454258181 | Zigsaw | Product Manager | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4454254188 | Spinny | Group Product Manager | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4455242996 | Adit | Product Owner (US-shift) | posted=2026-08-17
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

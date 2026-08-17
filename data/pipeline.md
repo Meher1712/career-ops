@@ -4229,6 +4229,12 @@ Pune, India | posted=2026-06-28
 
 - [ ] https://www.linkedin.com/jobs/view/4408569339 | Aditya Birla Capital | Associate Product Manager | posted=2026-08-16
 
+- [ ] https://www.linkedin.com/jobs/view/4455254135 | Everstage | Senior Product Manager | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4454228763 | Aaizel International Technologies Pvt Ltd | Sr Product Manager | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4442583339 | Atomicwork | Senior Product Manager | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4454226748 | Deloitte Legal | Senior Director of Product Management | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4452216767 | Okta | Director, Product Management - Integrations | posted=2026-08-17
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

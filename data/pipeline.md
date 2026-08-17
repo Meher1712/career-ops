@@ -4312,6 +4312,9 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4454280033 | Green Spectrum Technology Private Limited | Assistant Product Manager | posted=2026-08-17
 - [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Senior-Product-Manager-II_R0076068 | eBay | Senior Product Manager II | posted=2026-08-17
 
+- [ ] https://www.linkedin.com/jobs/view/4454271258 | iTriangle | Product Manager Telematics And Automotive IoT Hardware | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4454278236 | IDFC FIRST Bank | Product Manager-Digital Transformation Strategy-Customer Experience | posted=2026-08-17
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

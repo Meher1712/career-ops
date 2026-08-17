@@ -4276,6 +4276,17 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4455255251 | IFF | Specialist II, IT Project/Product Management | posted=2026-08-17
 - [ ] https://www.linkedin.com/jobs/view/4455262099 | IFF | Specialist I, IT Project/Product Management | posted=2026-08-17
 
+- [ ] https://www.linkedin.com/jobs/view/4455260456 | Ginesys | Product Manager/Product Manager 2 - OMS | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4452228764 | Upstox | Product Manager II-(Growth) | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4455272440 | Ginesys | Product Manager/Product Manager 2 - ERP | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4454239609 | Zoca | Product Manager - Payments & Scheduling | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4444494933 | Salesforce | Product Management Director - Data Platform | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4454258456 | Zoca | AI Product Manager | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4452242718 | NymbleUp | Jr. Product Manager | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4454245538 | EDMO | Head of Product | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4455269339 | Talent Toppers | VP – Digital Product Management | Life Insurance | posted=2026-08-17
+- [ ] https://www.payoneer.com/careers/position/7566798/?gh_jid=7566798 | Payoneer | Senior Product Manager -  Platform Integrations | posted=2026-08-17
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

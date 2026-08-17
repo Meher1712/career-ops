@@ -4265,6 +4265,17 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4455265072 | IFF | Specialist II, IT Project/Product Management | posted=2026-08-17
 - [ ] https://www.linkedin.com/jobs/view/4455271068 | IFF | Specialist I, IT Project/Product Management | posted=2026-08-17
 
+- [ ] https://www.linkedin.com/jobs/view/4455271125 | Wrike | Senior Product Manager (Platform & AI) | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4455271085 | Eli Lilly and Company | Product Manager – Enterprise AI Operations & Observability | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4455254973 | IFF | Specialist III, IT Project/Product Management | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4455276174 | Conexus | Product Owner - Weighing and Dispensing | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4444714264 | Salesforce | Product Management Director - Data Platform | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4442810211 | LogicMonitor | Principal Product Manager, AI | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4452226745 | Porch Group | Senior Product Manager, Warranty | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4452235601 | Porch Group | Senior Product Manager, Insurance and Warranty CX | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4455255251 | IFF | Specialist II, IT Project/Product Management | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4455262099 | IFF | Specialist I, IT Project/Product Management | posted=2026-08-17
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

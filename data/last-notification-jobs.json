@@ -1,47 +1,75 @@
 {
-  "generated_at": "2026-08-17T14:46:11.411Z",
+  "generated_at": "2026-08-17T15:41:44.560Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Product Manager",
-      "company": "RateGain",
-      "location": "Noida, Uttar Pradesh, India",
-      "url": "https://www.linkedin.com/jobs/view/4454266423"
+      "title": "Senior Product Manager II",
+      "company": "eBay",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4452251899"
     },
     {
       "n": 2,
-      "title": "Product Manager-Mutual Fund",
-      "company": "IDFC FIRST Bank",
-      "location": "Mumbai, Maharashtra, India",
-      "url": "https://www.linkedin.com/jobs/view/4454266428"
+      "title": "Sr. Product Manager - RCS & Rich Messaging",
+      "company": "HighLevel",
+      "location": "India",
+      "url": "https://www.linkedin.com/jobs/view/4452254994"
     },
     {
       "n": 3,
-      "title": "Senior Manager_Product Management",
-      "company": "Evolute Group",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4455283781"
+      "title": "Digital Product Manager",
+      "company": "Amgen",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.linkedin.com/jobs/view/4455310129"
     },
     {
       "n": 4,
-      "title": "Technical Product Manager",
-      "company": "PriceSenz",
-      "location": "Kochi, Kerala, India",
-      "url": "https://www.linkedin.com/jobs/view/4454280555"
+      "title": "Product Manager – Agentic AI",
+      "company": "Zycus",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4455308080"
     },
     {
       "n": 5,
-      "title": "AI Product Manager",
-      "company": "Headout",
+      "title": "Lead I - Product Management",
+      "company": "UST",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4454260680"
+      "url": "https://www.linkedin.com/jobs/view/4452270649"
     },
     {
       "n": 6,
-      "title": "Senior Principal Product Manager - Infusion",
-      "company": "Inovalon",
-      "location": "Remote- United States",
-      "url": "https://www.inovalon.com/careers/job/?gh_jid=7864737003"
+      "title": "Product Manager",
+      "company": "MYCPE ONE",
+      "location": "Ahmedabad, Gujarat, India",
+      "url": "https://www.linkedin.com/jobs/view/4454288051"
+    },
+    {
+      "n": 7,
+      "title": "Technical Product Manager 'Vibe Coder'",
+      "company": "Lorven Technologies Inc.",
+      "location": "India",
+      "url": "https://www.linkedin.com/jobs/view/4454265903"
+    },
+    {
+      "n": 8,
+      "title": "Product Manager",
+      "company": "Codewalla",
+      "location": "Chennai, Tamil Nadu, India",
+      "url": "https://www.linkedin.com/jobs/view/4454281551"
+    },
+    {
+      "n": 9,
+      "title": "Product Manager — Brand Platform",
+      "company": "Purplle.com",
+      "location": "Mumbai Metropolitan Region",
+      "url": "https://www.linkedin.com/jobs/view/4452270710"
+    },
+    {
+      "n": 10,
+      "title": "Technical Product Manager – GenAI Programmes",
+      "company": "Jobgether",
+      "location": "India",
+      "url": "https://jobs.lever.co/jobgether/043ee2f1-e750-408e-9299-ed49bc030b1c"
     }
   ]
 }

@@ -4322,6 +4322,17 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4454260680 | Headout | AI Product Manager | posted=2026-08-17
 - [ ] https://www.inovalon.com/careers/job/?gh_jid=7864737003 | Inovalon | Senior Principal Product Manager - Infusion | posted=2026-08-17
 
+- [ ] https://www.linkedin.com/jobs/view/4452251899 | eBay | Senior Product Manager II | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4452254994 | HighLevel | Sr. Product Manager - RCS & Rich Messaging | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4455310129 | Amgen | Digital Product Manager | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4455308080 | Zycus | Product Manager – Agentic AI | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4452270649 | UST | Lead I - Product Management | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4454288051 | MYCPE ONE | Product Manager | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4454265903 | Lorven Technologies Inc. | Technical Product Manager 'Vibe Coder' | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4454281551 | Codewalla | Product Manager | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4452270710 | Purplle.com | Product Manager — Brand Platform | posted=2026-08-17
+- [ ] https://jobs.lever.co/jobgether/043ee2f1-e750-408e-9299-ed49bc030b1c | Jobgether | Technical Product Manager – GenAI Programmes | posted=2026-08-17
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -4297,6 +4297,21 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4452247508 | HDFC securities | Product Manager | posted=2026-08-17
 - [ ] https://www.payoneer.com/careers/position/7660533/?gh_jid=7660533 | Payoneer | Senior Product Manager - Working Capital  | posted=2026-08-17
 
+- [ ] https://www.linkedin.com/jobs/view/4452246240 | TechsoIT | Product Manager | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4454264034 | Glance | Product Manager - User & Context Intelligence | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4455268928 | LexHive (Formerly DemandLane) | Growth Product Manager | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4455277836 | HCLTech | Product Manager – Lab Services | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4454261050 | TransUnion | Sr. Advisor - Product Management | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4452269119 | IIFL Capital Services Limited | Product Manager – Partnerships & Cross-Sell | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4455276911 | HuntingCube | Product Manager (PM1 / PM2) | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4455259904 | Meesho | Product Manager I (Platform) | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4454240914 | Jobgether | Technical Product Manager – GenAI Programmes | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4455280009 | HuntingCube | ASSOCIATE PRODUCT MANAGER (APM) | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4455280294 | Microsoft | Senior Product Manager | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4454240995 | ANDPAYMENTS | Product Manager- UPI Merchant Payments | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4454280033 | Green Spectrum Technology Private Limited | Assistant Product Manager | posted=2026-08-17
+- [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Senior-Product-Manager-II_R0076068 | eBay | Senior Product Manager II | posted=2026-08-17
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

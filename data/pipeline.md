@@ -4287,6 +4287,16 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4455269339 | Talent Toppers | VP – Digital Product Management | Life Insurance | posted=2026-08-17
 - [ ] https://www.payoneer.com/careers/position/7566798/?gh_jid=7566798 | Payoneer | Senior Product Manager -  Platform Integrations | posted=2026-08-17
 
+- [ ] https://www.linkedin.com/jobs/view/4452228984 | Times Internet | Product Manager- Lending | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4455260654 | Firstsource | Senior Consultant - Product Manager | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4452249276 | TOMIA | Senior Product Manager | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4445912940 | Meesho | Group Product Manager | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4455269746 | Flexiple | Senior Product Manager | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4455259621 | Leap | Growth Product Manager | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4445669106 | Freshworks | Staff Product Manager | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4452247508 | HDFC securities | Product Manager | posted=2026-08-17
+- [ ] https://www.payoneer.com/careers/position/7660533/?gh_jid=7660533 | Payoneer | Senior Product Manager - Working Capital  | posted=2026-08-17
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -4235,6 +4235,13 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4454226748 | Deloitte Legal | Senior Director of Product Management | posted=2026-08-17
 - [ ] https://www.linkedin.com/jobs/view/4452216767 | Okta | Director, Product Management - Integrations | posted=2026-08-17
 
+- [ ] https://www.linkedin.com/jobs/view/4452204866 | Nua | Product Manager | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4454219917 | Sequoia | Senior Product Manager | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4454230851 | Aaizel International Technologies Pvt Ltd | Product Management Officer-IT | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4452215893 | Groval Selectia | Head of Product Management | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4452200934 | ClanX | Director of Product Management | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4454228878 | OmVrti.ai | Omvrti.ai Hiring Product Builders( Java ) | posted=2026-08-17
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

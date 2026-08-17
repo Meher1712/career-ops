@@ -4259,6 +4259,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4454254188 | Spinny | Group Product Manager | posted=2026-08-17
 - [ ] https://www.linkedin.com/jobs/view/4455242996 | Adit | Product Owner (US-shift) | posted=2026-08-17
 
+- [ ] https://www.linkedin.com/jobs/view/4452225376 | Colab Platforms Limited | Product Manager | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4454244295 | Expedient Healthcare Marketing Pvt. Ltd | Senior Product Manager – Growth And Analytics | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4455271075 | IFF | Specialist III, IT Project/Product Management | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4455265072 | IFF | Specialist II, IT Project/Product Management | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4455271068 | IFF | Specialist I, IT Project/Product Management | posted=2026-08-17
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

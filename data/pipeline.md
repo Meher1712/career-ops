@@ -4315,6 +4315,13 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4454271258 | iTriangle | Product Manager Telematics And Automotive IoT Hardware | posted=2026-08-17
 - [ ] https://www.linkedin.com/jobs/view/4454278236 | IDFC FIRST Bank | Product Manager-Digital Transformation Strategy-Customer Experience | posted=2026-08-17
 
+- [ ] https://www.linkedin.com/jobs/view/4454266423 | RateGain | Product Manager | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4454266428 | IDFC FIRST Bank | Product Manager-Mutual Fund | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4455283781 | Evolute Group | Senior Manager_Product Management | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4454280555 | PriceSenz | Technical Product Manager | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4454260680 | Headout | AI Product Manager | posted=2026-08-17
+- [ ] https://www.inovalon.com/careers/job/?gh_jid=7864737003 | Inovalon | Senior Principal Product Manager - Infusion | posted=2026-08-17
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

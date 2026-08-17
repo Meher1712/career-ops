@@ -1,40 +1,75 @@
 {
-  "generated_at": "2026-08-17T09:02:11.474Z",
+  "generated_at": "2026-08-17T09:58:52.011Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Product Manager",
-      "company": "Colab Platforms Limited",
-      "location": "Borivali, Maharashtra, India",
-      "url": "https://www.linkedin.com/jobs/view/4452225376"
+      "title": "Senior Product Manager (Platform & AI)",
+      "company": "Wrike",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4455271125"
     },
     {
       "n": 2,
-      "title": "Senior Product Manager – Growth And Analytics",
-      "company": "Expedient Healthcare Marketing Pvt. Ltd",
-      "location": "Gurgaon, Haryana, India",
-      "url": "https://www.linkedin.com/jobs/view/4454244295"
+      "title": "Product Manager – Enterprise AI Operations & Observability",
+      "company": "Eli Lilly and Company",
+      "location": "Greater Hyderabad Area",
+      "url": "https://www.linkedin.com/jobs/view/4455271085"
     },
     {
       "n": 3,
       "title": "Specialist III, IT Project/Product Management",
       "company": "IFF",
-      "location": "Greater Chennai Area",
-      "url": "https://www.linkedin.com/jobs/view/4455271075"
+      "location": "Greater Hyderabad Area",
+      "url": "https://www.linkedin.com/jobs/view/4455254973"
     },
     {
       "n": 4,
-      "title": "Specialist II, IT Project/Product Management",
-      "company": "IFF",
-      "location": "Greater Chennai Area",
-      "url": "https://www.linkedin.com/jobs/view/4455265072"
+      "title": "Product Owner - Weighing and Dispensing",
+      "company": "Conexus",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.linkedin.com/jobs/view/4455276174"
     },
     {
       "n": 5,
+      "title": "Product Management Director - Data Platform",
+      "company": "Salesforce",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.linkedin.com/jobs/view/4444714264"
+    },
+    {
+      "n": 6,
+      "title": "Principal Product Manager, AI",
+      "company": "LogicMonitor",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4442810211"
+    },
+    {
+      "n": 7,
+      "title": "Senior Product Manager, Warranty",
+      "company": "Porch Group",
+      "location": "India",
+      "url": "https://www.linkedin.com/jobs/view/4452226745"
+    },
+    {
+      "n": 8,
+      "title": "Senior Product Manager, Insurance and Warranty CX",
+      "company": "Porch Group",
+      "location": "India",
+      "url": "https://www.linkedin.com/jobs/view/4452235601"
+    },
+    {
+      "n": 9,
+      "title": "Specialist II, IT Project/Product Management",
+      "company": "IFF",
+      "location": "Greater Hyderabad Area",
+      "url": "https://www.linkedin.com/jobs/view/4455255251"
+    },
+    {
+      "n": 10,
       "title": "Specialist I, IT Project/Product Management",
       "company": "IFF",
-      "location": "Greater Chennai Area",
-      "url": "https://www.linkedin.com/jobs/view/4455271068"
+      "location": "Greater Hyderabad Area",
+      "url": "https://www.linkedin.com/jobs/view/4455262099"
     }
   ]
 }

@@ -4333,6 +4333,15 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4452270710 | Purplle.com | Product Manager — Brand Platform | posted=2026-08-17
 - [ ] https://jobs.lever.co/jobgether/043ee2f1-e750-408e-9299-ed49bc030b1c | Jobgether | Technical Product Manager – GenAI Programmes | posted=2026-08-17
 
+- [ ] https://www.linkedin.com/jobs/view/4455310918 | Payoneer | Senior Product Manager -  Platform Integrations | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4455310906 | Flexiple | Product Manager | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4452281304 | Mastercard | Lead Product Manager Tech | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4455259990 | Embrace Software Inc | Product Manager | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4452271741 | Mastercard | Lead Product Manager Technical (Dispute Lifecycle Solutions) | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4452285224 | Ferring Pharmaceuticals | Associate Product Manager | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4445628252 | Morgan Stanley | Head Product Owner Field Experience & Platforms - Executive Director - Wealth Management - Mumbai | posted=2026-08-17
+- [ ] https://www.linkedin.com/jobs/view/4452256244 | Vivid Pulse | Head of Product Management | posted=2026-08-17
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

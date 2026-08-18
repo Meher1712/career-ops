@@ -1,40 +1,47 @@
 {
-  "generated_at": "2026-08-18T03:59:13.387Z",
+  "generated_at": "2026-08-18T04:53:34.904Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Principal Product Manager",
-      "company": "Jobgether",
-      "location": "India",
-      "url": "https://www.linkedin.com/jobs/view/4454475237"
+      "title": "Senior Product Manager",
+      "company": "TAAS Partners",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://www.linkedin.com/jobs/view/4454471542"
     },
     {
       "n": 2,
-      "title": "Sr. Product Manager - RCS & Rich Messaging",
-      "company": "Jobgether",
-      "location": "India",
-      "url": "https://www.linkedin.com/jobs/view/4454486230"
+      "title": "VP Product Owner - Engagement, Commercial & Customer Interactions",
+      "company": "Barclays",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4452275077"
     },
     {
       "n": 3,
-      "title": "Senior Product Manager, Secret Detection and Vulnerability Research",
-      "company": "GitLab",
-      "location": "Remote, United States",
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8697043002"
+      "title": "Director of Product Management-Operations",
+      "company": "nexocean",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4454473613"
     },
     {
       "n": 4,
-      "title": "Product Manager",
-      "company": "Twilio",
-      "location": "Remote - Estonia",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8136763"
+      "title": "Senior Product Manager",
+      "company": "Freshworks",
+      "location": "Chennai, in",
+      "url": "https://api.smartrecruiters.com/v1/companies/Freshworks/postings/744000143979450"
     },
     {
       "n": 5,
-      "title": "Senior Product Manager (R14156)",
-      "company": "Oportun",
-      "location": "Remote - US",
-      "url": "https://job-boards.greenhouse.io/oportun/jobs/4724337005"
+      "title": "Principal Product Manager",
+      "company": "Jobgether",
+      "location": "India",
+      "url": "https://jobs.lever.co/jobgether/c2ae29b8-f298-4756-938d-a0f166c6e0aa"
+    },
+    {
+      "n": 6,
+      "title": "Sr. Product Manager - RCS & Rich Messaging",
+      "company": "Jobgether",
+      "location": "India",
+      "url": "https://jobs.lever.co/jobgether/04d57997-58e1-4951-8793-7e110f210de6"
     }
   ]
 }

@@ -4348,6 +4348,13 @@ Pune, India | posted=2026-06-28
 - [ ] https://job-boards.greenhouse.io/twilio/jobs/8136763 | Twilio | Product Manager | posted=2026-08-17
 - [ ] https://job-boards.greenhouse.io/oportun/jobs/4724337005 | Oportun | Senior Product Manager (R14156) | posted=2026-08-17
 
+- [ ] https://www.linkedin.com/jobs/view/4454471542 | TAAS Partners | Senior Product Manager | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4452275077 | Barclays | VP Product Owner - Engagement, Commercial & Customer Interactions | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4454473613 | nexocean | Director of Product Management-Operations | posted=2026-08-18
+- [ ] https://api.smartrecruiters.com/v1/companies/Freshworks/postings/744000143979450 | Freshworks | Senior Product Manager | posted=2026-08-18
+- [ ] https://jobs.lever.co/jobgether/c2ae29b8-f298-4756-938d-a0f166c6e0aa | Jobgether | Principal Product Manager | posted=2026-08-18
+- [ ] https://jobs.lever.co/jobgether/04d57997-58e1-4951-8793-7e110f210de6 | Jobgether | Sr. Product Manager - RCS & Rich Messaging | posted=2026-08-18
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

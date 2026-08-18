@@ -4342,6 +4342,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4445628252 | Morgan Stanley | Head Product Owner Field Experience & Platforms - Executive Director - Wealth Management - Mumbai | posted=2026-08-17
 - [ ] https://www.linkedin.com/jobs/view/4452256244 | Vivid Pulse | Head of Product Management | posted=2026-08-17
 
+- [ ] https://www.linkedin.com/jobs/view/4454475237 | Jobgether | Principal Product Manager | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4454486230 | Jobgether | Sr. Product Manager - RCS & Rich Messaging | posted=2026-08-18
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8697043002 | GitLab | Senior Product Manager, Secret Detection and Vulnerability Research | posted=2026-08-17
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/8136763 | Twilio | Product Manager | posted=2026-08-17
+- [ ] https://job-boards.greenhouse.io/oportun/jobs/4724337005 | Oportun | Senior Product Manager (R14156) | posted=2026-08-17
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

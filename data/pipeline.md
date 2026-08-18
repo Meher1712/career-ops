@@ -4419,6 +4419,20 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4452587735 | IDFC FIRST Bank | Senior Product Manager-Credit Cards | posted=2026-08-18
 - [ ] https://www.linkedin.com/jobs/view/4443254383 | HighLevel | Staff Product Manager – Agency Monetization & Wallet | posted=2026-08-18
 
+- [ ] https://www.linkedin.com/jobs/view/4455710876 | Flexiple | Senior Product Manager | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4455713617 | ABB | Technology Product Manager - Platform | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4455700670 | ABB | Technology Product Manager -Platform- PA Digital Global | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4445455952 | Candescent | Software Product Manager | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4454709829 | Zensar Technologies | AES - DE - Agile - Product Owner | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4454728058 | First Inch Consultancy Pvt. Ltd. | Product Manager | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4454496820 | Scientific International Pvt. Ltd. | Ecommerce Product Manager | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4455708653 | ABB | Product Manager | posted=2026-08-18
+- [ ] https://www.highradius.com/about/careers-list/?gh_jid=7734235003 | HighRadius | Agent Product Builder | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4455705873 | Deutsche Telekom Digital Labs | Group Product Manager | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4455712594 | Avalara APAC | Manager, Product Management - Integrations | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4455717778 | Tata Communications | SMS Product Owner | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4454728320 | Team Computers | Regional Product Manager-Apple | posted=2026-08-18
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

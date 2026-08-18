@@ -4433,6 +4433,23 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4455717778 | Tata Communications | SMS Product Owner | posted=2026-08-18
 - [ ] https://www.linkedin.com/jobs/view/4454728320 | Team Computers | Regional Product Manager-Apple | posted=2026-08-18
 
+- [ ] https://www.linkedin.com/jobs/view/4455732269 | GobbleCube | Senior Product Manager | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4445990390 | GE Vernova | Sr. Staff Technical Product Manager | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4455727071 | Amazon | Senior Product Manager - Tech, Global Transportation Technology Services | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4446019971 | Nutanix | Principal Product Manager | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4455742216 | Best Buy | Senior Product Manager [T500-28622] | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4455731341 | AB InBev APAC | Senior Product Manager | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4455719904 | Amazon | Principal Product Manager Tech – AI, Multi-Channel Commerce, Amazon Smart Commerce | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4451157562 | Artech Infosystem Private Limited | Product Manager | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4455726391 | MCO (MyComplianceOffice) | Product Owner II - KYTP | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4455711957 | HuntingCube | Product Manager | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4454746333 | Neuraleap Group | Group Product Manager (Pediatrics & Dermatology) | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4455720362 | Arcesium | Product Manager - Order & Portfolio Management Systems and Integration | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4455720214 | FinnovationZ | Product Manager | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4454757216 | American Express | Associate -Digital Product Management | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4454750330 | Voiro | Product Manager | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4452805223 | Sarvatra Technologies | Product Manager | posted=2026-08-18
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

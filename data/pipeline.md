@@ -4380,6 +4380,19 @@ Pune, India | posted=2026-06-28
 - [ ] https://job-boards.greenhouse.io/glance/jobs/8078758 | Glance | Product Manager- Search | posted=2026-08-18
 - [ ] https://www.highradius.com/about/careers-list/?gh_jid=7734268003 | HighRadius | Agent Product Builder | posted=2026-08-18
 
+- [ ] https://www.linkedin.com/jobs/view/4455596271 | Affinity Global | Product Manager | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4452588254 | Narayana Health | Product Manager | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4454704257 | Sequoia | Senior Product Manager | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4455575966 | ZeOmega | Product Manager | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4454707218 | Responsive | Senior Product Manager | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4455572949 | Evolute Group | Senior Manager_Product Management | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4455702062 | Caterpillar Inc. | Senior Digital Product Owner | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4454499330 | athmâ | Senior Product Manager | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4454490496 | TravClan | Product Manager | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4455714109 | JPMorganChase | Product Manager - Email Client Apps & Services | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4454491515 | SBNRI | Product Manager – Tax & Compliance | posted=2026-08-18
+- [ ] https://boards.greenhouse.io/easyship/jobs/4622118006?gh_jid=4622118006 | Easyship | Senior Product Manager (Risk & Fraud) | posted=2026-08-18
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -1,47 +1,75 @@
 {
-  "generated_at": "2026-08-18T04:53:34.904Z",
+  "generated_at": "2026-08-18T05:46:30.281Z",
   "jobs": [
     {
       "n": 1,
       "title": "Senior Product Manager",
-      "company": "TAAS Partners",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://www.linkedin.com/jobs/view/4454471542"
+      "company": "Freshworks",
+      "location": "Chennai, Tamil Nadu, India",
+      "url": "https://www.linkedin.com/jobs/view/4455582387"
     },
     {
       "n": 2,
-      "title": "VP Product Owner - Engagement, Commercial & Customer Interactions",
-      "company": "Barclays",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://www.linkedin.com/jobs/view/4452275077"
+      "title": "Senior Product Manager",
+      "company": "NextMantra AI",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://www.linkedin.com/jobs/view/4454486619"
     },
     {
       "n": 3,
-      "title": "Director of Product Management-Operations",
-      "company": "nexocean",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4454473613"
+      "title": "Product Owner",
+      "company": "Gruve",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4454469825"
     },
     {
       "n": 4,
-      "title": "Senior Product Manager",
-      "company": "Freshworks",
-      "location": "Chennai, in",
-      "url": "https://api.smartrecruiters.com/v1/companies/Freshworks/postings/744000143979450"
+      "title": "Senior IT Product Owner INT",
+      "company": "Tyson Foods",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4452562433"
     },
     {
       "n": 5,
-      "title": "Principal Product Manager",
-      "company": "Jobgether",
-      "location": "India",
-      "url": "https://jobs.lever.co/jobgether/c2ae29b8-f298-4756-938d-a0f166c6e0aa"
+      "title": "Product Manager",
+      "company": "apna",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4454485744"
     },
     {
       "n": 6,
-      "title": "Sr. Product Manager - RCS & Rich Messaging",
-      "company": "Jobgether",
-      "location": "India",
-      "url": "https://jobs.lever.co/jobgether/04d57997-58e1-4951-8793-7e110f210de6"
+      "title": "Product Owner, Retail Payments",
+      "company": "Standard Chartered India",
+      "location": "Bengaluru East, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4454477773"
+    },
+    {
+      "n": 7,
+      "title": "Product Manager",
+      "company": "Flexday AI",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4452556708"
+    },
+    {
+      "n": 8,
+      "title": "Product Owner",
+      "company": "Qualitrol",
+      "location": "Bengaluru North, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4454462852"
+    },
+    {
+      "n": 9,
+      "title": "Director of Product Management",
+      "company": "Recruise India Consulting Pvt Ltd",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.linkedin.com/jobs/view/4454486686"
+    },
+    {
+      "n": 10,
+      "title": "Product Owner (Agentic AI Startup)",
+      "company": "Nexie",
+      "location": "Greater Bengaluru Area",
+      "url": "https://www.linkedin.com/jobs/view/4452554527"
     }
   ]
 }

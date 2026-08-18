@@ -4374,6 +4374,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4454707030 | NEXTHIRE | Product Manager | posted=2026-08-18
 - [ ] https://www.linkedin.com/jobs/view/4454497076 | GreyLabs AI | Director of Product Management | posted=2026-08-18
 
+- [ ] https://www.linkedin.com/jobs/view/4455572601 | Salesforce | Product Manager | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4452343882 | AIMLEAP | AI Product Manager - SAAS, Data | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4454704109 | ICIMS | Senior Product Manager | posted=2026-08-18
+- [ ] https://job-boards.greenhouse.io/glance/jobs/8078758 | Glance | Product Manager- Search | posted=2026-08-18
+- [ ] https://www.highradius.com/about/careers-list/?gh_jid=7734268003 | HighRadius | Agent Product Builder | posted=2026-08-18
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

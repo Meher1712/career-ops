@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-08-18T14:53:58.865Z",
+  "generated_at": "2026-08-18T15:47:38.719Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Technical Product Manager",
-      "company": "enGen Global",
-      "location": "Chennai, Tamil Nadu, India",
-      "url": "https://www.linkedin.com/jobs/view/4454761686"
+      "title": "Product Owner SMS - Customer Interaction Suite",
+      "company": "Tata Communications",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4454786095"
+    },
+    {
+      "n": 2,
+      "title": "Product Manager 2",
+      "company": "Lam Research",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4454764429"
+    },
+    {
+      "n": 3,
+      "title": "Product Manager, Agentic Vulnerability Elimination",
+      "company": "HackerOne",
+      "location": "Pune",
+      "url": "https://jobs.ashbyhq.com/hackerone/c061590a-f169-4741-a0ae-a3f9b310cc09"
     }
   ]
 }

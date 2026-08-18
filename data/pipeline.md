@@ -4366,6 +4366,14 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4454486686 | Recruise India Consulting Pvt Ltd | Director of Product Management | posted=2026-08-18
 - [ ] https://www.linkedin.com/jobs/view/4452554527 | Nexie | Product Owner (Agentic AI Startup) | posted=2026-08-18
 
+- [ ] https://www.linkedin.com/jobs/view/4452554788 | Xoxoday | Product Manager – Empuls | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4452549941 | IIFL Capital Services Limited | Product Manager – Partnerships & Cross-Sell | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4454462984 | Broadcom | Product Manager | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4454491000 | Nexus Venture Partners | AI Product Manager | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4454488132 | MoEngage | Senior Product Manager - Data Platfrom | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4454707030 | NEXTHIRE | Product Manager | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4454497076 | GreyLabs AI | Director of Product Management | posted=2026-08-18
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

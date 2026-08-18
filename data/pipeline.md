@@ -4450,6 +4450,17 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4454750330 | Voiro | Product Manager | posted=2026-08-18
 - [ ] https://www.linkedin.com/jobs/view/4452805223 | Sarvatra Technologies | Product Manager | posted=2026-08-18
 
+- [ ] https://www.linkedin.com/jobs/view/4454737617 | HighRadius | Agent Product Builder | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4454753007 | Kuja Care | Founding Member | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4455737524 | HDFC SKY | Product Manager | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4454751554 | Google | Product Manager, Workspace Reporting and Insights Platform | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4454741525 | Sony Music Entertainment | Consultant - Product Manager | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4454757589 | Wego.com | Senior Product Manager - Flights OTA | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4454748637 | TekWissen India | Lead Product Owner | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4454753737 | Novus Hi-Tech | Product Manager | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4454753724 | PlanetLink Solutions | Product Owner | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4445435578 | Sabre | Senior Manager, Product Management - Sabre Payments | posted=2026-08-18
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

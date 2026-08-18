@@ -1,40 +1,89 @@
 {
-  "generated_at": "2026-08-18T07:55:25.000Z",
+  "generated_at": "2026-08-18T08:54:18.851Z",
   "jobs": [
     {
       "n": 1,
       "title": "Product Manager",
-      "company": "Salesforce",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://www.linkedin.com/jobs/view/4455572601"
+      "company": "Affinity Global",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4455596271"
     },
     {
       "n": 2,
-      "title": "AI Product Manager - SAAS, Data",
-      "company": "AIMLEAP",
+      "title": "Product Manager",
+      "company": "Narayana Health",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4452343882"
+      "url": "https://www.linkedin.com/jobs/view/4452588254"
     },
     {
       "n": 3,
       "title": "Senior Product Manager",
-      "company": "ICIMS",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://www.linkedin.com/jobs/view/4454704109"
+      "company": "Sequoia",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4454704257"
     },
     {
       "n": 4,
-      "title": "Product Manager- Search",
-      "company": "Glance",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/glance/jobs/8078758"
+      "title": "Product Manager",
+      "company": "ZeOmega",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4455575966"
     },
     {
       "n": 5,
-      "title": "Agent Product Builder",
-      "company": "HighRadius",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://www.highradius.com/about/careers-list/?gh_jid=7734268003"
+      "title": "Senior Product Manager",
+      "company": "Responsive",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4454707218"
+    },
+    {
+      "n": 6,
+      "title": "Senior Manager_Product Management",
+      "company": "Evolute Group",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4455572949"
+    },
+    {
+      "n": 7,
+      "title": "Senior Digital Product Owner",
+      "company": "Caterpillar Inc.",
+      "location": "Chennai, Tamil Nadu, India",
+      "url": "https://www.linkedin.com/jobs/view/4455702062"
+    },
+    {
+      "n": 8,
+      "title": "Senior Product Manager",
+      "company": "athmâ",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4454499330"
+    },
+    {
+      "n": 9,
+      "title": "Product Manager",
+      "company": "TravClan",
+      "location": "New Delhi, Delhi, India",
+      "url": "https://www.linkedin.com/jobs/view/4454490496"
+    },
+    {
+      "n": 10,
+      "title": "Product Manager - Email Client Apps & Services",
+      "company": "JPMorganChase",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4455714109"
+    },
+    {
+      "n": 11,
+      "title": "Product Manager – Tax & Compliance",
+      "company": "SBNRI",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://www.linkedin.com/jobs/view/4454491515"
+    },
+    {
+      "n": 12,
+      "title": "Senior Product Manager (Risk & Fraud)",
+      "company": "Easyship",
+      "location": "Remote - Europe",
+      "url": "https://boards.greenhouse.io/easyship/jobs/4622118006?gh_jid=4622118006"
     }
   ]
 }

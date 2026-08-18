@@ -4393,6 +4393,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4454491515 | SBNRI | Product Manager – Tax & Compliance | posted=2026-08-18
 - [ ] https://boards.greenhouse.io/easyship/jobs/4622118006?gh_jid=4622118006 | Easyship | Senior Product Manager (Risk & Fraud) | posted=2026-08-18
 
+- [ ] https://www.linkedin.com/jobs/view/4454492637 | Team Computers | National Product Manager - iPad | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4454703529 | Versatile Club Employer of Record | Technical Product Manager — Customer & Delivery | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4454711554 | Appsoleut Games | Senior Product Manager (Gaming) | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4455713235 | Target | Director of Product Management | posted=2026-08-18
+- [ ] https://boards.greenhouse.io/easyship/jobs/4706111006?gh_jid=4706111006 | Easyship | Senior Product Manager (Risk & Fraud) | posted=2026-08-18
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

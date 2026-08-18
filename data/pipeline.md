@@ -4355,6 +4355,17 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/jobgether/c2ae29b8-f298-4756-938d-a0f166c6e0aa | Jobgether | Principal Product Manager | posted=2026-08-18
 - [ ] https://jobs.lever.co/jobgether/04d57997-58e1-4951-8793-7e110f210de6 | Jobgether | Sr. Product Manager - RCS & Rich Messaging | posted=2026-08-18
 
+- [ ] https://www.linkedin.com/jobs/view/4455582387 | Freshworks | Senior Product Manager | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4454486619 | NextMantra AI | Senior Product Manager | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4454469825 | Gruve | Product Owner | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4452562433 | Tyson Foods | Senior IT Product Owner INT | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4454485744 | apna | Product Manager | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4454477773 | Standard Chartered India | Product Owner, Retail Payments | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4452556708 | Flexday AI | Product Manager | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4454462852 | Qualitrol | Product Owner | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4454486686 | Recruise India Consulting Pvt Ltd | Director of Product Management | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4452554527 | Nexie | Product Owner (Agentic AI Startup) | posted=2026-08-18
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

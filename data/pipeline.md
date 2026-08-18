@@ -4467,6 +4467,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4454764429 | Lam Research | Product Manager 2 | posted=2026-08-18
 - [ ] https://jobs.ashbyhq.com/hackerone/c061590a-f169-4741-a0ae-a3f9b310cc09 | HackerOne | Product Manager, Agentic Vulnerability Elimination | posted=2026-08-18
 
+- [ ] https://www.linkedin.com/jobs/view/4452825413 | Mastercard | Lead Product Manager- Technical | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4455760963 | Roche | Technical CRM Product Owner - RDT Diagnostics Commercial | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4452831247 | PwC Acceleration Center India | Product Owner - Manager | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4445707725 | BlackRock | Vice President, Technology Product Management (NE) | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4454771335 | Lam Research | Product Manager 2 | posted=2026-08-18
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -4461,6 +4461,8 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4454753724 | PlanetLink Solutions | Product Owner | posted=2026-08-18
 - [ ] https://www.linkedin.com/jobs/view/4445435578 | Sabre | Senior Manager, Product Management - Sabre Payments | posted=2026-08-18
 
+- [ ] https://www.linkedin.com/jobs/view/4454761686 | enGen Global | Technical Product Manager | posted=2026-08-18
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -4399,6 +4399,26 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4455713235 | Target | Director of Product Management | posted=2026-08-18
 - [ ] https://boards.greenhouse.io/easyship/jobs/4706111006?gh_jid=4706111006 | Easyship | Senior Product Manager (Risk & Fraud) | posted=2026-08-18
 
+- [ ] https://www.linkedin.com/jobs/view/4454493714 | SolarSquare | Senior Product Manager | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4455596617 | Wells Fargo | Senior Digital Product Owner | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4455701527 | Hitachi Energy | R&D Product Owner – GPQSS Digital- IDC | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4454491744 | Gatipay | Product Manager | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4452581598 | HCLTech | Product Manager CX | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4442884020 | Milestone Technologies, Inc. | Product Manager | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4455599512 | Siemens | Product Owner | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4452229709 | Miratech | WFM Product Manager (Verint) | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4454704655 | Team Computers | National Product Manager - HPE | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4445937274 | Capco | Product Manager- Lending | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4452589603 | Traya | Product Manager | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4452581696 | Upstox | Product Manager II | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4454491819 | Oolka | Product Manager | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4455710436 | Aviate | AI Product Manager (ID # 894) | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4455705565 | A.P. Moller - Maersk | Platform Product Owner-AI Enablement & Vendor Experience | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4454489820 | Team Computers | Regional Product Manager-Cisco | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4455718431 | HP | Software Product Manager | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4452587735 | IDFC FIRST Bank | Senior Product Manager-Credit Cards | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4443254383 | HighLevel | Staff Product Manager – Agency Monetization & Wallet | posted=2026-08-18
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

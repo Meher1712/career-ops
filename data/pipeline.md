@@ -4619,6 +4619,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4453453760 | Baker Tilly US | Associate Manager - Product Management | posted=2026-08-19
 - [ ] https://www.linkedin.com/jobs/view/4453447795 | Baker Tilly US | Senior Product Associate - Product Management | posted=2026-08-19
 
+- [ ] https://www.linkedin.com/jobs/view/4456316830 | Target | Sr Product Manager - Marketplace | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4456319614 | Vanguard | Product Manager, Specialist | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4456312679 | Uplers | Senior Product Manager | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4456317997 | Wells Fargo | Senior Product Manager - Application Business Owner Governance | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4453454964 | Lloyd Healthcare Pvt. Ltd. | Product Manager | posted=2026-08-19
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -4594,6 +4594,15 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4456176854 | HP | Software Product Manager | posted=2026-08-19
 - [ ] https://jobs.lever.co/jobgether/cd1b6f4f-7bff-4d31-a69f-4f2bc4e1f8de | Jobgether | Senior Product Manager | posted=2026-08-19
 
+- [ ] https://www.linkedin.com/jobs/view/4456186833 | Emerson | Senior Product Manager | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4454987778 | Vanguard India | Product Manager, Specialist | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4456176998 | Innovaccer | 4483- Senior Product Manager, AI | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4453420714 | GlobalLogic | Strategic WFM- Product Manager | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4456303125 | INDmoney | Platform Product Manager | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4454985864 | JiBe ERP | Product Manager | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4446011906 | Kobie | Product Owner | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4440147980 | Novartis India | Manager - CRM Product Management & Business Analysis | posted=2026-08-19
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

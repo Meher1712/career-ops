@@ -4603,6 +4603,16 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4446011906 | Kobie | Product Owner | posted=2026-08-19
 - [ ] https://www.linkedin.com/jobs/view/4440147980 | Novartis India | Manager - CRM Product Management & Business Analysis | posted=2026-08-19
 
+- [ ] https://www.linkedin.com/jobs/view/4453452131 | Hevo Data | Product Manager | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4456307462 | Microsoft | Senior Product Manager | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4456193575 | Microsoft | Principal Product Manager | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4445762484 | Google | Group Product Manager, Google Play | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455413171 | PlanetLink Solutions | Product Owner | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4456303576 | Atyeti Inc | Lead/ Senior Product Owner with Captial Markets_ Exp: 10+ Years | posted=2026-08-19
+- [ ] https://job-boards.greenhouse.io/glance/jobs/8076417 | Glance | Senior Product Manager (Commerce Platform Building) | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4456169863 | Rekise Marine | Product Manager | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4456196226 | Flexiple | Senior Product Manager | posted=2026-08-19
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

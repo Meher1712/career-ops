@@ -4543,6 +4543,36 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4455795728 | Amazon | Senior Manager, Product Management - Tech, Selection Monitoring | posted=2026-08-19
 - [ ] https://www.linkedin.com/jobs/view/4455905481 | Amazon | Sr Mgr, Product Management Lifecycle Experiences, EM PLX | posted=2026-08-19
 
+- [ ] https://www.linkedin.com/jobs/view/4455798313 | Amazon | Senior Product Manager - Tech, Selection Monitoring | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4456171304 | Getinge | Product Manager - Digital Healthcare Solutions | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4456168406 | JioSaavn | Product Manager - Engagement | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4453416438 | Procter & Gamble | Digital Product Manager - Band 2 | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4456164434 | Sarvam | Product Manager, Growth | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4456172344 | Sarvam | Product Manager On-Device & Edge AI | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455779902 | Amazon | Product Manager, Amazon Now | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455781897 | Amazon | Product Manager, Value added services | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4454972340 | Quantalent AI | Product Owner | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4454971264 | Quantum Heaps | Product Manager | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4456185277 | Sarvam | Product Manager, Monetization & Retention | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455796190 | Amazon | Product Manager - Tech, Amazon Travel and Events | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4456173378 | Sarvam | Product Manager – Media & Entertainment, Sarvam Studio | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455792646 | Amazon | Senior Product Manager - Tech | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455786800 | Amazon | Sr Product Manager, WW Returns and Recommerce | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455789783 | Amazon | Senior Product Manager - Tech, Global Transportation Technology Services | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455907058 | Amazon | Sr. Product Manager - Tech, India Ads | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455787883 | Amazon | Senior Product Manager, Amazon Business India | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455775868 | Amazon | Sr Product Manager Tech, Amazon Customer Service | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455786778 | Amazon | Sr Product Manager, Amazon Wholesale | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455773953 | Amazon | Senior Product Manager - Tech, Shipment Technologies | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455904113 | Amazon | Sr. Product Manager - Tech , IES - Emerging Stores | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455901057 | Amazon | Sr. Product Manager, ROW SHARP | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455796125 | Amazon | Senior Product Manager, Refunds CX, WW Refunds Experience | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455790766 | Amazon | Sr. Product Manager, IN Payments | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455784769 | Amazon | Sr. Product Manager, Credit and Lending, Amazon Credit and Lending | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455781916 | Amazon | Principal Product Manager Tech – AI, Multi-Channel Commerce, Amazon Smart Commerce | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455773965 | Amazon | Sr Manager, Product Management, Amazon Customer Service | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455785920 | Amazon | Sr. Manager, Product Management Tech, India Advertising | posted=2026-08-19
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

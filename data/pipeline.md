@@ -4625,6 +4625,20 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4456317997 | Wells Fargo | Senior Product Manager - Application Business Owner Governance | posted=2026-08-19
 - [ ] https://www.linkedin.com/jobs/view/4453454964 | Lloyd Healthcare Pvt. Ltd. | Product Manager | posted=2026-08-19
 
+- [ ] https://www.linkedin.com/jobs/view/4456337137 | Ford Motor Company | Product Manager, Generative AI & Analytics | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455407652 | Origin Medical Research Lab | Product Manager | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4456356212 | Hewlett Packard Enterprise | Product Manager -Network Automation | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4446500817 | Honeywell Technologies | Sr Product Management Specialist | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4456339355 | Sprinklr | Associate Product Manager ( WFM ) | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4454999240 | Origin Medical Research Lab | Associate Product Manager | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4429509271 | Docusign | Data Product Manager - Payment Optimization | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455422053 | Menarini Asia-Pacific | Senior Product Manager/ Group Product Manager – Dermatology | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4426467827 | Oracle | Product Manager/Strategy 3-ProdDev | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4446338591 | MakeMyTrip | Associate Product Manager (MyBiz) | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4456347354 | Broadridge India | Product Owner | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455409979 | Controvia AI | Associate Product Manager – AI SaaS | posted=2026-08-19
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990014677836 | Nielsen | Lead Product Manager | posted=2026-08-19
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

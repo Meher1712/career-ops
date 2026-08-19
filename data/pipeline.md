@@ -4583,6 +4583,17 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4455906009 | Amazon | Sr Product Manager Tech, Amazon Customer Service | posted=2026-08-19
 - [ ] https://www.linkedin.com/jobs/view/4455775982 | Amazon | Product Manager - Tech, Amazon Travel and Events | posted=2026-08-19
 
+- [ ] https://www.linkedin.com/jobs/view/4453429614 | Nine Star Broking Pvt Ltd | Senior Product Manager | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4436843071 | Philips | Senior Global Product Manager (Respiratory Therapy) | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4454988665 | Fareportal | Product Manager (B2C) | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4454992539 | Spinny | Product Manager | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4456171779 | FM | Principal Product Owner IND [T500-28693] | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4456167849 | Blue Spire Inc | Agentic Product Lead | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4456174789 | Leucine - AI for Pharma | Product Manager | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4454969723 | Tata Consultancy Services | Product Owner | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4456176854 | HP | Software Product Manager | posted=2026-08-19
+- [ ] https://jobs.lever.co/jobgether/cd1b6f4f-7bff-4d31-a69f-4f2bc4e1f8de | Jobgether | Senior Product Manager | posted=2026-08-19
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

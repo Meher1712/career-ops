@@ -4476,6 +4476,9 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4452883478 | Beep App | Associate Product Manager | posted=2026-08-19
 - [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8140456 | Smartsheet | Senior Product Manager II - Applied AI (Remote Eligible) | posted=2026-08-18
 
+- [ ] https://www.linkedin.com/jobs/view/4452817239 | Barclays | Product Owner- Technology | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4453404584 | CareerXperts Consulting | Product Manager – SaaS | Remote (India) | posted=2026-08-19
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

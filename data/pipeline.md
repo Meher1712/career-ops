@@ -4481,6 +4481,32 @@ Pune, India | posted=2026-06-28
 
 - [ ] https://www.linkedin.com/jobs/view/4452895851 | StarCent | Product Manager | posted=2026-08-19
 
+- [ ] https://www.linkedin.com/jobs/view/4455918795 | Amazon | Sr. Product Manager - Tech, Amazon Pharmacy | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455925533 | Amazon | Senior Product Manager, Cross Border Science and Analytics | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4456139577 | ClearTrail Technologies | Product Manager | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4453409933 | Jupiter | Product Manager- Unsecured Lending | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4454942788 | SalaryOnTime | Product Manager | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4454955542 | Technocratic Solutions | Product Owner Serialization | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4456160722 | Wrike | Senior Product Manager (Platform & AI) | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4453408980 | CeeQ | Product Manager - SaaS | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4456142742 | noon | Product Manager | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4454986045 | Meritto | Product Manager-Mobile App(B2B) | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4453427022 | omniXM | Associate Product Manager | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4454967226 | HCLTech | Cyber Resilience - Product Owner | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4456164026 | BioTalent Search® | Group Product Manager (Paediatrics/Gynecology/General) | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455932027 | Amazon | Senior Product Manager, RBS Organization Excellence | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455905826 | Amazon | Senior Product Manager, Amazon Shipping | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455917626 | Amazon | Senior Product Manager - Tech, DP&R | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455920376 | Amazon | Sr. Product Manager, Operations Evaluation, Worldwide Returns and Recommerce | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455922216 | Amazon | Senior Product Manager, Amazon Now | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455930134 | Amazon | Sr. Product Manager, ROW SHARP | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455919098 | Amazon | Senior Product Manager - Tech, Amazon Smart Commerce | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455919388 | Amazon | Senior Product Manager, Alexa Automotive, Scaling Initiatives, Amazon Smart Vehicles | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455920050 | Amazon | Sr. Product Manager, Technical, Small and Medium Business Financing | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455913927 | Amazon | Principal Product Manager - Tech, Featured Merchant Algorithm | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455926222 | Amazon | Product Manager (FTC), Cross Border Science and Analytics | posted=2026-08-19
+- [ ] https://apply.workable.com/j/D754873016 | 2070Health | Technical Product Manager | posted=2026-08-19
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

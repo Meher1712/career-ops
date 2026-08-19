@@ -4507,6 +4507,42 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4455926222 | Amazon | Product Manager (FTC), Cross Border Science and Analytics | posted=2026-08-19
 - [ ] https://apply.workable.com/j/D754873016 | 2070Health | Technical Product Manager | posted=2026-08-19
 
+- [ ] https://www.linkedin.com/jobs/view/4455916762 | Amazon | Senior Product Manager, RBS Organization Excellence | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4440416756 | ARIS | Product Manager | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4454973051 | HCLTech | Product Owner - CyberResilience | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455910474 | Amazon | Senior Product Manager, Retail Business Services | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455900511 | Amazon | Product Manager, Amazon Payment Services | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455915004 | Amazon | Product Manager- Return defect eliminaiton , RBS Return reduction | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4456164286 | AppsForBharat | Senior Product Manager | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4456157865 | Three Across | Product Owner – Supply Chain Collaboration | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455911261 | Amazon | Sr. Product Manager Technical - Associate Workspace | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455910551 | Amazon | Product Manager, IN CX Improvements, Amazon Customer Service | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455910530 | Amazon | Sr. Product Manager, Returns, Worldwide Returns and Recommerce | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455913458 | Amazon | Senior Product Manager, Amazon Now | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455777878 | Amazon | Sr. Product Manager - Tech, Alexa Smart Properties | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455796361 | Amazon | Sr. Product Manager, Tech, Amazon Prime | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455798314 | Amazon | Principal Product Manager Technical, Associate Experience | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455901712 | Amazon | Sr. Product Manager – Tech, 3P Pricing | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455796333 | Amazon | Sr. Product Manager - Tech, Amazon Pharmacy | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455912369 | Amazon | Sr. Product Manager, ReCommerce | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455911310 | Amazon | Sr. Product Manager-Tech, DSP-DA Lifecycle Solutions | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455905278 | Amazon | Principal Product Manager, RBS Growth | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455904436 | Amazon | Senior Product Manager, ROW UPB | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455795505 | Amazon | Sr. Product Manager, Seller Incentives, WW Revenue Strategy | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455908354 | Amazon | Sr. Product Manager - Technical, WW Prime - Benefits, Pricing & Constructs | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455903247 | Amazon | Senior Product Manager - Tech, Selection Monitoring | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455915499 | Amazon | Senior Product Manager - Tech, Prime Video Advertising | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455911552 | Amazon | Sr. Product Manager - Technical, Amazon Payments, Amazon Monthly Payments | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455906212 | Amazon | Sr. Product Manager - Tech, Profit Intelligence | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455796514 | Amazon | Sr. Product Manager, FBA Inventory Management, WW FBA | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455791925 | Amazon | Sr. Product Manager, IN CX Improvements, Amazon Customer Service | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455917064 | Amazon | Principal Product Manager, FaaS | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455917123 | Amazon | Sr. Product Manager, IN CX Improvements, Amazon Customer Experience Improvement | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455914186 | Amazon | Sr. Product Manager-Technical, Amazon Financial Foundation Services (AFFS) | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455908152 | Amazon | Sr. Product Manager, Credit and Lending, Amazon Credit and Lending | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455795728 | Amazon | Senior Manager, Product Management - Tech, Selection Monitoring | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455905481 | Amazon | Sr Mgr, Product Management Lifecycle Experiences, EM PLX | posted=2026-08-19
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

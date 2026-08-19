@@ -4573,6 +4573,16 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4455773965 | Amazon | Sr Manager, Product Management, Amazon Customer Service | posted=2026-08-19
 - [ ] https://www.linkedin.com/jobs/view/4455785920 | Amazon | Sr. Manager, Product Management Tech, India Advertising | posted=2026-08-19
 
+- [ ] https://www.linkedin.com/jobs/view/4434547189 | Zelis | Product Owner | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4427494427 | Flexera | Product Owner | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4454990530 | LeadSquared | Senior Product Manager | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4456175644 | Wells Fargo | Senior Product Manager - Application Business Owner Governance | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4454988475 | Jobgether | Senior Product Manager | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4453412581 | ClanX | Director of Product Management | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4456167755 | DBS Bank | Senior Associate, Specialist, Product Management - Trade, Transaction Banking | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455906009 | Amazon | Sr Product Manager Tech, Amazon Customer Service | posted=2026-08-19
+- [ ] https://www.linkedin.com/jobs/view/4455775982 | Amazon | Product Manager - Tech, Amazon Travel and Events | posted=2026-08-19
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

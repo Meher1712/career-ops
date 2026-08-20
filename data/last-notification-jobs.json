@@ -1,26 +1,40 @@
 {
-  "generated_at": "2026-08-20T08:57:18.187Z",
+  "generated_at": "2026-08-20T09:51:10.641Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Technical Product Manager",
-      "company": "Lucidity",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4456495017"
+      "title": "Senior Product Manager",
+      "company": "Publicis Sapient",
+      "location": "Chennai, Tamil Nadu, India",
+      "url": "https://www.linkedin.com/jobs/view/4444169820"
     },
     {
       "n": 2,
-      "title": "AI Product Pricing",
-      "company": "HCLTech",
-      "location": "Noida, Uttar Pradesh, India",
-      "url": "https://www.linkedin.com/jobs/view/4453860450"
+      "title": "Sr Product Manager - Supply Chain WMS",
+      "company": "Target",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4456485380"
     },
     {
       "n": 3,
-      "title": "Solution Architect And Product Owner",
-      "company": "EY",
-      "location": "Kochi, Kerala, India",
-      "url": "https://www.linkedin.com/jobs/view/4453858454"
+      "title": "Product Manager - API Testing",
+      "company": "SmartBear",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4428454276"
+    },
+    {
+      "n": 4,
+      "title": "Product Manager",
+      "company": "JiBe ERP",
+      "location": "Navi Mumbai, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4455615924"
+    },
+    {
+      "n": 5,
+      "title": "Product Manager",
+      "company": "Augnito",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4456499031"
     }
   ]
 }

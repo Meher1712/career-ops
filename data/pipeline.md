@@ -4653,6 +4653,18 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4455619350 | BJAK | Technical Product Manager | posted=2026-08-20
 - [ ] https://www.linkedin.com/jobs/view/4453840340 | Oracle | Oracle Fusion HCM Learning Product Manager | posted=2026-08-20
 
+- [ ] https://job-boards.greenhouse.io/glance/jobs/8143392 | Glance | Product Manager | posted=2026-08-20
+- [ ] https://job-boards.greenhouse.io/glance/jobs/8143383 | Glance | Senior Product Manager | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4456456536 | Asite | Product Owner – Construction SaaS | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4456470430 | Luxoft | Product Owner | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4456469477 | VySystems | Product Owner | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4453841286 | Oracle | Oracle Fusion SCM Learning Product Manager | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4453831243 | Strive4X Infotech Private Limited | 🚀 WE’RE HIRING | HMI ARCHITECT – PRODUCT OWNER | Chennai | 10–15 Years | Hybrid | Immediate Joiner | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4455496884 | GrowExx | Product Owner | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4455497768 | Meritto | Product Manager- AI Native | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4455605628 | Teradata | Senior Staff Product Manager - Data Protection | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4455614629 | Versatile Club Employer of Record | Technical Product Manager — Customer & Delivery | posted=2026-08-20
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

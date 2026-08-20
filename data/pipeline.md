@@ -4681,6 +4681,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4453860450 | HCLTech | AI Product Pricing | posted=2026-08-20
 - [ ] https://www.linkedin.com/jobs/view/4453858454 | EY | Solution Architect And Product Owner | posted=2026-08-20
 
+- [ ] https://www.linkedin.com/jobs/view/4444169820 | Publicis Sapient | Senior Product Manager | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4456485380 | Target | Sr Product Manager - Supply Chain WMS | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4428454276 | SmartBear | Product Manager - API Testing | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4455615924 | JiBe ERP | Product Manager | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4456499031 | Augnito | Product Manager | posted=2026-08-20
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

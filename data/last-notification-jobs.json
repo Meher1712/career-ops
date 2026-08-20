@@ -1,19 +1,54 @@
 {
-  "generated_at": "2026-08-20T04:54:59.085Z",
+  "generated_at": "2026-08-20T05:47:47.942Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Product Manager",
-      "company": "BJAK",
-      "location": "India",
-      "url": "https://www.linkedin.com/jobs/view/4455606234"
+      "title": "Technical Product Manager - Experimentation",
+      "company": "Booking Holdings (NASDAQ: BKNG)",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4453850192"
     },
     {
       "n": 2,
-      "title": "Product Owner",
-      "company": "Aptita",
-      "location": "Pune District, Maharashtra, India",
-      "url": "https://www.linkedin.com/jobs/view/4456422851"
+      "title": "Technical Product Manager - Marketplace",
+      "company": "Booking Holdings (NASDAQ: BKNG)",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4453849241"
+    },
+    {
+      "n": 3,
+      "title": "Global Product Manager - Contactors",
+      "company": "Siemens",
+      "location": "Thane, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4448424552"
+    },
+    {
+      "n": 4,
+      "title": "Senior Product Manager",
+      "company": "Aon",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://www.linkedin.com/jobs/view/4456477183"
+    },
+    {
+      "n": 5,
+      "title": "Associate Product Manager",
+      "company": "Sprinklr",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4455619413"
+    },
+    {
+      "n": 6,
+      "title": "Technical Product Manager",
+      "company": "BJAK",
+      "location": "India",
+      "url": "https://www.linkedin.com/jobs/view/4455619350"
+    },
+    {
+      "n": 7,
+      "title": "Oracle Fusion HCM Learning Product Manager",
+      "company": "Oracle",
+      "location": "Greater Bengaluru Area",
+      "url": "https://www.linkedin.com/jobs/view/4453840340"
     }
   ]
 }

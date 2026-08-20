@@ -4708,6 +4708,20 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4453872940 | Oracle | Cloud Applications Product Manager, CSS OU Curriculum | posted=2026-08-20
 - [ ] https://apply.workable.com/j/DDC7D0B9C2 | Lokal App | Product Manager-I/II | posted=2026-08-20
 
+- [ ] https://www.linkedin.com/jobs/view/4444590351 | PhonePe | Product Manager | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4453893252 | Acuity Analytics | Technical Product Manager | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4435651973 | InvoiceCloud, Inc. | Product Manager – Integrations | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4456710526 | Axiamatic | Senior Product Manager | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4455686480 | Aceolution | Senior Product Manager - DGM | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4456719249 | Aerchain | Senior Product Manager | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4456727304 | Aerchain | Product Manager | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4453862891 | Vervali Systems | AI Product Manager | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4453891412 | Simprosys InfoMedia | SaaS Product Owner | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4456712367 | Viceroy Engineering | Product Owner | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4456731119 | Aerchain | Principal Product Manager | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4444535519 | KONE | Product Owner KTOC –MOD | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4429967609 | Sibros | Product Manager (Core Platform and Infrastructure) | posted=2026-08-20
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

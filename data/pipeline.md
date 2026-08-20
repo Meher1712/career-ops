@@ -4642,6 +4642,9 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4455601160 | NielsenIQ | Product Owner – Data Intelligence & AI | posted=2026-08-20
 - [ ] https://jobs.lever.co/jobgether/3d4f9eb9-3232-4bde-880f-eed7709636ab | Jobgether | Director, Product Management - App Marketplace (Partnerships) | posted=2026-08-20
 
+- [ ] https://www.linkedin.com/jobs/view/4455606234 | BJAK | Product Manager | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4456422851 | Aptita | Product Owner | posted=2026-08-20
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

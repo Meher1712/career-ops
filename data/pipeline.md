@@ -4724,6 +4724,14 @@ Pune, India | posted=2026-06-28
 
 - [ ] https://www.linkedin.com/jobs/view/4456729276 | Viceroy Engineering | Product Manager | posted=2026-08-20
 
+- [ ] https://www.linkedin.com/jobs/view/4455699085 | The Future University | Growth Product Manager -  Fintech & AI Scope | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4456719721 | People Tech Group Inc | Associate Product Manager | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4456723857 | CodeRabbit | Product Manager: Security | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4456724873 | LPL Financial Global Capability Center | AVP - Product Owner for Business Management Reporting | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4456748002 | Ramboll | Product Owner | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4435664175 | Novartis India | Product Owner, Core Compensation & Benefits Enterprise Innovation & Solution | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4456727852 | Kaufman Rossin | Hybrid Scrum Master & Product Owner | posted=2026-08-20
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

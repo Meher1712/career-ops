@@ -4737,6 +4737,17 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4454106384 | WORKPLACE | Product Manager | posted=2026-08-20
 - [ ] https://www.linkedin.com/jobs/view/4456019014 | S&P Global | Associate Director, Product Management | posted=2026-08-20
 
+- [ ] https://www.linkedin.com/jobs/view/4426456844 | Oracle | Product Manager/Strategy 3-ProdDev | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4454115323 | Pronto Networks, Inc | Software Product Manager | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4456748721 | Abbott | Group Product Manager-Restora-Mumbai | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4427331378 | EY | Tech S and T Cloud Dev-Product Manager-NGTO-Senior-GDSF02 | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4434858504 | Procter & Gamble | Digital Product Manager | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4446741184 | EY | Power and Utilities-Product Management-Data and AI - Senior Consultant | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4456743509 | Wells Fargo | Senior Product Manager | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4429711588 | Aditya Birla Capital | Product Manager | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4428032508 | Wolters Kluwer | Lead Technical Product Manager - (IIT/IIM Preferred) - Product Management | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4437863284 | BNY | Vice President, POM Product Management | posted=2026-08-20
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

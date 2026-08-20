@@ -4665,6 +4665,18 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4455605628 | Teradata | Senior Staff Product Manager - Data Protection | posted=2026-08-20
 - [ ] https://www.linkedin.com/jobs/view/4455614629 | Versatile Club Employer of Record | Technical Product Manager — Customer & Delivery | posted=2026-08-20
 
+- [ ] https://www.linkedin.com/jobs/view/4453876231 | CodeRound AI | Product Manager (Up to 65LPA) | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4456457789 | Agratas – A Tata Enterprise | Product Owner - Pack Technology | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4453873258 | White Horse Manpower | Product Manager | Life Insurance|8+ years|30 LPA |Navi Mumba | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4455614781 | IDFC FIRST Bank | Product Manager-Business Loan | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4455622096 | Ascendion | AI Technical Product Owner - US Healthcare + Azure AI | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4455617799 | Cvent | Senior Product Manager | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4455607886 | LeadSquared | Senior Product manager - Mobile CRM | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4453860273 | A.C. Agarwal | Senior Product Manager – Trading & Fintech | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4446713027 | JUSPAY | Associate Product Manager | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4456460869 | CodeRound AI | Associate Technical Product Manager (Up to 20LPA) | posted=2026-08-20
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990014694466 | Nielsen | Lead Product Manager | posted=2026-08-20
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

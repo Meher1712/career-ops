@@ -4645,6 +4645,14 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4455606234 | BJAK | Product Manager | posted=2026-08-20
 - [ ] https://www.linkedin.com/jobs/view/4456422851 | Aptita | Product Owner | posted=2026-08-20
 
+- [ ] https://www.linkedin.com/jobs/view/4453850192 | Booking Holdings (NASDAQ: BKNG) | Technical Product Manager - Experimentation | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4453849241 | Booking Holdings (NASDAQ: BKNG) | Technical Product Manager - Marketplace | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4448424552 | Siemens | Global Product Manager - Contactors | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4456477183 | Aon | Senior Product Manager | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4455619413 | Sprinklr | Associate Product Manager | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4455619350 | BJAK | Technical Product Manager | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4453840340 | Oracle | Oracle Fusion HCM Learning Product Manager | posted=2026-08-20
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

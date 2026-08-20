@@ -4687,6 +4687,20 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4455615924 | JiBe ERP | Product Manager | posted=2026-08-20
 - [ ] https://www.linkedin.com/jobs/view/4456499031 | Augnito | Product Manager | posted=2026-08-20
 
+- [ ] https://www.linkedin.com/jobs/view/4455622727 | BrainSightAI | Technical Product Manager | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4456483537 | Ginesys | Product Manager | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4444131635 | UST | Lead I - Product Management | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4455623504 | Eazybe | Technical Product Manager (B2B SaaS, Hybrid, New Delhi, 3-6 LPA) | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4456491446 | Forcepoint | Sr. Product Manager- Cloud DLP | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4455640151 | ALLEN Digital | AI Product Manager | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4444181501 | Publicis Sapient | Senior Product Manager | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4456485534 | Tekion Corp | Senior Product Manager | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4453879728 | LH2 AI Labs | Founding Product Manager | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4446346388 | D. E. Shaw India Private Limited | Lead, Product Manager (Janus) | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4456483412 | Wells Fargo | Lead Digital Product Manager | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4453857713 | HDFC securities | Head of Product Design | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4453876446 | Nielsen | Lead Product Manager | posted=2026-08-20
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

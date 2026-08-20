@@ -4701,6 +4701,13 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4453857713 | HDFC securities | Head of Product Design | posted=2026-08-20
 - [ ] https://www.linkedin.com/jobs/view/4453876446 | Nielsen | Lead Product Manager | posted=2026-08-20
 
+- [ ] https://www.linkedin.com/jobs/view/4453879991 | ZOOP | Product Manager (B2C) | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4453886069 | 1acre.in | Senior Product Manager — Growth & Revenue | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4456700735 | LeadSquared | Senior Product Manager | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4456494612 | Kuehne+Nagel | National Air Logistics Aerospace Product Manager | posted=2026-08-20
+- [ ] https://www.linkedin.com/jobs/view/4453872940 | Oracle | Cloud Applications Product Manager, CSS OU Curriculum | posted=2026-08-20
+- [ ] https://apply.workable.com/j/DDC7D0B9C2 | Lokal App | Product Manager-I/II | posted=2026-08-20
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

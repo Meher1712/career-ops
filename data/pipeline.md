@@ -4757,6 +4757,13 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4456084562 | Standard Chartered India | Product Owner | posted=2026-08-21
 - [ ] https://www.linkedin.com/jobs/view/4456097384 | Helios Systems Asia | Product Manager – Business | posted=2026-08-21
 
+- [ ] https://www.linkedin.com/jobs/view/4456086749 | GridCrest by Kaynes | Product Manager – Smart Electricity Meters | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4457090208 | SBS | Product Owner | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4454190136 | NetWeb Software | Product Owner | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4456076914 | Nutanix | Product Manager, Licensing [5 - 8 yrs of experience] | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4457300100 | Magna International | Technical Product Manager, AI/ML Products | posted=2026-08-21
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990014733626 | Nielsen | Lead Product Manager | posted=2026-08-21
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

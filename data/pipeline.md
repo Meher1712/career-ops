@@ -4816,6 +4816,14 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4456235164 | TJX India | Staff Product Owner | posted=2026-08-21
 - [ ] https://www.linkedin.com/jobs/view/4454646318 | Innodata Inc. | Technical Product Manager | posted=2026-08-21
 
+- [ ] https://jobs.ashbyhq.com/rasa/4d17796c-be9e-45e0-91fc-b101e4156039 | Rasa | Director of Product Management | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4445025500 | Okta | Senior Product Manager, Data Platform | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4457338580 | Experian | Senior Product Manager | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4456247007 | Delaplex | Workflow Technical Product Owner | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4454640593 | Nielsen | Senior Product Manager II | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4456244148 | TIAA | Associate Product Owner | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4454648623 | Nielsen | Director, Product Management | posted=2026-08-21
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -4770,6 +4770,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4456099600 | Kanerika Inc | Development Manager- AI Product | posted=2026-08-21
 - [ ] https://www.linkedin.com/jobs/view/4454177813 | Warrous Pvt Ltd | Technical Product Manager | posted=2026-08-21
 
+- [ ] https://www.linkedin.com/jobs/view/4454188627 | Customer Capital | Sr. Product Manager | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4454183773 | Atain | Product Owner | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4454196565 | Nielsen | Lead Product Manager | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4456208168 | TIAA | Associate Director - Product Management | posted=2026-08-21
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990014734486 | Nielsen | Director, Product Management | posted=2026-08-21
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

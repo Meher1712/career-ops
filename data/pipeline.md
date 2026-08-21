@@ -4776,6 +4776,15 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4456208168 | TIAA | Associate Director - Product Management | posted=2026-08-21
 - [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990014734486 | Nielsen | Director, Product Management | posted=2026-08-21
 
+- [ ] https://www.linkedin.com/jobs/view/4446916541 | Blackbaud India | Senior Product Manager | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4456223050 | MetAntz | Senior Product Manager-Agentic | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4454192785 | CSC Global Financial Markets | Assistant Vice President, Payments Product Owner | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4457312154 | Wells Fargo | Senior Digital Product Manager | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4457313068 | Cornerstone OnDemand | Principal Product Manager - Talent Management | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4456099975 | Exide Industries Limited | Digital Product Manager | posted=2026-08-21
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990014734577 | Nielsen | Senior Product Manager II | posted=2026-08-21
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990014734536 | Nielsen | Director, Product Management | posted=2026-08-21
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

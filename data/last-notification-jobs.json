@@ -1,26 +1,47 @@
 {
-  "generated_at": "2026-08-21T05:49:23.174Z",
+  "generated_at": "2026-08-21T07:08:35.564Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Product Manager Credit & Surety",
-      "company": "Swiss Re",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4456076658"
+      "title": "Product Manager – Smart Electricity Meters",
+      "company": "GridCrest by Kaynes",
+      "location": "Kolkata, West Bengal, India",
+      "url": "https://www.linkedin.com/jobs/view/4456086749"
     },
     {
       "n": 2,
       "title": "Product Owner",
-      "company": "Standard Chartered India",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4456084562"
+      "company": "SBS",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://www.linkedin.com/jobs/view/4457090208"
     },
     {
       "n": 3,
-      "title": "Product Manager – Business",
-      "company": "Helios Systems Asia",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://www.linkedin.com/jobs/view/4456097384"
+      "title": "Product Owner",
+      "company": "NetWeb Software",
+      "location": "Vadodara, Gujarat, India",
+      "url": "https://www.linkedin.com/jobs/view/4454190136"
+    },
+    {
+      "n": 4,
+      "title": "Product Manager, Licensing [5 - 8 yrs of experience]",
+      "company": "Nutanix",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4456076914"
+    },
+    {
+      "n": 5,
+      "title": "Technical Product Manager, AI/ML Products",
+      "company": "Magna International",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4457300100"
+    },
+    {
+      "n": 6,
+      "title": "Lead Product Manager",
+      "company": "Nielsen",
+      "location": "Bengaluru, in",
+      "url": "https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990014733626"
     }
   ]
 }

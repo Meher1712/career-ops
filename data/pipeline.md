@@ -4785,6 +4785,14 @@ Pune, India | posted=2026-06-28
 - [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990014734577 | Nielsen | Senior Product Manager II | posted=2026-08-21
 - [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990014734536 | Nielsen | Director, Product Management | posted=2026-08-21
 
+- [ ] https://www.linkedin.com/jobs/view/4453899650 | Porter | Group Product Manager | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4456205498 | Dario | Product Owner | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4456221136 | SearchnScore | Product manager - CRO | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4456223191 | Ekfrazo Technologies Private Limited | Weighing & Dispensing Product Owner | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4456219388 | Blue Cloud Softech Solutions Limited | Senior AI Data Product Owner | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4457313402 | Waters Corporation | Empower Evaluation - Lead Product Manager | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4449769845 | Nians | Product Manager | posted=2026-08-21
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

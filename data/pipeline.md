@@ -4824,6 +4824,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4456244148 | TIAA | Associate Product Owner | posted=2026-08-21
 - [ ] https://www.linkedin.com/jobs/view/4454648623 | Nielsen | Director, Product Management | posted=2026-08-21
 
+- [ ] https://www.linkedin.com/jobs/view/4437529924 | Docusign | Senior Product Manager, AI | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4401598464 | Saviynt | Staff Product Manager | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4434878985 | Adform | Product Manager | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4456247275 | Qualys | Senior Product Manager, Security Research | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4408823339 | Societe Generale Global Solution Centre | Senior Product Owner IT Foundation - ServiceNow | posted=2026-08-21
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

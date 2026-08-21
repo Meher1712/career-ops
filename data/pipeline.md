@@ -4803,6 +4803,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4456203695 | Zensar Technologies | AES - DE - Agile - Digital Product Manager | posted=2026-08-21
 - [ ] https://www.linkedin.com/jobs/view/4446966478 | S&P Global | Specialist, Product Management & Development | posted=2026-08-21
 
+- [ ] https://www.linkedin.com/jobs/view/4457323703 | Cornerstone OnDemand | Principal Product Manager - Talent Management | Hyderabad | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4457336370 | CodeRound AI | Associate Technical PM (Up to 20LPA) | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4456220662 | Equifax | Technical Product Owner - Career | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4454645114 | Nudge | Product Manager | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4457305817 | Flexiple | Senior Product Manager | posted=2026-08-21
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

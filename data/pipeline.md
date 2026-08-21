@@ -4793,6 +4793,16 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4457313402 | Waters Corporation | Empower Evaluation - Lead Product Manager | posted=2026-08-21
 - [ ] https://www.linkedin.com/jobs/view/4449769845 | Nians | Product Manager | posted=2026-08-21
 
+- [ ] https://jobs.ashbyhq.com/supabase/9773ea1b-e25b-437c-bdbd-3fce0c69101e | Supabase | Product Manager - Branching | posted=2026-08-21
+- [ ] https://jobs.ashbyhq.com/supabase/68a397e7-8a1a-4566-ae41-e8c61dd6ed93 | Supabase | Product Manager - Strategic Partner Integrations (Bay Area based) | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4437070194 | S&P Global | Associate Director, Product Management | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4297466010 | HighLevel | Sr. Director, Product Management (Core Products) | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4446793684 | Google | Product Manager, User Voice AI and Agentic Experiences | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4457321364 | ExxonMobil India Careers | Digital Product Management Advisor - Advanced | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4457319490 | Visa | Technical Product Manager | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4456203695 | Zensar Technologies | AES - DE - Agile - Digital Product Manager | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4446966478 | S&P Global | Specialist, Product Management & Development | posted=2026-08-21
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

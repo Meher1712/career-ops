@@ -1,40 +1,61 @@
 {
-  "generated_at": "2026-08-21T08:59:17.903Z",
+  "generated_at": "2026-08-21T09:53:10.092Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Sr. Product Manager",
-      "company": "Customer Capital",
-      "location": "Delhi, India",
-      "url": "https://www.linkedin.com/jobs/view/4454188627"
+      "title": "Senior Product Manager",
+      "company": "Blackbaud India",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.linkedin.com/jobs/view/4446916541"
     },
     {
       "n": 2,
-      "title": "Product Owner",
-      "company": "Atain",
-      "location": "India",
-      "url": "https://www.linkedin.com/jobs/view/4454183773"
+      "title": "Senior Product Manager-Agentic",
+      "company": "MetAntz",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.linkedin.com/jobs/view/4456223050"
     },
     {
       "n": 3,
-      "title": "Lead Product Manager",
-      "company": "Nielsen",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4454196565"
+      "title": "Assistant Vice President, Payments Product Owner",
+      "company": "CSC Global Financial Markets",
+      "location": "Bengaluru South, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4454192785"
     },
     {
       "n": 4,
-      "title": "Associate Director - Product Management",
-      "company": "TIAA",
-      "location": "Mumbai Metropolitan Region",
-      "url": "https://www.linkedin.com/jobs/view/4456208168"
+      "title": "Senior Digital Product Manager",
+      "company": "Wells Fargo",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4457312154"
     },
     {
       "n": 5,
+      "title": "Principal Product Manager - Talent Management",
+      "company": "Cornerstone OnDemand",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.linkedin.com/jobs/view/4457313068"
+    },
+    {
+      "n": 6,
+      "title": "Digital Product Manager",
+      "company": "Exide Industries Limited",
+      "location": "Kolkata, West Bengal, India",
+      "url": "https://www.linkedin.com/jobs/view/4456099975"
+    },
+    {
+      "n": 7,
+      "title": "Senior Product Manager II",
+      "company": "Nielsen",
+      "location": "Bengaluru, in",
+      "url": "https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990014734577"
+    },
+    {
+      "n": 8,
       "title": "Director, Product Management",
       "company": "Nielsen",
       "location": "Bengaluru, in",
-      "url": "https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990014734486"
+      "url": "https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990014734536"
     }
   ]
 }

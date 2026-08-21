@@ -4830,6 +4830,13 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4456247275 | Qualys | Senior Product Manager, Security Research | posted=2026-08-21
 - [ ] https://www.linkedin.com/jobs/view/4408823339 | Societe Generale Global Solution Centre | Senior Product Owner IT Foundation - ServiceNow | posted=2026-08-21
 
+- [ ] https://www.linkedin.com/jobs/view/4456229669 | Go2X | Product Manager - AI | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4456264087 | Aaizel International Technologies Pvt Ltd | Senior Product Manager | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4457363363 | Johnson & Johnson Innovative Medicine | Product Manager - Hematology | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4447084222 | 6sense | Sr. Product Manager | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4447286761 | Broadridge India | AI Product Manager - Vice President | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4456259256 | Ericsson | Strategic Product Manager - HCP&P | posted=2026-08-21
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

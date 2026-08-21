@@ -4764,6 +4764,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4457300100 | Magna International | Technical Product Manager, AI/ML Products | posted=2026-08-21
 - [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990014733626 | Nielsen | Lead Product Manager | posted=2026-08-21
 
+- [ ] https://www.linkedin.com/jobs/view/4454192196 | Newron | Product Manager - AI Lending Platform | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4454189265 | MarketsandMarkets™ | Product Manager | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4457099402 | Robert Walters | AVP, Transaction Banking Product Management | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4456099600 | Kanerika Inc | Development Manager- AI Product | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4454177813 | Warrous Pvt Ltd | Technical Product Manager | posted=2026-08-21
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -4809,6 +4809,13 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4454645114 | Nudge | Product Manager | posted=2026-08-21
 - [ ] https://www.linkedin.com/jobs/view/4457305817 | Flexiple | Senior Product Manager | posted=2026-08-21
 
+- [ ] https://www.linkedin.com/jobs/view/4457352407 | Novac Technology Solutions | Product Manager | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4457350344 | Airtel International LLP-Airtel Africa | Product Manager - NaaS | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4456218882 | Charlie | Product Manager — Consumer Health (Hormone Insights) - · ₹40–50 LPA | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4429965799 | HG Insights | Director, Data & AI Product Manager | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4456235164 | TJX India | Staff Product Owner | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4454646318 | Innodata Inc. | Technical Product Manager | posted=2026-08-21
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

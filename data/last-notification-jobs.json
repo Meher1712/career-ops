@@ -1,19 +1,33 @@
 {
-  "generated_at": "2026-08-22T14:40:05.602Z",
+  "generated_at": "2026-08-22T15:36:15.492Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Product Manager I",
-      "company": "AlphaSense",
-      "location": "India",
-      "url": "https://www.linkedin.com/jobs/view/4430486755"
+      "title": "Product Manager",
+      "company": "Adobe",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://www.linkedin.com/jobs/view/4447161235"
     },
     {
       "n": 2,
-      "title": "Regional Product Manager",
-      "company": "HDFC Bank Limited",
-      "location": "Pune City, Maharashtra, India",
-      "url": "https://www.linkedin.com/jobs/view/4455036708"
+      "title": "Principal Product Manager",
+      "company": "Oracle",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4445570797"
+    },
+    {
+      "n": 3,
+      "title": "Product Owner/Product Manager (AI/ML)",
+      "company": "CG-VAK Software & Exports Ltd.",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.linkedin.com/jobs/view/4456659137"
+    },
+    {
+      "n": 4,
+      "title": "Senior Technical Product Manager",
+      "company": "HireRight",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4439044626"
     }
   ]
 }

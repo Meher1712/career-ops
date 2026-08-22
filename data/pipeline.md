@@ -4870,6 +4870,10 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4447520782 | Sumo Logic | Principal Product Manager | posted=2026-08-22
 - [ ] https://www.linkedin.com/jobs/view/4447170376 | Zinnia | Senior Product Manager (Technical) - Identity & Access Management | posted=2026-08-22
 
+- [ ] https://www.linkedin.com/jobs/view/4437948095 | Google | Product Manager, Geo User Generated Content Contributor Success | posted=2026-08-22
+- [ ] https://www.linkedin.com/jobs/view/4455030442 | CodeRound AI | Technical Product Manager (Up to 30LPA) | posted=2026-08-22
+- [ ] https://www.linkedin.com/jobs/view/4457809505 | Amazon | Senior Product Manager - Tech, Alexa Ads | posted=2026-08-22
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

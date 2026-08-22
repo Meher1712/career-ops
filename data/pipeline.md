@@ -4861,6 +4861,10 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4447185203 | Blackbaud India | Product Manager, Senior A | posted=2026-08-22
 - [ ] https://www.linkedin.com/jobs/view/4455044022 | Easy Home Finance Limited | Product Manager | posted=2026-08-22
 
+- [ ] https://www.linkedin.com/jobs/view/4430422658 | HighLevel | Staff Product Manager - Product Information Management | posted=2026-08-22
+- [ ] https://www.linkedin.com/jobs/view/4457809224 | BoltPe | Product Manager | posted=2026-08-22
+- [ ] https://www.linkedin.com/jobs/view/4455034238 | White Horse Manpower | Hiring LifeinsuranceProduct Owner | 8+ Years | 3+ Yrs Life Insurance | Life Asia | Product-Based Company | Chennai/Mumbai | ₹30 LPA | posted=2026-08-22
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

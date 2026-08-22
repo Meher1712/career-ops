@@ -4852,6 +4852,12 @@ Pune, India | posted=2026-06-28
 
 - [ ] https://www.linkedin.com/jobs/view/4456626653 | CG-VAK Software & Exports Ltd. | Product Owner/Product Manager (AI/ML) | posted=2026-08-22
 
+- [ ] https://www.linkedin.com/jobs/view/4457807060 | Vontier | Data & AI Product Manager | posted=2026-08-22
+- [ ] https://www.linkedin.com/jobs/view/4455021182 | Contrails AI | Product Manager | posted=2026-08-22
+- [ ] https://www.linkedin.com/jobs/view/4457595898 | Libra AI | AI PM | posted=2026-08-22
+- [ ] https://www.linkedin.com/jobs/view/4455006938 | TuringEdge | Voice AI Agent Product Manager | posted=2026-08-22
+- [ ] https://www.linkedin.com/jobs/view/4455014866 | Multiply Ventures | Co-Builder / EIR :Entrepreneure in residence | posted=2026-08-22
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

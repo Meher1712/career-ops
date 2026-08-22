@@ -4883,6 +4883,11 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4430486755 | AlphaSense | Product Manager I | posted=2026-08-22
 - [ ] https://www.linkedin.com/jobs/view/4455036708 | HDFC Bank Limited | Regional Product Manager | posted=2026-08-22
 
+- [ ] https://www.linkedin.com/jobs/view/4447161235 | Adobe | Product Manager | posted=2026-08-22
+- [ ] https://www.linkedin.com/jobs/view/4445570797 | Oracle | Principal Product Manager | posted=2026-08-22
+- [ ] https://www.linkedin.com/jobs/view/4456659137 | CG-VAK Software & Exports Ltd. | Product Owner/Product Manager (AI/ML) | posted=2026-08-22
+- [ ] https://www.linkedin.com/jobs/view/4439044626 | HireRight | Senior Technical Product Manager | posted=2026-08-22
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

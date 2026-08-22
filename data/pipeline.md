@@ -4837,6 +4837,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4447286761 | Broadridge India | AI Product Manager - Vice President | posted=2026-08-21
 - [ ] https://www.linkedin.com/jobs/view/4456259256 | Ericsson | Strategic Product Manager - HCP&P | posted=2026-08-21
 
+- [ ] https://stripe.com/jobs/search?gh_jid=7983725 | Stripe | Staff Product Manager, Billing  | posted=2026-08-21
+- [ ] https://www.linkedin.com/jobs/view/4457562561 | Exide Industries Limited | Exide - Digital Product Manager -  Supply Chain Planning Process | posted=2026-08-22
+- [ ] https://www.linkedin.com/jobs/view/4457568545 | JPMorganChase | Vice President - Product Manager - Cash and Check Product | posted=2026-08-22
+- [ ] https://www.linkedin.com/jobs/view/4457570486 | Dscout | AI Product Manager - India | posted=2026-08-22
+- [ ] https://www.linkedin.com/jobs/view/4456203454 | White Horse Manpower | Hiring – Product Manager | Life InsuranceJob Location: ChennaiExperience: 8–20 Years CTC: Up to ₹30 LPANotice Period: Immediate to 30 Days Preferred | posted=2026-08-22
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

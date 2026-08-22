@@ -4874,6 +4874,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4455030442 | CodeRound AI | Technical Product Manager (Up to 30LPA) | posted=2026-08-22
 - [ ] https://www.linkedin.com/jobs/view/4457809505 | Amazon | Senior Product Manager - Tech, Alexa Ads | posted=2026-08-22
 
+- [ ] https://www.linkedin.com/jobs/view/4457807629 | Microsoft | Product Manager II | posted=2026-08-22
+- [ ] https://www.linkedin.com/jobs/view/4457817605 | Flexiple | Senior Product Manager | posted=2026-08-22
+- [ ] https://www.linkedin.com/jobs/view/4456650913 | Lorven Technologies Inc. | Technical Product Manager 'Vibe Coder' | posted=2026-08-22
+- [ ] https://www.linkedin.com/jobs/view/4456643984 | Synechron | AI Product / Program Management Manager | posted=2026-08-22
+- [ ] https://www.linkedin.com/jobs/view/4456663002 | Cotiviti India | Technical Product Owner | posted=2026-08-22
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

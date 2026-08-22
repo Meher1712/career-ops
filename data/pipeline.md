@@ -4848,6 +4848,8 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4456646085 | Umanist NA | Associate Product Manager | posted=2026-08-22
 - [ ] https://www.linkedin.com/jobs/view/4456639142 | Confident Dental Equipments Pvt. Ltd. | Product Manager | posted=2026-08-22
 
+- [ ] https://www.linkedin.com/jobs/view/4457597153 | ELINTZ | Join the ELINTZ Founding Team | posted=2026-08-22
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

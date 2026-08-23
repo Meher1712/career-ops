@@ -4888,6 +4888,8 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4456659137 | CG-VAK Software & Exports Ltd. | Product Owner/Product Manager (AI/ML) | posted=2026-08-22
 - [ ] https://www.linkedin.com/jobs/view/4439044626 | HireRight | Senior Technical Product Manager | posted=2026-08-22
 
+- [ ] https://www.linkedin.com/jobs/view/4455079371 | Vikalp Education | Product Manager (Digital Content & Growth) | posted=2026-08-23
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -1,12 +1,19 @@
 {
-  "generated_at": "2026-08-24T14:05:13.788Z",
+  "generated_at": "2026-08-24T15:02:22.076Z",
   "jobs": [
     {
       "n": 1,
       "title": "Product Manager",
-      "company": "V Group Inc.",
-      "location": "India",
-      "url": "https://www.linkedin.com/jobs/view/4458200996"
+      "company": "Deloitte",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.linkedin.com/jobs/view/4455888582"
+    },
+    {
+      "n": 2,
+      "title": "Product Manager, Assisted Service",
+      "company": "eBay",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4455881755"
     }
   ]
 }

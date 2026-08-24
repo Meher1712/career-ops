@@ -4908,6 +4908,11 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4455830890 | MyCareernet | Agile Product Owner Advisor_102475 | posted=2026-08-24
 - [ ] https://www.linkedin.com/jobs/view/4458174242 | Honeywell Technologies | Sr Product Management Supervisor | posted=2026-08-24
 
+- [ ] https://www.linkedin.com/jobs/view/4458178254 | IMA India | Product Manager - CA Digital Initiatives - Mumbai | posted=2026-08-24
+- [ ] https://www.linkedin.com/jobs/view/4456860831 | Target | Principal Product Manager | posted=2026-08-24
+- [ ] https://www.linkedin.com/jobs/view/4456857788 | Google | Senior Product Manager, Data Commons Infrastructure | posted=2026-08-24
+- [ ] https://www.linkedin.com/jobs/view/4456863803 | Skyhigh Security | Senior Product Manager | posted=2026-08-24
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -4904,6 +4904,10 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4455830774 | Aaizel International Technologies Pvt Ltd | Senior Product Manager | posted=2026-08-24
 - [ ] https://www.linkedin.com/jobs/view/4455823891 | CareerXperts Consulting | Product Manager | posted=2026-08-24
 
+- [ ] https://www.linkedin.com/jobs/view/4455819886 | HDFC Bank Limited | Product Manager - Government Business | posted=2026-08-24
+- [ ] https://www.linkedin.com/jobs/view/4455830890 | MyCareernet | Agile Product Owner Advisor_102475 | posted=2026-08-24
+- [ ] https://www.linkedin.com/jobs/view/4458174242 | Honeywell Technologies | Sr Product Management Supervisor | posted=2026-08-24
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

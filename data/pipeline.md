@@ -4913,6 +4913,15 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4456857788 | Google | Senior Product Manager, Data Commons Infrastructure | posted=2026-08-24
 - [ ] https://www.linkedin.com/jobs/view/4456863803 | Skyhigh Security | Senior Product Manager | posted=2026-08-24
 
+- [ ] https://www.linkedin.com/jobs/view/4455853187 | NetWeb Software | Lead Product Owner | posted=2026-08-24
+- [ ] https://www.linkedin.com/jobs/view/4455848355 | BlueOptima | Senior Product Manager | posted=2026-08-24
+- [ ] https://www.linkedin.com/jobs/view/4458168697 | Experian | Senior Product Manager – Digital Intelligence | posted=2026-08-24
+- [ ] https://www.linkedin.com/jobs/view/4458169710 | FinnovationZ | Product Manager - EdTech Operations | posted=2026-08-24
+- [ ] https://www.linkedin.com/jobs/view/4456870039 | UKG | Sr Product Manager-Extensibility Platform | posted=2026-08-24
+- [ ] https://www.linkedin.com/jobs/view/4458161783 | Inspire | Product Manager [T500-28811] | posted=2026-08-24
+- [ ] https://www.linkedin.com/jobs/view/4456873068 | Sarvam | Product Manager - Chanakya | posted=2026-08-24
+- [ ] https://www.linkedin.com/jobs/view/4455861453 | ClanX | Director of Product Management | posted=2026-08-24
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -4937,6 +4937,19 @@ Pune, India | posted=2026-06-28
 
 - [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Product-Manager--Assisted-Service_R0075987 | eBay | Product Manager, Assisted Service | posted=2026-08-24
 
+- [ ] https://www.linkedin.com/jobs/view/4456889740 | Tesco Bengaluru | Product Manager | posted=2026-08-24
+- [ ] https://www.linkedin.com/jobs/view/4456883791 | Tesco Technology | Product Manager | posted=2026-08-24
+- [ ] https://www.linkedin.com/jobs/view/4455879456 | FNP | Product Manager | posted=2026-08-24
+- [ ] https://www.linkedin.com/jobs/view/4458211181 | Flexiple | Senior Product Manager | posted=2026-08-24
+- [ ] https://www.linkedin.com/jobs/view/4456868854 | Talentiser | Product Manager - Data Platform | posted=2026-08-24
+- [ ] https://www.linkedin.com/jobs/view/4447690828 | IDFC FIRST Bank | Product Manager - Financial Inclusion | posted=2026-08-24
+- [ ] https://www.linkedin.com/jobs/view/4456881743 | Neuraleap Group | Product Manager (Baby segment) | posted=2026-08-24
+- [ ] https://www.linkedin.com/jobs/view/4455883195 | Infor | Product Manager, Associate | posted=2026-08-24
+- [ ] https://www.linkedin.com/jobs/view/4455881356 | CodeRound AI | Associate Product Manager (Up to 30LPA) | posted=2026-08-24
+- [ ] https://www.linkedin.com/jobs/view/4455869295 | Airtel Digital | Growth Product Manager | posted=2026-08-24
+- [ ] https://www.linkedin.com/jobs/view/4447900931 | Siemens Energy | Product Owner | posted=2026-08-24
+- [ ] https://www.linkedin.com/jobs/view/4456885638 | TransUnion | Sr. Advisor - Product Management | posted=2026-08-24
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

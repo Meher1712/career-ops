@@ -4922,6 +4922,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4456873068 | Sarvam | Product Manager - Chanakya | posted=2026-08-24
 - [ ] https://www.linkedin.com/jobs/view/4455861453 | ClanX | Director of Product Management | posted=2026-08-24
 
+- [ ] https://www.linkedin.com/jobs/view/4458187168 | Ginesys | Senior Product Manager | posted=2026-08-24
+- [ ] https://www.linkedin.com/jobs/view/4455858572 | Synechron Technologies Pvt. Ltd. | Product Owner | posted=2026-08-24
+- [ ] https://www.linkedin.com/jobs/view/4455863444 | Cadila Pharmaceuticals Limited | Product Manager | posted=2026-08-24
+- [ ] https://www.linkedin.com/jobs/view/4455865391 | Netomi | Senior Product Manager – Integrations Platform | posted=2026-08-24
+- [ ] https://www.linkedin.com/jobs/view/4445718375 | Dezerv | Senior Product Manager | posted=2026-08-24
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

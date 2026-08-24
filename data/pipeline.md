@@ -4958,6 +4958,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4457111534 | One97 Communications Limited | PPSL- Product Management- Devices | posted=2026-08-24
 - [ ] https://www.linkedin.com/jobs/view/4421200794 | BNY | Senior Vice President, POM Product Management | posted=2026-08-24
 
+- [ ] https://www.linkedin.com/jobs/view/4455898301 | Mastercard | Manager, Product Management (Product Owner) | posted=2026-08-24
+- [ ] https://www.linkedin.com/jobs/view/4458242559 | Waters Corporation | Lead Product Owner Waters Connect | posted=2026-08-24
+- [ ] https://www.linkedin.com/jobs/view/4456502268 | Mastercard | Manager, Product Management, Product Resilience | posted=2026-08-24
+- [ ] https://www.linkedin.com/jobs/view/4458242444 | Xenon Seven | Senior Product Owner | posted=2026-08-24
+- [ ] https://www.linkedin.com/jobs/view/4456504304 | 7-Eleven Global Solution Center – India | Product Manager II | posted=2026-08-24
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

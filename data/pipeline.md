@@ -4928,6 +4928,13 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4455865391 | Netomi | Senior Product Manager – Integrations Platform | posted=2026-08-24
 - [ ] https://www.linkedin.com/jobs/view/4445718375 | Dezerv | Senior Product Manager | posted=2026-08-24
 
+- [ ] https://www.linkedin.com/jobs/view/4456872373 | Google | Product Manager, AIRX | posted=2026-08-24
+- [ ] https://www.linkedin.com/jobs/view/4456877450 | super.money | Product Manager | posted=2026-08-24
+- [ ] https://www.linkedin.com/jobs/view/4458198118 | Blue Spire Inc | Senior Product Manager_Amazon Connect | posted=2026-08-24
+- [ ] https://www.linkedin.com/jobs/view/4456873368 | Nykaa | Staff Product Manager - Cart & Checkout | posted=2026-08-24
+- [ ] https://www.linkedin.com/jobs/view/4456865674 | Morgan Stanley | Data Product Owner, Snowflake, P4, VP | posted=2026-08-24
+- [ ] https://job-boards.greenhouse.io/scopely/jobs/5151646008?gh_jid=5151646008 | Scopely | Technical Product Manager - AI  | posted=2026-08-24
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -5027,6 +5027,8 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.ashbyhq.com/sarvam/45986600-4da3-4e46-a204-2865392df169 | Sarvam AI | Product Manager, Model APIs | posted=2026-08-25
 - [ ] https://www.linkedin.com/jobs/view/4456913453 | Sodexo | Global FinOps Product Manager | posted=2026-08-25
 
+- [ ] https://www.linkedin.com/jobs/view/4446227559 | HighLevel | Sr. Product Manager - Lead Generation Suite | posted=2026-08-25
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

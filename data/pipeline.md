@@ -5054,6 +5054,21 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4448191270 | Ethos | Director, Product Management | posted=2026-08-25
 - [ ] https://www.linkedin.com/jobs/view/4457484514 | Capco | Product Owner | posted=2026-08-25
 
+- [ ] https://stripe.com/jobs/search?gh_jid=7913698 | Stripe | Product Manager, Sail Core | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4448809931 | New Relic | Senior Product Manager | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4448338670 | Accenture in India | Product Owner | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4457472852 | Thomson Reuters | Product Manager | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4458765918 | Amgen | Digital Product Manager | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4458769805 | Tachyon Technologies | Product Manager – Technical | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4457481860 | Sarvam | Product Manager, Model APIs | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4448200243 | Wise | Principal Product Manager - APAC Onboarding & KYC | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4448632636 | Scopely | Technical Product Manager - AI | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4457498077 | Qualys | Senior Principal Product Manager,MROC/MSSP | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4456922467 | Checkmate | Senior Product Manager, Platform & Integrations | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4448321954 | Accenture in India | AI Product Management Practitioner | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4457476850 | InCred Financial Services | Associate Product Manager | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4448633567 | Scopely | Lead Product Manager - Star Trek Fleet Command | posted=2026-08-25
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

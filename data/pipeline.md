@@ -4970,6 +4970,9 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/dozee/679bdaeb-443e-45ac-b73e-00bdacf2f872 | Dozee | Product Manager | posted=2026-08-24
 - [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8154568 | Smartsheet | Product Manager II (Remote Eligible) | posted=2026-08-24
 
+- [ ] https://www.linkedin.com/jobs/view/4456584160 | Lxme | Product Manager | posted=2026-08-25
+- [ ] https://jobs.lever.co/jobgether/181287e2-092c-4d4c-9b48-4ba2328703c2 | Jobgether | Senior Product Manager, Funnels/Workflow | posted=2026-08-25
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

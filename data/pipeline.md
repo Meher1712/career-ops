@@ -5029,6 +5029,22 @@ Pune, India | posted=2026-06-28
 
 - [ ] https://www.linkedin.com/jobs/view/4446227559 | HighLevel | Sr. Product Manager - Lead Generation Suite | posted=2026-08-25
 
+- [ ] https://www.linkedin.com/jobs/view/4412154283 | Cornerstone OnDemand | Associate Product Manager | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4448357237 | Accenture in India | Product Owner | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4446232188 | Virtusa | Product Owner - Cybersecurity | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4457471410 | Alacriti | Associate Product Manager | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4457470295 | CoinDCX | Head of Product | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4458740884 | Microsoft | Principal Product Manager | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4458746720 | Microsoft | Senior Product Manager | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4448323868 | Accenture in India | AI Product Management Practitioner | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4448329687 | GE Vernova | Senior Product Manager - AI | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4457479487 | Tarento Group | Product Manager E Commerce | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4457474513 | iTriangle | Product Manager | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4456908949 | CareerXperts Consulting | Product Manager – SaaS | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4457485361 | UNIVO Education | Associate Product Manager | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4457467281 | HyperVerge | Product Manager Associate | posted=2026-08-25
+- [ ] https://jobs.ashbyhq.com/ema/71763c36-ce5c-4c81-a595-14a7673c0a76 | Ema | Product Manager | posted=2026-08-25
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

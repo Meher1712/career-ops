@@ -5017,6 +5017,16 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4457446864 | UBS | Product Manager, Americas Securities settlements & Confirmations | posted=2026-08-25
 - [ ] https://www.linkedin.com/jobs/view/4458705612 | TMUS Global Solutions | Product Owner - AI [T500-28842] | posted=2026-08-25
 
+- [ ] https://www.linkedin.com/jobs/view/4445885943 | Playlist | Principal Product Manager | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4457479012 | Boston Consulting Group (BCG) | Source to Pay Product Manager | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4457460822 | MaxIQ | Product Owner | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4458733147 | NAB | Product Owner-  Workplace Data Services | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4456904464 | Nexedge Capital | Senior Product Manager -Wealth Tech Solutions | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4447958296 | Philips | Head of Product Management Fixed Rad DXR | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4457442821 | Volante Technologies | Senior Director, Product Management | posted=2026-08-25
+- [ ] https://jobs.ashbyhq.com/sarvam/45986600-4da3-4e46-a204-2865392df169 | Sarvam AI | Product Manager, Model APIs | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4456913453 | Sodexo | Global FinOps Product Manager | posted=2026-08-25
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

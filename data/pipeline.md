@@ -5045,6 +5045,15 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4457467281 | HyperVerge | Product Manager Associate | posted=2026-08-25
 - [ ] https://jobs.ashbyhq.com/ema/71763c36-ce5c-4c81-a595-14a7673c0a76 | Ema | Product Manager | posted=2026-08-25
 
+- [ ] https://www.linkedin.com/jobs/view/4448333677 | Accenture in India | Product Owner | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4448332596 | GE Vernova | Senior Product Manager - AI | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4457467693 | Blackbaud India | Senior Product Manager | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4456924224 | Vutto | Senior Product Manager | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4458754381 | Flexiple | Senior Product Manager | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4448609007 | Accenture in India | AI Product Management Practitioner | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4448191270 | Ethos | Director, Product Management | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4457484514 | Capco | Product Owner | posted=2026-08-25
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

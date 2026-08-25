@@ -5069,6 +5069,14 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4457476850 | InCred Financial Services | Associate Product Manager | posted=2026-08-25
 - [ ] https://www.linkedin.com/jobs/view/4448633567 | Scopely | Lead Product Manager - Star Trek Fleet Command | posted=2026-08-25
 
+- [ ] https://www.linkedin.com/jobs/view/4448345356 | Accenture in India | Product Management Lead | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4448869345 | ICE | Product Manager | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4448392385 | Accenture in India | Product Owner | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4448629638 | Scopely | Senior Product Manager - Star Trek Fleet Command | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4458781417 | Wells Fargo | Lead Digital Product Manager | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4448611070 | BNY | Vice President, POM Technical Product Management - Reporting & Analytics | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4448320658 | Accenture in India | AI Product Management Practitioner | posted=2026-08-25
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

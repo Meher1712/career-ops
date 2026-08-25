@@ -4964,6 +4964,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4458242444 | Xenon Seven | Senior Product Owner | posted=2026-08-24
 - [ ] https://www.linkedin.com/jobs/view/4456504304 | 7-Eleven Global Solution Center – India | Product Manager II | posted=2026-08-24
 
+- [ ] https://www.linkedin.com/jobs/view/4457410953 | TAAS Partners | Product Manager | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4457197834 | Jobgether | Senior Product Manager, Funnels/Workflow | posted=2026-08-25
+- [ ] https://pubmatic.com/job/?gh_jid=5399824008 | PubMatic | Associate Product Management Director - AI & Agentic Platform | posted=2026-08-24
+- [ ] https://jobs.lever.co/dozee/679bdaeb-443e-45ac-b73e-00bdacf2f872 | Dozee | Product Manager | posted=2026-08-24
+- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8154568 | Smartsheet | Product Manager II (Remote Eligible) | posted=2026-08-24
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

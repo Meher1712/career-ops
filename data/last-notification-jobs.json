@@ -1,61 +1,103 @@
 {
-  "generated_at": "2026-08-25T14:05:23.170Z",
+  "generated_at": "2026-08-25T15:06:56.789Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Product Owner",
-      "company": "Accenture in India",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4448333677"
+      "title": "Product Manager, Sail Core",
+      "company": "Stripe",
+      "location": "Toronto, New York, US - Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=7913698"
     },
     {
       "n": 2,
-      "title": "Senior Product Manager - AI",
-      "company": "GE Vernova",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4448332596"
+      "title": "Senior Product Manager",
+      "company": "New Relic",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.linkedin.com/jobs/view/4448809931"
     },
     {
       "n": 3,
-      "title": "Senior Product Manager",
-      "company": "Blackbaud India",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://www.linkedin.com/jobs/view/4457467693"
+      "title": "Product Owner",
+      "company": "Accenture in India",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4448338670"
     },
     {
       "n": 4,
-      "title": "Senior Product Manager",
-      "company": "Vutto",
-      "location": "Dwarka, Delhi, India",
-      "url": "https://www.linkedin.com/jobs/view/4456924224"
+      "title": "Product Manager",
+      "company": "Thomson Reuters",
+      "location": "Greater Hyderabad Area",
+      "url": "https://www.linkedin.com/jobs/view/4457472852"
     },
     {
       "n": 5,
-      "title": "Senior Product Manager",
-      "company": "Flexiple",
-      "location": "India",
-      "url": "https://www.linkedin.com/jobs/view/4458754381"
+      "title": "Digital Product Manager",
+      "company": "Amgen",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.linkedin.com/jobs/view/4458765918"
     },
     {
       "n": 6,
-      "title": "AI Product Management Practitioner",
-      "company": "Accenture in India",
+      "title": "Product Manager – Technical",
+      "company": "Tachyon Technologies",
       "location": "Hyderabad, Telangana, India",
-      "url": "https://www.linkedin.com/jobs/view/4448609007"
+      "url": "https://www.linkedin.com/jobs/view/4458769805"
     },
     {
       "n": 7,
-      "title": "Director, Product Management",
-      "company": "Ethos",
+      "title": "Product Manager, Model APIs",
+      "company": "Sarvam",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4448191270"
+      "url": "https://www.linkedin.com/jobs/view/4457481860"
     },
     {
       "n": 8,
-      "title": "Product Owner",
-      "company": "Capco",
+      "title": "Principal Product Manager - APAC Onboarding & KYC",
+      "company": "Wise",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.linkedin.com/jobs/view/4448200243"
+    },
+    {
+      "n": 9,
+      "title": "Technical Product Manager - AI",
+      "company": "Scopely",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4457484514"
+      "url": "https://www.linkedin.com/jobs/view/4448632636"
+    },
+    {
+      "n": 10,
+      "title": "Senior Principal Product Manager,MROC/MSSP",
+      "company": "Qualys",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4457498077"
+    },
+    {
+      "n": 11,
+      "title": "Senior Product Manager, Platform & Integrations",
+      "company": "Checkmate",
+      "location": "India",
+      "url": "https://www.linkedin.com/jobs/view/4456922467"
+    },
+    {
+      "n": 12,
+      "title": "AI Product Management Practitioner",
+      "company": "Accenture in India",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4448321954"
+    },
+    {
+      "n": 13,
+      "title": "Associate Product Manager",
+      "company": "InCred Financial Services",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4457476850"
+    },
+    {
+      "n": 14,
+      "title": "Lead Product Manager - Star Trek Fleet Command",
+      "company": "Scopely",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4448633567"
     }
   ]
 }

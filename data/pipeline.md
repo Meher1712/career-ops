@@ -4996,6 +4996,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/jobgether/1ad9a2a2-def1-49c7-a4de-b64bd29cd2b0 | Jobgether | Product Owner | posted=2026-08-25
 - [ ] https://jobs.lever.co/coupa/2d802ffb-384b-4be6-9511-79be0eda47dc | Coupa | Sr Product Manager - 11839 | posted=2026-08-19
 
+- [ ] https://www.linkedin.com/jobs/view/4457456348 | One97 Communications Limited | PPSL - Product Management - Senior Product Manager - EDC Product | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4457452350 | ICON plc | Product Owner | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4457442298 | EY | CBS-BMC-Technology Enablement-Supervising Associate-BMC Product Manager-CJA And AJO | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4457458345 | Digit Life Insurance | Product Manager | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4458716249 | Motorola Solutions | Product Manager - Business Intelligence & Analytics | posted=2026-08-25
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

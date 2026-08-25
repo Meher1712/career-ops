@@ -5008,6 +5008,15 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4458709331 | Evolute Group | Senior Manager_Product Management | posted=2026-08-25
 - [ ] https://www.linkedin.com/jobs/view/4456585973 | CodeRound AI | Technical Product Manager (Up to 30LPA) | posted=2026-08-25
 
+- [ ] https://www.linkedin.com/jobs/view/4457459734 | Value Health Inc | Product Manager | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4457447720 | Sabre | Senior Product Manager | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4457449849 | Toppan Merrill | Product Owner | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4456907219 | LH2 AI Labs | Founding Product Manager | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4457441752 | GlobalLogic | Strategic Product Manager – Workforce Management (WFM) IRC302506 | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4456915164 | CaratLane - A TATA Product | Product Manager | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4457446864 | UBS | Product Manager, Americas Securities settlements & Confirmations | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4458705612 | TMUS Global Solutions | Product Owner - AI [T500-28842] | posted=2026-08-25
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

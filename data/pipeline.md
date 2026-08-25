@@ -5077,6 +5077,10 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4448611070 | BNY | Vice President, POM Technical Product Management - Reporting & Analytics | posted=2026-08-25
 - [ ] https://www.linkedin.com/jobs/view/4448320658 | Accenture in India | AI Product Management Practitioner | posted=2026-08-25
 
+- [ ] https://www.linkedin.com/jobs/view/4448345192 | Accenture in India | Product Owner | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4456942746 | Fareportal | Product Manager (B2C) | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4448398266 | Accenture in India | Product Management Lead | posted=2026-08-25
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

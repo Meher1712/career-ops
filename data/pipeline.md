@@ -5002,6 +5002,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4457458345 | Digit Life Insurance | Product Manager | posted=2026-08-25
 - [ ] https://www.linkedin.com/jobs/view/4458716249 | Motorola Solutions | Product Manager - Business Intelligence & Analytics | posted=2026-08-25
 
+- [ ] https://www.linkedin.com/jobs/view/4458717500 | AppsForBharat | Senior Product Manager | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4456594007 | 86400 (An Initiative By Mobileware Technologies) | Product Manager- Cards | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4458700437 | SOTI | Senior Product Manager | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4458709331 | Evolute Group | Senior Manager_Product Management | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4456585973 | CodeRound AI | Technical Product Manager (Up to 30LPA) | posted=2026-08-25
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

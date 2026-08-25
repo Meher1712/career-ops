@@ -4979,6 +4979,23 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4457443088 | Jobgether | Product Owner | posted=2026-08-25
 - [ ] https://www.linkedin.com/jobs/view/4457456103 | super.money | Product Manager | posted=2026-08-25
 
+- [ ] https://www.linkedin.com/jobs/view/4457447222 | Qrata | Product Manager | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4456591335 | Befree | Product Manager | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4458574889 | Computacenter | Product Manager - Automation & Artificial Intelligence | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4451390863 | SquadStack.ai | Principal Product Manager -  Voice AI Platform | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4458589856 | ShopDeck | Product Manager | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4457452123 | Appsoleut Games | Associate Product Manager | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4456568527 | ZFunds | Product Manager | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4457460183 | Neuraleap Group | Product Manager (Baby segment) | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4458719038 | Hem Securities Ltd. | Product Manager | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4458581900 | SquadStack.ai | Product Manager - Voice AI | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4458595939 | Rebel Foods | Principal Product Manager | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4457460219 | EY | CBS-BMC-Technology Enablement-Supervising Associate-BMC Product Manager-CJA And AJO | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4458598571 | ProArch | Product Owner | posted=2026-08-25
+- [ ] https://www.linkedin.com/jobs/view/4458708100 | ServiceNow | Staff Technical Product Manager – AI Quality and Evaluation | posted=2026-08-25
+- [ ] https://jobs.lever.co/jobgether/1ad9a2a2-def1-49c7-a4de-b64bd29cd2b0 | Jobgether | Product Owner | posted=2026-08-25
+- [ ] https://jobs.lever.co/coupa/2d802ffb-384b-4be6-9511-79be0eda47dc | Coupa | Sr Product Manager - 11839 | posted=2026-08-19
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

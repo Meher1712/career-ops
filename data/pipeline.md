@@ -5139,6 +5139,23 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4457910736 | Bachatt | Product Manager - Credit Cards | posted=2026-08-26
 - [ ] https://www.linkedin.com/jobs/view/4457916360 | HireQuotient | Associate Product Manager | posted=2026-08-26
 
+- [ ] https://www.linkedin.com/jobs/view/4459172295 | Payoneer | Senior Product Manager - Mobile App | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4459171232 | ANSR | Sr Product Owner, Technology Products [T500-28897] | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457237855 | Sodexo | Workplace Product Manager | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457921051 | Ericsson | Strategic Product Manager | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457918517 | The Goodyear Tire & Rubber Company | Manager, Product Management | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4459168249 | Ashika Group | Product Manager- Mutual Funds | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4448516228 | Philips | Senior Product Manager | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4449435879 | JPMorganChase | Artificial Intelligence  - Product Owner - Associate | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457237819 | Upland Software | Product Owner | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457927103 | Zinnia | Product Manager -Technical (Life Insurance & Annuity) | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457915802 | Dentira | Senior Product Manager, Labs | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4459185440 | DMI Finance Private Limited | Product Manager - D2C | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457930066 | Glean | Product Manager | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4459177614 | HighLevel | Sr. Product Manager - Phone Platform | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457252286 | Bion Therapeutics (India) Private Limited | We’re Hiring! | Product Management Team (PMT) – Hyderabad | posted=2026-08-26
+- [ ] https://job-boards.greenhouse.io/oportun/jobs/4727491005 | Oportun | Senior Product Manager (R14206) | posted=2026-08-26
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

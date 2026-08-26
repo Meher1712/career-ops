@@ -5116,6 +5116,11 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4459142300 | Zydus Group | Product Manager | posted=2026-08-26
 - [ ] https://www.linkedin.com/jobs/view/4459162510 | TMUS Global Solutions | Sr Product Owner - Technical Product Management [T500-28887] | posted=2026-08-26
 
+- [ ] https://www.linkedin.com/jobs/view/4457230531 | Porch Group | Senior Product Manager, Warranty | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457901651 | Sabre | Senior Product Manager - Digital Experience | posted=2026-08-26
+- [ ] https://job-boards.greenhouse.io/zinnia/jobs/4706419006 | Zinnia | Product Manager -Technical (Life Insurance & Annuity) | posted=2026-08-26
+- [ ] https://jobs.ashbyhq.com/ema/089e8993-acf5-4d11-a7d3-f437f058d194 | Ema | Product Manager, UK | posted=2026-08-26
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

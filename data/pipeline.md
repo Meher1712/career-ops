@@ -5176,6 +5176,15 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4440039359 | HealthEdge | Product Owner | posted=2026-08-26
 - [ ] https://www.linkedin.com/jobs/view/4459300102 | Exponent Energy | Module lead - (Technical Product Owner) | posted=2026-08-26
 
+- [ ] https://www.linkedin.com/jobs/view/4459192827 | Events by L | Senior Product Manager | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4459313077 | Oportun | Senior Product Manager (R14206) | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457959449 | Infosys Finacle | Product Manager | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4459303968 | Uplers | Principal AI Product Manager | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457947868 | MYCPE ONE | Product Manager | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457961787 | Muthoot Finance Ltd. - India | Product Manager Digital Department | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457956691 | JoVE | Product Manager | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457966764 | Deloitte | Senior Delivery Product Owner - Tax Trasformation office - Hyderabad | posted=2026-08-26
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

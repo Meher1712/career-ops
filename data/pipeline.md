@@ -5101,6 +5101,17 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4457203229 | Deltatre | Product Owner | posted=2026-08-26
 - [ ] https://www.linkedin.com/jobs/view/4457207195 | TextileGenesis | Head of Product Management | posted=2026-08-26
 
+- [ ] https://www.linkedin.com/jobs/view/4457691801 | Nutanix | Product Manager [5-8 yrs of experience] | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457906077 | Tata Consultancy Services | Transformation Product Manager | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457241130 | TING | AI Product Owner | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4459127078 | Innova ESI | Healthcare Product Manager | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457229035 | NetWeb Software | Fullstack Product Owner | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4459119689 | Auth21 | Staff Technical Product Manager, AI Evaluation | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4459127097 | Innova ESI | Product Manager – Healthcare | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457231300 | Kratikal | Product Manager | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457218305 | MarketsandMarkets™ | Senior Product Manager – AI | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457698321 | Target | Director of Product Management | posted=2026-08-26
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

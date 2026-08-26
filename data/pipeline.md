@@ -5185,6 +5185,15 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4457956691 | JoVE | Product Manager | posted=2026-08-26
 - [ ] https://www.linkedin.com/jobs/view/4457966764 | Deloitte | Senior Delivery Product Owner - Tax Trasformation office - Hyderabad | posted=2026-08-26
 
+- [ ] https://www.linkedin.com/jobs/view/4459323909 | Meesho | Product Manager I - AI | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457274455 | bp | CRM Digital Product Manager - Castrol | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4459317926 | Enphase Energy | Manager, Product Management | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457266917 | Mastercard | Director, Product Manager –Disputes | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4459334376 | Hitachi Energy | Product management operations specialist | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457277260 | PwC Acceleration Center India | Senior Manager - Senior Product Owner | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457981043 | Data Eminence | Product Manager | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457275383 | Mastercard | Director, Product Management, Advanced Analytics & AI | posted=2026-08-26
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

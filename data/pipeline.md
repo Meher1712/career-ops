@@ -5081,6 +5081,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4456942746 | Fareportal | Product Manager (B2C) | posted=2026-08-25
 - [ ] https://www.linkedin.com/jobs/view/4448398266 | Accenture in India | Product Management Lead | posted=2026-08-25
 
+- [ ] https://www.linkedin.com/jobs/view/4456976982 | Barclays | Technical Product Owner - VP | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4459098547 | Nextiva | Mobile Product Manager | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457690408 | Artech L.L.C. | Product Owner | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457666979 | Michael Page | Product Manager - NAAS/ ILL | posted=2026-08-26
+- [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Senior-Product-Manager---Digital-Experience_JR108556 | Sabre | Senior Product Manager - Digital Experience | posted=2026-08-26
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

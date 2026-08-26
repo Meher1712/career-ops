@@ -5091,6 +5091,16 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4459115666 | Target | Sr Product Manager - Cybersecurity | posted=2026-08-26
 - [ ] https://www.linkedin.com/jobs/view/4459122046 | Target | Sr Product Manager | posted=2026-08-26
 
+- [ ] https://www.linkedin.com/jobs/view/4459121139 | Target | Sr Product Manager - Roundel | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457679882 | Jeffs group of companies | Product Manager | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457210102 | Hero Vired | Product Manager(Forward Deployed) | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4459117559 | ixigo | Product Manager | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4458714299 | Cosmofeed | Product Manager, Growth (AI-first) | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457200241 | SyManSys Technologies India Pvt. Ltd. | Product Manager – Healthcare Technology | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457211070 | Avam | Product Manager - Applied Testing | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457203229 | Deltatre | Product Owner | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457207195 | TextileGenesis | Head of Product Management | posted=2026-08-26
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

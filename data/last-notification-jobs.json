@@ -1,26 +1,33 @@
 {
-  "generated_at": "2026-08-26T08:01:00.471Z",
+  "generated_at": "2026-08-26T09:04:03.958Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Product Manager II - Search",
-      "company": "Nykaa",
-      "location": "Bangalore Urban, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4457903249"
+      "title": "Senior Product Manager, Warranty",
+      "company": "Porch Group",
+      "location": "India",
+      "url": "https://www.linkedin.com/jobs/view/4457230531"
     },
     {
       "n": 2,
-      "title": "Product Manager",
-      "company": "Zydus Group",
-      "location": "Ahmedabad, Gujarat, India",
-      "url": "https://www.linkedin.com/jobs/view/4459142300"
+      "title": "Senior Product Manager - Digital Experience",
+      "company": "Sabre",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4457901651"
     },
     {
       "n": 3,
-      "title": "Sr Product Owner - Technical Product Management [T500-28887]",
-      "company": "TMUS Global Solutions",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://www.linkedin.com/jobs/view/4459162510"
+      "title": "Product Manager -Technical (Life Insurance & Annuity)",
+      "company": "Zinnia",
+      "location": "Pune, Maharashtra, India",
+      "url": "https://job-boards.greenhouse.io/zinnia/jobs/4706419006"
+    },
+    {
+      "n": 4,
+      "title": "Product Manager, UK",
+      "company": "Ema",
+      "location": "United Kingdom (Remote)",
+      "url": "https://jobs.ashbyhq.com/ema/089e8993-acf5-4d11-a7d3-f437f058d194"
     }
   ]
 }

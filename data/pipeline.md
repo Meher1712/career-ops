@@ -5156,6 +5156,26 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4457252286 | Bion Therapeutics (India) Private Limited | We’re Hiring! | Product Management Team (PMT) – Hyderabad | posted=2026-08-26
 - [ ] https://job-boards.greenhouse.io/oportun/jobs/4727491005 | Oportun | Senior Product Manager (R14206) | posted=2026-08-26
 
+- [ ] https://jobs.lever.co/meesho/95a27bd6-2803-47f0-b159-47398f607a59 | Meesho | Product Manager I - AI | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457901912 | Ericsson | Strategic Product Manager | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457228884 | Upland Software | Product Owner | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4441825711 | ADP | Sr Manager - Product Management | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4459171567 | GSPANN Technologies, Inc | Microsoft Dynamics Product Owner | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4459178619 | CodeRound AI | Product Manager (Up to 60LPA) | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457252322 | ClearCorrect | Product Owner | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457923311 | Animaker Inc. | Product Manager | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4459184668 | Albertsons Companies India | Senior Product Manager [T500-28910] | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4459178738 | Albertsons Companies India | Senior Product Manager [T500-28911] | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457249496 | OpenText | Lead Product Manager- SAP | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4448560213 | IDFC FIRST Bank | Product Manager-Tractor & Farm Machinery | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4448558393 | IDFC FIRST Bank | Product Manager - Emerging Asset Financing | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457946159 | SBNRI | Product Manager – Tax & Compliance | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4459185989 | SourcingXPress | Lead Product Manager | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4446653283 | Siemens Healthineers | Product Management Manager | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457943253 | Target | Sr Product Manager - Task Intelligence and Agentic Automation | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4440039359 | HealthEdge | Product Owner | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4459300102 | Exponent Energy | Module lead - (Technical Product Owner) | posted=2026-08-26
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

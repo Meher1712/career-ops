@@ -5121,6 +5121,21 @@ Pune, India | posted=2026-06-28
 - [ ] https://job-boards.greenhouse.io/zinnia/jobs/4706419006 | Zinnia | Product Manager -Technical (Life Insurance & Annuity) | posted=2026-08-26
 - [ ] https://jobs.ashbyhq.com/ema/089e8993-acf5-4d11-a7d3-f437f058d194 | Ema | Product Manager, UK | posted=2026-08-26
 
+- [ ] https://www.linkedin.com/jobs/view/4439854560 | Blackbaud India | Product Manager, Senior - JustGiving | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4448517474 | Blackbaud India | Product Manager, Principal | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457224710 | Sportsdunia | Product Manager | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4459140910 | Target | Sr Product Manager | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4446644508 | Milestone Technologies, Inc. | Senior Product Manager | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4459143733 | Hero FinCorp | Product Manager | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4448852924 | Snowflake | Enterprise Product Manager | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457914650 | Citi | Digital Product Manager – Assistant Vice President. | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457903659 | Scapia | Group Product Manager | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4459162968 | Wells Fargo | Lead Product Manager | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4438071355 | UST | Product Manager I | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4457909723 | Bachatt | Product Manager - Saathi(AI App) | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4444501743 | JPMorganChase | Vice President - Product Owner Managed Solutions | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4459144996 | Wells Fargo | Digital Product Manager | posted=2026-08-26
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

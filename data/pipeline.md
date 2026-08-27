@@ -5211,6 +5211,15 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/jobgether/012d209a-52ee-4e51-8c12-b3aab11b5ca8 | Jobgether | Principal Product Manager | posted=2026-08-27
 - [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990014887136 | Nielsen | Senior Product Manager II | posted=2026-08-27
 
+- [ ] https://www.linkedin.com/jobs/view/4460128446 | Uplers | Senior Product Manager – AI Transformation | posted=2026-08-27
+- [ ] https://www.linkedin.com/jobs/view/4458055027 | Avam | Product Manager, Food Safety & Microbiology | posted=2026-08-27
+- [ ] https://www.linkedin.com/jobs/view/4458686743 | Vanguard India | Technical Product Manager, Specialist | posted=2026-08-27
+- [ ] https://www.linkedin.com/jobs/view/4460107583 | Johnson & Johnson | ServiceNow Solutions Technical Product Owner | posted=2026-08-27
+- [ ] https://www.linkedin.com/jobs/view/4458019857 | Johnson Controls | Product Owner | posted=2026-08-27
+- [ ] https://www.linkedin.com/jobs/view/4460113714 | Midtronics | Product Manager - India | posted=2026-08-27
+- [ ] https://www.linkedin.com/jobs/view/4460120840 | JobCrexa | Product Manager - Assisted Service | posted=2026-08-27
+- [ ] https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Lead-Technical-Product-Owner--Agentic-Transformation_JR356817 | Salesforce | Lead Technical Product Owner, Agentic Transformation | posted=2026-08-27
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

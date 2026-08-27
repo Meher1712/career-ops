@@ -5194,6 +5194,23 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4457981043 | Data Eminence | Product Manager | posted=2026-08-26
 - [ ] https://www.linkedin.com/jobs/view/4457275383 | Mastercard | Director, Product Management, Advanced Analytics & AI | posted=2026-08-26
 
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/8131091 | Twilio | Staff Product Manager | posted=2026-08-26
+- [ ] https://www.linkedin.com/jobs/view/4458614897 | Haleon | Sr. Product Manager Payroll, Time & Attendance | posted=2026-08-27
+- [ ] https://www.linkedin.com/jobs/view/4459698786 | SourcingXPress | Technical Product manager | posted=2026-08-27
+- [ ] https://www.linkedin.com/jobs/view/4459817247 | Flexiple | Senior Product Manager | posted=2026-08-27
+- [ ] https://www.linkedin.com/jobs/view/4458626135 | Delta Technology Hub | Senior Product Owner | posted=2026-08-27
+- [ ] https://www.linkedin.com/jobs/view/4458642042 | IDFC FIRST Bank | Lead AI Product Manager | posted=2026-08-27
+- [ ] https://www.linkedin.com/jobs/view/4458621227 | Nordson Corporation | Manager, Product Management | posted=2026-08-27
+- [ ] https://www.linkedin.com/jobs/view/4458613917 | Delta Technology Hub | Lead Product Owner | posted=2026-08-27
+- [ ] https://www.linkedin.com/jobs/view/4459820144 | Salesforce | Lead Technical Product Owner, Agentic Transformation | posted=2026-08-27
+- [ ] https://www.linkedin.com/jobs/view/4459804918 | BNY | Director, POM Technical Product Management | posted=2026-08-27
+- [ ] https://www.linkedin.com/jobs/view/4412758318 | PepsiCo | AI Product Architect | posted=2026-08-27
+- [ ] https://www.linkedin.com/jobs/view/4458623108 | Yubi | Senior Product Manager | posted=2026-08-27
+- [ ] https://www.linkedin.com/jobs/view/4458627065 | Yubi | Product Manager | posted=2026-08-27
+- [ ] https://jobs.lever.co/jobgether/606e590e-f5e9-4688-82f4-fc7f74768766 | Jobgether | Core Experience & AI Product Manager | posted=2026-08-27
+- [ ] https://jobs.lever.co/jobgether/012d209a-52ee-4e51-8c12-b3aab11b5ca8 | Jobgether | Principal Product Manager | posted=2026-08-27
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990014887136 | Nielsen | Senior Product Manager II | posted=2026-08-27
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

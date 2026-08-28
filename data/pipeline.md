@@ -5220,6 +5220,11 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4460120840 | JobCrexa | Product Manager - Assisted Service | posted=2026-08-27
 - [ ] https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Lead-Technical-Product-Owner--Agentic-Transformation_JR356817 | Salesforce | Lead Technical Product Owner, Agentic Transformation | posted=2026-08-27
 
+- [ ] https://www.linkedin.com/jobs/view/4431837896 | Commvault | Senior Product Manager - SaaS Applications Protection & Cyber Recovery | posted=2026-08-28
+- [ ] https://www.linkedin.com/jobs/view/4460366059 | Oliver Wyman | Oliver Wyman - AI Product Enablement Manager - Gurugram | posted=2026-08-28
+- [ ] https://www.okta.com/company/careers/opportunity/8164066?gh_jid=8164066 | Okta | Senior Product Manager, Product Platform | posted=2026-08-28
+- [ ] https://www.linkedin.com/jobs/view/4460343887 | U.S. Bank | Digital Product Manager | posted=2026-08-28
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

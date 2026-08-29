@@ -5230,6 +5230,14 @@ Pune, India | posted=2026-06-28
 - [ ] https://careers.toasttab.com/jobs?gh_jid=8164100 | Toast | Principal Product Manager, Enterprise Data Solutions  | posted=2026-08-28
 - [ ] https://www.zoominfo.com/careers?gh_jid=8561615002 | ZoomInfo | Principal Product Management, Growth | posted=2026-08-28
 
+- [ ] https://www.linkedin.com/jobs/view/4459479974 | Smartworks | Senior Product Manager | posted=2026-08-29
+- [ ] https://www.linkedin.com/jobs/view/4448756711 | BlackLine | Senior Product Manager (5yrs - 8yrs) | posted=2026-08-29
+- [ ] https://www.linkedin.com/jobs/view/4450700658 | Experian | Senior Product Manager – Behavioral Analytics, Fraud Detection | posted=2026-08-29
+- [ ] https://www.linkedin.com/jobs/view/4460815058 | AIFISE | Product Manager | posted=2026-08-29
+- [ ] https://www.linkedin.com/jobs/view/4459499021 | WaterScience | Product Manager - Consumer Durables /Appliances/Personal Care | posted=2026-08-29
+- [ ] https://www.linkedin.com/jobs/view/4460804325 | CodeRound AI | Associate Product Manager (AI | Up to 20LPA) | posted=2026-08-29
+- [ ] https://www.linkedin.com/jobs/view/4450752057 | Worldline | Product Manager - Principal | posted=2026-08-29
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

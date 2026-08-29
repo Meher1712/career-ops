@@ -5225,6 +5225,11 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.okta.com/company/careers/opportunity/8164066?gh_jid=8164066 | Okta | Senior Product Manager, Product Platform | posted=2026-08-28
 - [ ] https://www.linkedin.com/jobs/view/4460343887 | U.S. Bank | Digital Product Manager | posted=2026-08-28
 
+- [ ] https://stripe.com/jobs/search?gh_jid=8165137 | Stripe | Product Manager, Identity & Access Management | posted=2026-08-28
+- [ ] https://job-boards.greenhouse.io/ethoslife/jobs/8752361002 | Ethos | Senior Product Manager, Life Insurance Products | posted=2026-08-28
+- [ ] https://careers.toasttab.com/jobs?gh_jid=8164100 | Toast | Principal Product Manager, Enterprise Data Solutions  | posted=2026-08-28
+- [ ] https://www.zoominfo.com/careers?gh_jid=8561615002 | ZoomInfo | Principal Product Management, Growth | posted=2026-08-28
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

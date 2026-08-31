@@ -5247,6 +5247,15 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4461006612 | Flexiple | Senior Product Manager | posted=2026-08-30
 - [ ] https://www.linkedin.com/jobs/view/4458856013 | Make AI Responsible | Senior Product Manager | posted=2026-08-30
 
+- [ ] https://www.linkedin.com/jobs/view/4459759958 | Michael Page | Product Manager || Delhi || WFO | posted=2026-08-31
+- [ ] https://www.linkedin.com/jobs/view/4461065336 | Shapoorji Pallonji Finance Private Limited | Lead Product Manager | posted=2026-08-31
+- [ ] https://www.linkedin.com/jobs/view/4459788024 | Inceptial Technologies | Product Owner / Delivery Lead – Data & AI | Kolkata | posted=2026-08-31
+- [ ] https://www.linkedin.com/jobs/view/4461064530 | Bureau | Group Product Manager | posted=2026-08-31
+- [ ] https://www.linkedin.com/jobs/view/4459797030 | Tesco Bengaluru | Product Manager | posted=2026-08-31
+- [ ] https://www.linkedin.com/jobs/view/4459779899 | Softnotions Technologies Private Limited | Associate Product Manager | posted=2026-08-31
+- [ ] https://job-boards.greenhouse.io/capco/jobs/8161044 | Capco |  Product Owner | posted=2026-08-31
+- [ ] https://jobs.lever.co/jobgether/2943634c-b738-4cd1-91e7-a0fff31d5aee | Jobgether | Technical Product Owner | posted=2026-08-31
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

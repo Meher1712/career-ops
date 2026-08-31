@@ -5256,6 +5256,17 @@ Pune, India | posted=2026-06-28
 - [ ] https://job-boards.greenhouse.io/capco/jobs/8161044 | Capco |  Product Owner | posted=2026-08-31
 - [ ] https://jobs.lever.co/jobgether/2943634c-b738-4cd1-91e7-a0fff31d5aee | Jobgether | Technical Product Owner | posted=2026-08-31
 
+- [ ] https://www.linkedin.com/jobs/view/4461228541 | Job-scouts.com | Senior Product Manager – Behavioral Analytics | posted=2026-08-31
+- [ ] https://www.linkedin.com/jobs/view/4461224686 | A.P. Moller - Maersk | Functional Product Manager - ITX | posted=2026-08-31
+- [ ] https://www.linkedin.com/jobs/view/4460036051 | Advance Auto Parts India (India Innovation Center) | IT Product Manager (Workday Functional Consultant) | posted=2026-08-31
+- [ ] https://www.linkedin.com/jobs/view/4460044141 | Google | Product Manager, Google Cloud Business Platform | posted=2026-08-31
+- [ ] https://www.linkedin.com/jobs/view/4459231115 | Fareportal | Product Manager (B2C) | posted=2026-08-31
+- [ ] https://www.linkedin.com/jobs/view/4459238076 | Swiggy | Product Manager I | posted=2026-08-31
+- [ ] https://www.linkedin.com/jobs/view/4460047431 | Scapia | Lead Product Manager | posted=2026-08-31
+- [ ] https://www.linkedin.com/jobs/view/4461222910 | OnGrid | Associate Product Manager | posted=2026-08-31
+- [ ] https://www.linkedin.com/jobs/view/4461242080 | TE Connectivity | SR MGR PRODUCT MANAGEMENT | posted=2026-08-31
+- [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Sr-Product-Manager---Case-Management_R0076320 | eBay | Sr. Product Manager - Case Management | posted=2026-08-31
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

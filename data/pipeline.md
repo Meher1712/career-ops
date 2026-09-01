@@ -5280,6 +5280,25 @@ Pune, India | posted=2026-06-28
 - [ ] https://zendesk.wd1.myworkdayjobs.com/Zendesk/job/Pune-India/Principal-Product-Manager_R35027-1 | Zendesk | Principal Product Manager | posted=2026-09-01
 - [ ] https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Senior-Director--Solution-Engineer_JR357138 | Salesforce | Senior Director, Solutions Builder | posted=2026-09-01
 
+- [ ] https://www.linkedin.com/jobs/view/4460294274 | Google | Senior Product Manager, Map Intelligence, Google Maps Platform | posted=2026-09-01
+- [ ] https://www.linkedin.com/jobs/view/4461756101 | Franklin Templeton | GENAI Product Manager (Strong Pedigree Candidates, Quality Tenure Profiles) | posted=2026-09-01
+- [ ] https://www.linkedin.com/jobs/view/4460288249 | Jai Kisan | Product Manager | posted=2026-09-01
+- [ ] https://www.linkedin.com/jobs/view/4461757083 | Franklin Templeton | Digital Product Manager (AI/ML, Fintech or Technology - Driven Organizations) | posted=2026-09-01
+- [ ] https://www.linkedin.com/jobs/view/4461744090 | Microsoft | Senior Product Manager | posted=2026-09-01
+- [ ] https://www.linkedin.com/jobs/view/4461746775 | LinkedIn | Senior Product Manager - LinkedIn Learning | posted=2026-09-01
+- [ ] https://www.linkedin.com/jobs/view/4461755103 | LinkedIn | Principal Product Manager - LinkedIn Learning | posted=2026-09-01
+- [ ] https://www.linkedin.com/jobs/view/4451623651 | ZIGRAM | Product Manager | posted=2026-09-01
+- [ ] https://www.linkedin.com/jobs/view/4452436865 | Cornerstone OnDemand | Manager, Product Management | posted=2026-09-01
+- [ ] https://www.linkedin.com/jobs/view/4459521347 | Bitwarden | Senior Product Owner (PAM) | posted=2026-09-01
+- [ ] https://www.linkedin.com/jobs/view/4461729496 | AB InBev APAC | Product Manager | posted=2026-09-01
+- [ ] https://www.linkedin.com/jobs/view/4459510768 | Kapture CX | Associate Product Manager | posted=2026-09-01
+- [ ] https://www.linkedin.com/jobs/view/4459508661 | Oracle | Product Manager, CSS OU Curriculum (SCM) | posted=2026-09-01
+- [ ] https://www.linkedin.com/jobs/view/4459504714 | Oracle | Product Manager, CSS OU Curriculum (HCM) | posted=2026-09-01
+- [ ] https://www.linkedin.com/jobs/view/4460279879 | ASCENRA TECHNOLOGIES | Product Manager | posted=2026-09-01
+- [ ] https://www.linkedin.com/jobs/view/4461735970 | LinkedIn | Group Manager, Product Management - LinkedIn Learning | posted=2026-09-01
+- [ ] https://job-boards.greenhouse.io/zinnia/jobs/4710029006 | Zinnia | Product Manager -Technical (Life Insurance & Annuity) | posted=2026-09-01
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990014968371 | Nielsen | Senior Product Manager II | posted=2026-09-01
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

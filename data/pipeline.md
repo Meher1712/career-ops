@@ -5299,6 +5299,14 @@ Pune, India | posted=2026-06-28
 - [ ] https://job-boards.greenhouse.io/zinnia/jobs/4710029006 | Zinnia | Product Manager -Technical (Life Insurance & Annuity) | posted=2026-09-01
 - [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990014968371 | Nielsen | Senior Product Manager II | posted=2026-09-01
 
+- [ ] https://www.linkedin.com/jobs/view/4459549057 | Mastercard | Principal Product Management Technical (PMT) | posted=2026-09-01
+- [ ] https://www.linkedin.com/jobs/view/4460631252 | Razorpay | Product Manager II | posted=2026-09-01
+- [ ] https://www.linkedin.com/jobs/view/4461796568 | Aditi Consulting | Lead Product Manager | posted=2026-09-01
+- [ ] https://www.linkedin.com/jobs/view/4459534661 | Pakt | Information Technology Product Manager | posted=2026-09-01
+- [ ] https://www.linkedin.com/jobs/view/4461785356 | HP | Software Product Manager 4 | posted=2026-09-01
+- [ ] https://www.linkedin.com/jobs/view/4460606856 | Job-scouts.com | Senior Product Manager II | posted=2026-09-01
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990014968366 | Nielsen | Senior Product Manager II | posted=2026-09-01
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -5267,6 +5267,19 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4461242080 | TE Connectivity | SR MGR PRODUCT MANAGEMENT | posted=2026-08-31
 - [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Sr-Product-Manager---Case-Management_R0076320 | eBay | Sr. Product Manager - Case Management | posted=2026-08-31
 
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8094528 | MongoDB | Senior Product Manager | posted=2026-09-01
+- [ ] https://www.linkedin.com/jobs/view/4460236492 | Epiq | Senior Product Manager, Data Mining | posted=2026-09-01
+- [ ] https://www.linkedin.com/jobs/view/4459286479 | Office Beacon ASPL | Senior Product Manager – Product Lead (Multi-Pod) | Product Strategy & Cross-Functional Leadership | posted=2026-09-01
+- [ ] https://www.linkedin.com/jobs/view/4461572777 | Evolute Group | Senior Manager_Product Management | posted=2026-09-01
+- [ ] https://www.linkedin.com/jobs/view/4460246193 | Blue Cloud Softech Solutions Limited | AI Data Product Owner | posted=2026-09-01
+- [ ] https://www.linkedin.com/jobs/view/4460232882 | The Hindu | Job Opening for Growth Product Manager - Retention | Chennai | posted=2026-09-01
+- [ ] https://www.linkedin.com/jobs/view/4460242340 | Team Computers | Product Specialist/ Product Manager - Apple | posted=2026-09-01
+- [ ] https://www.linkedin.com/jobs/view/4460253041 | IDFC FIRST Bank | Associate Product Manager-Cross Sell | posted=2026-09-01
+- [ ] https://job-boards.greenhouse.io/capco/jobs/8166670 | Capco | Technical PM- AI  | posted=2026-09-01
+- [ ] https://www.linkedin.com/jobs/view/4458009247 | wowJobs | Chief Product Officer | posted=2026-09-01
+- [ ] https://zendesk.wd1.myworkdayjobs.com/Zendesk/job/Pune-India/Principal-Product-Manager_R35027-1 | Zendesk | Principal Product Manager | posted=2026-09-01
+- [ ] https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Senior-Director--Solution-Engineer_JR357138 | Salesforce | Senior Director, Solutions Builder | posted=2026-09-01
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

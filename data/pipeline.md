@@ -5329,6 +5329,15 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4462158976 | Arcesium | Technical Product Manager - AI | posted=2026-09-02
 - [ ] https://www.linkedin.com/jobs/view/4460985043 | American Express | Associate-Digital Product Management | posted=2026-09-02
 
+- [ ] https://www.linkedin.com/jobs/view/4450137467 | Accuris | Senior Product Manager | posted=2026-09-02
+- [ ] https://www.linkedin.com/jobs/view/4440189390 | Mastercard | Senior Product Manager - Technical | posted=2026-09-02
+- [ ] https://www.linkedin.com/jobs/view/4462421292 | Flexiple | Senior Product Manager | posted=2026-09-02
+- [ ] https://www.linkedin.com/jobs/view/4434737637 | BNY | Senior Specialist, POM Product Owner | posted=2026-09-02
+- [ ] https://www.linkedin.com/jobs/view/4461303383 | Lowe's India | Lead Product Manager | posted=2026-09-02
+- [ ] https://www.linkedin.com/jobs/view/4461315007 | Autodesk | Product Manager | posted=2026-09-02
+- [ ] https://job-boards.eu.greenhouse.io/sportygroup/jobs/4966480101 | Sporty Group | Product Manager | posted=2026-09-02
+- [ ] https://www.linkedin.com/jobs/view/4459982242 | Mastercard | Lead Product Manager- Technical | posted=2026-09-02
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

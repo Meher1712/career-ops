@@ -5316,6 +5316,19 @@ Pune, India | posted=2026-06-28
 - [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Principal-Product-Manager_JR108612 | Sabre | Principal Product Manager | posted=2026-09-02
 - [ ] https://jobs.lever.co/jobgether/f9310916-eaf9-4464-8799-803647632bd3 | Jobgether | IT Product Owner | posted=2026-09-02
 
+- [ ] https://www.linkedin.com/jobs/view/4460983159 | Artech L.L.C. | Product Manager | posted=2026-09-02
+- [ ] https://www.linkedin.com/jobs/view/4460979243 | Lenovo | Professional, Product Management | posted=2026-09-02
+- [ ] https://www.linkedin.com/jobs/view/4462169366 | ANSR | Sr Product Owner, Technology Products - CRM/CPQ/CLM [T500-29091] | posted=2026-09-02
+- [ ] https://www.linkedin.com/jobs/view/4459933959 | Smart Food Safe | Product Manager | posted=2026-09-02
+- [ ] https://www.linkedin.com/jobs/view/4450895794 | L&T Semiconductor Technologies | Product Manager | posted=2026-09-02
+- [ ] https://www.linkedin.com/jobs/view/4462174484 | Grayson Talent | Growth Product Manager | posted=2026-09-02
+- [ ] https://www.linkedin.com/jobs/view/4460981141 | Zinnia | Product Manager -Technical | posted=2026-09-02
+- [ ] https://www.linkedin.com/jobs/view/4462167753 | CooperSurgical | Product Manager- India | posted=2026-09-02
+- [ ] https://www.linkedin.com/jobs/view/4459948635 | Checkmate | Senior Product Manager, Platform & Integrations | posted=2026-09-02
+- [ ] https://www.linkedin.com/jobs/view/4459941963 | CodeRound AI | Technical Product Manager (Up to 30LPA) | posted=2026-09-02
+- [ ] https://www.linkedin.com/jobs/view/4462158976 | Arcesium | Technical Product Manager - AI | posted=2026-09-02
+- [ ] https://www.linkedin.com/jobs/view/4460985043 | American Express | Associate-Digital Product Management | posted=2026-09-02
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

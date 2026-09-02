@@ -5307,6 +5307,15 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4460606856 | Job-scouts.com | Senior Product Manager II | posted=2026-09-01
 - [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990014968366 | Nielsen | Senior Product Manager II | posted=2026-09-01
 
+- [ ] https://www.linkedin.com/jobs/view/4462131732 | DPDzero | Product Manager | posted=2026-09-02
+- [ ] https://www.linkedin.com/jobs/view/4460957326 | Versatile Club Employer of Record | Technical Product Manager — Customer & Delivery | posted=2026-09-02
+- [ ] https://www.linkedin.com/jobs/view/4459914566 | Pixelvide | Senior Manager - Operations & Product Management | posted=2026-09-02
+- [ ] https://www.linkedin.com/jobs/view/4462136715 | MRI Software | Product Owner II | posted=2026-09-02
+- [ ] https://www.linkedin.com/jobs/view/4460954168 | Esse India | Canada immigration consultants in delhi | visa consultant delhi | Senior Product Manager | posted=2026-09-02
+- [ ] https://api.smartrecruiters.com/v1/companies/Entain/postings/744000146805239 | Entain India | Product Manager | posted=2026-09-01
+- [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Principal-Product-Manager_JR108612 | Sabre | Principal Product Manager | posted=2026-09-02
+- [ ] https://jobs.lever.co/jobgether/f9310916-eaf9-4464-8799-803647632bd3 | Jobgether | IT Product Owner | posted=2026-09-02
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

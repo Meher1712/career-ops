@@ -5358,6 +5358,27 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/jobgether/0d6d332c-42c3-4be3-833e-9f2824e6a201 | Jobgether | Sr. Product Manager - Monetization | posted=2026-09-03
 - [ ] https://careers.toasttab.com/jobs?gh_jid=8175035 | Toast | Bookkeeper (Founding Member) | posted=2026-09-02
 
+- [ ] https://www.linkedin.com/jobs/view/4462822076 | Entain India | Product Manager | posted=2026-09-03
+- [ ] https://www.linkedin.com/jobs/view/4461628841 | BitDelta | Product Manager | posted=2026-09-03
+- [ ] https://www.linkedin.com/jobs/view/4460715081 | NxtPe | Product Manager | posted=2026-09-03
+- [ ] https://www.linkedin.com/jobs/view/4462821118 | Deutsche Bank | Product Manager, Operations Transformation Platforms, AVP | posted=2026-09-03
+- [ ] https://www.linkedin.com/jobs/view/4460702277 | Molex | Product Owner | posted=2026-09-03
+- [ ] https://www.linkedin.com/jobs/view/4462800772 | FinnovationZ | Senior Product Manager | posted=2026-09-03
+- [ ] https://www.linkedin.com/jobs/view/4460954054 | Trilyon, Inc. | IT Product Manager-₹37 LPA --CONTRACT-Customer Experience (CX), Contact Center, CCaaS, | posted=2026-09-03
+- [ ] https://www.linkedin.com/jobs/view/4460499695 | WeDoGood | Associate Product Manager | posted=2026-09-03
+- [ ] https://www.linkedin.com/jobs/view/4462802878 | Innova ESI | Technical Product Owner (Healthcare) | posted=2026-09-03
+- [ ] https://www.linkedin.com/jobs/view/4460717112 | Virtusa | Technical Product Owner: Web Platforms | posted=2026-09-03
+- [ ] https://www.linkedin.com/jobs/view/4460717199 | Virtusa | Product Owner | posted=2026-09-03
+- [ ] https://www.linkedin.com/jobs/view/4460708396 | Virtusa | Wealth Management Product Manager | posted=2026-09-03
+- [ ] https://www.linkedin.com/jobs/view/4461635991 | American Express | Associate -Digital Product Management | posted=2026-09-03
+- [ ] https://www.linkedin.com/jobs/view/4461661066 | Majid Al Futtaim | Product Manager | posted=2026-09-03
+- [ ] https://www.linkedin.com/jobs/view/4462821276 | CodeRound AI | Product Manager (Up to 40LPA) | posted=2026-09-03
+- [ ] https://www.linkedin.com/jobs/view/4461648223 | Cloudera | Senior Product Manager- Security | posted=2026-09-03
+- [ ] https://www.linkedin.com/jobs/view/4462826075 | Amazon | Sr. Product Manager-Technical, Amazon Financial Foundation Services (AFFS) | posted=2026-09-03
+- [ ] https://www.linkedin.com/jobs/view/4461642914 | Scoutit | Associate Product Manager | posted=2026-09-03
+- [ ] https://www.linkedin.com/jobs/view/4460704775 | Syncron | Senior Product Manager | posted=2026-09-03
+- [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Senior-Product-Manager---Inventory-Management_JR108630 | Sabre | Senior Product Manager - Inventory Management | posted=2026-09-03
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

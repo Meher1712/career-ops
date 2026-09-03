@@ -5379,6 +5379,16 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4460704775 | Syncron | Senior Product Manager | posted=2026-09-03
 - [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Senior-Product-Manager---Inventory-Management_JR108630 | Sabre | Senior Product Manager - Inventory Management | posted=2026-09-03
 
+- [ ] https://www.linkedin.com/jobs/view/4462858623 | Flexiple | Senior Product Manager | posted=2026-09-03
+- [ ] https://www.linkedin.com/jobs/view/4462872049 | Ford Motor Company | Platform Product Manager | posted=2026-09-03
+- [ ] https://www.linkedin.com/jobs/view/4461692022 | Flipkart | Senior Product Manager, Data Monetisation | posted=2026-09-03
+- [ ] https://www.linkedin.com/jobs/view/4460725783 | Mastercard | Lead Product Management Technical (PMT) | posted=2026-09-03
+- [ ] https://www.linkedin.com/jobs/view/4462852988 | Optum India | Senior Technical Product Manager | posted=2026-09-03
+- [ ] https://www.linkedin.com/jobs/view/4461661925 | OnArrival | Senior Product Manager (Flights) | posted=2026-09-03
+- [ ] https://www.linkedin.com/jobs/view/4462870043 | Optum India | Senior Product Manager | posted=2026-09-03
+- [ ] https://www.linkedin.com/jobs/view/4425406493 | Aditya Birla Capital | Senior Product Owner (SAP) | posted=2026-09-03
+- [ ] https://api.smartrecruiters.com/v1/companies/Entain/postings/744000147223460 | Entain India | Product Manager | posted=2026-09-03
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

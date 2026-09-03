@@ -5338,6 +5338,26 @@ Pune, India | posted=2026-06-28
 - [ ] https://job-boards.eu.greenhouse.io/sportygroup/jobs/4966480101 | Sporty Group | Product Manager | posted=2026-09-02
 - [ ] https://www.linkedin.com/jobs/view/4459982242 | Mastercard | Lead Product Manager- Technical | posted=2026-09-02
 
+- [ ] https://www.linkedin.com/jobs/view/4460451668 | Zato | Product Managers | posted=2026-09-03
+- [ ] https://www.linkedin.com/jobs/view/4460458564 | Allerin | Product Manager | posted=2026-09-03
+- [ ] https://www.linkedin.com/jobs/view/4460462626 | Integrated Maritime Pte Ltd | Product Manager – Maritime AI & Digital Solutions | posted=2026-09-03
+- [ ] https://www.linkedin.com/jobs/view/4460452655 | Majid Al Futtaim | Product Manager | posted=2026-09-03
+- [ ] https://www.linkedin.com/jobs/view/4460455460 | Trishul Biotech | Product Manager | posted=2026-09-03
+- [ ] https://www.linkedin.com/jobs/view/4460457742 | ServiceNow | Staff Inbound Product Manager | posted=2026-09-03
+- [ ] https://www.linkedin.com/jobs/view/4462779392 | BNY | Vice President, POM Product Management | posted=2026-09-03
+- [ ] https://www.linkedin.com/jobs/view/4462777358 | Kwan Ventures | Head of Product - Consumer App | posted=2026-09-03
+- [ ] https://www.linkedin.com/jobs/view/4462768471 | Woolworths Group International | Technical Product Owner | posted=2026-09-03
+- [ ] https://www.linkedin.com/jobs/view/4460479208 | Aaizel International Technologies Pvt Ltd | Product Management Officer-IT (Immediate Joiner) | posted=2026-09-03
+- [ ] https://www.linkedin.com/jobs/view/4462766757 | iQuanta | CLAT Product Manager | posted=2026-09-03
+- [ ] https://www.linkedin.com/jobs/view/4460475242 | GrayQuest | Product Manager | posted=2026-09-03
+- [ ] https://job-boards.eu.greenhouse.io/valtech/jobs/4964256101 | Valtech | Product Owner / Project Manager | posted=2026-09-02
+- [ ] https://www.inovalon.com/careers/job/?gh_jid=7979937003 | Inovalon | Product Owner - Claims | posted=2026-09-02
+- [ ] https://jobs.lever.co/jobgether/b22ae1a3-0118-49a8-9dcf-b6d1d8c776ec | Jobgether | Product Manager | posted=2026-09-03
+- [ ] https://jobs.lever.co/jobgether/7e3f905e-f18d-4d25-b307-15fbce2e20b5 | Jobgether | Product Owner - Virtual Interlining | posted=2026-09-03
+- [ ] https://jobs.lever.co/jobgether/839f12f7-2f22-4528-90fb-f9323236334b | Jobgether | Senior Product Manager | posted=2026-09-03
+- [ ] https://jobs.lever.co/jobgether/0d6d332c-42c3-4be3-833e-9f2824e6a201 | Jobgether | Sr. Product Manager - Monetization | posted=2026-09-03
+- [ ] https://careers.toasttab.com/jobs?gh_jid=8175035 | Toast | Bookkeeper (Founding Member) | posted=2026-09-02
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

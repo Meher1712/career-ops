@@ -5402,6 +5402,21 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4461121395 | FNP | Head of Product | posted=2026-09-04
 - [ ] https://www.linkedin.com/jobs/view/4463304767 | The Tann Mann Gaadi | Senior Product Manager - Software - Unpaid - Voluntary | posted=2026-09-04
 
+- [ ] https://www.linkedin.com/jobs/view/4463329743 | Adani Enterprises Limited | AI Product Manager | posted=2026-09-04
+- [ ] https://www.linkedin.com/jobs/view/4463344795 | Litmus7 | Technical Product Owner Retail Domain | posted=2026-09-04
+- [ ] https://www.linkedin.com/jobs/view/4461164305 | SUN PHARMA | Group Product Manager - Nutrition | posted=2026-09-04
+- [ ] https://www.linkedin.com/jobs/view/4443192615 | Infosys | Product Manager/Consultant - Retail/Logistics/E-Commerce Domain | posted=2026-09-04
+- [ ] https://www.linkedin.com/jobs/view/4458249735 | State Street | Product Management- Interfaces, Vice President | posted=2026-09-04
+- [ ] https://www.linkedin.com/jobs/view/4443544856 | LPL Financial Global Capability Center | Senior Data Product Owner – Transactions, Positions & Books and Records (TBAR) | posted=2026-09-04
+- [ ] https://www.linkedin.com/jobs/view/4461968373 | Irage Broking Services LLP | Product Manager | posted=2026-09-04
+- [ ] https://www.linkedin.com/jobs/view/4452970903 | SES Satellites | Software Product Owner | posted=2026-09-04
+- [ ] https://www.linkedin.com/jobs/view/4463339688 | Trigent Software - Professional Services | Product Owner (ServiceNow) | posted=2026-09-04
+- [ ] https://www.linkedin.com/jobs/view/4463344865 | HCLSoftware | ITIL Process Owner/ ITIL Product Owner | posted=2026-09-04
+- [ ] https://www.linkedin.com/jobs/view/4463352356 | MCO (MyComplianceOffice) | Senior Product Owner I | posted=2026-09-04
+- [ ] https://www.linkedin.com/jobs/view/4461960505 | Uni Seoul | Associate Product Manager (Beauty & Personal Care) | posted=2026-09-04
+- [ ] https://www.linkedin.com/jobs/view/4461151486 | EduRankAI | Product Manager | posted=2026-09-04
+- [ ] https://www.linkedin.com/jobs/view/4461148652 | Esse India | Canada immigration consultants in delhi | visa consultant delhi | Senior Product Manager | posted=2026-09-04
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

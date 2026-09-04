@@ -5417,6 +5417,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4461151486 | EduRankAI | Product Manager | posted=2026-09-04
 - [ ] https://www.linkedin.com/jobs/view/4461148652 | Esse India | Canada immigration consultants in delhi | visa consultant delhi | Senior Product Manager | posted=2026-09-04
 
+- [ ] https://www.linkedin.com/jobs/view/4463394492 | Flexiple | Senior Product Manager | posted=2026-09-04
+- [ ] https://www.linkedin.com/jobs/view/4461982884 | Google | Product Manager, Google Partner Innovation | posted=2026-09-04
+- [ ] https://www.linkedin.com/jobs/view/4461983877 | Google | Product Manager II, Partner Program Platform | posted=2026-09-04
+- [ ] https://www.linkedin.com/jobs/view/4454082731 | Morgan Stanley | Product Owner - SBL: Collateral/ self directed Digital LAL, Platforms, Associate, Wealth Management | posted=2026-09-04
+- [ ] https://www.linkedin.com/jobs/view/4461182455 | Barclays | AI- Product Owner | posted=2026-09-04
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

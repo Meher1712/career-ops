@@ -5389,6 +5389,19 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4425406493 | Aditya Birla Capital | Senior Product Owner (SAP) | posted=2026-09-03
 - [ ] https://api.smartrecruiters.com/v1/companies/Entain/postings/744000147223460 | Entain India | Product Manager | posted=2026-09-03
 
+- [ ] https://www.linkedin.com/jobs/view/4461121446 | Weekday AI (YC W21) | Product Manager - WMS | posted=2026-09-04
+- [ ] https://www.linkedin.com/jobs/view/4460479357 | Car Street | Senior Product Manager | posted=2026-09-04
+- [ ] https://www.linkedin.com/jobs/view/4461121451 | Siemens | Lead Product Owner (R&D) – Energy Distribution Digitalization | posted=2026-09-04
+- [ ] https://www.linkedin.com/jobs/view/4461134359 | Noise | Director of Product Management | posted=2026-09-04
+- [ ] https://www.linkedin.com/jobs/view/4461127379 | Siemens | Product Owner (PO) | posted=2026-09-04
+- [ ] https://www.linkedin.com/jobs/view/4463313015 | Morningstar | Associate Product Manager | posted=2026-09-04
+- [ ] https://www.linkedin.com/jobs/view/4461130296 | Evernorth Health Services | Technical product owner | posted=2026-09-04
+- [ ] https://www.linkedin.com/jobs/view/4450329348 | ANSR | Senior Manager - AI Product / Portfolio Management [T500-28315] | posted=2026-09-04
+- [ ] https://www.linkedin.com/jobs/view/4463312010 | BNY | Director, POM Product Management Manager | posted=2026-09-04
+- [ ] https://www.linkedin.com/jobs/view/4461126226 | Quess Corp Limited | Product Owner | posted=2026-09-04
+- [ ] https://www.linkedin.com/jobs/view/4461121395 | FNP | Head of Product | posted=2026-09-04
+- [ ] https://www.linkedin.com/jobs/view/4463304767 | The Tann Mann Gaadi | Senior Product Manager - Software - Unpaid - Voluntary | posted=2026-09-04
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

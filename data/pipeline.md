@@ -5423,6 +5423,9 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4454082731 | Morgan Stanley | Product Owner - SBL: Collateral/ self directed Digital LAL, Platforms, Associate, Wealth Management | posted=2026-09-04
 - [ ] https://www.linkedin.com/jobs/view/4461182455 | Barclays | AI- Product Owner | posted=2026-09-04
 
+- [ ] https://www.linkedin.com/jobs/view/4462369640 | LinkedIn India PM | Project Manager / Product Manager – AI Projects | posted=2026-09-05
+- [ ] https://www.linkedin.com/jobs/view/4463704976 | FetchJobs.co | Product Manager | posted=2026-09-05
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

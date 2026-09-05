@@ -5434,6 +5434,8 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4454843929 | Scopely | Product Manager Performance - Star Trek Fleet Command | posted=2026-09-05
 - [ ] https://www.linkedin.com/jobs/view/4443873651 | symplr | Product Manager | posted=2026-09-05
 
+- [ ] https://www.linkedin.com/jobs/view/4463774207 | Flexiple | Senior Product Manager | posted=2026-09-05
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -1,19 +1,33 @@
 {
-  "generated_at": "2026-09-05T07:42:03.248Z",
+  "generated_at": "2026-09-05T11:50:51.469Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Project Manager / Product Manager – AI Projects",
-      "company": "LinkedIn India PM",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4462369640"
+      "title": "Pricipal Product Manager",
+      "company": "Teertham",
+      "location": "Delhi, India",
+      "url": "https://www.linkedin.com/jobs/view/4461458819"
     },
     {
       "n": 2,
-      "title": "Product Manager",
-      "company": "FetchJobs.co",
+      "title": "Product Manager - CRM (AI / B2B SaaS)",
+      "company": "Modlix",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4462380045"
+    },
+    {
+      "n": 3,
+      "title": "Staff Product Manager - HardPhone, SIP, and IVR",
+      "company": "HighLevel",
       "location": "India",
-      "url": "https://www.linkedin.com/jobs/view/4463704976"
+      "url": "https://www.linkedin.com/jobs/view/4441593265"
+    },
+    {
+      "n": 4,
+      "title": "Data Product Manager",
+      "company": "Carrier",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.linkedin.com/jobs/view/4462368990"
     }
   ]
 }

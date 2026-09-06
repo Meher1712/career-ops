@@ -1,12 +1,33 @@
 {
-  "generated_at": "2026-09-05T17:23:49.195Z",
+  "generated_at": "2026-09-06T07:56:01.789Z",
   "jobs": [
     {
       "n": 1,
       "title": "Senior Product Manager",
-      "company": "Flexiple",
+      "company": "Josys",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4463774207"
+      "url": "https://www.linkedin.com/jobs/view/4461814621"
+    },
+    {
+      "n": 2,
+      "title": "Product Manager : Consumer Experience",
+      "company": "MyYogaTeacher",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4464001772"
+    },
+    {
+      "n": 3,
+      "title": "Product Manager / Product Owner — Ecommerce Automation & SaaS",
+      "company": "Healthy18",
+      "location": "West Delhi, Delhi, India",
+      "url": "https://www.linkedin.com/jobs/view/4461804312"
+    },
+    {
+      "n": 4,
+      "title": "Product Manager",
+      "company": "AU SMALL FINANCE BANK",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4462671172"
     }
   ]
 }

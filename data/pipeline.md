@@ -5441,6 +5441,9 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4461804312 | Healthy18 | Product Manager / Product Owner — Ecommerce Automation & SaaS | posted=2026-09-06
 - [ ] https://www.linkedin.com/jobs/view/4462671172 | AU SMALL FINANCE BANK | Product Manager | posted=2026-09-06
 
+- [ ] https://www.linkedin.com/jobs/view/4461827990 | Stock Bazaar | Product Manager (Stock Market) | posted=2026-09-06
+- [ ] https://www.linkedin.com/jobs/view/4416111828 | Personnel Search Services Group | Agentic AI Architect & Builder (PSS07995) | posted=2026-09-06
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

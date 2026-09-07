@@ -5456,6 +5456,13 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4464088633 | Kissht | Product Manager - LAP | posted=2026-09-07
 - [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990015096846 | Nielsen | Lead Product Manager | posted=2026-09-07
 
+- [ ] https://www.linkedin.com/jobs/view/4464339712 | Fivetran | Staff Product Manager, Connectors | posted=2026-09-07
+- [ ] https://www.linkedin.com/jobs/view/4462217587 | EY | CBS-BMC-Technology Enablement-Supervising Associate-BMC Product Manager-CJA And AJO | posted=2026-09-07
+- [ ] https://www.linkedin.com/jobs/view/4464341430 | Druva | Senior Product Manager | posted=2026-09-07
+- [ ] https://www.linkedin.com/jobs/view/4462966259 | Cvent | Product Manager | posted=2026-09-07
+- [ ] https://www.linkedin.com/jobs/view/4462212542 | FlexiLoans | Product Manager | posted=2026-09-07
+- [ ] https://www.linkedin.com/jobs/view/4462971246 | TJX India | PMO Staff Product Owner (Monitoring & Observability) | posted=2026-09-07
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

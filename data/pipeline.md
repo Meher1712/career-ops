@@ -5446,6 +5446,16 @@ Pune, India | posted=2026-06-28
 
 - [ ] https://www.linkedin.com/jobs/view/4462677708 | Obrimo Technologies | Product Owner | posted=2026-09-06
 
+- [ ] https://www.linkedin.com/jobs/view/4460706686 | Shipturtle | Associate Product Manager | posted=2026-09-07
+- [ ] https://www.linkedin.com/jobs/view/4464095481 | Aventra.AI | AI Product Manager | posted=2026-09-07
+- [ ] https://www.linkedin.com/jobs/view/4461879305 | ChargePoint | Product Manager – Payments Operations & Processor Management | posted=2026-09-07
+- [ ] https://www.linkedin.com/jobs/view/4464088495 | CodeRound AI | Product Manager (Up to 40LPA) | posted=2026-09-07
+- [ ] https://www.linkedin.com/jobs/view/4464306207 | Arbex | Workday Product Owner | posted=2026-09-07
+- [ ] https://www.linkedin.com/jobs/view/4464094313 | Arbex | ServiceNow Product Owner | posted=2026-09-07
+- [ ] https://www.linkedin.com/jobs/view/4464310418 | Evolute Group | Senior Manager_Product Management | posted=2026-09-07
+- [ ] https://www.linkedin.com/jobs/view/4464088633 | Kissht | Product Manager - LAP | posted=2026-09-07
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990015096846 | Nielsen | Lead Product Manager | posted=2026-09-07
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

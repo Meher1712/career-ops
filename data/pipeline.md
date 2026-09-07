@@ -5463,6 +5463,16 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4462212542 | FlexiLoans | Product Manager | posted=2026-09-07
 - [ ] https://www.linkedin.com/jobs/view/4462971246 | TJX India | PMO Staff Product Owner (Monitoring & Observability) | posted=2026-09-07
 
+- [ ] https://www.linkedin.com/jobs/view/4464372507 | Amazon | Sr. Product Manager - Tech, India Ads | posted=2026-09-07
+- [ ] https://www.linkedin.com/jobs/view/4464374515 | Amazon | Sr. Product Manager, Cost of Returns | posted=2026-09-07
+- [ ] https://www.linkedin.com/jobs/view/4462245266 | Dalvoy | Growth Product Manager | posted=2026-09-07
+- [ ] https://www.linkedin.com/jobs/view/4464363653 | Accellor | Senior AI Product Manager | posted=2026-09-07
+- [ ] https://www.linkedin.com/jobs/view/4462442754 | SourcingXPress | Technical Product Manager | posted=2026-09-07
+- [ ] https://www.linkedin.com/jobs/view/4462996006 | Haleon | Data & AI Security Product Owner (Delivery Lead) | posted=2026-09-07
+- [ ] https://www.linkedin.com/jobs/view/4462982150 | Levi Strauss & Co. | Associate Technical Product Manager | posted=2026-09-07
+- [ ] https://www.druva.com/why-druva/explore/careers/jobs/8697486002/?gh_jid=8697486002 | Druva | Senior Product Manager | posted=2026-09-07
+- [ ] https://jobs.lever.co/jobgether/01b4c650-ee3c-4238-830e-f81c8fbe7d51 | Jobgether | Product Manager (Feature Owner) — Mobile | posted=2026-09-07
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

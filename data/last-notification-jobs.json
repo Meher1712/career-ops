@@ -1,12 +1,68 @@
 {
-  "generated_at": "2026-09-06T18:19:21.959Z",
+  "generated_at": "2026-09-07T08:21:18.575Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Product Owner",
-      "company": "Obrimo Technologies",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://www.linkedin.com/jobs/view/4462677708"
+      "title": "Associate Product Manager",
+      "company": "Shipturtle",
+      "location": "Ahmedabad, Gujarat, India",
+      "url": "https://www.linkedin.com/jobs/view/4460706686"
+    },
+    {
+      "n": 2,
+      "title": "AI Product Manager",
+      "company": "Aventra.AI",
+      "location": "India",
+      "url": "https://www.linkedin.com/jobs/view/4464095481"
+    },
+    {
+      "n": 3,
+      "title": "Product Manager – Payments Operations & Processor Management",
+      "company": "ChargePoint",
+      "location": "Bangalore Urban, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4461879305"
+    },
+    {
+      "n": 4,
+      "title": "Product Manager (Up to 40LPA)",
+      "company": "CodeRound AI",
+      "location": "India",
+      "url": "https://www.linkedin.com/jobs/view/4464088495"
+    },
+    {
+      "n": 5,
+      "title": "Workday Product Owner",
+      "company": "Arbex",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4464306207"
+    },
+    {
+      "n": 6,
+      "title": "ServiceNow Product Owner",
+      "company": "Arbex",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4464094313"
+    },
+    {
+      "n": 7,
+      "title": "Senior Manager_Product Management",
+      "company": "Evolute Group",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4464310418"
+    },
+    {
+      "n": 8,
+      "title": "Product Manager - LAP",
+      "company": "Kissht",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4464088633"
+    },
+    {
+      "n": 9,
+      "title": "Lead Product Manager",
+      "company": "Nielsen",
+      "location": "Bengaluru, in",
+      "url": "https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990015096846"
     }
   ]
 }

@@ -5473,6 +5473,19 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.druva.com/why-druva/explore/careers/jobs/8697486002/?gh_jid=8697486002 | Druva | Senior Product Manager | posted=2026-09-07
 - [ ] https://jobs.lever.co/jobgether/01b4c650-ee3c-4238-830e-f81c8fbe7d51 | Jobgether | Product Manager (Feature Owner) — Mobile | posted=2026-09-07
 
+- [ ] https://www.linkedin.com/jobs/view/4463226605 | MYCPE ONE | Technical Product Manager | posted=2026-09-08
+- [ ] https://www.linkedin.com/jobs/view/4464447679 | HID | Product Owner | posted=2026-09-08
+- [ ] https://www.linkedin.com/jobs/view/4464456666 | MADTECH.AI Inc. | Group Product Manager | posted=2026-09-08
+- [ ] https://www.linkedin.com/jobs/view/4462290014 | Kratikal | Product Manager | posted=2026-09-08
+- [ ] https://www.linkedin.com/jobs/view/4463234572 | Beroe Inc | Product Manager- Inflation Watch | posted=2026-09-08
+- [ ] https://www.linkedin.com/jobs/view/4462294019 | ADVEN BIOTECH PRIVATE LIMITED | Product Manager | posted=2026-09-08
+- [ ] https://www.linkedin.com/jobs/view/4463230867 | IDFC FIRST Bank | Product Manager-Digital Transformation Delivery-Customer Experience | posted=2026-09-08
+- [ ] https://www.linkedin.com/jobs/view/4464451865 | CodeRound AI | Technical Product Manager (Up to 30LPA) | posted=2026-09-08
+- [ ] https://www.linkedin.com/jobs/view/4464447675 | BNY | Senior Vice President, POM Product Management | posted=2026-09-08
+- [ ] https://www.linkedin.com/jobs/view/4462293017 | LinkedIn India Senior PM | Product Owner | posted=2026-09-08
+- [ ] https://www.linkedin.com/jobs/view/4463236520 | Skills Agency | French Speaking Product Owner | posted=2026-09-08
+- [ ] https://jobs.lever.co/jobgether/0faad263-4581-4848-b159-2ecbff8d8ce0 | Jobgether | Product Manager | posted=2026-09-08
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

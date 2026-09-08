@@ -5496,6 +5496,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/jobgether/b6f87277-b12c-486d-b304-ae59bdc85de0 | Jobgether | Data and Automation Systems Builder | posted=2026-09-08
 - [ ] https://jobs.ashbyhq.com/spotdraft/e9146208-bd24-443b-b1d8-96aabd292538 | SpotDraft | Associate Product Manager | posted=2026-09-08
 
+- [ ] https://www.linkedin.com/jobs/view/4462539166 | Mastercard | Manager, Product Management – Resiliency Operations (Stand-In & On-Demand Decisioning) | posted=2026-09-08
+- [ ] https://www.linkedin.com/jobs/view/4463511924 | Orange Business | Lead Product Owner | posted=2026-09-08
+- [ ] https://www.linkedin.com/jobs/view/4462539102 | Mobility Global | Product Owner | posted=2026-09-08
+- [ ] https://job-boards.eu.greenhouse.io/valtech/jobs/4964147101 | Valtech | Product Owner Sr  | posted=2026-09-08
+- [ ] https://apply.workable.com/j/EE1C865B7D | Lokal App | Product Manager II ( Poster ) | posted=2026-09-08
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

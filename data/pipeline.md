@@ -5486,6 +5486,16 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4463236520 | Skills Agency | French Speaking Product Owner | posted=2026-09-08
 - [ ] https://jobs.lever.co/jobgether/0faad263-4581-4848-b159-2ecbff8d8ce0 | Jobgether | Product Manager | posted=2026-09-08
 
+- [ ] https://www.linkedin.com/jobs/view/4463291792 | Ingram Micro | Product Manager | posted=2026-09-08
+- [ ] https://www.linkedin.com/jobs/view/4463294923 | AppBroda | Senior Product Manager | posted=2026-09-08
+- [ ] https://www.linkedin.com/jobs/view/4463284946 | Equifax | Technical Product Owner | posted=2026-09-08
+- [ ] https://www.linkedin.com/jobs/view/4464469884 | Amazon | Sr. Product Manager - Tech, India Ads | posted=2026-09-08
+- [ ] https://www.linkedin.com/jobs/view/4464486984 | Arcesium | Product Manager - Investment & Portfolio Accounting | posted=2026-09-08
+- [ ] https://www.linkedin.com/jobs/view/4464477776 | Honeywell Technologies | Sr Advanced Tech Product Owner | posted=2026-09-08
+- [ ] https://www.linkedin.com/jobs/view/4463277570 | withRemote | Product Manager- Data, Analytics & AI | posted=2026-09-08
+- [ ] https://jobs.lever.co/jobgether/b6f87277-b12c-486d-b304-ae59bdc85de0 | Jobgether | Data and Automation Systems Builder | posted=2026-09-08
+- [ ] https://jobs.ashbyhq.com/spotdraft/e9146208-bd24-443b-b1d8-96aabd292538 | SpotDraft | Associate Product Manager | posted=2026-09-08
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

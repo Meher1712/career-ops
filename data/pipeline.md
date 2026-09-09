@@ -5511,6 +5511,19 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/jobgether/62a4e413-04d7-4452-82fe-76c44481d56c | Jobgether | ServiceNow UI Builder | posted=2026-09-09
 - [ ] https://job-boards.greenhouse.io/jazzx-ai/jobs/5419130008 | JazzX AI | Director, Technical Product Management | posted=2026-09-09
 
+- [ ] https://www.linkedin.com/jobs/view/4463853506 | Priceline | Product Manager | posted=2026-09-09
+- [ ] https://www.linkedin.com/jobs/view/4465035275 | Amazon | Senior Product Manager - Tech, Selection Monitoring | posted=2026-09-09
+- [ ] https://www.linkedin.com/jobs/view/4454910711 | HackerOne | Product Manager | posted=2026-09-09
+- [ ] https://www.linkedin.com/jobs/view/4465033414 | iXceed Solutions | Network Product Manager | posted=2026-09-09
+- [ ] https://www.linkedin.com/jobs/view/4462809814 | SourcingXPress | Technical Product Manager | posted=2026-09-09
+- [ ] https://www.linkedin.com/jobs/view/4463863409 | Scoutit | Associate Product Manager | posted=2026-09-09
+- [ ] https://www.linkedin.com/jobs/view/4465057081 | CodeRound AI | Associate Product Manager (AI | Up to 20LPA) | posted=2026-09-09
+- [ ] https://www.linkedin.com/jobs/view/4463042287 | Art Technology and Software | Product Manager – Payments/Acquiring (Consultant) | posted=2026-09-09
+- [ ] https://www.linkedin.com/jobs/view/4454904318 | Google | Product Manager, Android Maps Reach | posted=2026-09-09
+- [ ] https://www.linkedin.com/jobs/view/4465047214 | Amazon | Product Manager, Amazon Business India | posted=2026-09-09
+- [ ] https://job-boards.greenhouse.io/appian/jobs/8188131 | Appian | Senior Product Manager II - Identity & Access Management | posted=2026-09-09
+- [ ] https://apply.workable.com/j/78205380B1 | Lokal App | Associate Product Manager (Matrimony) | posted=2026-09-09
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -5502,6 +5502,15 @@ Pune, India | posted=2026-06-28
 - [ ] https://job-boards.eu.greenhouse.io/valtech/jobs/4964147101 | Valtech | Product Owner Sr  | posted=2026-09-08
 - [ ] https://apply.workable.com/j/EE1C865B7D | Lokal App | Product Manager II ( Poster ) | posted=2026-09-08
 
+- [ ] https://www.linkedin.com/jobs/view/4465013048 | FRND | Senior Product Manager - New Initiatives | posted=2026-09-09
+- [ ] https://www.linkedin.com/jobs/view/4463827145 | LinkedIn India Senior PM | Cloud Infrastructure Product Manager | posted=2026-09-09
+- [ ] https://www.linkedin.com/jobs/view/4465027038 | athenahealth | Product Manager, Patient Messaging | posted=2026-09-09
+- [ ] https://www.linkedin.com/jobs/view/4463001109 | Cligent Aerospace | Product Owner – Aircraft Programs | posted=2026-09-09
+- [ ] https://jobs.ashbyhq.com/gamma/623482be-52fd-464a-901f-8687f50a0f8b | Gamma | Sr. Product Manager, B2B | posted=2026-07-13
+- [ ] https://job-boards.greenhouse.io/zyngacareers/jobs/6179885004 | Zynga | Product Manager II | posted=2026-09-09
+- [ ] https://jobs.lever.co/jobgether/62a4e413-04d7-4452-82fe-76c44481d56c | Jobgether | ServiceNow UI Builder | posted=2026-09-09
+- [ ] https://job-boards.greenhouse.io/jazzx-ai/jobs/5419130008 | JazzX AI | Director, Technical Product Management | posted=2026-09-09
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

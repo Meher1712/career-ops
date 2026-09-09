@@ -5524,6 +5524,18 @@ Pune, India | posted=2026-06-28
 - [ ] https://job-boards.greenhouse.io/appian/jobs/8188131 | Appian | Senior Product Manager II - Identity & Access Management | posted=2026-09-09
 - [ ] https://apply.workable.com/j/78205380B1 | Lokal App | Associate Product Manager (Matrimony) | posted=2026-09-09
 
+- [ ] https://www.linkedin.com/jobs/view/4463067278 | Atlys | Technical Product Manager - Recommendations | posted=2026-09-09
+- [ ] https://www.linkedin.com/jobs/view/4445893437 | Atlys | Technical Product Manager | posted=2026-09-09
+- [ ] https://www.linkedin.com/jobs/view/4443262863 | F5 | Product Manager II | posted=2026-09-09
+- [ ] https://www.linkedin.com/jobs/view/4455926447 | Amazon | Product Manager, Private Brands | posted=2026-09-09
+- [ ] https://www.linkedin.com/jobs/view/4463065252 | Mastercard | Director, Product Management | posted=2026-09-09
+- [ ] https://www.linkedin.com/jobs/view/4463063156 | Angel One | Senior Product Manager | posted=2026-09-09
+- [ ] https://www.linkedin.com/jobs/view/4463847117 | Stryker | Sr Manager, EDT Product Manager, Product Lifecycle Management | posted=2026-09-09
+- [ ] https://www.linkedin.com/jobs/view/4465088061 | AlphaSense | Product Manager 1 | posted=2026-09-09
+- [ ] https://www.linkedin.com/jobs/view/4463899610 | Goldman Sachs | AWM Management- Product Management- Associate- Bengaluru | posted=2026-09-09
+- [ ] https://www.linkedin.com/jobs/view/4458888891 | Atlys | Senior Product Manager - Retention | posted=2026-09-09
+- [ ] https://www.linkedin.com/jobs/view/4463062298 | Atlys | Technical Product Manager - AI | posted=2026-09-09
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

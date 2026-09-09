@@ -1,40 +1,61 @@
 {
-  "generated_at": "2026-09-08T17:16:06.370Z",
+  "generated_at": "2026-09-09T08:11:09.173Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Manager, Product Management – Resiliency Operations (Stand-In & On-Demand Decisioning)",
-      "company": "Mastercard",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://www.linkedin.com/jobs/view/4462539166"
+      "title": "Senior Product Manager - New Initiatives",
+      "company": "FRND",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4465013048"
     },
     {
       "n": 2,
-      "title": "Lead Product Owner",
-      "company": "Orange Business",
-      "location": "Gurgaon, Haryana, India",
-      "url": "https://www.linkedin.com/jobs/view/4463511924"
+      "title": "Cloud Infrastructure Product Manager",
+      "company": "LinkedIn India Senior PM",
+      "location": "Lucknow, Uttar Pradesh, India",
+      "url": "https://www.linkedin.com/jobs/view/4463827145"
     },
     {
       "n": 3,
-      "title": "Product Owner",
-      "company": "Mobility Global",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://www.linkedin.com/jobs/view/4462539102"
+      "title": "Product Manager, Patient Messaging",
+      "company": "athenahealth",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4465027038"
     },
     {
       "n": 4,
-      "title": "Product Owner Sr ",
-      "company": "Valtech",
-      "location": "Brazil - Remote",
-      "url": "https://job-boards.eu.greenhouse.io/valtech/jobs/4964147101"
+      "title": "Product Owner – Aircraft Programs",
+      "company": "Cligent Aerospace",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4463001109"
     },
     {
       "n": 5,
-      "title": "Product Manager II ( Poster )",
-      "company": "Lokal App",
+      "title": "Sr. Product Manager, B2B",
+      "company": "Gamma",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/gamma/623482be-52fd-464a-901f-8687f50a0f8b"
+    },
+    {
+      "n": 6,
+      "title": "Product Manager II",
+      "company": "Zynga",
       "location": "Bengaluru, India",
-      "url": "https://apply.workable.com/j/EE1C865B7D"
+      "url": "https://job-boards.greenhouse.io/zyngacareers/jobs/6179885004"
+    },
+    {
+      "n": 7,
+      "title": "ServiceNow UI Builder",
+      "company": "Jobgether",
+      "location": "India",
+      "url": "https://jobs.lever.co/jobgether/62a4e413-04d7-4452-82fe-76c44481d56c"
+    },
+    {
+      "n": 8,
+      "title": "Director, Technical Product Management",
+      "company": "JazzX AI",
+      "location": "Bengaluru, Karnataka",
+      "url": "https://job-boards.greenhouse.io/jazzx-ai/jobs/5419130008"
     }
   ]
 }

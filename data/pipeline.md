@@ -5547,6 +5547,18 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.ashbyhq.com/onhires/203d2601-eb57-4399-8f6f-5d1e3c4c7869 | OnHires | Head of Products | posted=2026-09-10
 - [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990015165366 | Nielsen | Senior Product Manager II | posted=2026-09-10
 
+- [ ] https://www.linkedin.com/jobs/view/4463482235 | dSPACE | Product Owner | posted=2026-09-10
+- [ ] https://www.linkedin.com/jobs/view/4463454095 | Curriculum Associates | Senior Technical Product Manager I | posted=2026-09-10
+- [ ] https://www.linkedin.com/jobs/view/4464526307 | MobiKwik | Senior Product Manager - Merchant Offline | posted=2026-09-10
+- [ ] https://www.linkedin.com/jobs/view/4463474208 | Axis Max Life Insurance Limited | Senior Manager - Product Management | posted=2026-09-10
+- [ ] https://www.linkedin.com/jobs/view/4464522553 | MobiKwik | Senior Product Manager – Broking | posted=2026-09-10
+- [ ] https://www.linkedin.com/jobs/view/4465669196 | Amazon | Sr. Product Manager, FBA Inventory Management, WW FBA | posted=2026-09-10
+- [ ] https://www.linkedin.com/jobs/view/4463477297 | Sapat global health pvt. ltd. | Product Manager – VeraSkin | posted=2026-09-10
+- [ ] https://www.linkedin.com/jobs/view/4464522654 | Ujjivan Small Finance Bank | Product Manager-Individual Loans | posted=2026-09-10
+- [ ] https://jobs.ashbyhq.com/metaforms/11927a5f-ed4b-4e2a-ae42-aab75bb307c9 | Metaforms | Product Manager | posted=2026-09-10
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990015167376 | Nielsen | Senior Product Manager II | posted=2026-09-10
+- [ ] https://jobs.lever.co/jobgether/fb2afea8-2692-4b45-ac1c-6a44684ae9e5 | Jobgether | Sr Technical Product Manager | posted=2026-09-10
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

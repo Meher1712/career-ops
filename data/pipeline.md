@@ -5559,6 +5559,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990015167376 | Nielsen | Senior Product Manager II | posted=2026-09-10
 - [ ] https://jobs.lever.co/jobgether/fb2afea8-2692-4b45-ac1c-6a44684ae9e5 | Jobgether | Sr Technical Product Manager | posted=2026-09-10
 
+- [ ] https://www.linkedin.com/jobs/view/4463499117 | airtel | Product Manager | posted=2026-09-10
+- [ ] https://www.linkedin.com/jobs/view/4463470704 | Nielsen | Senior Product Manager II | posted=2026-09-10
+- [ ] https://www.linkedin.com/jobs/view/4463910154 | Kroll | Product Owner | posted=2026-09-10
+- [ ] https://www.linkedin.com/jobs/view/4463912129 | Kroll | Lead Product Owner | posted=2026-09-10
+- [ ] https://www.linkedin.com/jobs/view/4455423215 | Redwood Software | Director, Product Management | posted=2026-09-10
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

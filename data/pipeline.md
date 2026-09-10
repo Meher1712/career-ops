@@ -5536,6 +5536,17 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4458888891 | Atlys | Senior Product Manager - Retention | posted=2026-09-09
 - [ ] https://www.linkedin.com/jobs/view/4463062298 | Atlys | Technical Product Manager - AI | posted=2026-09-09
 
+- [ ] https://stripe.com/jobs/search?gh_jid=8140438 | Stripe | Product Manager, Mobile | posted=2026-09-09
+- [ ] https://www.linkedin.com/jobs/view/4464182547 | Innefu Labs | Product Manager Agentic AI | posted=2026-09-10
+- [ ] https://www.linkedin.com/jobs/view/4465618987 | Experian | Product Manager | posted=2026-09-10
+- [ ] https://www.linkedin.com/jobs/view/4465624925 | Valor PayTech | Technical Product Manager | posted=2026-09-10
+- [ ] https://www.linkedin.com/jobs/view/4463439422 | MyCareernet | Product Owner_103252 | posted=2026-09-10
+- [ ] https://www.linkedin.com/jobs/view/4464192405 | InnovKaro Solutions | Product Manager | posted=2026-09-10
+- [ ] https://www.okta.com/company/careers/opportunity/8188921?gh_jid=8188921 | Okta | People Technology Staff Product Manager | posted=2026-09-09
+- [ ] https://www.linkedin.com/jobs/view/4465620950 | Aditi Consulting | Lead Product Manager | posted=2026-09-10
+- [ ] https://jobs.ashbyhq.com/onhires/203d2601-eb57-4399-8f6f-5d1e3c4c7869 | OnHires | Head of Products | posted=2026-09-10
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990015165366 | Nielsen | Senior Product Manager II | posted=2026-09-10
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

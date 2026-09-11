@@ -5565,6 +5565,10 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4463912129 | Kroll | Lead Product Owner | posted=2026-09-10
 - [ ] https://www.linkedin.com/jobs/view/4455423215 | Redwood Software | Director, Product Management | posted=2026-09-10
 
+- [ ] https://www.linkedin.com/jobs/view/4464845820 | IDFC FIRST Bank | Product Manager-Loan Against Property | posted=2026-09-11
+- [ ] https://www.linkedin.com/jobs/view/4466057254 | Wipro | PRODUCT MANAGER L1 | posted=2026-09-11
+- [ ] https://www.linkedin.com/jobs/view/4466042533 | HCLSoftware | Head of Product Management | posted=2026-09-11
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

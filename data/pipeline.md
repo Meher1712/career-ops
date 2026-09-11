@@ -5569,6 +5569,16 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4466057254 | Wipro | PRODUCT MANAGER L1 | posted=2026-09-11
 - [ ] https://www.linkedin.com/jobs/view/4466042533 | HCLSoftware | Head of Product Management | posted=2026-09-11
 
+- [ ] https://www.linkedin.com/jobs/view/4466088528 | JioSaavn | Senior Product Manager - Personalisation & AI | posted=2026-09-11
+- [ ] https://www.linkedin.com/jobs/view/4463985535 | Clearwater Analytics | Senior Product Manager | posted=2026-09-11
+- [ ] https://www.linkedin.com/jobs/view/4463990110 | Unolo | Product Manager | posted=2026-09-11
+- [ ] https://www.linkedin.com/jobs/view/4452220842 | KeyValue | Product Manager | posted=2026-09-11
+- [ ] https://www.linkedin.com/jobs/view/4464198784 | HireQuotient | Technical Product Manager | posted=2026-09-11
+- [ ] https://www.linkedin.com/jobs/view/4463972761 | Swiggy | Product Manager I | posted=2026-09-11
+- [ ] https://www.linkedin.com/jobs/view/4464862894 | InnovKaro Solutions | Product Manager | posted=2026-09-11
+- [ ] https://www.linkedin.com/jobs/view/4464872714 | Digital Green | Head of Product Operations | posted=2026-09-11
+- [ ] https://job-boards.greenhouse.io/onetrust/jobs/8192394 | OneTrust | Principal Product Manager, AI Build Governance | posted=2026-09-11
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

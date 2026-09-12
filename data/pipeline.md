@@ -5590,6 +5590,8 @@ Pune, India | posted=2026-06-28
 
 - [ ] https://api.smartrecruiters.com/v1/companies/Freshworks/postings/744000149059419 | Freshworks | Staff Product Manager | posted=2026-09-11
 
+- [ ] https://www.linkedin.com/jobs/view/4457385665 | Opella | Software Lifecycle Product Owner | posted=2026-09-12
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

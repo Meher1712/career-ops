@@ -5588,6 +5588,8 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/jobgether/eef5d2bf-790b-4c41-8245-e0999375cc9f | Jobgether | Product Manager 1 | posted=2026-09-10
 - [ ] https://www.digicert.com/careers/?gh_jid=8789220002 | Digicert | Senior Product Manager - DNS | posted=2026-09-11
 
+- [ ] https://api.smartrecruiters.com/v1/companies/Freshworks/postings/744000149059419 | Freshworks | Staff Product Manager | posted=2026-09-11
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

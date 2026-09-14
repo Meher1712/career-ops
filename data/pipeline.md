@@ -5609,6 +5609,11 @@ Pune, India | posted=2026-06-28
 - [ ] https://job-boards.greenhouse.io/commerceiq/jobs/7970575003 | CommerceIQ | Director, Product Management | posted=2026-09-14
 - [ ] https://jobs.lever.co/jobgether/ed3399a7-1091-4929-b0f2-3c83a515f8cf | Jobgether | Director, Product Management (Crim Automation) | posted=2026-09-14
 
+- [ ] https://www.linkedin.com/jobs/view/4467213313 | Optum India | Senior Technical Product Manager | posted=2026-09-14
+- [ ] https://www.linkedin.com/jobs/view/4467208354 | Optum India | Senior Product Manager | posted=2026-09-14
+- [ ] https://www.linkedin.com/jobs/view/4465219470 | SafeTrace | Founding team | posted=2026-09-14
+- [ ] https://www.zoominfo.com/careers?gh_jid=8747423002 | ZoomInfo | Senior Product Manager | posted=2026-09-14
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

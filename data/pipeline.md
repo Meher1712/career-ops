@@ -5601,6 +5601,14 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4465467950 | Adobe | Product Manager (Growth - B2B Enterprise) | posted=2026-09-13
 - [ ] https://www.linkedin.com/jobs/view/4465491048 | American Express | Associate-Digital Product Management | posted=2026-09-13
 
+- [ ] https://www.linkedin.com/jobs/view/4462477048 | athenahealth | Product Manager, Patient Messaging | posted=2026-09-14
+- [ ] https://www.linkedin.com/jobs/view/4467029932 | Skyleaf Consultants LLP | Principal Product Manager | posted=2026-09-14
+- [ ] https://www.linkedin.com/jobs/view/4465736269 | Where U Elevate® | Product Manager | posted=2026-09-14
+- [ ] https://www.linkedin.com/jobs/view/4467046989 | Flexiple | Technical Product Manager | posted=2026-09-14
+- [ ] https://www.linkedin.com/jobs/view/4413443875 | athenahealth | Director Product Management | posted=2026-09-14
+- [ ] https://job-boards.greenhouse.io/commerceiq/jobs/7970575003 | CommerceIQ | Director, Product Management | posted=2026-09-14
+- [ ] https://jobs.lever.co/jobgether/ed3399a7-1091-4929-b0f2-3c83a515f8cf | Jobgether | Director, Product Management (Crim Automation) | posted=2026-09-14
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

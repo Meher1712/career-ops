@@ -5614,6 +5614,13 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4465219470 | SafeTrace | Founding team | posted=2026-09-14
 - [ ] https://www.zoominfo.com/careers?gh_jid=8747423002 | ZoomInfo | Senior Product Manager | posted=2026-09-14
 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8806017002 | GitLab | Director of Product Management, Agentic Software Delivery | posted=2026-09-14
+- [ ] https://www.linkedin.com/jobs/view/4466126185 | LinkedIn India Senior PM | Senior Oracle Cloud HCM Product Owner (Payroll, Absence, Time & Labor, Benefits, Jira Agile Delivery)- Remote-India | posted=2026-09-14
+- [ ] https://www.linkedin.com/jobs/view/4461328533 | Xometry | Staff Product Manager | posted=2026-09-14
+- [ ] https://www.linkedin.com/jobs/view/4457945462 | Xometry | Principal Product Manager | posted=2026-09-14
+- [ ] https://www.linkedin.com/jobs/view/4467266523 | Flexiple | Product Owner | posted=2026-09-14
+- [ ] https://job-boards.greenhouse.io/globalizationpartners/jobs/7992566003 | Globalization Partners | Vice President, Product Management (EOR) | posted=2026-09-14
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

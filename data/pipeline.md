@@ -5621,6 +5621,14 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4467266523 | Flexiple | Product Owner | posted=2026-09-14
 - [ ] https://job-boards.greenhouse.io/globalizationpartners/jobs/7992566003 | Globalization Partners | Vice President, Product Management (EOR) | posted=2026-09-14
 
+- [ ] https://www.linkedin.com/jobs/view/4465513545 | Procter & Gamble | Senior IT Data Product Manager (TOP Organization) | posted=2026-09-15
+- [ ] https://www.linkedin.com/jobs/view/4465512691 | Veryon | Senior Product Owner | posted=2026-09-15
+- [ ] https://www.linkedin.com/jobs/view/4465510469 | Innovatiview | Product Manager | posted=2026-09-15
+- [ ] https://www.linkedin.com/jobs/view/4467702451 | boAt Lifestyle | Product Manager | posted=2026-09-15
+- [ ] https://www.linkedin.com/jobs/view/4466176950 | Time Hack Consulting | Associate Product Manager - Fixed Income | posted=2026-09-15
+- [ ] https://jobs.ashbyhq.com/tilthq/f0365550-18cb-4515-9222-92ed7bf323fa | Tilt | Head of Product Design | posted=2026-09-14
+- [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Senior-Product-Manager---Data---AI-Governance_JR108725 | Sabre | Senior Product Manager - Data & AI Governance | posted=2026-09-15
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

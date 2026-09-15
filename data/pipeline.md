@@ -5629,6 +5629,14 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.ashbyhq.com/tilthq/f0365550-18cb-4515-9222-92ed7bf323fa | Tilt | Head of Product Design | posted=2026-09-14
 - [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Senior-Product-Manager---Data---AI-Governance_JR108725 | Sabre | Senior Product Manager - Data & AI Governance | posted=2026-09-15
 
+- [ ] https://jobs.lever.co/meesho/5dca8c71-9993-438f-ad51-da3c7f4be692 | Meesho | Product Manager II - User Discovery | posted=2026-08-18
+- [ ] https://www.linkedin.com/jobs/view/4466530071 | Outreach | Senior Product Manager | posted=2026-09-15
+- [ ] https://www.linkedin.com/jobs/view/4467758265 | Rakuten Symphony | Product Manager, Network Testing & AI Automation | posted=2026-09-15
+- [ ] https://www.linkedin.com/jobs/view/4465536731 | AU SMALL FINANCE BANK | Product Manager | posted=2026-09-15
+- [ ] https://www.linkedin.com/jobs/view/4467751549 | Flexing It® | Product Manager | posted=2026-09-15
+- [ ] https://job-boards.greenhouse.io/onetrust/jobs/8192392 | OneTrust | Principal Product Manager, AI Runtime Governance | posted=2026-09-15
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990015257296 | Nielsen | Senior Product Manager I | posted=2026-09-15
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -5637,6 +5637,10 @@ Pune, India | posted=2026-06-28
 - [ ] https://job-boards.greenhouse.io/onetrust/jobs/8192392 | OneTrust | Principal Product Manager, AI Runtime Governance | posted=2026-09-15
 - [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990015257296 | Nielsen | Senior Product Manager I | posted=2026-09-15
 
+- [ ] https://www.linkedin.com/jobs/view/4448187979 | Airbnb | Staff Platform Manager, Loyalty Platform Lead (Product Management) | posted=2026-09-15
+- [ ] https://www.linkedin.com/jobs/view/4466570239 | HSBC | Product Manager - Global Trade Solutions | posted=2026-09-15
+- [ ] https://www.linkedin.com/jobs/view/4448606348 | BNY | Senior Vice President, POM Technical Product Management - Client Entitlements & Authentication | posted=2026-09-15
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -5663,6 +5663,11 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4468222587 | TekIT Software Solutions Pvt. Ltd. (India & USA) | Product Manager – OpenShift | posted=2026-09-16
 - [ ] https://job-boards.greenhouse.io/onetrust/jobs/8207523 | OneTrust | Staff Product Manager | posted=2026-09-16
 
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/8204150 | Twilio | Senior Product Manager | posted=2026-09-16
+- [ ] https://www.linkedin.com/jobs/view/4468263027 | GE Vernova | Senior Product Manager - AI | posted=2026-09-16
+- [ ] https://www.linkedin.com/jobs/view/4468254876 | State Street | Account Services, Product Owner, AVP | posted=2026-09-16
+- [ ] https://www.linkedin.com/jobs/view/4468246966 | State Street | Product Management(Accounting Services), Vice President | posted=2026-09-16
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

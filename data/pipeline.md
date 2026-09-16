@@ -5641,6 +5641,20 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4466570239 | HSBC | Product Manager - Global Trade Solutions | posted=2026-09-15
 - [ ] https://www.linkedin.com/jobs/view/4448606348 | BNY | Senior Vice President, POM Technical Product Management - Client Entitlements & Authentication | posted=2026-09-15
 
+- [ ] https://www.linkedin.com/jobs/view/4467979439 | ETS | Lead Product Manager | posted=2026-09-16
+- [ ] https://www.linkedin.com/jobs/view/4465959790 | EY | Monitoring And Management Product Manager | posted=2026-09-16
+- [ ] https://www.linkedin.com/jobs/view/4466850021 | Trupeer AI | Founding Product Manager | posted=2026-09-16
+- [ ] https://www.linkedin.com/jobs/view/4467965494 | Elife Transfer | Product Manager | posted=2026-09-16
+- [ ] https://www.linkedin.com/jobs/view/4465952875 | CareerXperts Consulting | Product Manager | posted=2026-09-16
+- [ ] https://www.linkedin.com/jobs/view/4466852115 | EnglishBhashi | Fractional Product Manager – Lang Learning | posted=2026-09-16
+- [ ] https://jobs.lever.co/meesho/4891a891-f431-4e98-99ae-0e31a21f0190 | Meesho | Product Manager I | posted=2026-09-16
+- [ ] https://www.linkedin.com/jobs/view/4467976409 | Neysa | Director of Product | posted=2026-09-16
+- [ ] https://jobs.lever.co/jobgether/5266aae4-f10d-4dce-a64d-ac5f23bf6624 | Jobgether | Group Product Manager - Commerce | posted=2026-09-16
+- [ ] https://jobs.lever.co/jobgether/843fbe36-d651-426b-8db1-ec485b39e1f0 | Jobgether | Group Product Manager, Customer Acquisition | posted=2026-09-16
+- [ ] https://jobs.lever.co/jobgether/09c252e6-9f7c-420d-ab57-6573c1ce665d | Jobgether | Head of Product | posted=2026-09-16
+- [ ] https://jobs.lever.co/jobgether/f8ff1f6a-c478-4309-8b89-87a18d325f3b | Jobgether | Middle Affiliate Manager (AI Product) | posted=2026-09-16
+- [ ] https://jobs.lever.co/jobgether/028cc09b-5e2f-4fbc-9b15-78c0037d6e4a | Jobgether | Product Manager II - Payment Orchestration | posted=2026-09-16
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

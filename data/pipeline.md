@@ -5655,6 +5655,14 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/jobgether/f8ff1f6a-c478-4309-8b89-87a18d325f3b | Jobgether | Middle Affiliate Manager (AI Product) | posted=2026-09-16
 - [ ] https://jobs.lever.co/jobgether/028cc09b-5e2f-4fbc-9b15-78c0037d6e4a | Jobgether | Product Manager II - Payment Orchestration | posted=2026-09-16
 
+- [ ] https://www.linkedin.com/jobs/view/4457612606 | SurveyMonkey | Lead Product Manager | posted=2026-09-16
+- [ ] https://www.linkedin.com/jobs/view/4468225352 | TekIT Software Solutions Pvt. Ltd. (India & USA) | Product Manager - Backing Services | posted=2026-09-16
+- [ ] https://www.linkedin.com/jobs/view/4465986758 | HCLTech | Product Manager – Digital Twins for Data Center | posted=2026-09-16
+- [ ] https://www.linkedin.com/jobs/view/4468222538 | TekIT Software Solutions Pvt. Ltd. (India & USA) | Product Manager – Network Services | posted=2026-09-16
+- [ ] https://www.linkedin.com/jobs/view/4468220459 | Experian | Head of GenAI Products, EMAP | posted=2026-09-16
+- [ ] https://www.linkedin.com/jobs/view/4468222587 | TekIT Software Solutions Pvt. Ltd. (India & USA) | Product Manager – OpenShift | posted=2026-09-16
+- [ ] https://job-boards.greenhouse.io/onetrust/jobs/8207523 | OneTrust | Staff Product Manager | posted=2026-09-16
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -5693,6 +5693,14 @@ Pune, India | posted=2026-06-28
 - [ ] https://api.smartrecruiters.com/v1/companies/Freshworks/postings/744000150062710 | Freshworks | Senior Product Manager | posted=2026-09-17
 - [ ] https://www.payoneer.com/careers/position/8210296/?gh_jid=8210296 | Payoneer | Head of Product, PAYO Digital Bank | posted=2026-09-17
 
+- [ ] https://www.okta.com/company/careers/opportunity/8210924?gh_jid=8210924 | Okta | Product Manager, Product Platform | posted=2026-09-17
+- [ ] https://www.linkedin.com/jobs/view/4459661202 | Larsen & Toubro | Product Manager | posted=2026-09-17
+- [ ] https://www.linkedin.com/jobs/view/4458610895 | Ingram Micro | Principal, Product Manager – B2B E-Commerce & AI Innovation | posted=2026-09-17
+- [ ] https://www.linkedin.com/jobs/view/4449763439 | Adobe | Principal Product Manager (DSP Advertising) | posted=2026-09-17
+- [ ] https://www.linkedin.com/jobs/view/4468682630 | First Citizens India | Process Manager - Product Owner, MDM | posted=2026-09-17
+- [ ] https://www.linkedin.com/jobs/view/4466295570 | CuraTeQ Biologics | Pharma Product Manager Oncology | posted=2026-09-17
+- [ ] https://jobs.lever.co/nium/f37f91b1-9894-4516-a84d-9dc9cb22ec1e | Nium | Staff Product Manager  – Digital Assets | posted=2026-09-17
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

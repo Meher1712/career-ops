@@ -1,33 +1,82 @@
 {
-  "generated_at": "2026-09-16T18:12:44.239Z",
+  "generated_at": "2026-09-17T08:41:45.793Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Senior Product Manager",
-      "company": "Twilio",
-      "location": "Remote - US",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8204150"
+      "title": "Product Manager",
+      "company": "Verloop.io",
+      "location": "India",
+      "url": "https://www.linkedin.com/jobs/view/4467194243"
     },
     {
       "n": 2,
-      "title": "Senior Product Manager - AI",
-      "company": "GE Vernova",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4468263027"
+      "title": "Technical Product Manager",
+      "company": "BOLD",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://www.linkedin.com/jobs/view/4467192424"
     },
     {
       "n": 3,
-      "title": "Account Services, Product Owner, AVP",
-      "company": "State Street",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://www.linkedin.com/jobs/view/4468254876"
+      "title": "OpenShift-Product Manager",
+      "company": "Viraaj HR Solutions Private Limited",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4467190271"
     },
     {
       "n": 4,
-      "title": "Product Management(Accounting Services), Vice President",
-      "company": "State Street",
+      "title": "Product Manager",
+      "company": "Narayana Health",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4468397209"
+    },
+    {
+      "n": 5,
+      "title": "Product Manager",
+      "company": "Teamified",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4467505237"
+    },
+    {
+      "n": 6,
+      "title": "Product Manager - OpenShift",
+      "company": "Emarlex Multiventure",
+      "location": "Bengaluru South, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4467199395"
+    },
+    {
+      "n": 7,
+      "title": "Product Owner (DMS-Dealer Management System experience)",
+      "company": "Insight International (UK) Ltd",
       "location": "Hyderabad, Telangana, India",
-      "url": "https://www.linkedin.com/jobs/view/4468246966"
+      "url": "https://www.linkedin.com/jobs/view/4467191278"
+    },
+    {
+      "n": 8,
+      "title": "Director - Product Manager - Lakehouse (Asset Management)",
+      "company": "TIAA",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4467198338"
+    },
+    {
+      "n": 9,
+      "title": "Hiring: Product Manager/Assistant Product Manager – Pharma PMT | Nepal Division | Gynae + IVF | Chennai Based | CTC up to ₹18 LPA",
+      "company": "Jaidev Pharma Placement",
+      "location": "Chennai, Tamil Nadu, India",
+      "url": "https://www.linkedin.com/jobs/view/4468361829"
+    },
+    {
+      "n": 10,
+      "title": "Principal Product Manager - Vertical Data",
+      "company": "ZoomInfo",
+      "location": "Remote",
+      "url": "https://www.zoominfo.com/careers?gh_jid=8801899002"
+    },
+    {
+      "n": 11,
+      "title": "Senior Product Manager",
+      "company": "Coupang",
+      "location": "Bengaluru",
+      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8195266"
     }
   ]
 }

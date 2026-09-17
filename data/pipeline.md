@@ -5680,6 +5680,19 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.zoominfo.com/careers?gh_jid=8801899002 | ZoomInfo | Principal Product Manager - Vertical Data | posted=2026-09-16
 - [ ] https://www.coupang.jobs/en/jobs/?gh_jid=8195266 | Coupang | Senior Product Manager | posted=2026-09-17
 
+- [ ] https://www.linkedin.com/jobs/view/4467546553 | IDFC FIRST Bank | Senior Product Manager-Credit Cards | posted=2026-09-17
+- [ ] https://www.linkedin.com/jobs/view/4467549563 | Cvent | Senior Product Manager (Hospitality) | posted=2026-09-17
+- [ ] https://www.linkedin.com/jobs/view/4467541660 | TalentXO | Senior Product Manager (Forward Deployed, Product company) | posted=2026-09-17
+- [ ] https://www.linkedin.com/jobs/view/4466288085 | BookMyCharters | Technical Product Manager | posted=2026-09-17
+- [ ] https://www.linkedin.com/jobs/view/4468642555 | Pragmatike | Product Manager – AI Security | posted=2026-09-17
+- [ ] https://www.linkedin.com/jobs/view/4468649103 | Vena Solutions | Product Owner, Integrations | posted=2026-09-17
+- [ ] https://www.linkedin.com/jobs/view/4455671371 | Saisystems Health | Associate Product Manager | posted=2026-09-17
+- [ ] https://www.linkedin.com/jobs/view/4467562066 | BeFiSc | Associate Product Manager | posted=2026-09-17
+- [ ] https://www.linkedin.com/jobs/view/4459331422 | Hitachi Energy | Product Management Operations specialist | posted=2026-09-17
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990015339116 | Nielsen | Senior Product Manager II | posted=2026-09-17
+- [ ] https://api.smartrecruiters.com/v1/companies/Freshworks/postings/744000150062710 | Freshworks | Senior Product Manager | posted=2026-09-17
+- [ ] https://www.payoneer.com/careers/position/8210296/?gh_jid=8210296 | Payoneer | Head of Product, PAYO Digital Bank | posted=2026-09-17
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

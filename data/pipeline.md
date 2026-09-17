@@ -5668,6 +5668,18 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4468254876 | State Street | Account Services, Product Owner, AVP | posted=2026-09-16
 - [ ] https://www.linkedin.com/jobs/view/4468246966 | State Street | Product Management(Accounting Services), Vice President | posted=2026-09-16
 
+- [ ] https://www.linkedin.com/jobs/view/4467194243 | Verloop.io | Product Manager | posted=2026-09-17
+- [ ] https://www.linkedin.com/jobs/view/4467192424 | BOLD | Technical Product Manager | posted=2026-09-17
+- [ ] https://www.linkedin.com/jobs/view/4467190271 | Viraaj HR Solutions Private Limited | OpenShift-Product Manager | posted=2026-09-17
+- [ ] https://www.linkedin.com/jobs/view/4468397209 | Narayana Health | Product Manager | posted=2026-09-17
+- [ ] https://www.linkedin.com/jobs/view/4467505237 | Teamified | Product Manager | posted=2026-09-17
+- [ ] https://www.linkedin.com/jobs/view/4467199395 | Emarlex Multiventure | Product Manager - OpenShift | posted=2026-09-17
+- [ ] https://www.linkedin.com/jobs/view/4467191278 | Insight International (UK) Ltd | Product Owner (DMS-Dealer Management System experience) | posted=2026-09-17
+- [ ] https://www.linkedin.com/jobs/view/4467198338 | TIAA | Director - Product Manager - Lakehouse (Asset Management) | posted=2026-09-17
+- [ ] https://www.linkedin.com/jobs/view/4468361829 | Jaidev Pharma Placement | Hiring: Product Manager/Assistant Product Manager – Pharma PMT | Nepal Division | Gynae + IVF | Chennai Based | CTC up to ₹18 LPA | posted=2026-09-17
+- [ ] https://www.zoominfo.com/careers?gh_jid=8801899002 | ZoomInfo | Principal Product Manager - Vertical Data | posted=2026-09-16
+- [ ] https://www.coupang.jobs/en/jobs/?gh_jid=8195266 | Coupang | Senior Product Manager | posted=2026-09-17
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

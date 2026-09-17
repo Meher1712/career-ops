@@ -1,82 +1,89 @@
 {
-  "generated_at": "2026-09-17T08:41:45.793Z",
+  "generated_at": "2026-09-17T14:18:40.228Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Product Manager",
-      "company": "Verloop.io",
-      "location": "India",
-      "url": "https://www.linkedin.com/jobs/view/4467194243"
+      "title": "Senior Product Manager-Credit Cards",
+      "company": "IDFC FIRST Bank",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4467546553"
     },
     {
       "n": 2,
-      "title": "Technical Product Manager",
-      "company": "BOLD",
-      "location": "Noida, Uttar Pradesh, India",
-      "url": "https://www.linkedin.com/jobs/view/4467192424"
+      "title": "Senior Product Manager (Hospitality)",
+      "company": "Cvent",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://www.linkedin.com/jobs/view/4467549563"
     },
     {
       "n": 3,
-      "title": "OpenShift-Product Manager",
-      "company": "Viraaj HR Solutions Private Limited",
+      "title": "Senior Product Manager (Forward Deployed, Product company)",
+      "company": "TalentXO",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4467190271"
+      "url": "https://www.linkedin.com/jobs/view/4467541660"
     },
     {
       "n": 4,
-      "title": "Product Manager",
-      "company": "Narayana Health",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4468397209"
+      "title": "Technical Product Manager",
+      "company": "BookMyCharters",
+      "location": "Mumbai Metropolitan Region",
+      "url": "https://www.linkedin.com/jobs/view/4466288085"
     },
     {
       "n": 5,
-      "title": "Product Manager",
-      "company": "Teamified",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://www.linkedin.com/jobs/view/4467505237"
+      "title": "Product Manager – AI Security",
+      "company": "Pragmatike",
+      "location": "India",
+      "url": "https://www.linkedin.com/jobs/view/4468642555"
     },
     {
       "n": 6,
-      "title": "Product Manager - OpenShift",
-      "company": "Emarlex Multiventure",
-      "location": "Bengaluru South, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4467199395"
+      "title": "Product Owner, Integrations",
+      "company": "Vena Solutions",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4468649103"
     },
     {
       "n": 7,
-      "title": "Product Owner (DMS-Dealer Management System experience)",
-      "company": "Insight International (UK) Ltd",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://www.linkedin.com/jobs/view/4467191278"
+      "title": "Associate Product Manager",
+      "company": "Saisystems Health",
+      "location": "Pune District, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4455671371"
     },
     {
       "n": 8,
-      "title": "Director - Product Manager - Lakehouse (Asset Management)",
-      "company": "TIAA",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://www.linkedin.com/jobs/view/4467198338"
+      "title": "Associate Product Manager",
+      "company": "BeFiSc",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://www.linkedin.com/jobs/view/4467562066"
     },
     {
       "n": 9,
-      "title": "Hiring: Product Manager/Assistant Product Manager – Pharma PMT | Nepal Division | Gynae + IVF | Chennai Based | CTC up to ₹18 LPA",
-      "company": "Jaidev Pharma Placement",
+      "title": "Product Management Operations specialist",
+      "company": "Hitachi Energy",
       "location": "Chennai, Tamil Nadu, India",
-      "url": "https://www.linkedin.com/jobs/view/4468361829"
+      "url": "https://www.linkedin.com/jobs/view/4459331422"
     },
     {
       "n": 10,
-      "title": "Principal Product Manager - Vertical Data",
-      "company": "ZoomInfo",
-      "location": "Remote",
-      "url": "https://www.zoominfo.com/careers?gh_jid=8801899002"
+      "title": "Senior Product Manager II",
+      "company": "Nielsen",
+      "location": "Bengaluru, in",
+      "url": "https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990015339116"
     },
     {
       "n": 11,
       "title": "Senior Product Manager",
-      "company": "Coupang",
-      "location": "Bengaluru",
-      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8195266"
+      "company": "Freshworks",
+      "location": "Bengaluru, in",
+      "url": "https://api.smartrecruiters.com/v1/companies/Freshworks/postings/744000150062710"
+    },
+    {
+      "n": 12,
+      "title": "Head of Product, PAYO Digital Bank",
+      "company": "Payoneer",
+      "location": "Remote, US",
+      "url": "https://www.payoneer.com/careers/position/8210296/?gh_jid=8210296"
     }
   ]
 }

@@ -5706,6 +5706,14 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4467838568 | IDFC FIRST Bank | Product Manager-Debit Cards | posted=2026-09-18
 - [ ] https://jobs.lever.co/jobgether/3c96713b-0db1-40f7-ab8c-ee0527787a71 | Jobgether | Senior Product Manager (Card Issuing) | posted=2026-09-18
 
+- [ ] https://www.linkedin.com/jobs/view/4469153433 | Microsoft | Principal Product Manager | posted=2026-09-18
+- [ ] https://www.linkedin.com/jobs/view/4469151785 | Freshworks | Staff Product Manager | posted=2026-09-18
+- [ ] https://www.linkedin.com/jobs/view/4449137104 | Google | Product Manager, Google Cloud Security | posted=2026-09-18
+- [ ] https://www.linkedin.com/jobs/view/4460128905 | Amazon | Product Manager- Return defect eliminaiton , RBS Return reduction | posted=2026-09-18
+- [ ] https://www.linkedin.com/jobs/view/4467847756 | Atlys | Technical Product Manager AI | posted=2026-09-18
+- [ ] https://www.linkedin.com/jobs/view/4469142763 | VySystems | Product Owner | posted=2026-09-18
+- [ ] https://www.linkedin.com/jobs/view/4469146657 | AB InBev APAC | Associate Product Manager | posted=2026-09-18
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

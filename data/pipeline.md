@@ -5701,6 +5701,11 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4466295570 | CuraTeQ Biologics | Pharma Product Manager Oncology | posted=2026-09-17
 - [ ] https://jobs.lever.co/nium/f37f91b1-9894-4516-a84d-9dc9cb22ec1e | Nium | Staff Product Manager  – Digital Assets | posted=2026-09-17
 
+- [ ] https://www.linkedin.com/jobs/view/4469108993 | CIBC India | Senior Technical Product Owner - Pega/ Power Platform [T500-29481] | posted=2026-09-18
+- [ ] https://www.linkedin.com/jobs/view/4467842136 | SBNRI | Product Manager – Tax & Compliance | posted=2026-09-18
+- [ ] https://www.linkedin.com/jobs/view/4467838568 | IDFC FIRST Bank | Product Manager-Debit Cards | posted=2026-09-18
+- [ ] https://jobs.lever.co/jobgether/3c96713b-0db1-40f7-ab8c-ee0527787a71 | Jobgether | Senior Product Manager (Card Issuing) | posted=2026-09-18
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

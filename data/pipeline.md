@@ -5714,6 +5714,16 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4469142763 | VySystems | Product Owner | posted=2026-09-18
 - [ ] https://www.linkedin.com/jobs/view/4469146657 | AB InBev APAC | Associate Product Manager | posted=2026-09-18
 
+- [ ] https://www.linkedin.com/jobs/view/4467887480 | Nutrabay | Senior Product Manager | posted=2026-09-18
+- [ ] https://www.linkedin.com/jobs/view/4467885547 | Google | Product Manager, Google Photos | posted=2026-09-18
+- [ ] https://www.linkedin.com/jobs/view/4467874800 | Staffnix | Forward Deployed Product Manager | posted=2026-09-18
+- [ ] https://www.linkedin.com/jobs/view/4467883865 | Epiroc | Regional Product Manager DTH - APAC | posted=2026-09-18
+- [ ] https://www.linkedin.com/jobs/view/4466912620 | PwC Acceleration Center India | Product Management - Senior Manager | posted=2026-09-18
+- [ ] https://www.linkedin.com/jobs/view/4469203233 | Wesco | Product Owner | posted=2026-09-18
+- [ ] https://www.linkedin.com/jobs/view/4466695861 | PwC Acceleration Center India | Product Management - Manager | posted=2026-09-18
+- [ ] https://www.linkedin.com/jobs/view/4466914015 | PwC Acceleration Center India | Product Management - Senior Associate | posted=2026-09-18
+- [ ] https://api.smartrecruiters.com/v1/companies/Freshworks/postings/744000150365379 | Freshworks | Staff Product Manager | posted=2026-09-18
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

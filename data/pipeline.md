@@ -5730,6 +5730,14 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4466955924 | FNP | Group Product Manager (Supply Chain/Operations) | posted=2026-09-19
 - [ ] https://job-boards.greenhouse.io/zscaler/jobs/5236312007 | Zscaler | Principal Product Manager | posted=2026-09-18
 
+- [ ] https://www.linkedin.com/jobs/view/4466193774 | AU SMALL FINANCE BANK | AI Technical Product Manager | posted=2026-09-19
+- [ ] https://www.linkedin.com/jobs/view/4456957637 | Circle | Principal Product Manager, Core Network | posted=2026-09-19
+- [ ] https://www.linkedin.com/jobs/view/4458083692 | Siemens Healthineers | Product Owner (MR Scanner Software) | posted=2026-09-19
+- [ ] https://www.linkedin.com/jobs/view/4466682765 | Staple AI | Product Manager | posted=2026-09-19
+- [ ] https://www.linkedin.com/jobs/view/4469528413 | CodeRound AI | Technical Product Manager (Up to 30LPA) | posted=2026-09-19
+- [ ] https://www.linkedin.com/jobs/view/4441945256 | QAD | Director Product Management - Source-to-Pay | posted=2026-09-19
+- [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-California/Director-of-Product-Management--Adobe-Lightroom-Creative-Pro_R171225 | Adobe | Director of Product Management, Adobe Lightroom Creative Pro
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -5724,6 +5724,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4466914015 | PwC Acceleration Center India | Product Management - Senior Associate | posted=2026-09-18
 - [ ] https://api.smartrecruiters.com/v1/companies/Freshworks/postings/744000150365379 | Freshworks | Staff Product Manager | posted=2026-09-18
 
+- [ ] https://www.linkedin.com/jobs/view/4466978036 | Value at Void™ | Product Manager | posted=2026-09-19
+- [ ] https://www.linkedin.com/jobs/view/4469523035 | Evolute Group | Senior Manager_Product Management | posted=2026-09-19
+- [ ] https://www.linkedin.com/jobs/view/4467872457 | Anomaly Business Consult | Product Manager | posted=2026-09-19
+- [ ] https://www.linkedin.com/jobs/view/4466955924 | FNP | Group Product Manager (Supply Chain/Operations) | posted=2026-09-19
+- [ ] https://job-boards.greenhouse.io/zscaler/jobs/5236312007 | Zscaler | Principal Product Manager | posted=2026-09-18
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

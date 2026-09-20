@@ -5741,6 +5741,8 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4466991077 | Hero Vired | Senior Product Manager - AI-First Learning, Careers & Apprenticeships | posted=2026-09-19
 - [ ] https://www.linkedin.com/jobs/view/4337212765 | YES BANK | Product Manager Custody CMS | posted=2026-09-19
 
+- [ ] https://www.linkedin.com/jobs/view/4468445454 | BoF Careers | Ralph Lauren Data Product Manager | posted=2026-09-20
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -5759,6 +5759,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4467622278 | MSD | Validation Spclst , Technical Product Management | posted=2026-09-21
 - [ ] https://job-boards.greenhouse.io/newrelic/jobs/5407544008 | New Relic | Manager, Product Design: AI Products | posted=2026-09-21
 
+- [ ] https://www.linkedin.com/jobs/view/4469971357 | athenahealth | Senior Product Manager - Clinical Data | posted=2026-09-21
+- [ ] https://www.linkedin.com/jobs/view/4468139513 | FactSet | Senior Principal Product Manager – Agentic/AI Data Collection | posted=2026-09-21
+- [ ] https://www.linkedin.com/jobs/view/4469965121 | IDFC FIRST Bank | Product Manager - Gen AI | posted=2026-09-21
+- [ ] https://www.linkedin.com/jobs/view/4469965519 | Flexiple | Product Owner | posted=2026-09-21
+- [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Lead-Product-Manager---Lodging-Distribution_JR108758 | Sabre | Lead Product Manager - Lodging Distribution | posted=2026-09-21
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

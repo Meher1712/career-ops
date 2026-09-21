@@ -5745,6 +5745,10 @@ Pune, India | posted=2026-06-28
 
 - [ ] https://www.linkedin.com/jobs/view/4468463949 | iProfit | Product Owner | posted=2026-09-20
 
+- [ ] https://www.linkedin.com/jobs/view/4468714609 | Kanerika Inc | Product Manager | posted=2026-09-21
+- [ ] https://www.linkedin.com/jobs/view/4468714493 | LinkedIn India Senior PM | AI Product Manager | posted=2026-09-21
+- [ ] https://www.linkedin.com/jobs/view/4467373627 | HYNT: Home Design & Interiors | Product Manager | posted=2026-09-21
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

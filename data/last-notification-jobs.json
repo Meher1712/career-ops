@@ -1,26 +1,68 @@
 {
-  "generated_at": "2026-09-21T08:59:47.017Z",
+  "generated_at": "2026-09-21T15:54:58.276Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Product Manager",
-      "company": "Kanerika Inc",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://www.linkedin.com/jobs/view/4468714609"
+      "title": "Staff Product Manager, Payments Intelligence",
+      "company": "Stripe",
+      "location": "NYC, SF, Seattle, US - Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=8209996"
     },
     {
       "n": 2,
-      "title": "AI Product Manager",
-      "company": "LinkedIn India Senior PM",
-      "location": "Delhi, India",
-      "url": "https://www.linkedin.com/jobs/view/4468714493"
+      "title": "Senior Technical Product Manager",
+      "company": "Optum India",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://www.linkedin.com/jobs/view/4469918527"
     },
     {
       "n": 3,
+      "title": "Lead Product Manager - Lodging Distribution",
+      "company": "Sabre",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4469920106"
+    },
+    {
+      "n": 4,
+      "title": "Senior Product Manager-Identity Resilience",
+      "company": "Rubrik",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4433889750"
+    },
+    {
+      "n": 5,
       "title": "Product Manager",
-      "company": "HYNT: Home Design & Interiors",
-      "location": "Mumbai, Maharashtra, India",
-      "url": "https://www.linkedin.com/jobs/view/4467373627"
+      "company": "Flexiple",
+      "location": "India",
+      "url": "https://www.linkedin.com/jobs/view/4469921163"
+    },
+    {
+      "n": 6,
+      "title": "Associate Product Manager",
+      "company": "Qualys",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4467620199"
+    },
+    {
+      "n": 7,
+      "title": "Group Product Manager",
+      "company": "Flexiple",
+      "location": "India",
+      "url": "https://www.linkedin.com/jobs/view/4469913408"
+    },
+    {
+      "n": 8,
+      "title": "Validation Spclst , Technical Product Management",
+      "company": "MSD",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.linkedin.com/jobs/view/4467622278"
+    },
+    {
+      "n": 9,
+      "title": "Manager, Product Design: AI Products",
+      "company": "New Relic",
+      "location": "Bangalore, India",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5407544008"
     }
   ]
 }

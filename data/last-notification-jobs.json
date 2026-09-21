@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-09-20T17:29:35.393Z",
+  "generated_at": "2026-09-21T08:59:47.017Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Product Owner",
-      "company": "iProfit",
-      "location": "Chandigarh, India",
-      "url": "https://www.linkedin.com/jobs/view/4468463949"
+      "title": "Product Manager",
+      "company": "Kanerika Inc",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.linkedin.com/jobs/view/4468714609"
+    },
+    {
+      "n": 2,
+      "title": "AI Product Manager",
+      "company": "LinkedIn India Senior PM",
+      "location": "Delhi, India",
+      "url": "https://www.linkedin.com/jobs/view/4468714493"
+    },
+    {
+      "n": 3,
+      "title": "Product Manager",
+      "company": "HYNT: Home Design & Interiors",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4467373627"
     }
   ]
 }

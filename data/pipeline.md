@@ -5787,6 +5787,11 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4468725119 | Superfan.ng | Product Manager | posted=2026-09-22
 - [ ] https://api.smartrecruiters.com/v1/companies/Freshworks/postings/744000150936730 | Freshworks | Staff Product Manager | posted=2026-09-22
 
+- [ ] https://www.linkedin.com/jobs/view/4470492243 | Amazon | Senior Product Manager, Service Delivery Standard Work | posted=2026-09-22
+- [ ] https://www.linkedin.com/jobs/view/4468599991 | Capgemini | FBS Agile Product Manager III- Guidewire | posted=2026-09-22
+- [ ] https://www.linkedin.com/jobs/view/4470472722 | Revantage, A Blackstone Portfolio Company | Sr. Associate, Product Management | posted=2026-09-22
+- [ ] https://www.linkedin.com/jobs/view/4468903965 | Capgemini | FBS Product Owner III- Guidewire | posted=2026-09-22
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

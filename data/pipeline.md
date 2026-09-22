@@ -5765,6 +5765,19 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4469965519 | Flexiple | Product Owner | posted=2026-09-21
 - [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Lead-Product-Manager---Lodging-Distribution_JR108758 | Sabre | Lead Product Manager - Lodging Distribution | posted=2026-09-21
 
+- [ ] https://www.linkedin.com/jobs/view/4467609076 | Cvent | Product Manager II | posted=2026-09-22
+- [ ] https://www.linkedin.com/jobs/view/4468536815 | Evolute Group | Senior Manager_Product Management | posted=2026-09-22
+- [ ] https://www.linkedin.com/jobs/view/4470288567 | JioStar | Staff Product Manager | posted=2026-09-22
+- [ ] https://www.linkedin.com/jobs/view/4468544717 | MCO (MyComplianceOffice) | Product Owner | posted=2026-09-22
+- [ ] https://www.linkedin.com/jobs/view/4470279819 | Baker Hughes | Digital Technology Senior Manager - Technical Product Management | posted=2026-09-22
+- [ ] https://www.linkedin.com/jobs/view/4468545171 | HMH Tech India | Technical Product Owner | posted=2026-09-22
+- [ ] https://www.linkedin.com/jobs/view/4470273665 | IDFC FIRST Bank | Product Manager - Demat & ASBA | posted=2026-09-22
+- [ ] https://www.linkedin.com/jobs/view/4470280636 | ClearTrail Technologies | Product Manager | posted=2026-09-22
+- [ ] https://jobs.lever.co/jobgether/029384f1-79eb-4562-b960-f802a5d6b162 | Jobgether | Affiliate Manager (AI Product) | posted=2026-09-22
+- [ ] https://api.smartrecruiters.com/v1/companies/Freshworks/postings/744000150938499 | Freshworks | Staff Product Manager | posted=2026-09-22
+- [ ] https://careers.toasttab.com/jobs?gh_jid=8066887 | Toast | Senior Product Manager, Data Governance | posted=2026-09-21
+- [ ] https://job-boards.greenhouse.io/coupang/jobs/7952651 | Coupang | Senior Product Manager | posted=2026-09-21
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

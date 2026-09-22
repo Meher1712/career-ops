@@ -5778,6 +5778,15 @@ Pune, India | posted=2026-06-28
 - [ ] https://careers.toasttab.com/jobs?gh_jid=8066887 | Toast | Senior Product Manager, Data Governance | posted=2026-09-21
 - [ ] https://job-boards.greenhouse.io/coupang/jobs/7952651 | Coupang | Senior Product Manager | posted=2026-09-21
 
+- [ ] https://www.linkedin.com/jobs/view/4468589866 | Base Career | Senior Product Manager - Mobile Apps | posted=2026-09-22
+- [ ] https://www.linkedin.com/jobs/view/4468582966 | Base Career | Product Manager | posted=2026-09-22
+- [ ] https://www.linkedin.com/jobs/view/4470439531 | GE HealthCare | Staff Technical Product Manager | posted=2026-09-22
+- [ ] https://www.linkedin.com/jobs/view/4469010392 | DBiz.ai | Product Owner | posted=2026-09-22
+- [ ] https://www.linkedin.com/jobs/view/4470441233 | BNY | Senior Specialist, POM Product Owner | posted=2026-09-22
+- [ ] https://www.linkedin.com/jobs/view/4469005460 | Razorpay | Product Manager II - AI PM | posted=2026-09-22
+- [ ] https://www.linkedin.com/jobs/view/4468725119 | Superfan.ng | Product Manager | posted=2026-09-22
+- [ ] https://api.smartrecruiters.com/v1/companies/Freshworks/postings/744000150936730 | Freshworks | Staff Product Manager | posted=2026-09-22
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

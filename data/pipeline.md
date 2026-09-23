@@ -5792,6 +5792,16 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4470472722 | Revantage, A Blackstone Portfolio Company | Sr. Associate, Product Management | posted=2026-09-22
 - [ ] https://www.linkedin.com/jobs/view/4468903965 | Capgemini | FBS Product Owner III- Guidewire | posted=2026-09-22
 
+- [ ] https://www.linkedin.com/jobs/view/4470695569 | Evolute Group | Senior Manager_Product Management | posted=2026-09-23
+- [ ] https://www.linkedin.com/jobs/view/4470688940 | LPL Financial Global Capability Center | Senior Data Product Owner – Wealth Management Participant Data Domain | posted=2026-09-23
+- [ ] https://www.linkedin.com/jobs/view/4468977901 | Expleo Group | Product Manager | posted=2026-09-23
+- [ ] https://www.linkedin.com/jobs/view/4470909301 | dunnhumby | Product Manager - Retail & Insights | posted=2026-09-23
+- [ ] https://www.linkedin.com/jobs/view/4469440203 | Peak XV Partners | Founding Product Manager | Early-Stage AI Cyber-Sec Portfolio Company | posted=2026-09-23
+- [ ] https://www.linkedin.com/jobs/view/4468994143 | Codeft Digital | Associate Product Manager | posted=2026-09-23
+- [ ] https://www.linkedin.com/jobs/view/4469440193 | NUDGE Asia | EVENTS OPERATIONS & PRODUCT MANAGER | posted=2026-09-23
+- [ ] https://jobs.lever.co/jobgether/e1cb6751-c1fd-4594-81dd-8f2afc733474 | Jobgether | Founder in Residence | posted=2026-09-23
+- [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Lead-Product-Manager---Reservations_JR108616-1 | Sabre | Lead Product Manager – Reservations | posted=2026-09-23
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

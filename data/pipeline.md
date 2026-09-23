@@ -5802,6 +5802,16 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/jobgether/e1cb6751-c1fd-4594-81dd-8f2afc733474 | Jobgether | Founder in Residence | posted=2026-09-23
 - [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Lead-Product-Manager---Reservations_JR108616-1 | Sabre | Lead Product Manager – Reservations | posted=2026-09-23
 
+- [ ] https://www.linkedin.com/jobs/view/4469453499 | Omega Healthcare Management Services | Senior Product Manager | posted=2026-09-23
+- [ ] https://www.linkedin.com/jobs/view/4469441891 | Wolters Kluwer | Senior Product Manager | posted=2026-09-23
+- [ ] https://www.linkedin.com/jobs/view/4469446981 | The Coca-Cola Company | Manager, IT Business & Product Management | posted=2026-09-23
+- [ ] https://www.linkedin.com/jobs/view/4470945822 | Getinge | Product Manager - Digital Healthcare Solutions | posted=2026-09-23
+- [ ] https://www.linkedin.com/jobs/view/4469325147 | Smart Food Safe | Product Manager | posted=2026-09-23
+- [ ] https://www.linkedin.com/jobs/view/4469329097 | EY | Product Owner | posted=2026-09-23
+- [ ] https://www.linkedin.com/jobs/view/4470939987 | Jar | Associate Product Manager - Nek | posted=2026-09-23
+- [ ] https://www.linkedin.com/jobs/view/4448353139 | Accenture in India | Product Owner | posted=2026-09-23
+- [ ] https://job-boards.greenhouse.io/coupang/jobs/8195266 | Coupang | Senior Product Manager | posted=2026-09-23
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

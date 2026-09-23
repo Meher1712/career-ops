@@ -5812,6 +5812,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4448353139 | Accenture in India | Product Owner | posted=2026-09-23
 - [ ] https://job-boards.greenhouse.io/coupang/jobs/8195266 | Coupang | Senior Product Manager | posted=2026-09-23
 
+- [ ] https://www.linkedin.com/jobs/view/4470996300 | HSBC | Snr Product manager - Customer Platforms | posted=2026-09-23
+- [ ] https://www.linkedin.com/jobs/view/4470981871 | Dr. Reddy's Laboratories | Lead Product Manager | posted=2026-09-23
+- [ ] https://www.linkedin.com/jobs/view/4469480602 | Ingram Micro | Product Manager | posted=2026-09-23
+- [ ] https://www.linkedin.com/jobs/view/4469343212 | 360 Labs | Head of Product | posted=2026-09-23
+- [ ] https://www.linkedin.com/jobs/view/4442778551 | BNY | Vice President, POM Product Owner | posted=2026-09-23
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -5840,6 +5840,13 @@ Pune, India | posted=2026-06-28
 - [ ] https://job-boards.greenhouse.io/capco/jobs/8230159 | Capco | Lead Product Manager – Technical - Vadodara | posted=2026-09-24
 - [ ] https://jobs.lever.co/jobgether/74b2b6ec-13b7-48fc-b595-d87ead174a9e | Jobgether | Senior QA Manual (AI Product) | posted=2026-09-24
 
+- [ ] https://www.linkedin.com/jobs/view/4471629714 | Amazon | Product Manager III, Technical, Amazon Fulfillment Technologies (AFT) | posted=2026-09-24
+- [ ] https://www.linkedin.com/jobs/view/4417747130 | TELUS Digital | Group Product Manager | posted=2026-09-24
+- [ ] https://www.linkedin.com/jobs/view/4470017027 | Ricksoft, Inc. | Product Manager | posted=2026-09-24
+- [ ] https://www.linkedin.com/jobs/view/4469698968 | Time Hack Consulting | Product Manager - PMS/AIF | posted=2026-09-24
+- [ ] https://www.linkedin.com/jobs/view/4469765630 | Target Innovations | Product Manager | posted=2026-09-24
+- [ ] https://www.linkedin.com/jobs/view/4405520353 | Ralph Lauren | Associate Product Manager-2 | posted=2026-09-24
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

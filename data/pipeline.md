@@ -5818,6 +5818,16 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4469343212 | 360 Labs | Head of Product | posted=2026-09-23
 - [ ] https://www.linkedin.com/jobs/view/4442778551 | BNY | Vice President, POM Product Owner | posted=2026-09-23
 
+- [ ] https://www.linkedin.com/jobs/view/4471408968 | Flexiple | Senior Product Manager | posted=2026-09-24
+- [ ] https://www.linkedin.com/jobs/view/4471416512 | Uplers | Senior Product Manager | posted=2026-09-24
+- [ ] https://www.linkedin.com/jobs/view/4469396626 | Jubilant FoodWorks Ltd. | Lead Product Manager | posted=2026-09-24
+- [ ] https://www.linkedin.com/jobs/view/4471418510 | enGen Global | Product Manager | posted=2026-09-24
+- [ ] https://www.linkedin.com/jobs/view/4469716008 | MACLEODS PHARMACEUTICALS LTD. | Product Manager | posted=2026-09-24
+- [ ] https://www.linkedin.com/jobs/view/4469391605 | Kratikal | Product Manager | posted=2026-09-24
+- [ ] https://www.linkedin.com/jobs/view/4469701397 | Value at Void™ | Product Manager | posted=2026-09-24
+- [ ] https://www.linkedin.com/jobs/view/4469385999 | ClickPost | Associate Product Manager | posted=2026-09-24
+- [ ] https://www.linkedin.com/jobs/view/4469385281 | Stealth Startup | Associate Product Manager, Growth | posted=2026-09-24
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

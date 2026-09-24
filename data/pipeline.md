@@ -5828,6 +5828,18 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4469385999 | ClickPost | Associate Product Manager | posted=2026-09-24
 - [ ] https://www.linkedin.com/jobs/view/4469385281 | Stealth Startup | Associate Product Manager, Growth | posted=2026-09-24
 
+- [ ] https://www.linkedin.com/jobs/view/4469669766 | Albertsons Companies India | Senior Digital Product Manager [T500-29692] | posted=2026-09-24
+- [ ] https://www.linkedin.com/jobs/view/4471485663 | SailPoint | Senior Product Manager (Security Domain) | posted=2026-09-24
+- [ ] https://www.linkedin.com/jobs/view/4469740872 | Qure.ai | Senior Product Manager | posted=2026-09-24
+- [ ] https://www.linkedin.com/jobs/view/4471494171 | Questhiring | Group Product Manager | posted=2026-09-24
+- [ ] https://www.linkedin.com/jobs/view/4471495292 | LPL Financial Global Capability Center | AVP Data Product Owner–Data Integrity, Migration, & Experience Enablement Team (DIME) | posted=2026-09-24
+- [ ] https://www.linkedin.com/jobs/view/4469750002 | AIMLEAP | Product Manager - SaaS- 4 to 6 Years | posted=2026-09-24
+- [ ] https://www.linkedin.com/jobs/view/4462458236 | tripstack | Product Owner - Virtual Interlining | posted=2026-09-24
+- [ ] https://www.linkedin.com/jobs/view/4469745701 | Qure.ai | Product Manager | posted=2026-09-24
+- [ ] https://www.linkedin.com/jobs/view/4471498042 | Questhiring | Director of Product Management | posted=2026-09-24
+- [ ] https://job-boards.greenhouse.io/capco/jobs/8230159 | Capco | Lead Product Manager – Technical - Vadodara | posted=2026-09-24
+- [ ] https://jobs.lever.co/jobgether/74b2b6ec-13b7-48fc-b595-d87ead174a9e | Jobgether | Senior QA Manual (AI Product) | posted=2026-09-24
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

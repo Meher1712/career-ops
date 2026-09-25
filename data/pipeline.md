@@ -5866,6 +5866,11 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4460739495 | PwC Acceleration Center India | AI Productivity & Adoption Lead - Manager | posted=2026-09-25
 - [ ] https://apply.workable.com/j/B7AC206A85 | Accellor | Senior AI Product Manager | posted=2026-09-25
 
+- [ ] https://www.linkedin.com/jobs/view/4472047888 | Amazon | Sr. Product Manager - Tech, AHS | posted=2026-09-25
+- [ ] https://www.linkedin.com/jobs/view/4470435130 | SourcingXPress | Technical Product Manager | posted=2026-09-25
+- [ ] https://www.linkedin.com/jobs/view/4470180898 | JAAVI Group | AI Product & Solutions Associate | posted=2026-09-25
+- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8233818 | Smartsheet | Group Product Manager – Corporate Systems | posted=2026-09-25
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

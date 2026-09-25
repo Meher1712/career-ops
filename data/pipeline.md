@@ -5847,6 +5847,18 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4469765630 | Target Innovations | Product Manager | posted=2026-09-24
 - [ ] https://www.linkedin.com/jobs/view/4405520353 | Ralph Lauren | Associate Product Manager-2 | posted=2026-09-24
 
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6205772004 | Vercel | Product Manager, Dashboard | posted=2026-09-24
+- [ ] https://www.linkedin.com/jobs/view/4469413842 | CogniVed Solutions | Product Manager – OpenShift | posted=2026-09-25
+- [ ] https://www.linkedin.com/jobs/view/4471866757 | Aptiv | Cybersecurity Product Owner | posted=2026-09-25
+- [ ] https://www.linkedin.com/jobs/view/4470142314 | EY | TD- Product Owner-Senior | posted=2026-09-25
+- [ ] https://www.linkedin.com/jobs/view/4470092272 | Cellecor Gadgets Ltd. | Product Manager - Audio | posted=2026-09-25
+- [ ] https://www.linkedin.com/jobs/view/4471881204 | Amgen | Product Owner - Data Assets Platform | posted=2026-09-25
+- [ ] https://www.linkedin.com/jobs/view/4470095147 | Contract Bazaar | Product Manager – AI & Legal Tech | posted=2026-09-25
+- [ ] https://www.linkedin.com/jobs/view/4470141377 | Strategy | Product Manager | posted=2026-09-25
+- [ ] https://www.linkedin.com/jobs/view/4471866667 | IDfy | Associate Product Manager | posted=2026-09-25
+- [ ] https://www.linkedin.com/jobs/view/4470088517 | Confidential | Head of Product | posted=2026-09-25
+- [ ] https://job-boards.greenhouse.io/genea/jobs/5434667008 | Genea | Lead Product Manager (Commercial Real Estate) | posted=2026-09-24
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

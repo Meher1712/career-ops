@@ -5859,6 +5859,13 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4470088517 | Confidential | Head of Product | posted=2026-09-25
 - [ ] https://job-boards.greenhouse.io/genea/jobs/5434667008 | Genea | Lead Product Manager (Commercial Real Estate) | posted=2026-09-24
 
+- [ ] https://www.linkedin.com/jobs/view/4435054347 | Sabre | Senior Product Manager - Ancillary Dynamic Pricing | posted=2026-09-25
+- [ ] https://www.linkedin.com/jobs/view/4472009684 | U.S. Bank | Senior Digital Product Manager | posted=2026-09-25
+- [ ] https://www.linkedin.com/jobs/view/4461151007 | Purplle.com | Senior Product Manager -Post Order Experience | posted=2026-09-25
+- [ ] https://www.linkedin.com/jobs/view/4472027139 | Aptiv | Software Download OTA Product owner | posted=2026-09-25
+- [ ] https://www.linkedin.com/jobs/view/4460739495 | PwC Acceleration Center India | AI Productivity & Adoption Lead - Manager | posted=2026-09-25
+- [ ] https://apply.workable.com/j/B7AC206A85 | Accellor | Senior AI Product Manager | posted=2026-09-25
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

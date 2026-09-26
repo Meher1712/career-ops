@@ -5878,6 +5878,9 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/jobgether/391b4923-73fe-47ef-a6c9-daff22f3a6a0 | Jobgether | Senior Product Manager, Payments | posted=2026-09-26
 - [ ] https://www.kaseya.com/careers/jobs/id/6191451004/?gh_jid=6191451004 | Kaseya | Product Manager, Order-to-Cash  | posted=2026-09-25
 
+- [ ] https://www.linkedin.com/jobs/view/4440555733 | Uber | Sr Product Manager, Tech - Product | posted=2026-09-26
+- [ ] https://www.linkedin.com/jobs/view/4470566367 | MomentText | Product Manager | posted=2026-09-26
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

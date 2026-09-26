@@ -5881,6 +5881,8 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4440555733 | Uber | Sr Product Manager, Tech - Product | posted=2026-09-26
 - [ ] https://www.linkedin.com/jobs/view/4470566367 | MomentText | Product Manager | posted=2026-09-26
 
+- [ ] https://www.linkedin.com/jobs/view/4470574177 | Value at Void™ | Product Manager - Value at Void | posted=2026-09-26
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

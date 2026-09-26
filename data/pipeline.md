@@ -5871,6 +5871,13 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4470180898 | JAAVI Group | AI Product & Solutions Associate | posted=2026-09-25
 - [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8233818 | Smartsheet | Group Product Manager – Corporate Systems | posted=2026-09-25
 
+- [ ] https://www.linkedin.com/jobs/view/4472271011 | Flexiple | Senior Product Manager | posted=2026-09-26
+- [ ] https://www.linkedin.com/jobs/view/4472259796 | Wonderchef Home Appliances Pvt Ltd. | Product Manager | posted=2026-09-26
+- [ ] https://www.linkedin.com/jobs/view/4470798644 | Recruiterflow | Associate Product Manager | posted=2026-09-26
+- [ ] https://jobs.lever.co/jobgether/cb198227-28d9-45f1-8639-e6c21235885b | Jobgether | Senior Product Manager – Enterprise Search | posted=2026-09-25
+- [ ] https://jobs.lever.co/jobgether/391b4923-73fe-47ef-a6c9-daff22f3a6a0 | Jobgether | Senior Product Manager, Payments | posted=2026-09-26
+- [ ] https://www.kaseya.com/careers/jobs/id/6191451004/?gh_jid=6191451004 | Kaseya | Product Manager, Order-to-Cash  | posted=2026-09-25
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -5886,6 +5886,8 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4471090364 | MAI Labs | Senior Product Manager | posted=2026-09-27
 - [ ] https://www.linkedin.com/jobs/view/4470590832 | Aakaar Medical Technologies Ltd | Pharmaceutical Product Manager ( Derma/Aesthetic Division ) | posted=2026-09-27
 
+- [ ] https://www.linkedin.com/jobs/view/4472468003 | Flexiple | Group Product Manager | posted=2026-09-27
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

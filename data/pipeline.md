@@ -5888,6 +5888,17 @@ Pune, India | posted=2026-06-28
 
 - [ ] https://www.linkedin.com/jobs/view/4472468003 | Flexiple | Group Product Manager | posted=2026-09-27
 
+- [ ] https://www.linkedin.com/jobs/view/4460252461 | TBO.COM | Senior Product Manager | posted=2026-09-28
+- [ ] https://www.linkedin.com/jobs/view/4472492734 | HCLTech | AI Product Manager | posted=2026-09-28
+- [ ] https://www.linkedin.com/jobs/view/4472491646 | LinkedIn India Senior PM | UI/UX Product Manager | posted=2026-09-28
+- [ ] https://www.linkedin.com/jobs/view/4472705276 | LinkedIn India Senior PM | Product Manager | posted=2026-09-28
+- [ ] https://www.linkedin.com/jobs/view/4459778399 | HCLTech | GTM Product Owner - Integrated Business Aligned Ops | posted=2026-09-28
+- [ ] https://www.linkedin.com/jobs/view/4467851250 | Cvent | Senior Product Manager (Hospitality), Bengaluru | posted=2026-09-28
+- [ ] https://www.linkedin.com/jobs/view/4472703555 | PW (PhysicsWallah) | Senior Product Manager | posted=2026-09-28
+- [ ] https://www.linkedin.com/jobs/view/4471349211 | Jobgether | Product Owner (Recommendation Systems) | posted=2026-09-28
+- [ ] https://jobs.lever.co/meesho/2028b73c-2ae0-4fca-903e-481b8c500629 | Meesho | Senior Product Manager | posted=2026-09-28
+- [ ] https://jobs.lever.co/meesho/97ce9e5a-a8bb-446d-a8db-9078603b106f | Meesho | Senior Product Manager - Data & Analytics Platform | posted=2026-09-23
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

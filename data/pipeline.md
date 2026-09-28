@@ -5899,6 +5899,16 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/meesho/2028b73c-2ae0-4fca-903e-481b8c500629 | Meesho | Senior Product Manager | posted=2026-09-28
 - [ ] https://jobs.lever.co/meesho/97ce9e5a-a8bb-446d-a8db-9078603b106f | Meesho | Senior Product Manager - Data & Analytics Platform | posted=2026-09-23
 
+- [ ] https://www.linkedin.com/jobs/view/4472765413 | HireRight | Senior Technical Product Manager | posted=2026-09-28
+- [ ] https://www.linkedin.com/jobs/view/4468259085 | State Street | Account Services, Product Owner, AVP | posted=2026-09-28
+- [ ] https://www.linkedin.com/jobs/view/4470890740 | Booking Holdings (NASDAQ: BKNG) | Product Manager (Core Accounting) | posted=2026-09-28
+- [ ] https://www.linkedin.com/jobs/view/4462411112 | Franklin Templeton | Digital Product Manager | posted=2026-09-28
+- [ ] https://www.linkedin.com/jobs/view/4471335993 | dentsu | Product Owner | posted=2026-09-28
+- [ ] https://www.linkedin.com/jobs/view/4468247902 | State Street | Product Management(Accounting Services), Vice President | posted=2026-09-28
+- [ ] https://www.linkedin.com/jobs/view/4464338172 | tripstack | Product Owner | posted=2026-09-28
+- [ ] https://jobs.lever.co/jobgether/5aec8a61-7575-49a4-84cd-f3dafdd00262 | Jobgether | Product Manager - Money Movement | posted=2026-09-28
+- [ ] https://jobs.lever.co/jobgether/06d76502-e2c3-4a53-a671-4dc9f492a8a9 | Jobgether | Product Owner (Recommendation Systems) | posted=2026-09-28
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

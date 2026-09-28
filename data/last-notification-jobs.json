@@ -1,12 +1,75 @@
 {
-  "generated_at": "2026-09-27T18:59:30.734Z",
+  "generated_at": "2026-09-28T09:50:18.867Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Group Product Manager",
-      "company": "Flexiple",
+      "title": "Senior Product Manager",
+      "company": "TBO.COM",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://www.linkedin.com/jobs/view/4460252461"
+    },
+    {
+      "n": 2,
+      "title": "AI Product Manager",
+      "company": "HCLTech",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://www.linkedin.com/jobs/view/4472492734"
+    },
+    {
+      "n": 3,
+      "title": "UI/UX Product Manager",
+      "company": "LinkedIn India Senior PM",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://www.linkedin.com/jobs/view/4472491646"
+    },
+    {
+      "n": 4,
+      "title": "Product Manager",
+      "company": "LinkedIn India Senior PM",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://www.linkedin.com/jobs/view/4472705276"
+    },
+    {
+      "n": 5,
+      "title": "GTM Product Owner - Integrated Business Aligned Ops",
+      "company": "HCLTech",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://www.linkedin.com/jobs/view/4459778399"
+    },
+    {
+      "n": 6,
+      "title": "Senior Product Manager (Hospitality), Bengaluru",
+      "company": "Cvent",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4467851250"
+    },
+    {
+      "n": 7,
+      "title": "Senior Product Manager",
+      "company": "PW (PhysicsWallah)",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://www.linkedin.com/jobs/view/4472703555"
+    },
+    {
+      "n": 8,
+      "title": "Product Owner (Recommendation Systems)",
+      "company": "Jobgether",
       "location": "India",
-      "url": "https://www.linkedin.com/jobs/view/4472468003"
+      "url": "https://www.linkedin.com/jobs/view/4471349211"
+    },
+    {
+      "n": 9,
+      "title": "Senior Product Manager",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/2028b73c-2ae0-4fca-903e-481b8c500629"
+    },
+    {
+      "n": 10,
+      "title": "Senior Product Manager - Data & Analytics Platform",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/97ce9e5a-a8bb-446d-a8db-9078603b106f"
     }
   ]
 }

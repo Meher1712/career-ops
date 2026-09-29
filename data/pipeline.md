@@ -5922,6 +5922,16 @@ Pune, India | posted=2026-06-28
 - [ ] https://job-boards.greenhouse.io/sonicwall/jobs/8195240 | SonicWall | Principal Product Manager- SD-WAN & SASE | posted=2026-09-28
 - [ ] https://careers.toasttab.com/jobs?gh_jid=8226800 | Toast | Growth Product Manager, Guest | posted=2026-09-28
 
+- [ ] https://www.linkedin.com/jobs/view/4473283421 | Wells Fargo | Lead Digital Product Manager - CIAM | posted=2026-09-29
+- [ ] https://www.linkedin.com/jobs/view/4473291144 | Wells Fargo | Lead Digital Product Manager | posted=2026-09-29
+- [ ] https://www.linkedin.com/jobs/view/4473292194 | Flexiple | Product Manager | posted=2026-09-29
+- [ ] https://www.linkedin.com/jobs/view/4471907527 | Michael Page | Director of Product | posted=2026-09-29
+- [ ] https://job-boards.greenhouse.io/capco/jobs/7919750 | Capco | Technical Product Owner -NW | posted=2026-09-29
+- [ ] https://www.linkedin.com/jobs/view/4464396729 | Amazon | Sr. Product Manager, Abuse Prevention | posted=2026-09-29
+- [ ] https://www.linkedin.com/jobs/view/4473288505 | insightsoftware | Product Owner – Regulatory Solutions | posted=2026-09-29
+- [ ] https://jobs.lever.co/jobgether/fc7668d9-d772-471d-ae85-3b5fb195ad0f | Jobgether | Senior Product Manager - Experience Optimization | posted=2026-09-29
+- [ ] https://jobs.lever.co/coupa/1c0351fd-2d57-485c-bd3e-97f2e861bbaa | Coupa | Sr. Product Manager - 11903 | posted=2026-09-28
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

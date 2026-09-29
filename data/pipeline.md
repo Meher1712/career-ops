@@ -5909,6 +5909,19 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/jobgether/5aec8a61-7575-49a4-84cd-f3dafdd00262 | Jobgether | Product Manager - Money Movement | posted=2026-09-28
 - [ ] https://jobs.lever.co/jobgether/06d76502-e2c3-4a53-a671-4dc9f492a8a9 | Jobgether | Product Owner (Recommendation Systems) | posted=2026-09-28
 
+- [ ] https://www.linkedin.com/jobs/view/4471713122 | Fiserv | Advisor, Product Management | posted=2026-09-29
+- [ ] https://www.linkedin.com/jobs/view/4471285758 | Reo.Dev | Product Manager – Founding Team (Growth) | posted=2026-09-29
+- [ ] https://www.linkedin.com/jobs/view/4473211690 | Bachatt | Product Manager - Saathi(AI App) | posted=2026-09-29
+- [ ] https://www.linkedin.com/jobs/view/4473211496 | Genetix Biotech Asia Ltd. | Product Manager – Clinical Microbiology | posted=2026-09-29
+- [ ] https://job-boards.greenhouse.io/capco/jobs/8203844 | Capco | AI Product Manager | posted=2026-09-29
+- [ ] https://job-boards.greenhouse.io/capco/jobs/7919749 | Capco | Technical Product Owner -NW | posted=2026-09-29
+- [ ] https://jobs.ashbyhq.com/eli/ac9325e1-c800-42ae-975b-e02d46d613d8 | Eli Lilly and Company | Head of Product | posted=2026-09-28
+- [ ] https://jobs.ashbyhq.com/glomo/cd9dd2e4-47f7-4b9c-85f0-e985d62128c1 | Glomopay | Associate Product Manager / Product Manager  | posted=2026-09-29
+- [ ] https://job-boards.greenhouse.io/fourkites/jobs/8225854 | FourKites | Associate Product Manager / Product Manager — Over-the-Road Visibility | posted=2026-09-29
+- [ ] https://job-boards.greenhouse.io/ethoslife/jobs/8853171002 | Ethos | Principal Product Manager | posted=2026-09-29
+- [ ] https://job-boards.greenhouse.io/sonicwall/jobs/8195240 | SonicWall | Principal Product Manager- SD-WAN & SASE | posted=2026-09-28
+- [ ] https://careers.toasttab.com/jobs?gh_jid=8226800 | Toast | Growth Product Manager, Guest | posted=2026-09-28
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

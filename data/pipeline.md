@@ -5941,6 +5941,20 @@ Pune, India | posted=2026-06-28
 - [ ] https://job-boards.greenhouse.io/capco/jobs/7919752 | Capco | Technical Product Owner -NW | posted=2026-09-29
 - [ ] https://job-boards.greenhouse.io/coursera/jobs/6207501004 | Coursera | Senior Product Manager, Applied AI | posted=2026-09-29
 
+- [ ] https://www.linkedin.com/jobs/view/4473792586 | Uplers | Senior Product Manager | posted=2026-09-30
+- [ ] https://www.linkedin.com/jobs/view/4472183951 | HighLevel | Staff Product Manager - Email Growth | posted=2026-09-30
+- [ ] https://www.linkedin.com/jobs/view/4473794489 | Nike | Principal Technical Product Manager, ITC | posted=2026-09-30
+- [ ] https://www.linkedin.com/jobs/view/4473795455 | Nike | Lead Technical Product Manager, ITC | posted=2026-09-30
+- [ ] https://www.linkedin.com/jobs/view/4472192390 | UST | Product Manager I | posted=2026-09-30
+- [ ] https://www.linkedin.com/jobs/view/4463812968 | TIAA | Associate Director - Product Management | posted=2026-09-30
+- [ ] https://www.linkedin.com/jobs/view/4472124577 | I-BnB | Product Manager | posted=2026-09-30
+- [ ] https://www.linkedin.com/jobs/view/4472304801 | LoansJagat | Associate Product Manager (AI) | posted=2026-09-30
+- [ ] https://www.linkedin.com/jobs/view/4472611740 | airtel | Product Manager | posted=2026-09-30
+- [ ] https://www.linkedin.com/jobs/view/4473903711 | Flexiple | Product Manager | posted=2026-09-30
+- [ ] https://www.linkedin.com/jobs/view/4470077690 | Target | Director Product Management | posted=2026-09-30
+- [ ] https://www.linkedin.com/jobs/view/4472171579 | Flick TV | Associate Product Manager | posted=2026-09-30
+- [ ] https://careers.toasttab.com/jobs?gh_jid=8134382 | Toast | Principal Product Manager, Enterprise | posted=2026-09-30
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

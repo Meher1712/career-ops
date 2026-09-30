@@ -5932,6 +5932,15 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/jobgether/fc7668d9-d772-471d-ae85-3b5fb195ad0f | Jobgether | Senior Product Manager - Experience Optimization | posted=2026-09-29
 - [ ] https://jobs.lever.co/coupa/1c0351fd-2d57-485c-bd3e-97f2e861bbaa | Coupa | Sr. Product Manager - 11903 | posted=2026-09-28
 
+- [ ] https://www.linkedin.com/jobs/view/4473731331 | Flexiple | Senior Product Manager | posted=2026-09-30
+- [ ] https://www.linkedin.com/jobs/view/4473724697 | Japheth LLP | Product Manager | posted=2026-09-30
+- [ ] https://www.linkedin.com/jobs/view/4472132963 | Shipturtle | Product Manager | posted=2026-09-30
+- [ ] https://www.linkedin.com/jobs/view/4472151117 | ACG World | Product Management | posted=2026-09-30
+- [ ] https://www.linkedin.com/jobs/view/4473737376 | Japheth LLP | Product Owner - Central Bank Digital Currency | posted=2026-09-30
+- [ ] https://www.linkedin.com/jobs/view/4462132945 | IDfy | Associate Product Manager 2 | posted=2026-09-30
+- [ ] https://job-boards.greenhouse.io/capco/jobs/7919752 | Capco | Technical Product Owner -NW | posted=2026-09-29
+- [ ] https://job-boards.greenhouse.io/coursera/jobs/6207501004 | Coursera | Senior Product Manager, Applied AI | posted=2026-09-29
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

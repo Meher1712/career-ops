@@ -5970,6 +5970,20 @@ Pune, India | posted=2026-06-28
 - [ ] https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas-Metro---Remote/GTM-Builder_JR362296 | Salesforce | GTM Builder
 - [ ] https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco-Metro---Remote/GTM-Builder--Distinguished-SE_JR362294 | Salesforce | GTM Builder, Distinguished SE
 
+- [ ] https://www.linkedin.com/jobs/view/4472585580 | Kwalee | Senior / Lead Product Manager | posted=2026-10-01
+- [ ] https://www.linkedin.com/jobs/view/4463452290 | Okta | Senior Product Manager, Product Platform | posted=2026-10-01
+- [ ] https://www.linkedin.com/jobs/view/4474339769 | CodeRound AI | Senior Product Manager (Up to 50LPA) | posted=2026-10-01
+- [ ] https://www.linkedin.com/jobs/view/4474349097 | Societe Generale Global Solution Centre | Senior Product Owner IT Foundation - ServiceNow | posted=2026-10-01
+- [ ] https://www.linkedin.com/jobs/view/4472575915 | Ericsson | IT Product Owner - Intelligent Service Management | posted=2026-10-01
+- [ ] https://www.linkedin.com/jobs/view/4474336396 | Societe Generale Global Solution Centre | Product Owner-MS Proxy PO | posted=2026-10-01
+- [ ] https://www.linkedin.com/jobs/view/4473731526 | Heptastar Executive Search | Product Manager Gynecology | posted=2026-10-01
+- [ ] https://www.linkedin.com/jobs/view/4455776575 | MakeMyTrip | Associate Product Manager (Flights) | posted=2026-10-01
+- [ ] https://www.linkedin.com/jobs/view/4474342324 | Societe Generale Global Solution Centre | Product Owner - Feature Team | posted=2026-10-01
+- [ ] https://www.linkedin.com/jobs/view/4474335909 | ABB | Head of Product Development for Industrial Digital Solutions, Motion Services (location: Europe or India) | posted=2026-10-01
+- [ ] https://jobs.lever.co/jobgether/82779bc6-454f-436b-9e7e-7eda2db19462 | Jobgether | Product Owner (Matchmaking&Relationship) | posted=2026-10-01
+- [ ] https://jobs.lever.co/jobgether/e8bb7db4-23bb-4410-a7f8-45fa487d6eb8 | Jobgether | Staff Product Manager - Email Growth | posted=2026-10-01
+- [ ] https://www.zoominfo.com/careers?gh_jid=8634904002 | ZoomInfo |  Senior Product Manager, AI Data Foundation | posted=2026-10-01
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

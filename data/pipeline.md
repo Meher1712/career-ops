@@ -5955,6 +5955,21 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4472171579 | Flick TV | Associate Product Manager | posted=2026-09-30
 - [ ] https://careers.toasttab.com/jobs?gh_jid=8134382 | Toast | Principal Product Manager, Enterprise | posted=2026-09-30
 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8845483002 | GitLab | Senior Product Manager, Billing Engine & Platforms Monetization | posted=2026-09-30
+- [ ] https://www.linkedin.com/jobs/view/4444185350 | Publicis Sapient | Senior Product Manager | posted=2026-10-01
+- [ ] https://www.linkedin.com/jobs/view/4472902830 | Refold AI | Senior Product Manager (B2B) | posted=2026-10-01
+- [ ] https://www.linkedin.com/jobs/view/4472699789 | Traya | Senior Product Manager | posted=2026-10-01
+- [ ] https://www.linkedin.com/jobs/view/4472903852 | ArkInfoCubes LLC | Product Manager (AI-Automation Process) | posted=2026-10-01
+- [ ] https://www.linkedin.com/jobs/view/4472527586 | MicroStrategy (now Strategy) | Product Owner - AI | posted=2026-10-01
+- [ ] https://www.linkedin.com/jobs/view/4474137843 | Yulu | Product Manager | posted=2026-10-01
+- [ ] https://www.linkedin.com/jobs/view/4465387570 | JPMorganChase | Credit Monitoring - Product Owner- Vice President | posted=2026-10-01
+- [ ] https://www.linkedin.com/jobs/view/4465017989 | Aditi Consulting | Product Owner 2 | posted=2026-10-01
+- [ ] https://job-boards.greenhouse.io/zscaler/jobs/5253726007 | Zscaler | Staff Product Manager - Data Protection | posted=2026-09-30
+- [ ] https://job-boards.greenhouse.io/ethoslife/jobs/8859340002 | Ethos | Sr. Director, Product Management, Consumer | posted=2026-09-30
+- [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Sr-Product-Manager--Digital-Services-AI_R0076494 | eBay | Sr. Product Manager, Digital Services AI | posted=2026-10-01
+- [ ] https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas-Metro---Remote/GTM-Builder_JR362296 | Salesforce | GTM Builder
+- [ ] https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco-Metro---Remote/GTM-Builder--Distinguished-SE_JR362294 | Salesforce | GTM Builder, Distinguished SE
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -5984,6 +5984,19 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/jobgether/e8bb7db4-23bb-4410-a7f8-45fa487d6eb8 | Jobgether | Staff Product Manager - Email Growth | posted=2026-10-01
 - [ ] https://www.zoominfo.com/careers?gh_jid=8634904002 | ZoomInfo |  Senior Product Manager, AI Data Foundation | posted=2026-10-01
 
+- [ ] https://www.linkedin.com/jobs/view/4444183414 | Publicis Sapient | Senior Product Manager | posted=2026-10-02
+- [ ] https://www.linkedin.com/jobs/view/4474725079 | Amgen | Senior Digital Product Manager (AI) | posted=2026-10-02
+- [ ] https://www.linkedin.com/jobs/view/4464506526 | Teradata | Staff AI Product Manager | posted=2026-10-02
+- [ ] https://www.linkedin.com/jobs/view/4472877850 | Smart Energy Water | Product Management Specialist | posted=2026-10-02
+- [ ] https://www.linkedin.com/jobs/view/4474708777 | JPMorganChase | Technical Product Manager - ETL, Data Reporting, SQL | posted=2026-10-02
+- [ ] https://www.linkedin.com/jobs/view/4474715580 | Amgen | Digital Product Manager (AI) | posted=2026-10-02
+- [ ] https://www.linkedin.com/jobs/view/4472887513 | Oxeva.ai | AI Product Manager | posted=2026-10-02
+- [ ] https://www.linkedin.com/jobs/view/4474133766 | Amgen | Sr Digital Product Manager | posted=2026-10-02
+- [ ] https://www.linkedin.com/jobs/view/4474714550 | Amgen | Digital Product Manager, Product Operations - Measurement & Reporting | posted=2026-10-02
+- [ ] https://job-boards.eu.greenhouse.io/valtech/jobs/4994527101 | Valtech | Product Owner | posted=2026-10-01
+- [ ] https://www.linkedin.com/jobs/view/4464521171 | Teradata | Senior Director, Product Management | posted=2026-10-02
+- [ ] https://jobs.lever.co/jobgether/d1e257d6-befa-40ef-afd7-0d4084fa7456 | Jobgether | Associate Product Manager / Product Manager — Over-the-Road Visibility | posted=2026-10-02
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

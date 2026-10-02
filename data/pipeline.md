@@ -5997,6 +5997,9 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4464521171 | Teradata | Senior Director, Product Management | posted=2026-10-02
 - [ ] https://jobs.lever.co/jobgether/d1e257d6-befa-40ef-afd7-0d4084fa7456 | Jobgether | Associate Product Manager / Product Manager — Over-the-Road Visibility | posted=2026-10-02
 
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/8236862 | Twilio | Principal Product Manager | posted=2026-10-02
+- [ ] https://www.linkedin.com/jobs/view/4474778718 | Flexiple | Product Manager | posted=2026-10-02
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

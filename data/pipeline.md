@@ -6000,6 +6000,11 @@ Pune, India | posted=2026-06-28
 - [ ] https://job-boards.greenhouse.io/twilio/jobs/8236862 | Twilio | Principal Product Manager | posted=2026-10-02
 - [ ] https://www.linkedin.com/jobs/view/4474778718 | Flexiple | Product Manager | posted=2026-10-02
 
+- [ ] https://www.linkedin.com/jobs/view/4473375869 | HighRadius | Senior Product Manager | posted=2026-10-02
+- [ ] https://www.linkedin.com/jobs/view/4473382417 | Google | Product Manager II, Google Workspace | posted=2026-10-02
+- [ ] https://www.linkedin.com/jobs/view/4453485161 | Nielsen | Lead Product Manager | posted=2026-10-02
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8855883002 | GitLab | Senior Product Manager, CRM & GTM Systems | posted=2026-10-02
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

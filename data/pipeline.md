@@ -6008,6 +6008,10 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4475302579 | Flexiple | Senior Product Manager | posted=2026-10-03
 - [ ] https://www.linkedin.com/jobs/view/4475314139 | Amgen | R-256479- Digital Product Manager (AI) | posted=2026-10-03
 
+- [ ] https://www.linkedin.com/jobs/view/4466055907 | Johnson & Johnson MedTech | Senior Product Manager | posted=2026-10-03
+- [ ] https://www.linkedin.com/jobs/view/4464885029 | IDFC FIRST Bank | Product Manager-Credit Cards | posted=2026-10-03
+- [ ] https://www.linkedin.com/jobs/view/4473428155 | LinkedIn India Senior PM | Product Manager Medical Device | posted=2026-10-03
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

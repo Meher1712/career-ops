@@ -1,19 +1,26 @@
 {
-  "generated_at": "2026-10-03T09:11:46.875Z",
+  "generated_at": "2026-10-03T14:20:57.435Z",
   "jobs": [
     {
       "n": 1,
       "title": "Senior Product Manager",
-      "company": "Flexiple",
-      "location": "India",
-      "url": "https://www.linkedin.com/jobs/view/4475302579"
+      "company": "Johnson & Johnson MedTech",
+      "location": "Mumbai Metropolitan Region",
+      "url": "https://www.linkedin.com/jobs/view/4466055907"
     },
     {
       "n": 2,
-      "title": "R-256479- Digital Product Manager (AI)",
-      "company": "Amgen",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://www.linkedin.com/jobs/view/4475314139"
+      "title": "Product Manager-Credit Cards",
+      "company": "IDFC FIRST Bank",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4464885029"
+    },
+    {
+      "n": 3,
+      "title": "Product Manager Medical Device",
+      "company": "LinkedIn India Senior PM",
+      "location": "Preet Vihar, Delhi, India",
+      "url": "https://www.linkedin.com/jobs/view/4473428155"
     }
   ]
 }

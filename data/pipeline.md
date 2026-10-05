@@ -6020,6 +6020,26 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4475505601 | Flexiple | Group Product Manager | posted=2026-10-04
 - [ ] https://www.linkedin.com/jobs/view/4475512358 | Opella | Data & AI Product Expert M&S | posted=2026-10-04
 
+- [ ] https://www.linkedin.com/jobs/view/4470684209 | Target | Sr Product Manager  - Media Measurements | posted=2026-10-05
+- [ ] https://www.linkedin.com/jobs/view/4475550607 | Wells Fargo | Senior Digital Product Manager | posted=2026-10-05
+- [ ] https://www.linkedin.com/jobs/view/4460482875 | Providence India | Principal Product Manager(Clinical) | posted=2026-10-05
+- [ ] https://www.linkedin.com/jobs/view/4475540902 | Multiplier AI | AI PROJECT MANAGER / AI PRODUCT OWNER | posted=2026-10-05
+- [ ] https://www.linkedin.com/jobs/view/4473636130 | M2P Fintech | Product Manager - Payments (MCY/CBS) | posted=2026-10-05
+- [ ] https://www.linkedin.com/jobs/view/4474264357 | PlaySimple Games | Product Manager | posted=2026-10-05
+- [ ] https://www.linkedin.com/jobs/view/4475548681 | Tata Communications | SMS - Product Owner | posted=2026-10-05
+- [ ] https://www.linkedin.com/jobs/view/4475544727 | Vertiv | Product Management Manager | posted=2026-10-05
+- [ ] https://www.linkedin.com/jobs/view/4473625707 | Narayana Health | Product Manager | posted=2026-10-05
+- [ ] https://www.linkedin.com/jobs/view/4464737162 | Bridgestone Americas | Product Owner - AEM | posted=2026-10-05
+- [ ] https://www.linkedin.com/jobs/view/4475549698 | JioSaavn | Product Manager - Engagement | posted=2026-10-05
+- [ ] https://www.linkedin.com/jobs/view/4475561061 | Bright Money | Product Manager - Credit Card | posted=2026-10-05
+- [ ] https://www.linkedin.com/jobs/view/4475540908 | Pice® | Product Manager | posted=2026-10-05
+- [ ] https://www.linkedin.com/jobs/view/4475547709 | Snapmint | Product Manager - Seller Experience | posted=2026-10-05
+- [ ] https://www.linkedin.com/jobs/view/4474252847 | Scoutit | Associate Product Manager | posted=2026-10-05
+- [ ] https://www.linkedin.com/jobs/view/4474262476 | Namma Yatri | Product Manager | posted=2026-10-05
+- [ ] https://www.linkedin.com/jobs/view/4474249809 | Tesco Bengaluru | Associate Product Manager | posted=2026-10-05
+- [ ] https://www.linkedin.com/jobs/view/4474245956 | Tesco Technology | Associate Product Manager | posted=2026-10-05
+- [ ] https://job-boards.greenhouse.io/axicorpfinancialservicesptyltd/jobs/5253878007 | Axi | Product Manager | posted=2026-10-05
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

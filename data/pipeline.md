@@ -6056,6 +6056,17 @@ Pune, India | posted=2026-06-28
 - [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990015885816 | Nielsen | Lead Product Manager | posted=2026-10-05
 - [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Principal-Product-Manager---Sabre-Payments_JR108807 | Sabre | Principal Product Manager - Sabre Payments | posted=2026-10-06
 
+- [ ] https://stripe.com/jobs/search?gh_jid=7983854 | Stripe | Product Manager, Radar | posted=2026-10-06
+- [ ] https://stripe.com/jobs/search?gh_jid=8258815 | Stripe | Staff Product Manager, Radar - Fraud and Abuse Prevention | posted=2026-10-06
+- [ ] https://www.linkedin.com/jobs/view/4474981564 | Boston Consulting Group (BCG) | Global Product Manager – ES Smart Office | posted=2026-10-06
+- [ ] https://www.linkedin.com/jobs/view/4474096075 | Mastercard | Lead Product Manager | posted=2026-10-06
+- [ ] https://www.linkedin.com/jobs/view/4476325636 | Sonata Software | Product Manager - Compliance | posted=2026-10-06
+- [ ] https://www.linkedin.com/jobs/view/4476330310 | Sonata Software | Product Manager - Industrial | posted=2026-10-06
+- [ ] https://www.linkedin.com/jobs/view/4439786595 | BNY | Vice President, POM Product Owner | posted=2026-10-06
+- [ ] https://www.linkedin.com/jobs/view/4476334400 | Signify | Product Manager | posted=2026-10-06
+- [ ] https://www.linkedin.com/jobs/view/4476324693 | Flexiple | Product Manager | posted=2026-10-06
+- [ ] https://job-boards.greenhouse.io/capco/jobs/8258299 | Capco | AI  Product Owner | posted=2026-10-06
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

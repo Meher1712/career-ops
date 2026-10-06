@@ -6040,6 +6040,22 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4474245956 | Tesco Technology | Associate Product Manager | posted=2026-10-05
 - [ ] https://job-boards.greenhouse.io/axicorpfinancialservicesptyltd/jobs/5253878007 | Axi | Product Manager | posted=2026-10-05
 
+- [ ] https://jobs.lever.co/meesho/b56573f0-c701-422a-abfa-ac8bbdbfa645 | Meesho | Product Manager II | posted=2026-08-12
+- [ ] https://www.linkedin.com/jobs/view/4474905187 | Fiserv | Tech AI Product Strategy Sr Advisor I | posted=2026-10-06
+- [ ] https://www.linkedin.com/jobs/view/4465208449 | UST | Product Manager I - Product Owner | posted=2026-10-06
+- [ ] https://www.linkedin.com/jobs/view/4474043483 | Siemens Healthineers | Product Owner (AI-enabled Medical Imaging Solutions) | posted=2026-10-06
+- [ ] https://www.linkedin.com/jobs/view/4474042524 | Siemens Healthineers | Product Owner (DICOM, Medical Devices) | posted=2026-10-06
+- [ ] https://www.linkedin.com/jobs/view/4474038221 | LinkedIn India Senior PM | Product Manager | posted=2026-10-06
+- [ ] https://www.linkedin.com/jobs/view/4474905049 | S&P Global | Product Management Specialist | posted=2026-10-06
+- [ ] https://www.linkedin.com/jobs/view/4474040649 | Zepto | Product Manager | posted=2026-10-06
+- [ ] https://www.linkedin.com/jobs/view/4476168330 | Johnson & Johnson Innovative Medicine | Manager, Technical Product Management - Treasury | posted=2026-10-06
+- [ ] https://www.linkedin.com/jobs/view/4476171396 | TeamViewer | Product Owner | posted=2026-10-06
+- [ ] https://www.linkedin.com/jobs/view/4474690696 | The Sleep Company | Assistant Product Manager (Supply chain ) | posted=2026-10-06
+- [ ] https://jobs.lever.co/jobgether/914cb66c-49a0-46d8-9624-b631ca9993a1 | Jobgether | Product Manager, B2C | posted=2026-10-06
+- [ ] https://job-boards.greenhouse.io/zyngacareers/jobs/6210669004 | Zynga | Product Manager 2 | posted=2026-10-06
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990015885816 | Nielsen | Lead Product Manager | posted=2026-10-05
+- [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Principal-Product-Manager---Sabre-Payments_JR108807 | Sabre | Principal Product Manager - Sabre Payments | posted=2026-10-06
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

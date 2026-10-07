@@ -6067,6 +6067,11 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4476324693 | Flexiple | Product Manager | posted=2026-10-06
 - [ ] https://job-boards.greenhouse.io/capco/jobs/8258299 | Capco | AI  Product Owner | posted=2026-10-06
 
+- [ ] https://jobs.ashbyhq.com/supabase/9a4c9984-07c7-4b47-982f-371de3f6ff50 | Supabase | Product Manager - Auth | posted=2026-10-07
+- [ ] https://jobs.lever.co/keyloop/38013052-bf82-42cd-a70a-034c2c6f9002 | Keyloop | Product Owner, Unified Communications Platform | posted=2026-10-07
+- [ ] https://job-boards.greenhouse.io/axicorpfinancialservicesptyltd/jobs/5255213007 | Axi | Senior Product Manager | posted=2026-10-07
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990015944886 | Nielsen | Lead Product Manager - 10-15 years  | posted=2026-10-07
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

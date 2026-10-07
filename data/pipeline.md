@@ -6072,6 +6072,16 @@ Pune, India | posted=2026-06-28
 - [ ] https://job-boards.greenhouse.io/axicorpfinancialservicesptyltd/jobs/5255213007 | Axi | Senior Product Manager | posted=2026-10-07
 - [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990015944886 | Nielsen | Lead Product Manager - 10-15 years  | posted=2026-10-07
 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8875518002 | GitLab | Staff Product Manager, AI Software Factory PLG | posted=2026-10-07
+- [ ] https://jobs.ashbyhq.com/bureau/bc97c429-c6d2-46d5-a5a8-addc8d6e7576 | Bureau | Product Manager (RASP) | posted=2026-10-07
+- [ ] https://www.linkedin.com/jobs/view/4476793024 | Hewlett Packard Enterprise | Senior Technical Product Manager | posted=2026-10-07
+- [ ] https://www.linkedin.com/jobs/view/4476797217 | State Street | Agentic AI Platform Product Owner, Managing Director | posted=2026-10-07
+- [ ] https://www.linkedin.com/jobs/view/4476783670 | ExxonMobil India Careers | IT Product Management Specialist - Advanced | posted=2026-10-07
+- [ ] https://www.linkedin.com/jobs/view/4476771972 | Emerson | Product Manager Ultrasonic Plastics | posted=2026-10-07
+- [ ] https://www.linkedin.com/jobs/view/4466530916 | JAGGAER | Product Manager, AI Data & Insight Products | posted=2026-10-07
+- [ ] https://www.linkedin.com/jobs/view/4475471295 | Gigamon | Director, Product Management - Platforms | posted=2026-10-07
+- [ ] https://job-boards.greenhouse.io/inmobi/jobs/8232722 | InMobi Advertising | Product Manager - Programmatic Monetization | posted=2026-10-07
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

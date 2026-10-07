@@ -1,33 +1,68 @@
 {
-  "generated_at": "2026-10-07T10:18:48.369Z",
+  "generated_at": "2026-10-07T17:49:52.392Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Product Manager - Auth",
-      "company": "Supabase",
-      "location": "Remote, Global",
-      "url": "https://jobs.ashbyhq.com/supabase/9a4c9984-07c7-4b47-982f-371de3f6ff50"
+      "title": "Staff Product Manager, AI Software Factory PLG",
+      "company": "GitLab",
+      "location": "Remote, Canada; Remote, United States",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8875518002"
     },
     {
       "n": 2,
-      "title": "Product Owner, Unified Communications Platform",
-      "company": "Keyloop",
-      "location": "India (Hyderabad)",
-      "url": "https://jobs.lever.co/keyloop/38013052-bf82-42cd-a70a-034c2c6f9002"
+      "title": "Product Manager (RASP)",
+      "company": "Bureau",
+      "location": "Bangalore",
+      "url": "https://jobs.ashbyhq.com/bureau/bc97c429-c6d2-46d5-a5a8-addc8d6e7576"
     },
     {
       "n": 3,
-      "title": "Senior Product Manager",
-      "company": "Axi",
-      "location": "Bangalore, India",
-      "url": "https://job-boards.greenhouse.io/axicorpfinancialservicesptyltd/jobs/5255213007"
+      "title": "Senior Technical Product Manager",
+      "company": "Hewlett Packard Enterprise",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4476793024"
     },
     {
       "n": 4,
-      "title": "Lead Product Manager - 10-15 years ",
-      "company": "Nielsen",
-      "location": "Bengaluru, in",
-      "url": "https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990015944886"
+      "title": "Agentic AI Platform Product Owner, Managing Director",
+      "company": "State Street",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4476797217"
+    },
+    {
+      "n": 5,
+      "title": "IT Product Management Specialist - Advanced",
+      "company": "ExxonMobil India Careers",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4476783670"
+    },
+    {
+      "n": 6,
+      "title": "Product Manager Ultrasonic Plastics",
+      "company": "Emerson",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4476771972"
+    },
+    {
+      "n": 7,
+      "title": "Product Manager, AI Data & Insight Products",
+      "company": "JAGGAER",
+      "location": "Greater Hyderabad Area",
+      "url": "https://www.linkedin.com/jobs/view/4466530916"
+    },
+    {
+      "n": 8,
+      "title": "Director, Product Management - Platforms",
+      "company": "Gigamon",
+      "location": "Guindy, Tamil Nadu, India",
+      "url": "https://www.linkedin.com/jobs/view/4475471295"
+    },
+    {
+      "n": 9,
+      "title": "Product Manager - Programmatic Monetization",
+      "company": "InMobi Advertising",
+      "location": "Bangalore",
+      "url": "https://job-boards.greenhouse.io/inmobi/jobs/8232722"
     }
   ]
 }

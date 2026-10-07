@@ -1,75 +1,33 @@
 {
-  "generated_at": "2026-10-06T17:13:00.139Z",
+  "generated_at": "2026-10-07T10:18:48.369Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Product Manager, Radar",
-      "company": "Stripe",
-      "location": "San Francisco, Seattle, New York, US-Remote",
-      "url": "https://stripe.com/jobs/search?gh_jid=7983854"
+      "title": "Product Manager - Auth",
+      "company": "Supabase",
+      "location": "Remote, Global",
+      "url": "https://jobs.ashbyhq.com/supabase/9a4c9984-07c7-4b47-982f-371de3f6ff50"
     },
     {
       "n": 2,
-      "title": "Staff Product Manager, Radar - Fraud and Abuse Prevention",
-      "company": "Stripe",
-      "location": "San Francisco, Seattle, New York, US-Remote",
-      "url": "https://stripe.com/jobs/search?gh_jid=8258815"
+      "title": "Product Owner, Unified Communications Platform",
+      "company": "Keyloop",
+      "location": "India (Hyderabad)",
+      "url": "https://jobs.lever.co/keyloop/38013052-bf82-42cd-a70a-034c2c6f9002"
     },
     {
       "n": 3,
-      "title": "Global Product Manager – ES Smart Office",
-      "company": "Boston Consulting Group (BCG)",
-      "location": "Gurgaon, Haryana, India",
-      "url": "https://www.linkedin.com/jobs/view/4474981564"
+      "title": "Senior Product Manager",
+      "company": "Axi",
+      "location": "Bangalore, India",
+      "url": "https://job-boards.greenhouse.io/axicorpfinancialservicesptyltd/jobs/5255213007"
     },
     {
       "n": 4,
-      "title": "Lead Product Manager",
-      "company": "Mastercard",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://www.linkedin.com/jobs/view/4474096075"
-    },
-    {
-      "n": 5,
-      "title": "Product Manager - Compliance",
-      "company": "Sonata Software",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://www.linkedin.com/jobs/view/4476325636"
-    },
-    {
-      "n": 6,
-      "title": "Product Manager - Industrial",
-      "company": "Sonata Software",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://www.linkedin.com/jobs/view/4476330310"
-    },
-    {
-      "n": 7,
-      "title": "Vice President, POM Product Owner",
-      "company": "BNY",
-      "location": "Pune/Pimpri-Chinchwad Area",
-      "url": "https://www.linkedin.com/jobs/view/4439786595"
-    },
-    {
-      "n": 8,
-      "title": "Product Manager",
-      "company": "Signify",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://www.linkedin.com/jobs/view/4476334400"
-    },
-    {
-      "n": 9,
-      "title": "Product Manager",
-      "company": "Flexiple",
-      "location": "India",
-      "url": "https://www.linkedin.com/jobs/view/4476324693"
-    },
-    {
-      "n": 10,
-      "title": "AI  Product Owner",
-      "company": "Capco",
-      "location": "India - Bengaluru",
-      "url": "https://job-boards.greenhouse.io/capco/jobs/8258299"
+      "title": "Lead Product Manager - 10-15 years ",
+      "company": "Nielsen",
+      "location": "Bengaluru, in",
+      "url": "https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990015944886"
     }
   ]
 }

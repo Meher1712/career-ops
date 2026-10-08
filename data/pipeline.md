@@ -6106,6 +6106,17 @@ Pune, India | posted=2026-06-28
 - [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Principal-Product-Manager_JR108751-1 | Sabre | Principal Product Manager | posted=2026-10-08
 - [ ] https://jobs.lever.co/jobgether/527dfcf9-409b-4596-800a-22f41808c3ec | Jobgether | Senior Product Manager | posted=2026-10-08
 
+- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8264858 | Smartsheet | Senior Product Manager – People Systems | posted=2026-10-08
+- [ ] https://www.linkedin.com/jobs/view/4468392846 | CDK Global | Sr. Product Manager | posted=2026-10-08
+- [ ] https://www.linkedin.com/jobs/view/4477433427 | D. E. Shaw India Private Limited | Principal Manager, Product Management (Comply Tech) | posted=2026-10-08
+- [ ] https://www.linkedin.com/jobs/view/4475974708 | Standard Chartered India | Product Owner, Partner Solution | posted=2026-10-08
+- [ ] https://www.linkedin.com/jobs/view/4475981567 | Western Union | Assistant Manager, Product Management | posted=2026-10-08
+- [ ] https://www.linkedin.com/jobs/view/4477416687 | TE Connectivity | SR MGR PRODUCT MANAGEMENT | posted=2026-10-08
+- [ ] https://www.linkedin.com/jobs/view/4467197320 | TIAA | Director - Product Manager - Lakehouse (Asset Management) | posted=2026-10-08
+- [ ] https://jobs.solarwinds.com/job-detail/?gh_jid=4733858005&gh_jid=4733858005 | SolarWinds | IT Business Applications - Product Owner (CPQ) | posted=2026-10-08
+- [ ] https://jobs.solarwinds.com/job-detail/?gh_jid=4733532005&gh_jid=4733532005 | SolarWinds | Lead Product Manager, NetSuite Order-to-Cash | posted=2026-10-08
+- [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Sr-Product-Manager---Seller-Payments_R0077052 | eBay | Sr. Product Manager - Seller Payments | posted=2026-10-08
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -6082,6 +6082,30 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4475471295 | Gigamon | Director, Product Management - Platforms | posted=2026-10-07
 - [ ] https://job-boards.greenhouse.io/inmobi/jobs/8232722 | InMobi Advertising | Product Manager - Programmatic Monetization | posted=2026-10-07
 
+- [ ] https://jobs.ashbyhq.com/supabase/bd5ce178-84c9-469e-89f4-493c21b50622 | Supabase | Product Manager - Realtime | posted=2026-10-07
+- [ ] https://www.linkedin.com/jobs/view/4477144017 | eBay | Sr. Product Manager - Seller Payments | posted=2026-10-08
+- [ ] https://www.linkedin.com/jobs/view/4468221094 | ETS | Lead Product Manager | posted=2026-10-08
+- [ ] https://www.linkedin.com/jobs/view/4475785501 | EdgeVerve | Product Manager | posted=2026-10-08
+- [ ] https://www.linkedin.com/jobs/view/4475182402 | MyCareernet | Product Manager - Customer Account Management_104537 | posted=2026-10-08
+- [ ] https://www.linkedin.com/jobs/view/4477137450 | Precisely | Product Manager - AI Platform | posted=2026-10-08
+- [ ] https://www.linkedin.com/jobs/view/4477144430 | YES BANK | Product Manager- Saving Account-Deposits - Locker | posted=2026-10-08
+- [ ] https://www.linkedin.com/jobs/view/4475789101 | Scrapingdog | Product Manager | posted=2026-10-08
+- [ ] https://www.linkedin.com/jobs/view/4475168938 | MyCareernet | Product Manager - Supply Chain_104536 | posted=2026-10-08
+- [ ] https://www.linkedin.com/jobs/view/4465414837 | Zocket | Product Manager | posted=2026-10-08
+- [ ] https://www.linkedin.com/jobs/view/4475758235 | Pakt | Information Technology Product Manager | posted=2026-10-08
+- [ ] https://www.linkedin.com/jobs/view/4475785572 | InCred Financial Services | Associate Product Manager | posted=2026-10-08
+- [ ] https://www.linkedin.com/jobs/view/4477129606 | Amgen | Product Owner - Digital Lab Platform | posted=2026-10-08
+- [ ] https://www.linkedin.com/jobs/view/4477154079 | BlackLine | Senior Product Manager | posted=2026-10-08
+- [ ] https://www.linkedin.com/jobs/view/4475900021 | Intuit | Senior Staff Product Manager - AI Agents (Migration & Onboarding) | posted=2026-10-08
+- [ ] https://www.linkedin.com/jobs/view/4477140677 | 2070 Health | Product Manager - Growth | posted=2026-10-08
+- [ ] https://www.linkedin.com/jobs/view/4475783831 | SLTL Group - Sahajanand Laser Technology Ltd | Product Management Executive | posted=2026-10-08
+- [ ] https://www.linkedin.com/jobs/view/4470293881 | PDI Technologies | Product Owner III | posted=2026-10-08
+- [ ] https://www.linkedin.com/jobs/view/4475792456 | datasirpi | Product owner | posted=2026-10-08
+- [ ] https://www.linkedin.com/jobs/view/4475901139 | TIAA | Associate Product Owner | posted=2026-10-08
+- [ ] https://apply.workable.com/j/882C433BD2 | 2070Health | Product Manager - Growth | posted=2026-10-08
+- [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Principal-Product-Manager_JR108751-1 | Sabre | Principal Product Manager | posted=2026-10-08
+- [ ] https://jobs.lever.co/jobgether/527dfcf9-409b-4596-800a-22f41808c3ec | Jobgether | Senior Product Manager | posted=2026-10-08
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -6130,6 +6130,19 @@ Pune, India | posted=2026-06-28
 - [ ] https://api.smartrecruiters.com/v1/companies/nagarro1/postings/744000154626329 | Nagarro | Digital Product Owner - Home Automation & IoT (m/w/d) | posted=2026-10-09
 - [ ] https://api.smartrecruiters.com/v1/companies/nagarro1/postings/744000154624634 | Nagarro | Digital Product Owner - Home Automation & IoT | posted=2026-10-09
 
+- [ ] https://www.linkedin.com/jobs/view/4477831562 | Visa | Sr. Product Manager | posted=2026-10-09
+- [ ] https://www.linkedin.com/jobs/view/4475238704 | EXL | Product Manager - Record to Report | posted=2026-10-09
+- [ ] https://www.linkedin.com/jobs/view/4477837341 | GE Vernova | Sr Staff Technical Product Manager | posted=2026-10-09
+- [ ] https://www.linkedin.com/jobs/view/4475244388 | Nobel Biocare | Product Manager | posted=2026-10-09
+- [ ] https://www.linkedin.com/jobs/view/4476814621 | DataMoo.AI | BI/Product Owner | posted=2026-10-09
+- [ ] https://www.linkedin.com/jobs/view/4476806974 | Google | Product Manager, Geo, Google Maps, UGC Contributor Success | posted=2026-10-09
+- [ ] https://www.linkedin.com/jobs/view/4476838135 | FINAGG Technologies Private Limited | AVP Product LOS | posted=2026-10-09
+- [ ] https://www.linkedin.com/jobs/view/4477832536 | Visa | Product Manager | posted=2026-10-09
+- [ ] https://www.linkedin.com/jobs/view/4477815941 | Flexiple | Product Manager | posted=2026-10-09
+- [ ] https://www.linkedin.com/jobs/view/4476821467 | Auric AI Labs | Product Manager | posted=2026-10-09
+- [ ] https://www.linkedin.com/jobs/view/4477817791 | Abbott | Product Manager - Mumbai - GI Prospera | posted=2026-10-09
+- [ ] https://api.smartrecruiters.com/v1/companies/nagarro1/postings/744000154625569 | Nagarro | Digital Product Owner - Home Automation & IoT | posted=2026-10-09
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

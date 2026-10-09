@@ -6117,6 +6117,19 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.solarwinds.com/job-detail/?gh_jid=4733532005&gh_jid=4733532005 | SolarWinds | Lead Product Manager, NetSuite Order-to-Cash | posted=2026-10-08
 - [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Sr-Product-Manager---Seller-Payments_R0077052 | eBay | Sr. Product Manager - Seller Payments | posted=2026-10-08
 
+- [ ] https://www.linkedin.com/jobs/view/4475223003 | Keka HR | Senior Product Manager- HCM | posted=2026-10-09
+- [ ] https://www.linkedin.com/jobs/view/4475203917 | Okta | Senior Product Manager, Product Platform | posted=2026-10-09
+- [ ] https://www.linkedin.com/jobs/view/4477655673 | Cisco | Product Manager | posted=2026-10-09
+- [ ] https://www.linkedin.com/jobs/view/4476286362 | TBO.COM | Associate Director Product Manager | posted=2026-10-09
+- [ ] https://www.linkedin.com/jobs/view/4477649950 | Albertsons Companies India | Principal Product Manager [T500-30019] | posted=2026-10-09
+- [ ] https://www.linkedin.com/jobs/view/4475203845 | Brillio | Product Owner - R01572426 | posted=2026-10-09
+- [ ] https://www.linkedin.com/jobs/view/4468616091 | A.P. Moller - Maersk | Product Manager - Time & Attendance and Scheduling | posted=2026-10-09
+- [ ] https://www.linkedin.com/jobs/view/4476286350 | Groww | Product Manager | posted=2026-10-09
+- [ ] https://www.linkedin.com/jobs/view/4476288403 | Discvrai | CTC-6-8LPA-Product Quality Lead (QA + Product Ownership) | posted=2026-10-09
+- [ ] https://www.linkedin.com/jobs/view/4476286436 | Google | Technical Program Manager, AI Products, ISM Product Operations | posted=2026-10-09
+- [ ] https://api.smartrecruiters.com/v1/companies/nagarro1/postings/744000154626329 | Nagarro | Digital Product Owner - Home Automation & IoT (m/w/d) | posted=2026-10-09
+- [ ] https://api.smartrecruiters.com/v1/companies/nagarro1/postings/744000154624634 | Nagarro | Digital Product Owner - Home Automation & IoT | posted=2026-10-09
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

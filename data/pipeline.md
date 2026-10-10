@@ -6158,6 +6158,10 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4475625382 | AICAN Private Limited | Product Manager | posted=2026-10-10
 - [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990016041046 | Nielsen | Senior Product Manager I | posted=2026-10-10
 
+- [ ] https://www.linkedin.com/jobs/view/4469032964 | Target | Principal Product Manager | posted=2026-10-10
+- [ ] https://www.linkedin.com/jobs/view/4469223211 | BNY | Senior Specialist, POM Product Owner | posted=2026-10-10
+- [ ] https://www.linkedin.com/jobs/view/4477217932 | LinkedIn India Senior PM | Product Manager | posted=2026-10-10
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

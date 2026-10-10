@@ -6151,6 +6151,13 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.zoominfo.com/careers?gh_jid=8876309002 | ZoomInfo | Senior Director, Product Management, Agentic Platform | posted=2026-10-10
 - [ ] https://careers.toasttab.com/jobs?gh_jid=8259263 | Toast | Senior Product Manager, Toast Delivery Services | posted=2026-10-09
 
+- [ ] https://www.linkedin.com/jobs/view/4475625348 | Palo Alto Networks | Principal Product Manager (Gateway, Prisma AIRS) - NetSec | posted=2026-10-10
+- [ ] https://www.linkedin.com/jobs/view/4478061791 | Ford Motor Company | Product manager | posted=2026-10-10
+- [ ] https://www.linkedin.com/jobs/view/4475626372 | SecondWind by Joveo | AI Product Manager | posted=2026-10-10
+- [ ] https://www.linkedin.com/jobs/view/4475616686 | Cutshort | Product Manager 2 | posted=2026-10-10
+- [ ] https://www.linkedin.com/jobs/view/4475625382 | AICAN Private Limited | Product Manager | posted=2026-10-10
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990016041046 | Nielsen | Senior Product Manager I | posted=2026-10-10
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

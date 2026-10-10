@@ -6143,6 +6143,14 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4477817791 | Abbott | Product Manager - Mumbai - GI Prospera | posted=2026-10-09
 - [ ] https://api.smartrecruiters.com/v1/companies/nagarro1/postings/744000154625569 | Nagarro | Digital Product Owner - Home Automation & IoT | posted=2026-10-09
 
+- [ ] https://www.linkedin.com/jobs/view/4469044307 | Target | Sr Product Manager - Media Measurements | posted=2026-10-10
+- [ ] https://www.linkedin.com/jobs/view/4475604830 | Flexteam360 | (Senior) Product Manager, Order Management (OMS) | posted=2026-10-10
+- [ ] https://www.linkedin.com/jobs/view/4478045366 | QUEST Alliance | Product Manager - Experience | posted=2026-10-10
+- [ ] https://job-boards.greenhouse.io/zenoti/jobs/7806709003 | Zenoti | Lead Product Manager(SaaS + AI) | posted=2026-10-09
+- [ ] https://www.linkedin.com/jobs/view/4475613437 | WhatsApp | Director, Product Management - WhatsApp India | posted=2026-10-10
+- [ ] https://www.zoominfo.com/careers?gh_jid=8876309002 | ZoomInfo | Senior Director, Product Management, Agentic Platform | posted=2026-10-10
+- [ ] https://careers.toasttab.com/jobs?gh_jid=8259263 | Toast | Senior Product Manager, Toast Delivery Services | posted=2026-10-09
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

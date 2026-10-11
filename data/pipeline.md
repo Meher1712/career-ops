@@ -6164,6 +6164,8 @@ Pune, India | posted=2026-06-28
 
 - [ ] https://www.linkedin.com/jobs/view/4477249704 | Arctic Wolf | Senior Product Manager | posted=2026-10-11
 
+- [ ] https://www.linkedin.com/jobs/view/4475656776 | thelightbulb.ai | Product Manager | posted=2026-10-11
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

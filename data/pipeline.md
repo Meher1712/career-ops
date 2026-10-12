@@ -6166,6 +6166,18 @@ Pune, India | posted=2026-06-28
 
 - [ ] https://www.linkedin.com/jobs/view/4475656776 | thelightbulb.ai | Product Manager | posted=2026-10-11
 
+- [ ] https://www.linkedin.com/jobs/view/4478397701 | Flexiple | Senior Product Manager | posted=2026-10-12
+- [ ] https://www.linkedin.com/jobs/view/4477504960 | GoReach | Product Manager | posted=2026-10-12
+- [ ] https://www.linkedin.com/jobs/view/4477524274 | Atlas Copco Group | Product Owner - Digital Technology | posted=2026-10-12
+- [ ] https://www.linkedin.com/jobs/view/4469848968 | MSD | Product Manager - Ruminant | posted=2026-10-12
+- [ ] https://www.linkedin.com/jobs/view/4477523362 | Karle Infra Pvt. Ltd. | Nutra & Herbal- Research and Development Product Manager | posted=2026-10-12
+- [ ] https://www.linkedin.com/jobs/view/4476012195 | Mastercard | Lead Product Manager - Technical | posted=2026-10-12
+- [ ] https://www.linkedin.com/jobs/view/4478514069 | A.P. Moller - Maersk | Regional Product Manager - IMEA Lead Logistics Product | posted=2026-10-12
+- [ ] https://www.linkedin.com/jobs/view/4476009470 | Synechron | Product Owner | posted=2026-10-12
+- [ ] https://www.linkedin.com/jobs/view/4477513936 | Orange Business | Ecommerce Product Owner - Ordering Hub | posted=2026-10-12
+- [ ] https://api.smartrecruiters.com/v1/companies/nagarro1/postings/744000154946664 | Nagarro | Digital Product Owner - Home Automation & IoT  | posted=2026-10-12
+- [ ] https://careers.toasttab.com/jobs?gh_jid=8263535 | Toast | Product Manager | posted=2026-10-12
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -1,12 +1,82 @@
 {
-  "generated_at": "2026-10-11T16:20:08.462Z",
+  "generated_at": "2026-10-12T10:54:19.056Z",
   "jobs": [
     {
       "n": 1,
+      "title": "Senior Product Manager",
+      "company": "Flexiple",
+      "location": "India",
+      "url": "https://www.linkedin.com/jobs/view/4478397701"
+    },
+    {
+      "n": 2,
       "title": "Product Manager",
-      "company": "thelightbulb.ai",
-      "location": "New Delhi, Delhi, India",
-      "url": "https://www.linkedin.com/jobs/view/4475656776"
+      "company": "GoReach",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4477504960"
+    },
+    {
+      "n": 3,
+      "title": "Product Owner - Digital Technology",
+      "company": "Atlas Copco Group",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4477524274"
+    },
+    {
+      "n": 4,
+      "title": "Product Manager - Ruminant",
+      "company": "MSD",
+      "location": "Pune City, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4469848968"
+    },
+    {
+      "n": 5,
+      "title": "Nutra & Herbal- Research and Development Product Manager",
+      "company": "Karle Infra Pvt. Ltd.",
+      "location": "Bangalore Urban, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4477523362"
+    },
+    {
+      "n": 6,
+      "title": "Lead Product Manager - Technical",
+      "company": "Mastercard",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4476012195"
+    },
+    {
+      "n": 7,
+      "title": "Regional Product Manager - IMEA Lead Logistics Product",
+      "company": "A.P. Moller - Maersk",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4478514069"
+    },
+    {
+      "n": 8,
+      "title": "Product Owner",
+      "company": "Synechron",
+      "location": "Chennai, Tamil Nadu, India",
+      "url": "https://www.linkedin.com/jobs/view/4476009470"
+    },
+    {
+      "n": 9,
+      "title": "Ecommerce Product Owner - Ordering Hub",
+      "company": "Orange Business",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4477513936"
+    },
+    {
+      "n": 10,
+      "title": "Digital Product Owner - Home Automation & IoT ",
+      "company": "Nagarro",
+      "location": "Remote, ro",
+      "url": "https://api.smartrecruiters.com/v1/companies/nagarro1/postings/744000154946664"
+    },
+    {
+      "n": 11,
+      "title": "Product Manager",
+      "company": "Toast",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8263535"
     }
   ]
 }

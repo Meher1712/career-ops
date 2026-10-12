@@ -6178,6 +6178,15 @@ Pune, India | posted=2026-06-28
 - [ ] https://api.smartrecruiters.com/v1/companies/nagarro1/postings/744000154946664 | Nagarro | Digital Product Owner - Home Automation & IoT  | posted=2026-10-12
 - [ ] https://careers.toasttab.com/jobs?gh_jid=8263535 | Toast | Product Manager | posted=2026-10-12
 
+- [ ] https://www.linkedin.com/jobs/view/4478589016 | Salesforce | Product Manager / Sr. Product Manager - Mulesoft | posted=2026-10-12
+- [ ] https://www.linkedin.com/jobs/view/4477919287 | Levi Strauss & Co. | Product Manager – Shopify Markets, E-Commerce | posted=2026-10-12
+- [ ] https://www.linkedin.com/jobs/view/4478571802 | Uplers | Data & AI Product Manager (Intelligence Pod) | posted=2026-10-12
+- [ ] https://www.linkedin.com/jobs/view/4478589271 | First Advantage | Director, Product Management | posted=2026-10-12
+- [ ] https://jobs.lever.co/fampay/b11c81ce-fe5c-4eb6-a3e1-d268dd3ad926 | Fam | Product Manager | posted=2026-10-12
+- [ ] https://api.smartrecruiters.com/v1/companies/nagarro1/postings/744000155050029 | Nagarro | Senior Data Product Owner (m/f/d) – Azure DevOps & Data Strategy | posted=2026-10-12
+- [ ] https://apply.workable.com/j/512B42B5B8 | 2070Health | Product Manager - Logistics and Fulfillment | posted=2026-10-12
+- [ ] https://apply.workable.com/j/AA72770B23 | 2070Health | Product Manager, Doctor Experience | posted=2026-10-12
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

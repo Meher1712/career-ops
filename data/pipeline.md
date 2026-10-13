@@ -6191,6 +6191,18 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/jobgether/cea38103-8d31-4212-853b-bea37d22d847 | Jobgether | Director, Product Management | posted=2026-10-13
 - [ ] https://jobs.lever.co/jobgether/f920753d-1d93-4357-b158-ac4263ce9d31 | Jobgether | Product Manager- New & Strategic Initiatives | posted=2026-10-13
 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8871798002 | GitLab | Principal Product Manager, Orbit | posted=2026-10-13
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8871820002 | GitLab | Staff Product Manager, Agentic Test Intelligence | posted=2026-10-13
+- [ ] https://www.linkedin.com/jobs/view/4461717876 | Amazon | Senior Product Manager, IES - Emerging Stores | posted=2026-10-13
+- [ ] https://www.linkedin.com/jobs/view/4468143458 | Amazon | Sr. Product Manager, Progression Intelligence | posted=2026-10-13
+- [ ] https://www.linkedin.com/jobs/view/4426845615 | Zendesk | Senior Product Manager | posted=2026-10-13
+- [ ] https://www.linkedin.com/jobs/view/4476462614 | Mastercard | Manager, Product Management - Client Data Onboarding, BE&O | posted=2026-10-13
+- [ ] https://www.linkedin.com/jobs/view/4461502053 | YES BANK | Product Manager | posted=2026-10-13
+- [ ] https://www.linkedin.com/jobs/view/4467632348 | Applied Materials India | Product Owner | posted=2026-10-13
+- [ ] https://www.linkedin.com/jobs/view/4460748014 | Capgemini | FBS Product Owner III | posted=2026-10-13
+- [ ] https://api.smartrecruiters.com/v1/companies/ixigo/postings/744000155296796 | ixigo | Senior Product Manager | posted=2026-10-13
+- [ ] https://job-boards.greenhouse.io/sonicwall/jobs/8173282 | SonicWall | Product Manager - ZTNA experience is required | posted=2026-10-13
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

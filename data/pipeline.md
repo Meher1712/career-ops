@@ -6187,6 +6187,10 @@ Pune, India | posted=2026-06-28
 - [ ] https://apply.workable.com/j/512B42B5B8 | 2070Health | Product Manager - Logistics and Fulfillment | posted=2026-10-12
 - [ ] https://apply.workable.com/j/AA72770B23 | 2070Health | Product Manager, Doctor Experience | posted=2026-10-12
 
+- [ ] https://job-boards.greenhouse.io/hackerrank/jobs/8242584 | HackerRank | Principal Product Manager  | posted=2026-10-13
+- [ ] https://jobs.lever.co/jobgether/cea38103-8d31-4212-853b-bea37d22d847 | Jobgether | Director, Product Management | posted=2026-10-13
+- [ ] https://jobs.lever.co/jobgether/f920753d-1d93-4357-b158-ac4263ce9d31 | Jobgether | Product Manager- New & Strategic Initiatives | posted=2026-10-13
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

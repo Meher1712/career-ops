@@ -6203,6 +6203,8 @@ Pune, India | posted=2026-06-28
 - [ ] https://api.smartrecruiters.com/v1/companies/ixigo/postings/744000155296796 | ixigo | Senior Product Manager | posted=2026-10-13
 - [ ] https://job-boards.greenhouse.io/sonicwall/jobs/8173282 | SonicWall | Product Manager - ZTNA experience is required | posted=2026-10-13
 
+- [ ] https://www.netskope.com/company/careers/open-positions/?gh_jid=8260826 | Netskope | Principal Product Manager, AI Security  | posted=2026-10-13
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

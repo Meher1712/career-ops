@@ -6215,6 +6215,13 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4478459203 | Yumzip | Product Manager | posted=2026-10-14
 - [ ] https://www.linkedin.com/jobs/view/4478467168 | ZoomRx | Associate Product Manager | posted=2026-10-14
 
+- [ ] https://www.linkedin.com/jobs/view/4461576326 | MongoDB | Senior Product Manager, Atlas Agent Engine | posted=2026-10-14
+- [ ] https://www.linkedin.com/jobs/view/4468901808 | Applied Materials India | Technical Product Manager | posted=2026-10-14
+- [ ] https://www.linkedin.com/jobs/view/4479581159 | Redington Limited | Solar Product Manager | posted=2026-10-14
+- [ ] https://www.linkedin.com/jobs/view/4476698399 | OpenText | Director, Product Management | posted=2026-10-14
+- [ ] https://jobs.lever.co/jobgether/8412dcf7-1b5e-40ac-9e60-52207eae7560 | Jobgether | Staff Product Manager - Email AI | posted=2026-10-14
+- [ ] https://jobs.lever.co/jobgether/fba4f9fb-6d9f-4ecb-bd5c-7624bc462129 | Jobgether | Trust & Safety Product Manager | posted=2026-10-14
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

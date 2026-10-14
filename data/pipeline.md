@@ -6205,6 +6205,16 @@ Pune, India | posted=2026-06-28
 
 - [ ] https://www.netskope.com/company/careers/open-positions/?gh_jid=8260826 | Netskope | Principal Product Manager, AI Security  | posted=2026-10-13
 
+- [ ] https://jobs.lever.co/meesho/102d5a7e-0292-4ddc-8ebc-ba191119349e | Meesho | Senior Product Manager : F&E | posted=2026-10-09
+- [ ] https://www.linkedin.com/jobs/view/4478449226 | FINAGG Technologies Private Limited | Senior Product Manager – FinAGG | posted=2026-10-14
+- [ ] https://www.linkedin.com/jobs/view/4459596196 | Circle | Senior Product Manager | posted=2026-10-14
+- [ ] https://www.linkedin.com/jobs/view/4479529704 | Finkraft | Product Manager — Travel & Hospitality Tech | posted=2026-10-14
+- [ ] https://www.linkedin.com/jobs/view/4470917775 | GE Vernova | Sr Product Owner | posted=2026-10-14
+- [ ] https://www.linkedin.com/jobs/view/4476659896 | Sense | Product Manager | posted=2026-10-14
+- [ ] https://www.linkedin.com/jobs/view/4470918686 | Rippling | Product Manager, Payroll Integrations | posted=2026-10-14
+- [ ] https://www.linkedin.com/jobs/view/4478459203 | Yumzip | Product Manager | posted=2026-10-14
+- [ ] https://www.linkedin.com/jobs/view/4478467168 | ZoomRx | Associate Product Manager | posted=2026-10-14
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -6245,6 +6245,14 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4459955276 | project44 | Product Manager, Interoperability | posted=2026-10-15
 - [ ] https://www.linkedin.com/jobs/view/4477097269 | Northern Trust | Data Product Owner | posted=2026-10-15
 
+- [ ] https://www.linkedin.com/jobs/view/4479150429 | Everstage | Senior Product Manager (Enterprise) | posted=2026-10-15
+- [ ] https://www.linkedin.com/jobs/view/4479150437 | AU SMALL FINANCE BANK | Product Manager | posted=2026-10-15
+- [ ] https://www.linkedin.com/jobs/view/4469337323 | Mastercard | Manager, Product Management | posted=2026-10-15
+- [ ] https://www.linkedin.com/jobs/view/4480106158 | HT Digital Streams | Product Manager-Apps | posted=2026-10-15
+- [ ] https://www.linkedin.com/jobs/view/4477308603 | ArkInfoCubes LLC | Product Manager (AI-Automation Process) | posted=2026-10-15
+- [ ] https://www.linkedin.com/jobs/view/4480108128 | Flexiple | Product Manager | posted=2026-10-15
+- [ ] https://apply.workable.com/j/5EA45F8D16 | Lokal App | Product Manager II | posted=2026-10-15
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

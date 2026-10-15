@@ -6222,6 +6222,25 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/jobgether/8412dcf7-1b5e-40ac-9e60-52207eae7560 | Jobgether | Staff Product Manager - Email AI | posted=2026-10-14
 - [ ] https://jobs.lever.co/jobgether/fba4f9fb-6d9f-4ecb-bd5c-7624bc462129 | Jobgether | Trust & Safety Product Manager | posted=2026-10-14
 
+- [ ] https://www.linkedin.com/jobs/view/4477061371 | Josys | Senior Product Manager | posted=2026-10-15
+- [ ] https://www.linkedin.com/jobs/view/4479776972 | PTC | Senior Technical Product Manager | posted=2026-10-15
+- [ ] https://www.linkedin.com/jobs/view/4478861056 | Continental Industry | IT Consultant Data & Analytics Product Owner | posted=2026-10-15
+- [ ] https://www.linkedin.com/jobs/view/4479791211 | Innova ESI | Healthcare Product Manager | posted=2026-10-15
+- [ ] https://www.linkedin.com/jobs/view/4478855190 | Dario | Product Owner | posted=2026-10-15
+- [ ] https://www.linkedin.com/jobs/view/4477047763 | Hirea4u | Product Owner – Digital Manufacturing & WMS | 10+ Yrs Exp | posted=2026-10-15
+- [ ] https://www.linkedin.com/jobs/view/4477050681 | JK Tyre & Industries Ltd. | Product Manager - 2/3 Wheeler (Assistant Manager) | posted=2026-10-15
+- [ ] https://www.linkedin.com/jobs/view/4479785697 | Salesforce | Strategic Builder | posted=2026-10-15
+- [ ] https://www.linkedin.com/jobs/view/4479777799 | Ujjivan Small Finance Bank | Asset Product Manager -Pune RO | posted=2026-10-15
+- [ ] https://www.linkedin.com/jobs/view/4477066364 | Delhivery | Product Manager / Senior Product Manager - AI | posted=2026-10-15
+- [ ] https://www.linkedin.com/jobs/view/4478856387 | Supernova AI | Associate Product Manager | posted=2026-10-15
+- [ ] https://www.linkedin.com/jobs/view/4477069161 | Qualys | Associate Product Manager / Project Manager | posted=2026-10-15
+- [ ] https://www.linkedin.com/jobs/view/4479784998 | Flexiple | Associate Product Manager | posted=2026-10-15
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990016136527 | Nielsen | Senior Product Manager I | posted=2026-10-15
+- [ ] https://www.coupang.jobs/en/jobs/?gh_jid=8284225 | Coupang | Senior Product Manager | posted=2026-10-15
+- [ ] https://jobs.lever.co/netomi/946847b5-c634-4808-9076-79e49f041ddb | Netomi | Senior Technical PM, Applied AI | posted=2026-10-15
+- [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Senior-Product-Manager-II_R0077063 | eBay | Senior Product Manager II | posted=2026-10-15
+- [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Senior-Product-Manager---Core-Risk_R0077062 | eBay | Senior Product Manager - Core Risk | posted=2026-10-15
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

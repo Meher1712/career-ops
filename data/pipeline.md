@@ -6241,6 +6241,10 @@ Pune, India | posted=2026-06-28
 - [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Senior-Product-Manager-II_R0077063 | eBay | Senior Product Manager II | posted=2026-10-15
 - [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Senior-Product-Manager---Core-Risk_R0077062 | eBay | Senior Product Manager - Core Risk | posted=2026-10-15
 
+- [ ] https://www.linkedin.com/jobs/view/4479850048 | GE HealthCare | Staff Technical Product Manager - Healthcare Technology & Innovation Center | posted=2026-10-15
+- [ ] https://www.linkedin.com/jobs/view/4459955276 | project44 | Product Manager, Interoperability | posted=2026-10-15
+- [ ] https://www.linkedin.com/jobs/view/4477097269 | Northern Trust | Data Product Owner | posted=2026-10-15
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -1,54 +1,89 @@
 {
-  "generated_at": "2026-10-16T08:13:40.557Z",
+  "generated_at": "2026-10-16T13:17:43.657Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Senior Product Manager",
-      "company": "Twilio",
-      "location": "Remote - US",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8247185"
+      "title": "Product Manager I",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/494d8ba6-22b6-467f-837b-8af9c1aee377"
     },
     {
       "n": 2,
-      "title": "Senior Product Manager",
-      "company": "PayPay India",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://www.linkedin.com/jobs/view/4480346056"
+      "title": "Senior Product Manager - Personalisation & AI",
+      "company": "JioSaavn",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4480377021"
     },
     {
       "n": 3,
-      "title": "Senior Product Manager (POS, Retail)",
-      "company": "Staffnix",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://www.linkedin.com/jobs/view/4479338326"
+      "title": "Sr. Product Manager - Master Data Management",
+      "company": "Ingram Micro",
+      "location": "Mumbai Metropolitan Region",
+      "url": "https://www.linkedin.com/jobs/view/4479360373"
     },
     {
       "n": 4,
-      "title": "Senior Product Manager",
-      "company": "BlueOptima",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4477367426"
+      "title": "Product Manager",
+      "company": "Fresenius Medical Care",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://www.linkedin.com/jobs/view/4480358887"
     },
     {
       "n": 5,
-      "title": "Head of Product, Credit Outcome",
-      "company": "Tide",
-      "location": "India, Hyderabad",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/8035213003"
+      "title": "Senior Product Owner",
+      "company": "TEKNIKOZ",
+      "location": "Delhi, India",
+      "url": "https://www.linkedin.com/jobs/view/4479354576"
     },
     {
       "n": 6,
-      "title": "Senior Technical PM, Applied AI",
+      "title": "Product Manager, Payments Infrastructure",
       "company": "Jobgether",
       "location": "India",
-      "url": "https://jobs.lever.co/jobgether/44b71bac-2d73-45d7-94f5-d8c6a868e3e4"
+      "url": "https://www.linkedin.com/jobs/view/4479369154"
     },
     {
       "n": 7,
-      "title": "Senior Product Manager, Audience Measurement & Media Data",
-      "company": "Nielsen",
-      "location": "Remote, us",
-      "url": "https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990016162466"
+      "title": "Product Specialist(Product Manager)",
+      "company": "Syngenta",
+      "location": "Pune/Pimpri-Chinchwad Area",
+      "url": "https://www.linkedin.com/jobs/view/4480360598"
+    },
+    {
+      "n": 8,
+      "title": "Product Manager, Google Cloud Business Platform",
+      "company": "Google",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4460971623"
+    },
+    {
+      "n": 9,
+      "title": "Product Manager",
+      "company": "Ingram Micro",
+      "location": "South Delhi, Delhi, India",
+      "url": "https://www.linkedin.com/jobs/view/4479366165"
+    },
+    {
+      "n": 10,
+      "title": "Associate Product Manager – Claims Platform",
+      "company": "datavruti",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4479372027"
+    },
+    {
+      "n": 11,
+      "title": "Product Manager - I",
+      "company": "HuntingCube",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4480365466"
+    },
+    {
+      "n": 12,
+      "title": "Construction Project Coordination via Buildertrend Virtual Assistant",
+      "company": "Jobgether",
+      "location": "India",
+      "url": "https://jobs.lever.co/jobgether/f55c57a4-90f3-43e5-9851-66811d32dd1e"
     }
   ]
 }

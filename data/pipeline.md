@@ -6274,6 +6274,23 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4480365466 | HuntingCube | Product Manager - I | posted=2026-10-16
 - [ ] https://jobs.lever.co/jobgether/f55c57a4-90f3-43e5-9851-66811d32dd1e | Jobgether | Construction Project Coordination via Buildertrend Virtual Assistant | posted=2026-10-16
 
+- [ ] https://www.linkedin.com/jobs/view/4471820248 | Amazon Web Services (AWS) | Sr. Product Manager - Tech, Just Walk Out Technology , Physical Store 3P (Just Walk Out Technology) | posted=2026-10-16
+- [ ] https://www.linkedin.com/jobs/view/4480501623 | JPMorganChase | Product Manager | posted=2026-10-16
+- [ ] https://www.linkedin.com/jobs/view/4469752039 | Amazon | Product Manager, Amazon Now, Amazon Now | posted=2026-10-16
+- [ ] https://www.linkedin.com/jobs/view/4480392997 | Vanguard | Product Manager, Specialist | posted=2026-10-16
+- [ ] https://www.linkedin.com/jobs/view/4479355688 | profound.me | Product Manager (Agentic SaaS, 70L, 6+ years) | posted=2026-10-16
+- [ ] https://www.linkedin.com/jobs/view/4480511546 | Wells Fargo | Lead Product Manager | posted=2026-10-16
+- [ ] https://www.linkedin.com/jobs/view/4477703634 | Purplle.com | Product Manager - Storefront | posted=2026-10-16
+- [ ] https://www.linkedin.com/jobs/view/4479386222 | Michael Page | Product Owner | posted=2026-10-16
+- [ ] https://www.linkedin.com/jobs/view/4480500972 | Flexiple | Product Manager | posted=2026-10-16
+- [ ] https://www.linkedin.com/jobs/view/4480513521 | Wells Fargo | Lead Digital Product Manager | posted=2026-10-16
+- [ ] https://www.linkedin.com/jobs/view/4477399929 | Barclays | Product Owner - AVP | posted=2026-10-16
+- [ ] https://www.linkedin.com/jobs/view/4472626912 | Siemens Healthineers | Product Owner (MR Scanner) | posted=2026-10-16
+- [ ] https://www.linkedin.com/jobs/view/4479390472 | The Standard India | Data Product Owner | posted=2026-10-16
+- [ ] https://www.linkedin.com/jobs/view/4479376559 | Confyder | Senior Product Owner — Cards, Payments, AML/KYC & Fraud | posted=2026-10-16
+- [ ] https://www.linkedin.com/jobs/view/4480509543 | RZR | Director of Product Management | posted=2026-10-16
+- [ ] https://www.linkedin.com/jobs/view/4477396970 | Anchanto | Head of Product Business Unit | posted=2026-10-16
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

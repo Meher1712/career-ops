@@ -6261,6 +6261,19 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/jobgether/44b71bac-2d73-45d7-94f5-d8c6a868e3e4 | Jobgether | Senior Technical PM, Applied AI | posted=2026-10-16
 - [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990016162466 | Nielsen | Senior Product Manager, Audience Measurement & Media Data | posted=2026-10-15
 
+- [ ] https://jobs.lever.co/meesho/494d8ba6-22b6-467f-837b-8af9c1aee377 | Meesho | Product Manager I | posted=2026-10-16
+- [ ] https://www.linkedin.com/jobs/view/4480377021 | JioSaavn | Senior Product Manager - Personalisation & AI | posted=2026-10-16
+- [ ] https://www.linkedin.com/jobs/view/4479360373 | Ingram Micro | Sr. Product Manager - Master Data Management | posted=2026-10-16
+- [ ] https://www.linkedin.com/jobs/view/4480358887 | Fresenius Medical Care | Product Manager | posted=2026-10-16
+- [ ] https://www.linkedin.com/jobs/view/4479354576 | TEKNIKOZ | Senior Product Owner | posted=2026-10-16
+- [ ] https://www.linkedin.com/jobs/view/4479369154 | Jobgether | Product Manager, Payments Infrastructure | posted=2026-10-16
+- [ ] https://www.linkedin.com/jobs/view/4480360598 | Syngenta | Product Specialist(Product Manager) | posted=2026-10-16
+- [ ] https://www.linkedin.com/jobs/view/4460971623 | Google | Product Manager, Google Cloud Business Platform | posted=2026-10-16
+- [ ] https://www.linkedin.com/jobs/view/4479366165 | Ingram Micro | Product Manager | posted=2026-10-16
+- [ ] https://www.linkedin.com/jobs/view/4479372027 | datavruti | Associate Product Manager – Claims Platform | posted=2026-10-16
+- [ ] https://www.linkedin.com/jobs/view/4480365466 | HuntingCube | Product Manager - I | posted=2026-10-16
+- [ ] https://jobs.lever.co/jobgether/f55c57a4-90f3-43e5-9851-66811d32dd1e | Jobgether | Construction Project Coordination via Buildertrend Virtual Assistant | posted=2026-10-16
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

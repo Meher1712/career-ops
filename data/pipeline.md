@@ -6253,6 +6253,14 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4480108128 | Flexiple | Product Manager | posted=2026-10-15
 - [ ] https://apply.workable.com/j/5EA45F8D16 | Lokal App | Product Manager II | posted=2026-10-15
 
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/8247185 | Twilio | Senior Product Manager | posted=2026-10-15
+- [ ] https://www.linkedin.com/jobs/view/4480346056 | PayPay India | Senior Product Manager | posted=2026-10-16
+- [ ] https://www.linkedin.com/jobs/view/4479338326 | Staffnix | Senior Product Manager (POS, Retail) | posted=2026-10-16
+- [ ] https://www.linkedin.com/jobs/view/4477367426 | BlueOptima | Senior Product Manager | posted=2026-10-16
+- [ ] https://job-boards.greenhouse.io/tide/jobs/8035213003 | Tide | Head of Product, Credit Outcome | posted=2026-10-16
+- [ ] https://jobs.lever.co/jobgether/44b71bac-2d73-45d7-94f5-d8c6a868e3e4 | Jobgether | Senior Technical PM, Applied AI | posted=2026-10-16
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990016162466 | Nielsen | Senior Product Manager, Audience Measurement & Media Data | posted=2026-10-15
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -6291,6 +6291,10 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4480509543 | RZR | Director of Product Management | posted=2026-10-16
 - [ ] https://www.linkedin.com/jobs/view/4477396970 | Anchanto | Head of Product Business Unit | posted=2026-10-16
 
+- [ ] https://pubmatic.com/job/?gh_jid=5452327008 | PubMatic | Senior Product Manager, Analytics and Agentic Platform  | posted=2026-10-16
+- [ ] https://api.smartrecruiters.com/v1/companies/Entain/postings/744000156013424 | Entain India | Senior Product Manager - Missions | posted=2026-10-16
+- [ ] https://jobs.lever.co/jobgether/c7f0fcb8-cebc-46c3-8ef3-2964057ef4aa | Jobgether | Product Manager, Payments Infrastructure | posted=2026-10-16
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -6298,6 +6298,9 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4480841723 | Flexiple | Product Manager | posted=2026-10-17
 - [ ] https://www.linkedin.com/jobs/view/4435575698 | Sauce Labs | Senior Product Manager | posted=2026-10-17
 
+- [ ] https://www.linkedin.com/jobs/view/4479918420 | Staffnix | Senior Product Manager Pos Experience mandatory | posted=2026-10-18
+- [ ] https://www.linkedin.com/jobs/view/4479910814 | LinkedIn India PM | Product owner - Immediate - Pune | posted=2026-10-18
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

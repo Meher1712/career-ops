@@ -6317,6 +6317,37 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4478270157 | GSK | Associate Director, Product Owner - Corporate Security | posted=2026-10-19
 - [ ] https://jobs.lever.co/jobgether/0094aed3-7aed-4e9e-8bbb-1002c0a1782f | Jobgether | Product Manager - AI | posted=2026-10-19
 
+- [ ] https://jobs.ashbyhq.com/dune/b3fa8dd4-295d-4ddb-ae78-0936c48f3412 | Dune Creek Capital | Head of Product | posted=2026-10-19
+- [ ] https://www.linkedin.com/jobs/view/4481205425 | Johnson & Johnson Innovative Medicine | IMFT Technical Product Manager | posted=2026-10-19
+- [ ] https://www.linkedin.com/jobs/view/4472489710 | Williams-Sonoma, Inc. | Senior Product Manager - Web Merchandising | posted=2026-10-19
+- [ ] https://www.linkedin.com/jobs/view/4481203577 | Johnson & Johnson Innovative Medicine | Technical Product Manager -Intercompany & VCM | posted=2026-10-19
+- [ ] https://www.linkedin.com/jobs/view/4480253107 | Rohde & Schwarz | Senior Technical Product Owner - Web & Digital Platforms | posted=2026-10-19
+- [ ] https://www.linkedin.com/jobs/view/4481203548 | Wells Fargo | Digital Product Manager | posted=2026-10-19
+- [ ] https://www.linkedin.com/jobs/view/4481200802 | Wells Fargo | Lead Business Execution Consultant Product Owner AI Agentic | posted=2026-10-19
+- [ ] https://www.linkedin.com/jobs/view/4481219239 | A.P. Moller - Maersk | Platform Product Owner AI Enablement and Vendor Experience | posted=2026-10-19
+- [ ] https://www.linkedin.com/jobs/view/4480996994 | griddable.io | Strategic Builder | posted=2026-10-19
+- [ ] https://www.linkedin.com/jobs/view/4472732022 | Amazon | Sr. Product Manager, High Confidence Supply-chain | posted=2026-10-19
+- [ ] https://www.linkedin.com/jobs/view/4481202494 | Ciklum India | Senior Product Manager | posted=2026-10-19
+- [ ] https://www.linkedin.com/jobs/view/4481206353 | Target | Principal Product Manager | posted=2026-10-19
+- [ ] https://www.linkedin.com/jobs/view/4478289720 | GSK | Associate Director, Product Owner - Global Mobility Restructuring | posted=2026-10-19
+- [ ] https://www.linkedin.com/jobs/view/4478600274 | GSK | Associate Director, Product Owner - Learning Experience & Content | posted=2026-10-19
+- [ ] https://www.linkedin.com/jobs/view/4478282851 | Smart Food Safe | Product Manager | posted=2026-10-19
+- [ ] https://www.linkedin.com/jobs/view/4480994792 | Ciklum India | Product Manager | posted=2026-10-19
+- [ ] https://www.linkedin.com/jobs/view/4480998719 | Aviate | AI Product Manager (ID # 894) | posted=2026-10-19
+- [ ] https://www.linkedin.com/jobs/view/4478292581 | GSK | Associate Director, Product Owner - MyLearning | posted=2026-10-19
+- [ ] https://www.linkedin.com/jobs/view/4478600277 | GSK | Associate Director, Product Owner - Compliance | posted=2026-10-19
+- [ ] https://www.linkedin.com/jobs/view/4478298247 | GSK | Associate Director, Product Owner - Comp, Benefits /Well-Being | posted=2026-10-19
+- [ ] https://www.linkedin.com/jobs/view/4478285758 | GSK | Associate Director, Product Owner - Time & Absence | posted=2026-10-19
+- [ ] https://www.linkedin.com/jobs/view/4478291567 | GSK | Associate Director, Product Owner - Dev & Integration | posted=2026-10-19
+- [ ] https://www.linkedin.com/jobs/view/4478603064 | GSK | Associate Director, Product Owner - IP | posted=2026-10-19
+- [ ] https://www.linkedin.com/jobs/view/4478284833 | GSK | Associate Director, Product Owner - WD Security, JLR & DMS | posted=2026-10-19
+- [ ] https://www.linkedin.com/jobs/view/4478284838 | GSK | Associate Director, Product Owner - ODS | posted=2026-10-19
+- [ ] https://www.linkedin.com/jobs/view/4478281872 | GSK | Associate Director, Product Owner - Workday Integrations | posted=2026-10-19
+- [ ] https://www.linkedin.com/jobs/view/4478297365 | GSK | Associate Director, Product Owner - Legal Ops | posted=2026-10-19
+- [ ] https://www.linkedin.com/jobs/view/4478294435 | GSK | Associate Director, Product Owner - Talent & Recruitment | posted=2026-10-19
+- [ ] https://www.linkedin.com/jobs/view/4478601187 | GSK | Director, Product Manager - Legal | posted=2026-10-19
+- [ ] https://job-boards.greenhouse.io/winhomeinspection/jobs/4722957006 | WIN | Technical Product Manager | posted=2026-10-19
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

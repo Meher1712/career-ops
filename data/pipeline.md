@@ -6306,6 +6306,17 @@ Pune, India | posted=2026-06-28
 
 - [ ] https://www.linkedin.com/jobs/view/4426127279 | Ingram Micro | Associate Professional - Product Management | posted=2026-10-18
 
+- [ ] https://www.linkedin.com/jobs/view/4480942754 | MantriAI | Senior Product Manager | posted=2026-10-19
+- [ ] https://www.linkedin.com/jobs/view/4479971674 | HRS Group | Senior Product Manager | posted=2026-10-19
+- [ ] https://www.linkedin.com/jobs/view/4479969745 | Cvent | Senior Product Manager (CRM Integration) | posted=2026-10-19
+- [ ] https://www.linkedin.com/jobs/view/4480942681 | Zscaler | Senior Product Manager | posted=2026-10-19
+- [ ] https://www.linkedin.com/jobs/view/4479961869 | IDFC FIRST Bank | Lead Product Manager-Loyalty & Alliances | posted=2026-10-19
+- [ ] https://www.linkedin.com/jobs/view/4479984078 | Coforge | Senior Product Manager | posted=2026-10-19
+- [ ] https://www.linkedin.com/jobs/view/4479979303 | CKPC Properties | Product Manager | posted=2026-10-19
+- [ ] https://www.linkedin.com/jobs/view/4478266363 | GSK | Associate Director, Product Owner - Workplace Experience | posted=2026-10-19
+- [ ] https://www.linkedin.com/jobs/view/4478270157 | GSK | Associate Director, Product Owner - Corporate Security | posted=2026-10-19
+- [ ] https://jobs.lever.co/jobgether/0094aed3-7aed-4e9e-8bbb-1002c0a1782f | Jobgether | Product Manager - AI | posted=2026-10-19
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

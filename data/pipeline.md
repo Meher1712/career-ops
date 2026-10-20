@@ -6348,6 +6348,9 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4478601187 | GSK | Director, Product Manager - Legal | posted=2026-10-19
 - [ ] https://job-boards.greenhouse.io/winhomeinspection/jobs/4722957006 | WIN | Technical Product Manager | posted=2026-10-19
 
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6228301004 | Vercel | Product Manager, Storage | posted=2026-10-20
+- [ ] https://www.linkedin.com/jobs/view/4481530806 | PracticeSuite, Inc. | Product Manager - US Healthcare | posted=2026-10-20
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

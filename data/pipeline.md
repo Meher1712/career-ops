@@ -6351,6 +6351,13 @@ Pune, India | posted=2026-06-28
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/6228301004 | Vercel | Product Manager, Storage | posted=2026-10-20
 - [ ] https://www.linkedin.com/jobs/view/4481530806 | PracticeSuite, Inc. | Product Manager - US Healthcare | posted=2026-10-20
 
+- [ ] https://www.linkedin.com/jobs/view/4462512316 | Quickbase | Sr Product Manager | posted=2026-10-20
+- [ ] https://www.linkedin.com/jobs/view/4481599182 | Accenture in India | Product Owner | posted=2026-10-20
+- [ ] https://www.linkedin.com/jobs/view/4465735895 | Cimpress India | Product Manager- Remote | posted=2026-10-20
+- [ ] https://www.linkedin.com/jobs/view/4481591492 | Synchrony | AVP - Enterprise Client Computing Product Owner (L11) | posted=2026-10-20
+- [ ] https://jobs.lever.co/jobgether/0a5488a3-54c1-46a4-a9a6-0b19933c384f | Jobgether | Product Owner (Matchmaking) | posted=2026-10-20
+- [ ] https://jobs.lever.co/jobgether/7dd96eee-efce-4531-a44f-e1996b045018 | Jobgether | Technical Product Manager | posted=2026-10-20
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

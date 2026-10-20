@@ -6358,6 +6358,9 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/jobgether/0a5488a3-54c1-46a4-a9a6-0b19933c384f | Jobgether | Product Owner (Matchmaking) | posted=2026-10-20
 - [ ] https://jobs.lever.co/jobgether/7dd96eee-efce-4531-a44f-e1996b045018 | Jobgether | Technical Product Manager | posted=2026-10-20
 
+- [ ] https://www.linkedin.com/jobs/view/4462221943 | Mastercard | Senior Product Manager - Technical | posted=2026-10-20
+- [ ] https://www.linkedin.com/jobs/view/4480701718 | BrightEdge | Product Manager | posted=2026-10-20
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

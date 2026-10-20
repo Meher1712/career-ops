@@ -1,19 +1,47 @@
 {
-  "generated_at": "2026-10-20T08:35:18.799Z",
+  "generated_at": "2026-10-20T14:19:34.273Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Product Manager, Storage",
-      "company": "Vercel",
-      "location": "Remote - United States",
-      "url": "https://job-boards.greenhouse.io/vercel/jobs/6228301004"
+      "title": "Sr Product Manager",
+      "company": "Quickbase",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4462512316"
     },
     {
       "n": 2,
-      "title": "Product Manager - US Healthcare",
-      "company": "PracticeSuite, Inc.",
-      "location": "Kochi, Kerala, India",
-      "url": "https://www.linkedin.com/jobs/view/4481530806"
+      "title": "Product Owner",
+      "company": "Accenture in India",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.linkedin.com/jobs/view/4481599182"
+    },
+    {
+      "n": 3,
+      "title": "Product Manager- Remote",
+      "company": "Cimpress India",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4465735895"
+    },
+    {
+      "n": 4,
+      "title": "AVP - Enterprise Client Computing Product Owner (L11)",
+      "company": "Synchrony",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.linkedin.com/jobs/view/4481591492"
+    },
+    {
+      "n": 5,
+      "title": "Product Owner (Matchmaking)",
+      "company": "Jobgether",
+      "location": "India",
+      "url": "https://jobs.lever.co/jobgether/0a5488a3-54c1-46a4-a9a6-0b19933c384f"
+    },
+    {
+      "n": 6,
+      "title": "Technical Product Manager",
+      "company": "Jobgether",
+      "location": "India",
+      "url": "https://jobs.lever.co/jobgether/7dd96eee-efce-4531-a44f-e1996b045018"
     }
   ]
 }

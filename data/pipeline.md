@@ -6386,6 +6386,13 @@ Pune, India | posted=2026-06-28
 - [ ] https://api.smartrecruiters.com/v1/companies/Entain/postings/744000156768989 | Entain India | Product Manager - Payment Methods | posted=2026-10-21
 - [ ] https://careers.toasttab.com/jobs?gh_jid=8245664 | Toast | Senior Product Manager, Lending | posted=2026-10-21
 
+- [ ] https://stripe.com/jobs/search?gh_jid=8301646 | Stripe | Product Manager, Radar | posted=2026-10-21
+- [ ] https://stripe.com/jobs/search?gh_jid=8306158 | Stripe | Product Manager, Radar - Fraud and Abuse Prevention | posted=2026-10-21
+- [ ] https://www.linkedin.com/jobs/view/4471978327 | Coursera | Senior Product Manager, Applied AI | posted=2026-10-21
+- [ ] https://www.linkedin.com/jobs/view/4482147458 | New Relic | Senior Product Manager | posted=2026-10-21
+- [ ] https://www.linkedin.com/jobs/view/4462524386 | Procter & Gamble | Digital Product Manager | posted=2026-10-21
+- [ ] https://join.jfrog.com/job/?job=8302946&gh_jid=8302946 | JFrog | Senior Technical Product Manager - DevOps | posted=2026-10-21
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

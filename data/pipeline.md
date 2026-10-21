@@ -6361,6 +6361,13 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4462221943 | Mastercard | Senior Product Manager - Technical | posted=2026-10-20
 - [ ] https://www.linkedin.com/jobs/view/4480701718 | BrightEdge | Product Manager | posted=2026-10-20
 
+- [ ] https://www.linkedin.com/jobs/view/4480769885 | JFrog | Senior Technical Product Manager - DevSecOps | posted=2026-10-21
+- [ ] https://www.linkedin.com/jobs/view/4480787310 | UNISON INTERNATIONAL CONSULTING (The Recruitment Company) | Digital Product Manager | posted=2026-10-21
+- [ ] https://www.linkedin.com/jobs/view/4480787312 | Cvent | Product Manager | posted=2026-10-21
+- [ ] https://www.linkedin.com/jobs/view/4482063148 | Strike IT Recruitment Services | AI Product Owner – Core Banking - Occasional Travel to Middle East | posted=2026-10-21
+- [ ] https://www.linkedin.com/jobs/view/4478993207 | Radware | Cyber Security Product Manager | posted=2026-10-21
+- [ ] https://www.linkedin.com/jobs/view/4476281634 | Qrata | Associate Product Manager | posted=2026-10-21
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

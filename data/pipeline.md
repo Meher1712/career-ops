@@ -6368,6 +6368,24 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4478993207 | Radware | Cyber Security Product Manager | posted=2026-10-21
 - [ ] https://www.linkedin.com/jobs/view/4476281634 | Qrata | Associate Product Manager | posted=2026-10-21
 
+- [ ] https://www.linkedin.com/jobs/view/4479357740 | Cvent | Senior Product Manager | posted=2026-10-21
+- [ ] https://www.linkedin.com/jobs/view/4482103217 | Cornerstone OnDemand | Principal Product Manager | posted=2026-10-21
+- [ ] https://www.linkedin.com/jobs/view/4473756192 | TraceLink | Product Manager, Senior | posted=2026-10-21
+- [ ] https://www.linkedin.com/jobs/view/4482098813 | Freight Tiger | Product Manager | posted=2026-10-21
+- [ ] https://www.linkedin.com/jobs/view/4479428188 | UST | Product Manager I | posted=2026-10-21
+- [ ] https://www.linkedin.com/jobs/view/4481108802 | IDFC FIRST Bank | Product Manager - POS | posted=2026-10-21
+- [ ] https://www.linkedin.com/jobs/view/4481116466 | Sustainiam | Product Manager | posted=2026-10-21
+- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8305872 | Smartsheet | Sr. Product Manager I | posted=2026-10-21
+- [ ] https://join.jfrog.com/job/?job=8302944&gh_jid=8302944 | JFrog | Senior Technical Product Manager - DevSecOps | posted=2026-10-21
+- [ ] https://www.linkedin.com/jobs/view/4482110029 | Cornerstone OnDemand | Director, Product Management | posted=2026-10-21
+- [ ] https://www.linkedin.com/jobs/view/4482104269 | Amazon | Senior Product Manager - Tech, Shipment Technologies | posted=2026-10-21
+- [ ] https://jobs.ashbyhq.com/telus-digital/f63ed72c-e9c0-4d28-89bc-a2c07c9ebdc6 | TELUS Digital | Group Product Manager, Physical AI & Robotics | posted=2026-10-21
+- [ ] https://jobs.lever.co/jobgether/3bcbe736-166d-4ee7-8f3f-54703c47c01a | Jobgether | Product Manager II | posted=2026-10-21
+- [ ] https://jobs.lever.co/jobgether/4230b2e6-9714-4e63-9b41-d54ade11a90c | Jobgether | Senior Product Manager | posted=2026-10-21
+- [ ] https://api.smartrecruiters.com/v1/companies/Entain/postings/744000156767914 | Entain India | Product Manager - Native Mobile | posted=2026-10-21
+- [ ] https://api.smartrecruiters.com/v1/companies/Entain/postings/744000156768989 | Entain India | Product Manager - Payment Methods | posted=2026-10-21
+- [ ] https://careers.toasttab.com/jobs?gh_jid=8245664 | Toast | Senior Product Manager, Lending | posted=2026-10-21
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

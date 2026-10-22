@@ -6409,6 +6409,27 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4480925218 | Caterpillar Inc. | Senior Digital Product Owner D365 CE – Field Service and Project Operations | posted=2026-10-22
 - [ ] https://www.linkedin.com/jobs/view/4482440824 | Caterpillar Inc. | Digital Product Owner | posted=2026-10-22
 
+- [ ] https://www.linkedin.com/jobs/view/4481372014 | Accompany Akki | Senior Product Manager – AI/GenAI Products | posted=2026-10-22
+- [ ] https://www.linkedin.com/jobs/view/4465012734 | Appian | Senior Product Manager II - Identity & Access Management | posted=2026-10-22
+- [ ] https://www.linkedin.com/jobs/view/4473940268 | GE HealthCare | Staff Technical Product Manager -  Healthcare Financial Services | posted=2026-10-22
+- [ ] https://www.linkedin.com/jobs/view/4480051204 | Kotak Mahindra Bank | Product Manager_TRANSACTION BANKING_0877_1314_1060417 | posted=2026-10-22
+- [ ] https://www.linkedin.com/jobs/view/4473781497 | QAD | Product Manager (Direct Procurement) | posted=2026-10-22
+- [ ] https://www.linkedin.com/jobs/view/4480042540 | VOIS | Connectivity Product Manager, Cloud & Network Platforms - VOIS | posted=2026-10-22
+- [ ] https://www.linkedin.com/jobs/view/4480041411 | Cyncly | Product Manager - CRM/ERP | posted=2026-10-22
+- [ ] https://www.linkedin.com/jobs/view/4480045413 | crewlia | Product Management Senior Specialist | posted=2026-10-22
+- [ ] https://www.linkedin.com/jobs/view/4480037699 | Cyncly | Product Manager - Flex Platform | posted=2026-10-22
+- [ ] https://www.linkedin.com/jobs/view/4480038788 | crewlia | Product Management Lead | posted=2026-10-22
+- [ ] https://www.linkedin.com/jobs/view/4481363207 | Rupeek | Product Manager - Consumer Growth | posted=2026-10-22
+- [ ] https://www.linkedin.com/jobs/view/4481360367 | Rupeek | Product Manager - Consumer Platform | posted=2026-10-22
+- [ ] https://www.linkedin.com/jobs/view/4481345944 | Trimble Inc. | Group Product Manager | posted=2026-10-22
+- [ ] https://www.linkedin.com/jobs/view/4481370208 | Rekruton Global IT Services | Senior Product Manager - Platform (AdTech) | posted=2026-10-22
+- [ ] https://www.linkedin.com/jobs/view/4463031535 | N-able | Principal Product Manager | posted=2026-10-22
+- [ ] https://www.linkedin.com/jobs/view/4481367285 | Viraaj HR Solutions Private Limited | Product Manager- Edge computing | posted=2026-10-22
+- [ ] https://www.linkedin.com/jobs/view/4481350843 | AstraZeneca | Senior Product Manager – Enterprise DevOps Platforms | posted=2026-10-22
+- [ ] https://www.linkedin.com/jobs/view/4479425421 | Barclays | Digital Product Manager -VP | posted=2026-10-22
+- [ ] https://www.linkedin.com/jobs/view/4480060174 | Nielsen | Senior Product Manager II (multi-country quantitative research) | posted=2026-10-22
+- [ ] https://www.linkedin.com/jobs/view/4481369205 | Saisystems Health | Associate Product Manager | posted=2026-10-22
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

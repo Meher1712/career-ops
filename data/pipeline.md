@@ -6430,6 +6430,14 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4480060174 | Nielsen | Senior Product Manager II (multi-country quantitative research) | posted=2026-10-22
 - [ ] https://www.linkedin.com/jobs/view/4481369205 | Saisystems Health | Associate Product Manager | posted=2026-10-22
 
+- [ ] https://www.linkedin.com/jobs/view/4469762476 | Mastercard | Lead Product Manager- Technical | posted=2026-10-22
+- [ ] https://www.linkedin.com/jobs/view/4468918441 | Capgemini | FBS Product Owner III- Guidewire | posted=2026-10-22
+- [ ] https://www.linkedin.com/jobs/view/4456491581 | Kuehne+Nagel | National Air Logistics Aerospace Product Manager | posted=2026-10-22
+- [ ] https://www.linkedin.com/jobs/view/4455397106 | Aditya Birla Capital | Tech Product Manager | posted=2026-10-22
+- [ ] https://www.linkedin.com/jobs/view/4481606013 | Maropost | Senior Director, Product Management - India (Remote) | posted=2026-10-22
+- [ ] https://job-boards.greenhouse.io/zenoti/jobs/8029893003 | Zenoti | Senior Manager -  Product Management (Payments/Fintech) | posted=2026-10-22
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990016336706 | Nielsen | Senior Product Manager II (multi-country quantitative research) | posted=2026-10-22
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

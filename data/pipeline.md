@@ -6393,6 +6393,22 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4462524386 | Procter & Gamble | Digital Product Manager | posted=2026-10-21
 - [ ] https://join.jfrog.com/job/?job=8302946&gh_jid=8302946 | JFrog | Senior Technical Product Manager - DevOps | posted=2026-10-21
 
+- [ ] https://www.linkedin.com/jobs/view/4481305517 | Puravankara Limited | Product Manager | posted=2026-10-22
+- [ ] https://www.linkedin.com/jobs/view/4479492604 | CentricaSoft | MDM Product Owner | posted=2026-10-22
+- [ ] https://www.linkedin.com/jobs/view/4481317013 | Redington Limited | Product Manager | posted=2026-10-22
+- [ ] https://www.linkedin.com/jobs/view/4481312205 | Dhruva Space | Product Manager | posted=2026-10-22
+- [ ] https://www.linkedin.com/jobs/view/4482450248 | Harjai Technologies | Product Manager – Insurance | posted=2026-10-22
+- [ ] https://jobs.solarwinds.com/job-detail/?gh_jid=4733536005&gh_jid=4733536005 | SolarWinds | Senior Product Manager, NetSuite/Coupa Procure-to-Pay | posted=2026-10-21
+- [ ] https://jobs.lever.co/jobgether/7f0c9770-8379-4405-a9d9-cf905f362ae6 | Jobgether | Product Manager, Website | posted=2026-10-22
+- [ ] https://jobs.lever.co/jobgether/3a3bb033-5511-473d-b852-b095a3d621b4 | Jobgether | Sr. Product Manager I | posted=2026-10-22
+- [ ] https://www.linkedin.com/jobs/view/4480014286 | Qualys | Product Manager, Scanners | posted=2026-10-22
+- [ ] https://www.linkedin.com/jobs/view/4481311351 | Viral Pitch: Influencer Marketing Platform | Associate Product Manager | posted=2026-10-22
+- [ ] https://www.linkedin.com/jobs/view/4480005648 | UST | Product Owner | posted=2026-10-22
+- [ ] https://www.linkedin.com/jobs/view/4482438897 | Caterpillar Inc. | Senior Digital Product Owner | posted=2026-10-22
+- [ ] https://www.linkedin.com/jobs/view/4481312449 | Reveille Technologies,Inc | PRODUCT OWNER (GenAI + KYC/BANKING) | posted=2026-10-22
+- [ ] https://www.linkedin.com/jobs/view/4480925218 | Caterpillar Inc. | Senior Digital Product Owner D365 CE – Field Service and Project Operations | posted=2026-10-22
+- [ ] https://www.linkedin.com/jobs/view/4482440824 | Caterpillar Inc. | Digital Product Owner | posted=2026-10-22
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

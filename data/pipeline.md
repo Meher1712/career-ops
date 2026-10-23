@@ -6449,6 +6449,15 @@ Pune, India | posted=2026-06-28
 - [ ] https://job-boards.greenhouse.io/gitlab/jobs/8909618002 | GitLab | Staff Product Manager, Agentic Planning | posted=2026-10-23
 - [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8317679 | Smartsheet | Sr. Product Manager I - Data Mesh | posted=2026-10-23
 
+- [ ] https://www.linkedin.com/jobs/view/4483124305 | Amazon | Principal Product Manager - Tech, Agentic Shopping Experience | posted=2026-10-23
+- [ ] https://www.linkedin.com/jobs/view/4458397950 | Route Mobile Limited | SMS Product Manager | posted=2026-10-23
+- [ ] https://www.linkedin.com/jobs/view/4472979651 | Mastercard | Manager, Product Management | posted=2026-10-23
+- [ ] https://www.linkedin.com/jobs/view/4440781227 | Route Mobile Limited | Product Manager | posted=2026-10-23
+- [ ] https://www.linkedin.com/jobs/view/4481922704 | BrightEdge | Product Manager | posted=2026-10-23
+- [ ] https://www.linkedin.com/jobs/view/4480685524 | FactSet | Associate Product Manager | posted=2026-10-23
+- [ ] https://www.linkedin.com/jobs/view/4480670955 | Checkmate | Associate Product Manager | posted=2026-10-23
+- [ ] https://jobs.ashbyhq.com/certifyos/8549f09e-5691-4545-a0c3-172a49ffaae1 | CertifyOS | Director of Product Management, Applications  | posted=2026-10-23
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

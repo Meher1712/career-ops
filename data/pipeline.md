@@ -6446,6 +6446,9 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/jumpcloud/fe814ed3-7c8e-49a1-9fb2-166bbcacc85e | JumpCloud® | Director of Product Experience & Design - India | posted=2026-10-22
 - [ ] https://careers.godaddy/jobs?gh_jid=8012565003 | GoDaddy | Senior Product Manager | posted=2026-10-23
 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8909618002 | GitLab | Staff Product Manager, Agentic Planning | posted=2026-10-23
+- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8317679 | Smartsheet | Sr. Product Manager I - Data Mesh | posted=2026-10-23
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

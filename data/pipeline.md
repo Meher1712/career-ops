@@ -6438,6 +6438,14 @@ Pune, India | posted=2026-06-28
 - [ ] https://job-boards.greenhouse.io/zenoti/jobs/8029893003 | Zenoti | Senior Manager -  Product Management (Payments/Fintech) | posted=2026-10-22
 - [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990016336706 | Nielsen | Senior Product Manager II (multi-country quantitative research) | posted=2026-10-22
 
+- [ ] https://www.linkedin.com/jobs/view/4482833834 | Pidge | Senior Product Manager | posted=2026-10-23
+- [ ] https://www.linkedin.com/jobs/view/4482848023 | U.S. Bank | Digital Product Manager | posted=2026-10-23
+- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8315864 | Smartsheet | Senior Product Manager I (Remote Eligible) | posted=2026-10-22
+- [ ] https://www.linkedin.com/jobs/view/4481657808 | nexocean | Director of Product Management-Supply Chain | posted=2026-10-23
+- [ ] https://www.rubrik.com/company/careers/departments/job.8314327?gh_jid=8314327 | Rubrik | Cloud Architect, Product Management | posted=2026-10-22
+- [ ] https://jobs.lever.co/jumpcloud/fe814ed3-7c8e-49a1-9fb2-166bbcacc85e | JumpCloud® | Director of Product Experience & Design - India | posted=2026-10-22
+- [ ] https://careers.godaddy/jobs?gh_jid=8012565003 | GoDaddy | Senior Product Manager | posted=2026-10-23
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

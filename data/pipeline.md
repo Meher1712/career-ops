@@ -6464,6 +6464,11 @@ Pune, India | posted=2026-06-28
 - [ ] https://careers.toasttab.com/jobs?gh_jid=8305972 | Toast | Associate Product Manager, Data Governance | posted=2026-10-23
 - [ ] https://jobs.ashbyhq.com/certifyos/330bdd1f-1446-4348-9cc8-12b61d33c7bb | CertifyOS | Director of Product Management, Applications  | posted=2026-10-23
 
+- [ ] https://www.linkedin.com/jobs/view/4482629791 | Cloudera | Senior Product Manager - Cloudera Manager | posted=2026-10-24
+- [ ] https://www.linkedin.com/jobs/view/4464873168 | Arctic Wolf | Senior Product Manager - Platform | posted=2026-10-24
+- [ ] https://www.linkedin.com/jobs/view/4483333219 | Euler Motors | Associate Product Manager | posted=2026-10-24
+- [ ] https://www.linkedin.com/jobs/view/4464528532 | IDFC FIRST Bank | Product Manager-Credit Syndication | posted=2026-10-24
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

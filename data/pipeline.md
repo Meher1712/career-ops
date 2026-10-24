@@ -6458,6 +6458,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4480670955 | Checkmate | Associate Product Manager | posted=2026-10-23
 - [ ] https://jobs.ashbyhq.com/certifyos/8549f09e-5691-4545-a0c3-172a49ffaae1 | CertifyOS | Director of Product Management, Applications  | posted=2026-10-23
 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8894806002 | GitLab | Senior Product Manager, Switchboard | posted=2026-10-23
+- [ ] https://www.linkedin.com/jobs/view/4482619205 | Neuraleap Group | Group product manager | posted=2026-10-24
+- [ ] https://www.linkedin.com/jobs/view/4481042130 | PayU | Director -  Product Management (BNPL) | posted=2026-10-24
+- [ ] https://careers.toasttab.com/jobs?gh_jid=8305972 | Toast | Associate Product Manager, Data Governance | posted=2026-10-23
+- [ ] https://jobs.ashbyhq.com/certifyos/330bdd1f-1446-4348-9cc8-12b61d33c7bb | CertifyOS | Director of Product Management, Applications  | posted=2026-10-23
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

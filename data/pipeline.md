@@ -6481,6 +6481,16 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4483374780 | Franklin Templeton | Product Manager | posted=2026-10-25
 - [ ] https://www.linkedin.com/jobs/view/4483389170 | Last Working Day | ITSM/ ESM Product Owner | posted=2026-10-25
 
+- [ ] https://www.linkedin.com/jobs/view/4482938527 | Google | Product Manager, Google Cloud Business Platform | posted=2026-10-26
+- [ ] https://www.linkedin.com/jobs/view/4477992636 | CFA Master | Product Manager | posted=2026-10-26
+- [ ] https://www.linkedin.com/jobs/view/4482934659 | Meritto | Product Manager- AI Native | posted=2026-10-26
+- [ ] https://www.linkedin.com/jobs/view/4482932721 | Peak3 | Senior Product Manager | posted=2026-10-26
+- [ ] https://jobs.lever.co/jobgether/44b4f800-5b68-4d8a-be5c-5a794f7412ba | Jobgether | Director of Product Management, Applications | posted=2026-10-26
+- [ ] https://jobs.lever.co/jobgether/15096f88-1914-40c0-bba0-f4db033ba448 | Jobgether | Senior Platform Product Manager | posted=2026-10-26
+- [ ] https://job-boards.greenhouse.io/commvault/jobs/5456259008 | Commvault | Principal Product Manager, Recovery Orchestration | posted=2026-10-26
+- [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Senior-Product-Manager_R0077080 | eBay | Senior Product Manager | posted=2026-10-26
+- [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Product-Manager_R0077079 | eBay | Product Manager | posted=2026-10-26
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -6491,6 +6491,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Senior-Product-Manager_R0077080 | eBay | Senior Product Manager | posted=2026-10-26
 - [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Product-Manager_R0077079 | eBay | Product Manager | posted=2026-10-26
 
+- [ ] https://www.linkedin.com/jobs/view/4483567013 | Amazon | Sr. Product Manager, Progression Intelligence | posted=2026-10-26
+- [ ] https://www.linkedin.com/jobs/view/4482996636 | Chargebee | Senior Product Manager | posted=2026-10-26
+- [ ] https://www.linkedin.com/jobs/view/4483214051 | Delta Technology Hub | Lead Product Owner | posted=2026-10-26
+- [ ] https://www.linkedin.com/jobs/view/4483576459 | NamiNaya | Fashion Brand & Growth Associate — Founding Team | posted=2026-10-26
+- [ ] https://jobs.ashbyhq.com/atlan/c6bb032c-6ac8-4b59-915c-d59b6f3a86f8 | Atlan | AI Native Builder/Architect | posted=2026-10-26
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

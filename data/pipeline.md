@@ -6497,6 +6497,8 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4483576459 | NamiNaya | Fashion Brand & Growth Associate — Founding Team | posted=2026-10-26
 - [ ] https://jobs.ashbyhq.com/atlan/c6bb032c-6ac8-4b59-915c-d59b6f3a86f8 | Atlan | AI Native Builder/Architect | posted=2026-10-26
 
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/8319160 | Twilio | Staff, Product Manager - Identity | posted=2026-10-26
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

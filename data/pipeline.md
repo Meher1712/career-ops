@@ -6499,6 +6499,14 @@ Pune, India | posted=2026-06-28
 
 - [ ] https://job-boards.greenhouse.io/twilio/jobs/8319160 | Twilio | Staff, Product Manager - Identity | posted=2026-10-26
 
+- [ ] https://www.linkedin.com/jobs/view/4483621058 | Cvent | Product Manager II | posted=2026-10-27
+- [ ] https://www.linkedin.com/jobs/view/4483605806 | Wissen Technology | Product Manager- Market & Reference Data | posted=2026-10-27
+- [ ] https://www.linkedin.com/jobs/view/4481861241 | LinkedIn India PM | AI Product Manager, Supply Chain & Procurement | posted=2026-10-27
+- [ ] https://www.linkedin.com/jobs/view/4483618201 | ICICI Life Insurance Limited | Product Manager | posted=2026-10-27
+- [ ] https://www.linkedin.com/jobs/view/4483604822 | Neuraleap Group | Group product manager | posted=2026-10-27
+- [ ] https://www.linkedin.com/jobs/view/4484012795 | Flexiple | Group Product Manager | posted=2026-10-27
+- [ ] https://www.linkedin.com/jobs/view/4482979245 | System Engineers Cutting & Welding Pvt Ltd | Founder in Residence (AI SaaS & GTM) / Potential Co-founder | posted=2026-10-27
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

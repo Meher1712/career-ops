@@ -6513,6 +6513,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.ashbyhq.com/spotdraft/96761f6b-578d-4daa-9d02-25c47fd39590 | SpotDraft | Product Manager | posted=2026-10-27
 - [ ] https://jobs.ashbyhq.com/certifyos/cc684b29-ff63-4246-a04a-1e9eb6b2594f | CertifyOS | Senior Product Manager, Forward Deployed - US | posted=2026-10-27
 
+- [ ] https://www.linkedin.com/jobs/view/4484086443 | Salesforce | Product Manager / Sr. Product Manager - Mulesoft | posted=2026-10-27
+- [ ] https://www.linkedin.com/jobs/view/4484094726 | JPMorganChase | Technical Product Manager | posted=2026-10-27
+- [ ] https://www.linkedin.com/jobs/view/4484207001 | JPMorganChase | Product Manager - Commercial Card Product | posted=2026-10-27
+- [ ] https://www.linkedin.com/jobs/view/4483674932 | Dimension1 | Product Manager (AI) | posted=2026-10-27
+- [ ] https://www.rubrik.com/company/careers/departments/job.8327831?gh_jid=8327831 | Rubrik | Staff Product Manager, Databases | posted=2026-10-27
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

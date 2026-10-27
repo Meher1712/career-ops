@@ -6507,6 +6507,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4484012795 | Flexiple | Group Product Manager | posted=2026-10-27
 - [ ] https://www.linkedin.com/jobs/view/4482979245 | System Engineers Cutting & Welding Pvt Ltd | Founder in Residence (AI SaaS & GTM) / Potential Co-founder | posted=2026-10-27
 
+- [ ] https://www.linkedin.com/jobs/view/4479878609 | Abbott | Group Product Manager - Vaccines - Mumbai | posted=2026-10-27
+- [ ] https://www.linkedin.com/jobs/view/4476140975 | LiveRamp | Product Manager | posted=2026-10-27
+- [ ] https://www.linkedin.com/jobs/view/4484043607 | LinkedIn India Senior PM | Founding Member | posted=2026-10-27
+- [ ] https://jobs.ashbyhq.com/spotdraft/96761f6b-578d-4daa-9d02-25c47fd39590 | SpotDraft | Product Manager | posted=2026-10-27
+- [ ] https://jobs.ashbyhq.com/certifyos/cc684b29-ff63-4246-a04a-1e9eb6b2594f | CertifyOS | Senior Product Manager, Forward Deployed - US | posted=2026-10-27
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

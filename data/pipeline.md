@@ -6519,6 +6519,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4483674932 | Dimension1 | Product Manager (AI) | posted=2026-10-27
 - [ ] https://www.rubrik.com/company/careers/departments/job.8327831?gh_jid=8327831 | Rubrik | Staff Product Manager, Databases | posted=2026-10-27
 
+- [ ] https://www.linkedin.com/jobs/view/4472542733 | Expedia Group | Product Manager III | posted=2026-10-28
+- [ ] https://www.linkedin.com/jobs/view/4456021993 | Expedia Group | Senior Product Manager | posted=2026-10-28
+- [ ] https://www.linkedin.com/jobs/view/4481669451 | AssessPrep | Product Manager – SaaS / EdTech | posted=2026-10-28
+- [ ] https://www.linkedin.com/jobs/view/4476323435 | Atlassian | Senior Product Manager - IT Operations | posted=2026-10-28
+- [ ] https://www.linkedin.com/jobs/view/4484424822 | SalesForce-ad | Product Manager Senior Specialist | posted=2026-10-28
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

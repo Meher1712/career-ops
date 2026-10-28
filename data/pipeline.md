@@ -6525,6 +6525,17 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4476323435 | Atlassian | Senior Product Manager - IT Operations | posted=2026-10-28
 - [ ] https://www.linkedin.com/jobs/view/4484424822 | SalesForce-ad | Product Manager Senior Specialist | posted=2026-10-28
 
+- [ ] https://www.linkedin.com/jobs/view/4475402201 | Nielsen | Lead Product Manager - 10-15 years | posted=2026-10-28
+- [ ] https://www.linkedin.com/jobs/view/4465977387 | Mastercard | Senior Specialist, Product Management – Operational Intelligence Commercialisation | posted=2026-10-28
+- [ ] https://www.linkedin.com/jobs/view/4483887571 | Kemin Industries South Asia Pvt Ltd. | Product Manager | posted=2026-10-28
+- [ ] https://www.linkedin.com/jobs/view/4467732238 | Pearl | Group Product Manager, Customer Acquisition | posted=2026-10-28
+- [ ] https://www.linkedin.com/jobs/view/4467726387 | Amazon | Sr. Product Manager - Tech, Amazon Pharmacy | posted=2026-10-28
+- [ ] https://www.linkedin.com/jobs/view/4475437786 | Arcesium | Product Manager - Tax | posted=2026-10-28
+- [ ] https://www.linkedin.com/jobs/view/4482528495 | SCIKIQ | Product Manager | posted=2026-10-28
+- [ ] https://www.linkedin.com/jobs/view/4476556710 | Synechron | Product Owner – Agile Delivery, Product Vision & Cross-Functional Stakeholder Management | posted=2026-10-28
+- [ ] https://www.linkedin.com/jobs/view/4484110038 | Tide | Head of Product, Credit Outcome | posted=2026-10-28
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990016454736 | Nielsen | Senior Product Manager I (Adtech) | posted=2026-10-28
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

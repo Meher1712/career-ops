@@ -6543,6 +6543,17 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4475418299 | Teradata | Director, Product Management — Core Database Engine & AI | posted=2026-10-29
 - [ ] https://job-boards.greenhouse.io/tide/jobs/8047177003 | Tide | Head of Product, Credit Outcome | posted=2026-10-28
 
+- [ ] https://www.linkedin.com/jobs/view/4484983589 | U.S. Bank | Senior Digital Product Manager | posted=2026-10-29
+- [ ] https://www.linkedin.com/jobs/view/4468606688 | Amazon | Senior Product Manager, Amazon - Sub Same Day | posted=2026-10-29
+- [ ] https://www.linkedin.com/jobs/view/4484968841 | Microsoft | Senior Product Manager | posted=2026-10-29
+- [ ] https://www.linkedin.com/jobs/view/4484989476 | CertifyOS | Senior Product Manager, Forward Deployed | posted=2026-10-29
+- [ ] https://www.linkedin.com/jobs/view/4485201095 | Vontier | Product Manager, IoT India | posted=2026-10-29
+- [ ] https://www.linkedin.com/jobs/view/4485200039 | Lyric | Product Manager - Supply Planning | posted=2026-10-29
+- [ ] https://www.linkedin.com/jobs/view/4484989007 | Microsoft | Group Product Manager | posted=2026-10-29
+- [ ] https://www.linkedin.com/jobs/view/4477139835 | Mastercard | Senior Specialist Product Manager | posted=2026-10-29
+- [ ] https://www.linkedin.com/jobs/view/4475951109 | SUN PHARMA | Product Manager - Gynae | posted=2026-10-29
+- [ ] https://job-boards.greenhouse.io/tide/jobs/8047176003 | Tide | Head of Product, Credit Outcome | posted=2026-10-28
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

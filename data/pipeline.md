@@ -6536,6 +6536,13 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4484110038 | Tide | Head of Product, Credit Outcome | posted=2026-10-28
 - [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990016454736 | Nielsen | Senior Product Manager I (Adtech) | posted=2026-10-28
 
+- [ ] https://www.linkedin.com/jobs/view/4484074103 | Krayr Solutions | Group Product Manager/ Sr Product Manager (Pharma) JIS155141 | posted=2026-10-29
+- [ ] https://www.linkedin.com/jobs/view/4460043604 | Expedia Group | Principal Product Manager | posted=2026-10-29
+- [ ] https://www.linkedin.com/jobs/view/4473671461 | Booking Holdings (NASDAQ: BKNG) | Product Manager (Consumer App Experience) | posted=2026-10-29
+- [ ] https://www.linkedin.com/jobs/view/4484913952 | Flexiple | Group Product Manager | posted=2026-10-29
+- [ ] https://www.linkedin.com/jobs/view/4475418299 | Teradata | Director, Product Management — Core Database Engine & AI | posted=2026-10-29
+- [ ] https://job-boards.greenhouse.io/tide/jobs/8047177003 | Tide | Head of Product, Credit Outcome | posted=2026-10-28
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

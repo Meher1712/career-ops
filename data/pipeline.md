@@ -6554,6 +6554,19 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4475951109 | SUN PHARMA | Product Manager - Gynae | posted=2026-10-29
 - [ ] https://job-boards.greenhouse.io/tide/jobs/8047176003 | Tide | Head of Product, Credit Outcome | posted=2026-10-28
 
+- [ ] https://jobs.ashbyhq.com/supabase/282d1dfb-b162-4ce4-a938-c4b2173230e0 | Supabase | Partner Solutions Architect , AI Builder  | posted=2026-10-28
+- [ ] https://www.linkedin.com/jobs/view/4475458215 | Autodesk | Sr. Product Manager - Case Management & Agent Experience | posted=2026-10-30
+- [ ] https://www.linkedin.com/jobs/view/4474890363 | Johnson Controls | Product Manager - Selection Navigator | posted=2026-10-30
+- [ ] https://www.linkedin.com/jobs/view/4477146170 | Precisely | Product Manager - AI Platform | posted=2026-10-30
+- [ ] https://www.linkedin.com/jobs/view/4472677855 | Astral Adhesives | Product Manager | posted=2026-10-30
+- [ ] https://jobs.ashbyhq.com/bureau/9dd1d722-f4cd-4611-aff5-e95c0c44af5f | Bureau | Senior Product Manager - Credit Risk | posted=2026-10-30
+- [ ] https://www.linkedin.com/jobs/view/4474060404 | Walmart Global Tech India | SENIOR PRODUCT MANAGER | posted=2026-10-30
+- [ ] https://www.linkedin.com/jobs/view/4477433429 | D. E. Shaw India Private Limited | Principal Manager, Product Management (Comply Tech) | posted=2026-10-30
+- [ ] https://www.linkedin.com/jobs/view/4484840240 | Target | Senior Product Manager - Core Data & Decision Intelligence | posted=2026-10-30
+- [ ] https://www.linkedin.com/jobs/view/4484825696 | Superfan.ng | Lead Product Manager | posted=2026-10-30
+- [ ] https://www.linkedin.com/jobs/view/4485320256 | Flexiple | Group Product Manager | posted=2026-10-30
+- [ ] https://jobs.ashbyhq.com/certifyos/a359c3ca-2937-427c-b9a3-f083c3bb04e6 | CertifyOS | Senior Product Manager, Forward Deployed | posted=2026-10-29
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

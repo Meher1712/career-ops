@@ -6567,6 +6567,18 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4485320256 | Flexiple | Group Product Manager | posted=2026-10-30
 - [ ] https://jobs.ashbyhq.com/certifyos/a359c3ca-2937-427c-b9a3-f083c3bb04e6 | CertifyOS | Senior Product Manager, Forward Deployed | posted=2026-10-29
 
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/8268235 | Twilio | Staff Product Manager | posted=2026-10-30
+- [ ] https://www.linkedin.com/jobs/view/4475960725 | Lonza | Associate Director, Digital Product Owner | posted=2026-10-30
+- [ ] https://www.linkedin.com/jobs/view/4483436844 | Round1 Jobs | Hiring for Product Managers | ₹30-55LPA | posted=2026-10-30
+- [ ] https://www.linkedin.com/jobs/view/4477648169 | BNY | Vice President, POM Product Owner | posted=2026-10-30
+- [ ] https://www.linkedin.com/jobs/view/4477437289 | Amazon | Product Manager, IN P3P | posted=2026-10-30
+- [ ] https://www.linkedin.com/jobs/view/4485377208 | ABB | Associate Product Manager | posted=2026-10-30
+- [ ] https://www.linkedin.com/jobs/view/4477431881 | Morgan Stanley | Wealth Management - Executive Director, Head Product Owner Digital Client Experience Platforms (Mumbai) | posted=2026-10-30
+- [ ] https://www.linkedin.com/jobs/view/4477660489 | Aditya Birla Lifestyle Brands Limited | Product Manager, Womenswear - Allen Solly | posted=2026-10-30
+- [ ] https://jobs.lever.co/jobgether/3151177f-dea0-4f3a-942f-7dba278b3745 | Jobgether | Partner Solutions Architect , AI Builder | posted=2026-10-30
+- [ ] https://jobs.lever.co/jobgether/6e1b6b9a-72bb-4974-9ab3-087df46e30da | Jobgether | Senior Product Manager, Forward Deployed | posted=2026-10-30
+- [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Product-Manager--Billing-Platform_R0077220 | eBay | Product Manager, Billing Platform | posted=2026-10-30
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

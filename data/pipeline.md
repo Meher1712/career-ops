@@ -6583,6 +6583,10 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4477675151 | Crowe Capabilities Center – India | Product Owner Senior Associate | posted=2026-10-31
 - [ ] https://jobs.lever.co/jobgether/413f978e-8dc7-4179-a745-072e72826e03 | Jobgether | Product Owner (Customer Experience) | posted=2026-10-31
 
+- [ ] https://jobs.ashbyhq.com/supabase/c20228c2-45ff-4b77-ab77-906f39a06ca3 | Supabase | Product Manager -  Administration & Governance | posted=2026-10-31
+- [ ] https://jobs.ashbyhq.com/supabase/85f4d148-4602-4139-802a-962705133892 | Supabase | Product Manager - Spark | posted=2026-10-31
+- [ ] https://www.linkedin.com/jobs/view/4485913249 | Flexiple | Product Manager | posted=2026-10-31
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

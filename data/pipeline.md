@@ -6579,6 +6579,10 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/jobgether/6e1b6b9a-72bb-4974-9ab3-087df46e30da | Jobgether | Senior Product Manager, Forward Deployed | posted=2026-10-30
 - [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Product-Manager--Billing-Platform_R0077220 | eBay | Product Manager, Billing Platform | posted=2026-10-30
 
+- [ ] https://www.linkedin.com/jobs/view/4475225281 | Walmart Global Tech India | Senior Product Manager | posted=2026-10-31
+- [ ] https://www.linkedin.com/jobs/view/4477675151 | Crowe Capabilities Center – India | Product Owner Senior Associate | posted=2026-10-31
+- [ ] https://jobs.lever.co/jobgether/413f978e-8dc7-4179-a745-072e72826e03 | Jobgether | Product Owner (Customer Experience) | posted=2026-10-31
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -6587,6 +6587,8 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.ashbyhq.com/supabase/85f4d148-4602-4139-802a-962705133892 | Supabase | Product Manager - Spark | posted=2026-10-31
 - [ ] https://www.linkedin.com/jobs/view/4485913249 | Flexiple | Product Manager | posted=2026-10-31
 
+- [ ] https://www.linkedin.com/jobs/view/4469203354 | Esko | Senior Product Manager | posted=2026-11-01
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

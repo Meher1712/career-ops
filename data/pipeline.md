@@ -6589,6 +6589,17 @@ Pune, India | posted=2026-06-28
 
 - [ ] https://www.linkedin.com/jobs/view/4469203354 | Esko | Senior Product Manager | posted=2026-11-01
 
+- [ ] https://www.linkedin.com/jobs/view/4478334773 | U.S. Bank | Senior Product Manager (1) - IN B | posted=2026-11-02
+- [ ] https://www.linkedin.com/jobs/view/4486130875 | Refold AI | Senior Product Manager (B2B) | posted=2026-11-02
+- [ ] https://www.linkedin.com/jobs/view/4485457814 | Nykaa | Senior Product Manager - Post Order & AI | posted=2026-11-02
+- [ ] https://www.linkedin.com/jobs/view/4486147455 | ION | Product Manager | posted=2026-11-02
+- [ ] https://www.linkedin.com/jobs/view/4484338779 | Nokia | Product Manager | posted=2026-11-02
+- [ ] https://www.linkedin.com/jobs/view/4484344600 | EY | Analytics Product Owner - Assistant Director | posted=2026-11-02
+- [ ] https://www.linkedin.com/jobs/view/4485474502 | Golden Opportunities | Product Owner - GO/JC/4917/2026 | posted=2026-11-02
+- [ ] https://www.linkedin.com/jobs/view/4485463631 | TIAA | Senior Associate - Product Owner | posted=2026-11-02
+- [ ] https://www.linkedin.com/jobs/view/4484332913 | EY | Digital Experience Product Owner | posted=2026-11-02
+- [ ] https://careers.godaddy/jobs?gh_jid=8036009003 | GoDaddy | Senior Product Manager - Domains | posted=2026-11-02
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

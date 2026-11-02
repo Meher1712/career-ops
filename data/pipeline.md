@@ -6600,6 +6600,10 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4484332913 | EY | Digital Experience Product Owner | posted=2026-11-02
 - [ ] https://careers.godaddy/jobs?gh_jid=8036009003 | GoDaddy | Senior Product Manager - Domains | posted=2026-11-02
 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8905040002 | GitLab | Senior Product Manager - Data Integrations | posted=2026-11-02
+- [ ] https://jobs.lever.co/jobgether/122ab88f-0a7b-4784-b405-812b1e9cb505 | Jobgether | Product Manager - Administration & Governance | posted=2026-11-02
+- [ ] https://jobs.lever.co/jobgether/d1c8f28a-cb0c-4fcc-b649-c83641f8676e | Jobgether | Product Manager - Spark | posted=2026-11-02
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

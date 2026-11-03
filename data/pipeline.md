@@ -6622,6 +6622,27 @@ Pune, India | posted=2026-06-28
 - [ ] https://job-boards.greenhouse.io/bitgo/jobs/8926499002 | BitGo | Product Manager -  Tokenisation & Stablecoin Infrastructure | posted=2026-11-03
 - [ ] https://careers.toasttab.com/jobs?gh_jid=7673399 | Toast | Product Manager, Toast IQ Evaluation  | posted=2026-11-02
 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8919537002 | GitLab | Staff Product Manager, Tenant Scale | posted=2026-11-03
+- [ ] https://www.linkedin.com/jobs/view/4487004537 | CodeRound AI | Senior Product Manager | posted=2026-11-03
+- [ ] https://www.linkedin.com/jobs/view/4485254314 | Accenture in India | AI Product Management Practitioner | posted=2026-11-03
+- [ ] https://www.linkedin.com/jobs/view/4486072522 | S&P Global | Lead Product Manager AIOPs | posted=2026-11-03
+- [ ] https://www.linkedin.com/jobs/view/4486067656 | Principal Financial Group | Senior Associate Product Manager | posted=2026-11-03
+- [ ] https://www.linkedin.com/jobs/view/4482185206 | Ameriprise Financial Services, LLC | Principal Lead-Product Owner | posted=2026-11-03
+- [ ] https://www.linkedin.com/jobs/view/4486070853 | Orange Business | Product Owner | posted=2026-11-03
+- [ ] https://www.linkedin.com/jobs/view/4487015192 | Wells Fargo | Product Owner: Equities Cash & Derivatives(VP) | posted=2026-11-03
+- [ ] https://www.linkedin.com/jobs/view/4486083021 | CareStack™ - Dental Practice Management | Product Manager | posted=2026-11-03
+- [ ] https://www.linkedin.com/jobs/view/4478786642 | CDW | Product Manager | posted=2026-11-03
+- [ ] https://www.linkedin.com/jobs/view/4482054038 | ArmorCode Inc. | Technical Product Manager | posted=2026-11-03
+- [ ] https://www.linkedin.com/jobs/view/4487012674 | ExxonMobil India Careers | Digital Product Management Advisor - Advanced | posted=2026-11-03
+- [ ] https://www.linkedin.com/jobs/view/4486098008 | Schneider Electric | Lead  Digital Product Owner I - API Platform | posted=2026-11-03
+- [ ] https://www.linkedin.com/jobs/view/4486081335 | Schneider Electric | Senior Product Owner (Functional) – Data & Analytics | posted=2026-11-03
+- [ ] https://www.linkedin.com/jobs/view/4487029246 | State Street | PRODUCT OWNER – AGENTIC AI, Global Delivery Simplification Managing Director | posted=2026-11-03
+- [ ] https://www.linkedin.com/jobs/view/4486074837 | Schneider Electric | Functional Product Owner (Contionus Listening) | posted=2026-11-03
+- [ ] https://www.linkedin.com/jobs/view/4479014331 | BNY | Senior Specialist, POM Product Owner | posted=2026-11-03
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990016578406 | Nielsen | Senior Product Manager II - Research/Survey methodologie | posted=2026-11-03
+- [ ] https://careers.toasttab.com/jobs?gh_jid=8263078 | Toast | Product Manager, Toast Ticketing | posted=2026-11-03
+- [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Senior-Product-Manager--Checkout_R0077106 | eBay | Senior Product Manager, Checkout | posted=2026-11-03
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

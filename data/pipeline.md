@@ -6604,6 +6604,24 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/jobgether/122ab88f-0a7b-4784-b405-812b1e9cb505 | Jobgether | Product Manager - Administration & Governance | posted=2026-11-02
 - [ ] https://jobs.lever.co/jobgether/d1c8f28a-cb0c-4fcc-b649-c83641f8676e | Jobgether | Product Manager - Spark | posted=2026-11-02
 
+- [ ] https://www.linkedin.com/jobs/view/4484046069 | CodeRound AI | Senior Product Manager | posted=2026-11-03
+- [ ] https://www.linkedin.com/jobs/view/4486028453 | Target | Sr Product Manager - Marketplace | posted=2026-11-03
+- [ ] https://www.linkedin.com/jobs/view/4478772311 | SentinelOne | Senior Staff Product Manager | posted=2026-11-03
+- [ ] https://www.linkedin.com/jobs/view/4484672058 | Nielsen | Senior Product Manager II - Research/Survey methodologie | posted=2026-11-03
+- [ ] https://www.linkedin.com/jobs/view/4478778492 | PayPal | Lead Product Manager | posted=2026-11-03
+- [ ] https://www.linkedin.com/jobs/view/4477586248 | Backbase | (Agentic) Product Manager | posted=2026-11-03
+- [ ] https://www.linkedin.com/jobs/view/4484656622 | Adform | Product Manager | posted=2026-11-03
+- [ ] https://www.linkedin.com/jobs/view/4486849430 | Eli Lilly and Company | Technical Product Manager – Lilly USA Data Analytics & AI | posted=2026-11-03
+- [ ] https://www.linkedin.com/jobs/view/4486836721 | ShareChat | Product Manager(Feed) | posted=2026-11-03
+- [ ] https://www.linkedin.com/jobs/view/4484650536 | PhonePe | Product Manager | posted=2026-11-03
+- [ ] https://www.linkedin.com/jobs/view/4486841680 | Eli Lilly and Company | Director - Product Management and MarTech | posted=2026-11-03
+- [ ] https://www.linkedin.com/jobs/view/4476412474 | HackerRank | Principal Product Manager | posted=2026-11-03
+- [ ] https://www.linkedin.com/jobs/view/4484651603 | LinkedIn India PM | Associate Product Manager | posted=2026-11-03
+- [ ] https://www.linkedin.com/jobs/view/4486846217 | Flexiple | Group Product Manager | posted=2026-11-03
+- [ ] https://www.linkedin.com/jobs/view/4486034359 | IDFC FIRST Bank | Product Manager-Personal Loan | posted=2026-11-03
+- [ ] https://job-boards.greenhouse.io/bitgo/jobs/8926499002 | BitGo | Product Manager -  Tokenisation & Stablecoin Infrastructure | posted=2026-11-03
+- [ ] https://careers.toasttab.com/jobs?gh_jid=7673399 | Toast | Product Manager, Toast IQ Evaluation  | posted=2026-11-02
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

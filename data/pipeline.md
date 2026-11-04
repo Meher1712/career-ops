@@ -6675,6 +6675,20 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.ashbyhq.com/credo.ai/aa00d1c3-d4cb-4577-ae3d-983d01664c2d | Credo AI | Product Manager, AI Solutions | posted=2026-11-03
 - [ ] https://www.fivetran.com/careers/job?gh_jid=8007245003 | Fivetran | Staff Product Manager, Databases | posted=2026-11-03
 
+- [ ] https://jobs.lever.co/dozee/54cf50b2-c25d-412c-a8ce-a047884f378e | Dozee | Associate Product Manager | posted=2026-11-04
+- [ ] https://jobs.lever.co/dozee/70a51f56-a142-444b-aa24-aa9ab83df86a | Dozee | Senior Product Manager | posted=2026-11-04
+- [ ] https://www.linkedin.com/jobs/view/4486514604 | TransUnion | Advisor, Voice Services Product Owner | posted=2026-11-04
+- [ ] https://www.linkedin.com/jobs/view/4487529233 | Commonwealth Bank | Executive Product Owner - Enterprise Knowledge | posted=2026-11-04
+- [ ] https://www.linkedin.com/jobs/view/4485504927 | Applied Materials India | Technical Product Manager | posted=2026-11-04
+- [ ] https://www.linkedin.com/jobs/view/4487510725 | Revantage, A Blackstone Portfolio Company | Product Owner, Workday, Talent & Performance | posted=2026-11-04
+- [ ] https://www.linkedin.com/jobs/view/4487512826 | Revantage, A Blackstone Portfolio Company | Product Owner, Workday, US Payroll & Benefits | posted=2026-11-04
+- [ ] https://www.linkedin.com/jobs/view/4487515395 | Wells Fargo | Product Manager | posted=2026-11-04
+- [ ] https://www.linkedin.com/jobs/view/4485527065 | SUN PHARMA | Assistant Product Manager/ Product Manager - CNS | posted=2026-11-04
+- [ ] https://www.linkedin.com/jobs/view/4442542726 | YES BANK | Senior Product Manager CMS | posted=2026-11-04
+- [ ] https://www.linkedin.com/jobs/view/4487511859 | Revantage, A Blackstone Portfolio Company | Product Owner, Workday, Time Tracking & Absence Management | posted=2026-11-04
+- [ ] https://www.linkedin.com/jobs/view/4487518530 | Revantage, A Blackstone Portfolio Company | Product Owner, Workday, Compensation & Advance Compensation | posted=2026-11-04
+- [ ] https://www.linkedin.com/jobs/view/4487511182 | Target | Director Product Management | posted=2026-11-04
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

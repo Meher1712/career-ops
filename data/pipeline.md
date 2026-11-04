@@ -6643,6 +6643,38 @@ Pune, India | posted=2026-06-28
 - [ ] https://careers.toasttab.com/jobs?gh_jid=8263078 | Toast | Product Manager, Toast Ticketing | posted=2026-11-03
 - [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Senior-Product-Manager--Checkout_R0077106 | eBay | Senior Product Manager, Checkout | posted=2026-11-03
 
+- [ ] https://www.linkedin.com/jobs/view/4485081221 | Sirius Lync | Senior Product Manager | Consumer Tech | Mumbai only locals | posted=2026-11-04
+- [ ] https://www.linkedin.com/jobs/view/4485070495 | Pine Labs | Senior Product Manager | posted=2026-11-04
+- [ ] https://www.linkedin.com/jobs/view/4485073361 | Persistent Systems | Technical Product Manager | posted=2026-11-04
+- [ ] https://www.linkedin.com/jobs/view/2148455343 | Walmart Global Tech India | STAFF, PRODUCT MANAGER | posted=2026-11-04
+- [ ] https://www.linkedin.com/jobs/view/4485063811 | WORKPLACE | Product Owner (AI/ML) | posted=2026-11-04
+- [ ] https://www.linkedin.com/jobs/view/4476461016 | UST | Product Manager I | posted=2026-11-04
+- [ ] https://www.linkedin.com/jobs/view/4485069501 | Pine Labs | Group Product Manager | posted=2026-11-04
+- [ ] https://www.linkedin.com/jobs/view/4470420380 | Logitech | Platform Product Owner - Zendesk | posted=2026-11-04
+- [ ] https://www.linkedin.com/jobs/view/4487250122 | Bureau | Product Manager (RASP) | posted=2026-11-04
+- [ ] https://www.linkedin.com/jobs/view/4485062870 | GHX | Technical Product Manager | posted=2026-11-04
+- [ ] https://www.linkedin.com/jobs/view/4485083041 | Delegenix | Product Manager | posted=2026-11-04
+- [ ] https://www.linkedin.com/jobs/view/4487238491 | Flexiple | Group Product Manager | posted=2026-11-04
+- [ ] https://www.linkedin.com/jobs/view/4479262581 | Netskope | Principal Product Manager, AI Security | posted=2026-11-04
+- [ ] https://www.linkedin.com/jobs/view/4486374307 | Thomson Reuters | Product Manager - UK Tax | posted=2026-11-04
+- [ ] https://www.linkedin.com/jobs/view/4485071741 | Narayana Health | Product Manager | posted=2026-11-04
+- [ ] https://www.linkedin.com/jobs/view/4485071692 | PayU | Senior Product Manager - KYC Platform | posted=2026-11-04
+- [ ] https://www.linkedin.com/jobs/view/4487247514 | Questhiring | Senior Product Manager | posted=2026-11-04
+- [ ] https://www.linkedin.com/jobs/view/4487246430 | Razorpay | Staff Product Manager | posted=2026-11-04
+- [ ] https://www.linkedin.com/jobs/view/4487236936 | Comviva | Senior Product Manager | posted=2026-11-04
+- [ ] https://www.linkedin.com/jobs/view/4487248159 | Super Humans | Product Manager | posted=2026-11-04
+- [ ] https://www.linkedin.com/jobs/view/4485069730 | EY | TD- Product Manager | posted=2026-11-04
+- [ ] https://www.linkedin.com/jobs/view/4487252344 | GHX India | Technical Product Manager | posted=2026-11-04
+- [ ] https://www.linkedin.com/jobs/view/4461062930 | Emerson | Software Product Owner | posted=2026-11-04
+- [ ] https://www.linkedin.com/jobs/view/4486365447 | MoneyGram | Product Manager, Payout Rails | posted=2026-11-04
+- [ ] https://www.linkedin.com/jobs/view/4487248429 | Questhiring | Director of Product Management | posted=2026-11-04
+- [ ] https://www.linkedin.com/jobs/view/4487248382 | AXA XL | IT Ops Infrastructure Product Owner | posted=2026-11-04
+- [ ] https://www.linkedin.com/jobs/view/4487252129 | Avnet | Assistant Product Manager | posted=2026-11-04
+- [ ] https://jobs.lever.co/jobgether/dce88951-eeb5-4acf-a568-f153d9188a89 | Jobgether | Senior Growth Product Manager | posted=2026-11-04
+- [ ] https://jobs.lever.co/jobgether/2f3cdbfd-37b9-44d5-bb09-473c7d5aeeaa | Jobgether | Senior Product Manager - Data Integrations | posted=2026-11-04
+- [ ] https://jobs.ashbyhq.com/credo.ai/aa00d1c3-d4cb-4577-ae3d-983d01664c2d | Credo AI | Product Manager, AI Solutions | posted=2026-11-03
+- [ ] https://www.fivetran.com/careers/job?gh_jid=8007245003 | Fivetran | Staff Product Manager, Databases | posted=2026-11-03
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

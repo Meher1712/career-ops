@@ -6689,6 +6689,22 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4487518530 | Revantage, A Blackstone Portfolio Company | Product Owner, Workday, Compensation & Advance Compensation | posted=2026-11-04
 - [ ] https://www.linkedin.com/jobs/view/4487511182 | Target | Director Product Management | posted=2026-11-04
 
+- [ ] https://www.linkedin.com/jobs/view/4478858506 | PAR Technology | Senior Product Manager | posted=2026-11-05
+- [ ] https://www.linkedin.com/jobs/view/4459228865 | eBay | Sr. Product Manager - Case Management | posted=2026-11-05
+- [ ] https://www.linkedin.com/jobs/view/4487737157 | Zuper | Senior Product Manager | posted=2026-11-05
+- [ ] https://www.linkedin.com/jobs/view/4486583736 | Next Sourcing Limited | Senior Product Manager – Apparel & Fashion | posted=2026-11-05
+- [ ] https://www.linkedin.com/jobs/view/4476668191 | Walmart Global Tech India | (IND) Senior Manager, Product Management | posted=2026-11-05
+- [ ] https://www.linkedin.com/jobs/view/4485808360 | Round1 Jobs | Hiring for Product Managers | ₹30-55LPA | posted=2026-11-05
+- [ ] https://www.linkedin.com/jobs/view/4459940196 | Clearwater Analytics | Product Manager | posted=2026-11-05
+- [ ] https://www.linkedin.com/jobs/view/4487735324 | CodeRound AI | Product Manager (Up to 30) | posted=2026-11-05
+- [ ] https://www.linkedin.com/jobs/view/4487741105 | SalesForce-ad | Solutions Builder (Strategic Builder) | posted=2026-11-05
+- [ ] https://job-boards.greenhouse.io/glance/jobs/8337703 | Glance | Senior Product Manager - Glance TV - GTM | posted=2026-11-05
+- [ ] https://www.linkedin.com/jobs/view/4486584751 | Shell Recharge Solutions | Director, Product Management | posted=2026-11-05
+- [ ] https://www.linkedin.com/jobs/view/4486582790 | Target | Director Product Management - Customer Data Platform | posted=2026-11-05
+- [ ] https://www.linkedin.com/jobs/view/4487725701 | Flexiple | Group Product Manager | posted=2026-11-05
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990016642026 | Nielsen | Senior Product Manager II | posted=2026-11-05
+- [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Senior-Product-Manager-Disruption-Management_JR108942 | Sabre | Senior Product Manager Disruption Management | posted=2026-11-05
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

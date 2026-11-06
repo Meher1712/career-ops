@@ -6705,6 +6705,23 @@ Pune, India | posted=2026-06-28
 - [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990016642026 | Nielsen | Senior Product Manager II | posted=2026-11-05
 - [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Senior-Product-Manager-Disruption-Management_JR108942 | Sabre | Senior Product Manager Disruption Management | posted=2026-11-05
 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8893054002 | GitLab | Director of Product Management, Platforms  | posted=2026-11-05
+- [ ] https://www.linkedin.com/jobs/view/4488142193 | CertifyOS | Senior Product Manager, Data | posted=2026-11-06
+- [ ] https://www.linkedin.com/jobs/view/4488146103 | JPMorganChase | Product Manager - Capture & Controls | posted=2026-11-06
+- [ ] https://www.linkedin.com/jobs/view/4486960961 | UKG | Lead Product Manager- Integration Framework | posted=2026-11-06
+- [ ] https://www.linkedin.com/jobs/view/4488146057 | Bayer | Principal Product Manager IT/OT D-Hub | posted=2026-11-06
+- [ ] https://www.linkedin.com/jobs/view/4488140224 | Leah | Associate Product Manager | posted=2026-11-06
+- [ ] https://www.linkedin.com/jobs/view/4488128885 | JPMorganChase | Vice President - Lending Product Owner | posted=2026-11-06
+- [ ] https://www.linkedin.com/jobs/view/4486979033 | Visteon Corporation | Senior Product Owner | posted=2026-11-06
+- [ ] https://www.linkedin.com/jobs/view/4488142074 | Flexiple | Group Product Manager | posted=2026-11-06
+- [ ] https://www.linkedin.com/jobs/view/4488140165 | SWITS DIGITAL Private Limited | Enterprise Architect - IT Disaster Recovery Product Owner | posted=2026-11-06
+- [ ] https://job-boards.greenhouse.io/innodatainc/jobs/4480612009 | Innodata Inc. | Technical Product Manager, Trust & Safety | posted=2026-11-05
+- [ ] https://jobs.lever.co/jobgether/86145345-3e4c-47dc-bcc4-403ff884c581 | Jobgether | Advisor, Voice Services Product Owner | posted=2026-11-05
+- [ ] https://jobs.lever.co/jobgether/06b4745e-4d8f-4a75-994f-a5f7c8cc8827 | Jobgether | Product Manager | posted=2026-11-05
+- [ ] https://jobs.lever.co/jobgether/420d99d4-9103-46b9-a002-f5f8641e530d | Jobgether | Product Manager, Payout Rails | posted=2026-11-05
+- [ ] https://jobs.lever.co/jobgether/762d76d3-5d83-4e6b-ad58-4294e894de32 | Jobgether | Product Owner - Innovation Team | posted=2026-11-05
+- [ ] https://jobs.lever.co/jobgether/022e4e21-72d4-442c-a39e-8c678a61bd99 | Jobgether | Sr. Product Manager - Conversations | posted=2026-11-05
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

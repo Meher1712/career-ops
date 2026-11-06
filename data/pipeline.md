@@ -6722,6 +6722,17 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/jobgether/762d76d3-5d83-4e6b-ad58-4294e894de32 | Jobgether | Product Owner - Innovation Team | posted=2026-11-05
 - [ ] https://jobs.lever.co/jobgether/022e4e21-72d4-442c-a39e-8c678a61bd99 | Jobgether | Sr. Product Manager - Conversations | posted=2026-11-05
 
+- [ ] https://www.linkedin.com/jobs/view/4480353427 | Sage | Senior Product Manager | posted=2026-11-06
+- [ ] https://www.linkedin.com/jobs/view/4487302782 | RecruitBots AI | Senior Product Manager-AI | posted=2026-11-06
+- [ ] https://www.linkedin.com/jobs/view/4487307534 | Sabre | Lead Product Manager, Airline eCommerce | posted=2026-11-06
+- [ ] https://www.linkedin.com/jobs/view/4487309775 | Sitaram Ayurveda | Sr. Manager / Manager Product Management | posted=2026-11-06
+- [ ] https://www.linkedin.com/jobs/view/4486269009 | Anchanto | Product Manager | posted=2026-11-06
+- [ ] https://www.linkedin.com/jobs/view/4486252888 | Oracle | Product Manager/Strategy 3-ProdDev | posted=2026-11-06
+- [ ] https://www.linkedin.com/jobs/view/4488143373 | Serrala | Product Owner | posted=2026-11-06
+- [ ] https://www.linkedin.com/jobs/view/4486263366 | Freudia | Founding team members ( technology Buisness psychologist) | posted=2026-11-06
+- [ ] https://jobs.lever.co/jobgether/8a6e9655-e195-4c00-a6ef-ca09e55ecace | Jobgether | Product Owner | posted=2026-11-06
+- [ ] https://jobs.ashbyhq.com/certifyos/5dd98d4a-8885-4ff4-869a-fb16cd91a01c | CertifyOS | Senior Product Manager, Data | posted=2026-11-06
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

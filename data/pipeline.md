@@ -6733,6 +6733,10 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/jobgether/8a6e9655-e195-4c00-a6ef-ca09e55ecace | Jobgether | Product Owner | posted=2026-11-06
 - [ ] https://jobs.ashbyhq.com/certifyos/5dd98d4a-8885-4ff4-869a-fb16cd91a01c | CertifyOS | Senior Product Manager, Data | posted=2026-11-06
 
+- [ ] https://www.linkedin.com/jobs/view/4480563402 | PubMatic | Senior Product Manager, Analytics and Agentic Platform | posted=2026-11-07
+- [ ] https://job-boards.greenhouse.io/zscaler/jobs/5278545007 | Zscaler | Principal Product Manager | posted=2026-11-06
+- [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/India---Bangalore-Navigator-Bldg/Lead-Product-Owner---eCommerce-Platform_JR108489 | Sabre | Lead Product Manager, Airline eCommerce
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

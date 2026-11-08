@@ -6740,6 +6740,8 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4470165775 | Duck Creek Technologies | Senior Product Manager, Agentic Application | posted=2026-11-08
 - [ ] https://www.linkedin.com/jobs/view/4488781019 | Inovalon | Principal Product Manager | posted=2026-11-08
 
+- [ ] https://www.linkedin.com/jobs/view/4488792719 | BMC Software | Lead / Principal Product Manager – Agentic AI Products | posted=2026-11-08
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

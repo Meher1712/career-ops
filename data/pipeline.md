@@ -6742,6 +6742,18 @@ Pune, India | posted=2026-06-28
 
 - [ ] https://www.linkedin.com/jobs/view/4488792719 | BMC Software | Lead / Principal Product Manager – Agentic AI Products | posted=2026-11-08
 
+- [ ] https://www.linkedin.com/jobs/view/4487680923 | Adobe | Principal Product Manager - Firefly UI (Image/Video) | posted=2026-11-09
+- [ ] https://www.linkedin.com/jobs/view/4479987354 | Lowe's India | Senior Product Manager (Lowe's Commerce Solutions) | posted=2026-11-09
+- [ ] https://www.linkedin.com/jobs/view/4488844272 | ANSR | Sr Product Owner, Technology Products [T500-30670] | posted=2026-11-09
+- [ ] https://www.linkedin.com/jobs/view/4487157032 | Cimpress India | Principal Product Manager | posted=2026-11-09
+- [ ] https://www.linkedin.com/jobs/view/4487154119 | HCLTech | Senior AI Product Manager | posted=2026-11-09
+- [ ] https://www.linkedin.com/jobs/view/4480947821 | Penguin Solutions | Software Product Manager, ClusterWareAI | posted=2026-11-09
+- [ ] https://www.linkedin.com/jobs/view/4487157050 | Orbit Verify | Product Manager | posted=2026-11-09
+- [ ] https://www.linkedin.com/jobs/view/4487146546 | Siemens Healthineers | Technical Product Manager - Lab Automation and Healthcare Solutions / Workflow Consultant | posted=2026-11-09
+- [ ] https://jobs.lever.co/jobgether/1699b5c0-9a49-41ea-b72f-42d5dc41c9f6 | Jobgether | Senior Product Manager, Data | posted=2026-11-09
+- [ ] https://jobs.lever.co/jobgether/44ed979f-e9fe-4e34-ba83-6925d2d5d929 | Jobgether | Senior Product Manager, Warranty | posted=2026-11-09
+- [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990016721776 | Nielsen | Director, Product Management | posted=2026-11-09
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

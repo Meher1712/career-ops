@@ -6754,6 +6754,10 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/jobgether/44ed979f-e9fe-4e34-ba83-6925d2d5d929 | Jobgether | Senior Product Manager, Warranty | posted=2026-11-09
 - [ ] https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990016721776 | Nielsen | Director, Product Management | posted=2026-11-09
 
+- [ ] https://jobs.lever.co/jobgether/daae2e6e-0f9f-458f-a4e5-9f8ec921207f | Jobgether | Group Product Manager, Data Platforms | posted=2026-11-09
+- [ ] https://careers.toasttab.com/jobs?gh_jid=8306069 | Toast | Director Of Product, Onboarding, Hardware & Supply Chain | posted=2026-11-09
+- [ ] https://careers.toasttab.com/jobs?gh_jid=8349001 | Toast | Product Manager | posted=2026-11-09
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -6774,6 +6774,13 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/jobgether/2d1b15f5-2df2-4f3a-ab4d-dfe5dc13f791 | Jobgether | Product Manager | posted=2026-11-10
 - [ ] https://jobs.ashbyhq.com/credo.ai/d727dd55-8e73-493e-b2c8-dcb366dca88f | Credo AI | Product Manager, Integrations | posted=2026-11-10
 
+- [ ] https://www.linkedin.com/jobs/view/4473086230 | Zendesk | Senior Product Manager | posted=2026-11-10
+- [ ] https://www.linkedin.com/jobs/view/4487813354 | Oracle | Principal Product Manager | posted=2026-11-10
+- [ ] https://www.linkedin.com/jobs/view/4483726175 | State Street | Product Owner, Insurance Fund Accounting and Administration Specialist, Assistant Vice President | posted=2026-11-10
+- [ ] https://www.linkedin.com/jobs/view/4483551746 | State Street | Fund Accounting and Administration Product Owner - Insurance Accounting, Vice President | posted=2026-11-10
+- [ ] https://jobs.ashbyhq.com/tilthq/c1c40525-4693-4cac-97a6-2802436f8312 | Tilt | Senior Product Manager - NIRA | posted=2026-11-10
+- [ ] https://careers.godaddy/jobs?gh_jid=8012563003 | GoDaddy | Senior Technical Product Manager - Identity Platform | posted=2026-11-10
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

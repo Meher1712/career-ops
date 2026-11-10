@@ -6758,6 +6758,22 @@ Pune, India | posted=2026-06-28
 - [ ] https://careers.toasttab.com/jobs?gh_jid=8306069 | Toast | Director Of Product, Onboarding, Hardware & Supply Chain | posted=2026-11-09
 - [ ] https://careers.toasttab.com/jobs?gh_jid=8349001 | Toast | Product Manager | posted=2026-11-09
 
+- [ ] https://jobs.ashbyhq.com/supabase/a9ad80ae-4514-41c0-8062-35963d33748e | Supabase | Product Manager - Postgres | posted=2026-11-10
+- [ ] https://www.linkedin.com/jobs/view/4489437741 | Osmos | Senior Product Manager | posted=2026-11-10
+- [ ] https://www.linkedin.com/jobs/view/4488319403 | Deloitte | Product Manager-Senior Product Specialist | posted=2026-11-10
+- [ ] https://www.linkedin.com/jobs/view/4489437981 | Tilt | Senior Product Manager - NIRA | posted=2026-11-10
+- [ ] https://www.linkedin.com/jobs/view/4480222175 | Philips | Global Product Manager- IVP & Launch Excellence | posted=2026-11-10
+- [ ] https://www.linkedin.com/jobs/view/4487483158 | UST | Lead I - Product Management | posted=2026-11-10
+- [ ] https://www.linkedin.com/jobs/view/4488308417 | Persistent Systems | Technical Product Manager | posted=2026-11-10
+- [ ] https://www.linkedin.com/jobs/view/4480225134 | Philips | Global Product Manager- Accelerators | posted=2026-11-10
+- [ ] https://www.linkedin.com/jobs/view/4488305489 | VMock | Product Manager | posted=2026-11-10
+- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8345630 | Smartsheet | Group Product Manager | posted=2026-11-10
+- [ ] https://www.linkedin.com/jobs/view/4487452975 | Discovr AI | AI Product Manager | posted=2026-11-10
+- [ ] https://www.linkedin.com/jobs/view/4488313349 | NikahForever | Associate Product Manager | posted=2026-11-10
+- [ ] https://www.linkedin.com/jobs/view/4488324310 | Deloitte | Forward Deployed Domain Practitioners (FDDPs) – Healthcare Domain - Product Manager II | posted=2026-11-10
+- [ ] https://jobs.lever.co/jobgether/2d1b15f5-2df2-4f3a-ab4d-dfe5dc13f791 | Jobgether | Product Manager | posted=2026-11-10
+- [ ] https://jobs.ashbyhq.com/credo.ai/d727dd55-8e73-493e-b2c8-dcb366dca88f | Credo AI | Product Manager, Integrations | posted=2026-11-10
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

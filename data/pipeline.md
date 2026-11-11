@@ -6781,6 +6781,20 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.ashbyhq.com/tilthq/c1c40525-4693-4cac-97a6-2802436f8312 | Tilt | Senior Product Manager - NIRA | posted=2026-11-10
 - [ ] https://careers.godaddy/jobs?gh_jid=8012563003 | GoDaddy | Senior Technical Product Manager - Identity Platform | posted=2026-11-10
 
+- [ ] https://www.linkedin.com/jobs/view/4488678638 | Couchbase | Sr Product Manager | posted=2026-11-11
+- [ ] https://www.linkedin.com/jobs/view/4488688292 | TransUnion | Technical Product Manager | posted=2026-11-11
+- [ ] https://www.linkedin.com/jobs/view/4488684257 | Tanla Platforms Limited | Product Manager | posted=2026-11-11
+- [ ] https://www.linkedin.com/jobs/view/4489943026 | Nike | Principal Technical Product Manager, ITC | posted=2026-11-11
+- [ ] https://www.linkedin.com/jobs/view/4488679433 | Rippling | Lead Product Manager | posted=2026-11-11
+- [ ] https://www.linkedin.com/jobs/view/4488206607 | Eaton | Product Manager | posted=2026-11-11
+- [ ] https://www.linkedin.com/jobs/view/4480773716 | Kobie | Product Owner | posted=2026-11-11
+- [ ] https://www.linkedin.com/jobs/view/4488676691 | RecruitBots AI | AI Product manager | posted=2026-11-11
+- [ ] https://www.linkedin.com/jobs/view/4489929437 | WTW | Product Owner | posted=2026-11-11
+- [ ] https://www.linkedin.com/jobs/view/4487899920 | EY | IAM Product Owner role- Manager | posted=2026-11-11
+- [ ] https://www.linkedin.com/jobs/view/4488681513 | TransUnion | Consultant, Technical Product Manager | posted=2026-11-11
+- [ ] https://api.smartrecruiters.com/v1/companies/nagarro1/postings/744000161035249 | Nagarro | Digital Product Owner - Home Automation & IoT  | posted=2026-11-11
+- [ ] https://api.smartrecruiters.com/v1/companies/Entain/postings/744000161034319 | Entain India | Product Manager | posted=2026-11-11
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

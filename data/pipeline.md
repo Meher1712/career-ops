@@ -6795,6 +6795,16 @@ Pune, India | posted=2026-06-28
 - [ ] https://api.smartrecruiters.com/v1/companies/nagarro1/postings/744000161035249 | Nagarro | Digital Product Owner - Home Automation & IoT  | posted=2026-11-11
 - [ ] https://api.smartrecruiters.com/v1/companies/Entain/postings/744000161034319 | Entain India | Product Manager | posted=2026-11-11
 
+- [ ] https://www.linkedin.com/jobs/view/4489989693 | Amazon | Senior Product Manager - Technical, RBS Tech | posted=2026-11-11
+- [ ] https://www.linkedin.com/jobs/view/4480536970 | ServiceNow | Sr Staff Inbound Product Manager - Partner Relationship Management(PRM) | posted=2026-11-11
+- [ ] https://www.linkedin.com/jobs/view/4490001075 | Amazon | Director, Product Management Tech, Amazon Customer Service Network Solutions | posted=2026-11-11
+- [ ] https://www.linkedin.com/jobs/view/4489034004 | Kwan Ventures | Director of Product Design | posted=2026-11-11
+- [ ] https://www.rubrik.com/company/careers/departments/job.7423902?gh_jid=7423902 | Rubrik | Staff Platform Product Manager, Platform & Cloud Security | posted=2026-11-11
+- [ ] https://jobs.lever.co/jobgether/e8797909-7934-4577-949c-b5f9f5370b51 | Jobgether | Global Product Manager – Sustainable Seafood Certification (MSC/ASC) | posted=2026-11-11
+- [ ] https://jobs.lever.co/jobgether/30155405-e468-41bb-9259-421c3c81bb89 | Jobgether | Product Manager - Postgres | posted=2026-11-11
+- [ ] https://jobs.lever.co/jobgether/91da828e-7317-4fe2-bbc4-837272a0ff73 | Jobgether | Product Manager (Life Sciences) | posted=2026-11-11
+- [ ] https://jobs.lever.co/jobgether/5c82d659-9925-4949-a860-3945d078a8a5 | Jobgether | Product Owner (CX) | posted=2026-11-11
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

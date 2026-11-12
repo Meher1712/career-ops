@@ -6805,6 +6805,11 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/jobgether/91da828e-7317-4fe2-bbc4-837272a0ff73 | Jobgether | Product Manager (Life Sciences) | posted=2026-11-11
 - [ ] https://jobs.lever.co/jobgether/5c82d659-9925-4949-a860-3945d078a8a5 | Jobgether | Product Owner (CX) | posted=2026-11-11
 
+- [ ] https://stripe.com/jobs/search?gh_jid=8381041 | Stripe | Staff Product Manager, Foundation Pillar  | posted=2026-11-11
+- [ ] https://api.smartrecruiters.com/v1/companies/Entain/postings/744000161266991 | Entain India | Product Manager | posted=2026-11-12
+- [ ] https://www.coupang.jobs/en/jobs/?gh_jid=8376983 | Coupang | Director of Product Management | posted=2026-11-12
+- [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Senior-Product-Manager_JR108946 | Sabre | Senior Product Manager | posted=2026-11-12
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

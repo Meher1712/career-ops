@@ -6810,6 +6810,9 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.coupang.jobs/en/jobs/?gh_jid=8376983 | Coupang | Director of Product Management | posted=2026-11-12
 - [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Senior-Product-Manager_JR108946 | Sabre | Senior Product Manager | posted=2026-11-12
 
+- [ ] https://www.linkedin.com/jobs/view/4480040008 | Mastercard | Senior Specialist - Global Product Management - Data Analytics and Agentic AI | posted=2026-11-12
+- [ ] https://job-boards.greenhouse.io/sumologic/jobs/8382629 | Sumo Logic | Senior Product Manager I | posted=2026-11-12
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

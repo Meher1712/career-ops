@@ -6813,6 +6813,32 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4480040008 | Mastercard | Senior Specialist - Global Product Management - Data Analytics and Agentic AI | posted=2026-11-12
 - [ ] https://job-boards.greenhouse.io/sumologic/jobs/8382629 | Sumo Logic | Senior Product Manager I | posted=2026-11-12
 
+- [ ] https://job-boards.greenhouse.io/sumologic/jobs/8382639 | Sumo Logic | Senior Product Manager I | posted=2026-11-12
+- [ ] https://www.linkedin.com/jobs/view/4488924130 | Angel One | Senior Product Manager | posted=2026-11-13
+- [ ] https://www.linkedin.com/jobs/view/4481311729 | Autodesk | Senior Product Manager, GTM Automation | posted=2026-11-13
+- [ ] https://www.linkedin.com/jobs/view/4488920595 | Northern Trust | BaNCS Product Manager | posted=2026-11-13
+- [ ] https://www.linkedin.com/jobs/view/4488908901 | Mondelēz International | Data Product Manager | posted=2026-11-13
+- [ ] https://www.linkedin.com/jobs/view/4482811627 | JPMorganChase | Chief Data Office - Reference Data Product Manager - Vice President | posted=2026-11-13
+- [ ] https://www.linkedin.com/jobs/view/4490595420 | Darwinbox | Group Product Manager | posted=2026-11-13
+- [ ] https://www.linkedin.com/jobs/view/4490700288 | OmegaHires | Product Owner | posted=2026-11-13
+- [ ] https://www.linkedin.com/jobs/view/4474321581 | USP | Associate Product Manager/Product Manager (Reference Standards) | posted=2026-11-13
+- [ ] https://www.linkedin.com/jobs/view/4463024271 | Bridgestone Americas | VDI Technical Product owner | posted=2026-11-13
+- [ ] https://job-boards.greenhouse.io/capco/jobs/8382723 | Capco | Product Owner | posted=2026-11-13
+- [ ] https://www.linkedin.com/jobs/view/4488918662 | Palo Alto Networks | Senior Product Manager | posted=2026-11-13
+- [ ] https://www.linkedin.com/jobs/view/4460625468 | Zinnia | Product Manager -Technical (Life Insurance & Annuity) | posted=2026-11-13
+- [ ] https://www.linkedin.com/jobs/view/4488925567 | Zeta | Product Manager II | posted=2026-11-13
+- [ ] https://www.linkedin.com/jobs/view/4490597670 | Cadila Pharmaceuticals Limited | Product Manager | posted=2026-11-13
+- [ ] https://www.linkedin.com/jobs/view/4463028241 | Bridgestone Americas | AEM Product Owner | posted=2026-11-13
+- [ ] https://www.linkedin.com/jobs/view/4490709185 | Cadila Pharmaceuticals Limited | Senior Product Manager | posted=2026-11-13
+- [ ] https://www.linkedin.com/jobs/view/4489554577 | Michael Page | 5-9 Yrs | Data Product Owner | Operations | Hyderabad | GCP | posted=2026-11-13
+- [ ] https://www.linkedin.com/jobs/view/4433843361 | D. E. Shaw India Private Limited | Lead, Product Management (Human Capital Products) | posted=2026-11-13
+- [ ] https://www.linkedin.com/jobs/view/4490708302 | Cadila Pharmaceuticals Limited | Group Product Manager | posted=2026-11-13
+- [ ] https://www.linkedin.com/jobs/view/4490706407 | Cadila Pharmaceuticals Limited | Assistant Product Manager | posted=2026-11-13
+- [ ] https://jobs.lever.co/jobgether/cecf78de-e2c7-4654-bf28-9f3be56301a0 | Jobgether | Supplier Technologist - Technical PM IV | posted=2026-11-13
+- [ ] https://job-boards.greenhouse.io/ethoslife/jobs/8937279002 | Ethos | Senior Product Manager, CX Platforms | posted=2026-11-13
+- [ ] https://api.smartrecruiters.com/v1/companies/Freshworks/postings/744000161428419 | Freshworks | Senior Product Manager | posted=2026-11-13
+- [ ] https://api.smartrecruiters.com/v1/companies/Freshworks/postings/744000161428139 | Freshworks | Staff Product Manager | posted=2026-11-13
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

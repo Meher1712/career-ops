@@ -6839,6 +6839,27 @@ Pune, India | posted=2026-06-28
 - [ ] https://api.smartrecruiters.com/v1/companies/Freshworks/postings/744000161428419 | Freshworks | Senior Product Manager | posted=2026-11-13
 - [ ] https://api.smartrecruiters.com/v1/companies/Freshworks/postings/744000161428139 | Freshworks | Staff Product Manager | posted=2026-11-13
 
+- [ ] https://www.linkedin.com/jobs/view/4490750703 | Optum India | Senior Technical Product Manager | posted=2026-11-13
+- [ ] https://www.linkedin.com/jobs/view/4490705534 | ABCD Aditya Birla Capital Digital | Senior Product Manager - Mutual Funds | posted=2026-11-13
+- [ ] https://www.linkedin.com/jobs/view/4488942830 | JioStar | Senior Product Manager | posted=2026-11-13
+- [ ] https://www.linkedin.com/jobs/view/4490751436 | Amgen | Senior Digital Product Manager - Procure To Pay | posted=2026-11-13
+- [ ] https://www.linkedin.com/jobs/view/4488944852 | Aspen Technology | Sr Product Owner | posted=2026-11-13
+- [ ] https://www.linkedin.com/jobs/view/4489597167 | Thomson Reuters | Product Manager, UK Practice Software | posted=2026-11-13
+- [ ] https://www.linkedin.com/jobs/view/4483116183 | Roche | Technical Product Owner (TPO) - Pharma Medicines | posted=2026-11-13
+- [ ] https://www.linkedin.com/jobs/view/4490748796 | Tekion Corp | Product Manager II | posted=2026-11-13
+- [ ] https://www.linkedin.com/jobs/view/4489809133 | GE Vernova | Sr Product Owner | posted=2026-11-13
+- [ ] https://www.linkedin.com/jobs/view/4489812165 | GE Vernova | Senior Product Manager - AI | posted=2026-11-13
+- [ ] https://www.linkedin.com/jobs/view/4490772302 | Visa | Sr Product Manager | posted=2026-11-13
+- [ ] https://www.linkedin.com/jobs/view/4489812171 | GE Vernova | Sr Technical Product Manager | posted=2026-11-13
+- [ ] https://www.linkedin.com/jobs/view/4490770357 | Toast | Product Manager | posted=2026-11-13
+- [ ] https://www.linkedin.com/jobs/view/4472971999 | Mastercard | Manager, Product Management | posted=2026-11-13
+- [ ] https://www.linkedin.com/jobs/view/4485228146 | State Street | Fund Accounting and Administration Product Owner - Insurance Accounting, Assistant Vice President | posted=2026-11-13
+- [ ] https://www.linkedin.com/jobs/view/4489804335 | GE Vernova | AI Product Manager | posted=2026-11-13
+- [ ] https://www.linkedin.com/jobs/view/4490757670 | ShopDeck | Product Manager - II | posted=2026-11-13
+- [ ] https://www.linkedin.com/jobs/view/4483112682 | Broadridge India | Product Owner - Tax Reporting | posted=2026-11-13
+- [ ] https://api.smartrecruiters.com/v1/companies/Entain/postings/744000161483273 | Entain India | Product Manager | posted=2026-11-13
+- [ ] https://jobs.lever.co/jobgether/56b39ad0-dc26-4c3a-b6e0-b78d82564730 | Jobgether | MSAT Drug Product Owner | posted=2026-11-13
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -6867,6 +6867,11 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/jobgether/30ca4793-8ff1-4e08-88ff-495b8792d7bd | Jobgether | Product Manager, Global Learning & Knowledge Platforms | posted=2026-11-14
 - [ ] https://careers.toasttab.com/jobs?gh_jid=8383535 | Toast | Principal Product Manager - Catering & Events | posted=2026-11-13
 
+- [ ] https://www.linkedin.com/jobs/view/4483115331 | Hyperproof | Senior Platform Product Manager | posted=2026-11-14
+- [ ] https://www.linkedin.com/jobs/view/4463451295 | algoleap | Senior Product Manager | posted=2026-11-14
+- [ ] https://www.linkedin.com/jobs/view/4491090389 | AI Planet | Product Manager | posted=2026-11-14
+- [ ] https://www.linkedin.com/jobs/view/4491077953 | Target | Product Manager | posted=2026-11-14
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -6860,6 +6860,13 @@ Pune, India | posted=2026-06-28
 - [ ] https://api.smartrecruiters.com/v1/companies/Entain/postings/744000161483273 | Entain India | Product Manager | posted=2026-11-13
 - [ ] https://jobs.lever.co/jobgether/56b39ad0-dc26-4c3a-b6e0-b78d82564730 | Jobgether | MSAT Drug Product Owner | posted=2026-11-13
 
+- [ ] https://www.linkedin.com/jobs/view/4489871762 | Erekrut... Recruitment Made Easy | Product Manager - Healthcare | posted=2026-11-14
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/8386024 | Twilio | Principal, Product Manager ( L5) | posted=2026-11-13
+- [ ] https://www.linkedin.com/jobs/view/4489322581 | Luna Technologies Pvt. Ltd. | Product Manager – Automation | posted=2026-11-14
+- [ ] https://jobs.lever.co/jobgether/623ac667-f962-4490-95f8-09a54e02435c | Jobgether | Product Manager, Analytics (Call Intelligence) | posted=2026-11-14
+- [ ] https://jobs.lever.co/jobgether/30ca4793-8ff1-4e08-88ff-495b8792d7bd | Jobgether | Product Manager, Global Learning & Knowledge Platforms | posted=2026-11-14
+- [ ] https://careers.toasttab.com/jobs?gh_jid=8383535 | Toast | Principal Product Manager - Catering & Events | posted=2026-11-13
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -1,12 +1,33 @@
 {
-  "generated_at": "2026-11-15T10:58:06.845Z",
+  "generated_at": "2026-11-15T17:44:17.842Z",
   "jobs": [
     {
       "n": 1,
+      "title": "Senior Technical PM, Applied AI",
+      "company": "Netomi",
+      "location": "India",
+      "url": "https://www.linkedin.com/jobs/view/4489700341"
+    },
+    {
+      "n": 2,
+      "title": "Lead Product Owner",
+      "company": "Boeing",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4489386981"
+    },
+    {
+      "n": 3,
+      "title": "Senior Lead Product Owner",
+      "company": "Boeing",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4489393660"
+    },
+    {
+      "n": 4,
       "title": "Product Manager",
-      "company": "Study Ark",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://www.linkedin.com/jobs/view/4490218582"
+      "company": "Copeland",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4481079144"
     }
   ]
 }

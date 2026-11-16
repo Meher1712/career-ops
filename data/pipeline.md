@@ -6879,6 +6879,32 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4489393660 | Boeing | Senior Lead Product Owner | posted=2026-11-15
 - [ ] https://www.linkedin.com/jobs/view/4481079144 | Copeland | Product Manager | posted=2026-11-15
 
+- [ ] https://www.linkedin.com/jobs/view/4490278896 | FairMoney | Senior Product Manager - Banking (Security) | posted=2026-11-16
+- [ ] https://www.linkedin.com/jobs/view/4490293454 | FairMoney | Senior Product Manager - Banking (Referrals & Rewards) | posted=2026-11-16
+- [ ] https://www.linkedin.com/jobs/view/4490293346 | Quince | Principal Product Manager (FactoryOS) | posted=2026-11-16
+- [ ] https://www.linkedin.com/jobs/view/4490287391 | Persistent Systems | Technical Product Manager - ServiceNow SPM & AI | posted=2026-11-16
+- [ ] https://www.linkedin.com/jobs/view/4491511385 | People Group Arabia | AI Product Manager | posted=2026-11-16
+- [ ] https://www.linkedin.com/jobs/view/4454658110 | Ema | Product Manager | posted=2026-11-16
+- [ ] https://www.linkedin.com/jobs/view/4483836837 | Neo | Product Manager II | posted=2026-11-16
+- [ ] https://www.linkedin.com/jobs/view/4490292101 | Jobgether | Technical Product Manager, Identification & JS Agent | posted=2026-11-16
+- [ ] https://www.linkedin.com/jobs/view/4483521611 | Volvo Group | Digital Product Owner | posted=2026-11-16
+- [ ] https://www.linkedin.com/jobs/view/4490296078 | Drishti Astro | AI Product Manager - Customer Experience & Retention | posted=2026-11-16
+- [ ] https://www.linkedin.com/jobs/view/4489733459 | RGB Web Tech | Chief Product Officer | posted=2026-11-16
+- [ ] https://www.linkedin.com/jobs/view/4489742103 | ZARA | Product Manager | posted=2026-11-16
+- [ ] https://www.linkedin.com/jobs/view/4491298713 | WhiteSlips Job Management Consultants | Director of Product Management | posted=2026-11-16
+- [ ] https://www.linkedin.com/jobs/view/4489737371 | Tekion Corp | Senior Product Manager | posted=2026-11-16
+- [ ] https://www.linkedin.com/jobs/view/4489736418 | Tekion Corp | Manager Product Management | posted=2026-11-16
+- [ ] https://www.linkedin.com/jobs/view/4490282647 | Staples India | Product Manager - SMN | posted=2026-11-16
+- [ ] https://www.linkedin.com/jobs/view/4490282621 | Staples India | Product Manager -  Client Portal | posted=2026-11-16
+- [ ] https://www.linkedin.com/jobs/view/4490287508 | Adform | Product Manager | posted=2026-11-16
+- [ ] https://www.linkedin.com/jobs/view/4490293395 | Dario | Associate Product Manager | posted=2026-11-16
+- [ ] https://www.linkedin.com/jobs/view/4490289508 | AAFT | Product Manager | posted=2026-11-16
+- [ ] https://www.linkedin.com/jobs/view/4491296989 | The Access Group | Head of Product – Distribution & Revenue Generation | posted=2026-11-16
+- [ ] https://www.linkedin.com/jobs/view/4490278898 | Staples India | Senior Manager, Product Management | posted=2026-11-16
+- [ ] https://api.smartrecruiters.com/v1/companies/nagarro1/postings/744000161772749 | Nagarro | Digital Product Owner - Home Automation & IoT  | posted=2026-11-16
+- [ ] https://jobs.lever.co/bazaarvoice/7921b012-cf37-44a8-a37d-7bccecaeb7a9 | Bazaarvoice | Senior Product Manager | posted=2026-11-03
+- [ ] https://www.payoneer.com/careers/position/8330248/?gh_jid=8330248 | Payoneer | Senior Data Product Manager | posted=2026-11-16
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -6905,6 +6905,13 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/bazaarvoice/7921b012-cf37-44a8-a37d-7bccecaeb7a9 | Bazaarvoice | Senior Product Manager | posted=2026-11-03
 - [ ] https://www.payoneer.com/careers/position/8330248/?gh_jid=8330248 | Payoneer | Senior Data Product Manager | posted=2026-11-16
 
+- [ ] https://www.linkedin.com/jobs/view/4491503764 | Spore N Sprouts | Product Owner - AI | posted=2026-11-16
+- [ ] https://www.linkedin.com/jobs/view/4491517211 | Spore N Sprouts | Product Manager, GenAI Products (Enterprise) | posted=2026-11-16
+- [ ] https://www.linkedin.com/jobs/view/4491509613 | Astellas Pharma | R&D Data Product Manager | posted=2026-11-16
+- [ ] https://job-boards.greenhouse.io/zinnia/jobs/4729776006 | Zinnia | Senior Product Manager - Life Insurance & Annuity | posted=2026-11-16
+- [ ] https://job-boards.greenhouse.io/oportun/jobs/4754599005 | Oportun | Senior Director of Product Management (R14361) | posted=2026-11-16
+- [ ] https://api.smartrecruiters.com/v1/companies/ixigo/postings/744000161786044 | ixigo | Product Manager | posted=2026-11-16
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

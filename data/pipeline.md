@@ -6932,6 +6932,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://api.smartrecruiters.com/v1/companies/Entain/postings/744000162016947 | Entain India | Product Manager - Content | posted=2026-11-17
 - [ ] https://job-boards.greenhouse.io/coursera/jobs/6262331004 | Coursera | Product Manager, II | posted=2026-11-16
 
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/8393928 | Twilio | Staff Product Manager | posted=2026-11-17
+- [ ] https://jobs.lever.co/jobgether/b0011e98-e2c2-48a6-b93a-7bb42b263993 | Jobgether | Head of Product - AdTech | posted=2026-11-16
+- [ ] https://jobs.lever.co/jobgether/e9c54461-2cd6-429e-816a-092088e43db6 | Jobgether | Product Manager, Business Operations, Project/PMO & Managers | posted=2026-11-17
+- [ ] https://jobs.lever.co/jobgether/62f1dfd3-a7b8-4b36-b144-414680d90501 | Jobgether | Technical Product Manager, Identification & JS Agent | posted=2026-11-16
+- [ ] https://jobs.ashbyhq.com/Aspora/33e09324-7a9a-4a74-96f2-bd2f9fa8a1f0 | Aspora | Product Manager | posted=2026-11-17
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

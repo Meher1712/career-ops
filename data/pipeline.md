@@ -6912,6 +6912,26 @@ Pune, India | posted=2026-06-28
 - [ ] https://job-boards.greenhouse.io/oportun/jobs/4754599005 | Oportun | Senior Director of Product Management (R14361) | posted=2026-11-16
 - [ ] https://api.smartrecruiters.com/v1/companies/ixigo/postings/744000161786044 | ixigo | Product Manager | posted=2026-11-16
 
+- [ ] https://www.linkedin.com/jobs/view/4490431564 | eBay | Sr. Product Manager - Seller Payments | posted=2026-11-17
+- [ ] https://www.linkedin.com/jobs/view/4490421677 | HotelHub | Product Manager/Product Lead | posted=2026-11-17
+- [ ] https://www.linkedin.com/jobs/view/4491150436 | JioSaavn | Senior Product Manager,JioTunes | posted=2026-11-17
+- [ ] https://www.linkedin.com/jobs/view/4490428805 | Google | Product Manager, GPay | posted=2026-11-17
+- [ ] https://www.linkedin.com/jobs/view/4490447240 | DBS Bank | Assistant Vice President, Specialist, Product Management - Commercial Cards, Small Medium Enterprises | posted=2026-11-17
+- [ ] https://www.linkedin.com/jobs/view/4490430896 | InMobi Advertising | Product Manager. | posted=2026-11-17
+- [ ] https://www.linkedin.com/jobs/view/4491147947 | Bright Money | Senior Product Manager | posted=2026-11-17
+- [ ] https://www.linkedin.com/jobs/view/4491158177 | Route Mobile Limited | Senior Product Manager | posted=2026-11-17
+- [ ] https://www.linkedin.com/jobs/view/4490419885 | Arcesium | Product Manager - Quantitative Analytics | posted=2026-11-17
+- [ ] https://www.linkedin.com/jobs/view/4483597222 | LPL Financial Global Capability Center | Tech Product Owner | posted=2026-11-17
+- [ ] https://www.linkedin.com/jobs/view/4482972913 | Vensure Employer Solutions | Product Manager | posted=2026-11-17
+- [ ] https://www.linkedin.com/jobs/view/4491158187 | Wells Fargo | Lead Digital Product Manager | posted=2026-11-17
+- [ ] https://www.linkedin.com/jobs/view/4491152682 | HID | Product Owner Business Enablement | posted=2026-11-17
+- [ ] https://jobs.lever.co/meesho/1c0052a9-6664-4602-9aad-0e250d9c0980 | Meesho | Product Manager I | posted=2026-11-03
+- [ ] https://jobs.lever.co/meesho/19954b1f-3bbc-44b6-b836-65c0f854953b | Meesho | Senior Product Manager | posted=2026-11-17
+- [ ] https://job-boards.greenhouse.io/zinnia/jobs/4725055006 | Zinnia | Senior Product Manager - Life Insurance & Annuity | posted=2026-11-16
+- [ ] https://job-boards.greenhouse.io/inmobi/jobs/8349134 | InMobi Advertising | Product Manager | posted=2026-11-17
+- [ ] https://api.smartrecruiters.com/v1/companies/Entain/postings/744000162016947 | Entain India | Product Manager - Content | posted=2026-11-17
+- [ ] https://job-boards.greenhouse.io/coursera/jobs/6262331004 | Coursera | Product Manager, II | posted=2026-11-16
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

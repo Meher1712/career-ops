@@ -1,40 +1,110 @@
 {
-  "generated_at": "2026-11-17T20:57:58.102Z",
+  "generated_at": "2026-11-18T11:46:24.468Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Staff Product Manager",
-      "company": "Twilio",
-      "location": "Remote - US",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8393928"
+      "title": "Lead Technical Product Manager",
+      "company": "Optum India",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.linkedin.com/jobs/view/4491799985"
     },
     {
       "n": 2,
-      "title": "Head of Product - AdTech",
-      "company": "Jobgether",
-      "location": "India",
-      "url": "https://jobs.lever.co/jobgether/b0011e98-e2c2-48a6-b93a-7bb42b263993"
+      "title": "Technical Product Manager",
+      "company": "Visa",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4484222429"
     },
     {
       "n": 3,
-      "title": "Product Manager, Business Operations, Project/PMO & Managers",
-      "company": "Jobgether",
-      "location": "India",
-      "url": "https://jobs.lever.co/jobgether/e9c54461-2cd6-429e-816a-092088e43db6"
+      "title": "Principal Product Manager, Enterprise Governance",
+      "company": "UiPath",
+      "location": "Bengaluru East, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4490895022"
     },
     {
       "n": 4,
-      "title": "Technical Product Manager, Identification & JS Agent",
-      "company": "Jobgether",
-      "location": "India",
-      "url": "https://jobs.lever.co/jobgether/62f1dfd3-a7b8-4b36-b144-414680d90501"
+      "title": "Product Manager, Specialist (WT- Contact Center (Ops))",
+      "company": "Vanguard India",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.linkedin.com/jobs/view/4491823938"
     },
     {
       "n": 5,
-      "title": "Product Manager",
-      "company": "Aspora",
-      "location": "Bangalore ",
-      "url": "https://jobs.ashbyhq.com/Aspora/33e09324-7a9a-4a74-96f2-bd2f9fa8a1f0"
+      "title": "Product Manager-1",
+      "company": "MoEngage",
+      "location": "Bangalore Urban, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4491835228"
+    },
+    {
+      "n": 6,
+      "title": "Senior Product Manager (CRM Integration)",
+      "company": "Cvent",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4491828620"
+    },
+    {
+      "n": 7,
+      "title": "Product Manager(Enterprise Fraud)",
+      "company": "Clari5 - A Perfios Company",
+      "location": "Greater Bengaluru Area",
+      "url": "https://www.linkedin.com/jobs/view/4491834341"
+    },
+    {
+      "n": 8,
+      "title": "Sr. Product Manager - Wound Closure",
+      "company": "Johnson & Johnson MedTech",
+      "location": "Mumbai Metropolitan Region",
+      "url": "https://www.linkedin.com/jobs/view/4492018223"
+    },
+    {
+      "n": 9,
+      "title": "Product Manager - R01573831",
+      "company": "Brillio",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4490876895"
+    },
+    {
+      "n": 10,
+      "title": "Manager, Product Management (SaaS B2B)",
+      "company": "Zenoti",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://job-boards.greenhouse.io/zenoti/jobs/8204626003"
+    },
+    {
+      "n": 11,
+      "title": "Senior Principal - Product Owner - Observability",
+      "company": "GSK",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.linkedin.com/jobs/view/4477705599"
+    },
+    {
+      "n": 12,
+      "title": "Associate Director, Product Owner - Workplace Experience",
+      "company": "GSK",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.linkedin.com/jobs/view/4490872745"
+    },
+    {
+      "n": 13,
+      "title": "Product Owner",
+      "company": "VentraGate",
+      "location": "Coimbatore, Tamil Nadu, India",
+      "url": "https://www.linkedin.com/jobs/view/4491824805"
+    },
+    {
+      "n": 14,
+      "title": "Associate Director, Product Owner - Corporate Security",
+      "company": "GSK",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.linkedin.com/jobs/view/4490874680"
+    },
+    {
+      "n": 15,
+      "title": "Product Manager – AI-First EdTech (PO / Technical BA welcome)",
+      "company": "Jobgether",
+      "location": "India",
+      "url": "https://jobs.lever.co/jobgether/01ec4fa5-94c2-4b73-90c9-ae577fd80a4c"
     }
   ]
 }

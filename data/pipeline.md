@@ -6955,6 +6955,10 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/jobgether/01ec4fa5-94c2-4b73-90c9-ae577fd80a4c | Jobgether | Product Manager – AI-First EdTech (PO / Technical BA welcome) | posted=2026-11-18
 - [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Senior-Product-Manager_JR108978 | Sabre | Senior Product Manager | posted=2026-11-18
 
+- [ ] https://jobs.lever.co/jobgether/dd2b2cf9-eb16-4880-bafb-eaa2a0980edd | Jobgether | Senior Product Manager, Self-Serve | posted=2026-11-18
+- [ ] https://jobs.ashbyhq.com/harvey/c440afde-e272-4580-99c5-d11cc4b720cc | Harvey | GTM Technology Product Owner - Quote to Cash | posted=2026-11-18
+- [ ] https://jobs.ashbyhq.com/uipath/2ca36395-0937-4a57-b502-ac5a6bfe388f | UiPath | Principal Product Manager, Enterprise Governance | posted=2026-11-18
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

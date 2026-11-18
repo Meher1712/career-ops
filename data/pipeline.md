@@ -6938,6 +6938,23 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/jobgether/62f1dfd3-a7b8-4b36-b144-414680d90501 | Jobgether | Technical Product Manager, Identification & JS Agent | posted=2026-11-16
 - [ ] https://jobs.ashbyhq.com/Aspora/33e09324-7a9a-4a74-96f2-bd2f9fa8a1f0 | Aspora | Product Manager | posted=2026-11-17
 
+- [ ] https://www.linkedin.com/jobs/view/4491799985 | Optum India | Lead Technical Product Manager | posted=2026-11-18
+- [ ] https://www.linkedin.com/jobs/view/4484222429 | Visa | Technical Product Manager | posted=2026-11-18
+- [ ] https://www.linkedin.com/jobs/view/4490895022 | UiPath | Principal Product Manager, Enterprise Governance | posted=2026-11-18
+- [ ] https://www.linkedin.com/jobs/view/4491823938 | Vanguard India | Product Manager, Specialist (WT- Contact Center (Ops)) | posted=2026-11-18
+- [ ] https://www.linkedin.com/jobs/view/4491835228 | MoEngage | Product Manager-1 | posted=2026-11-18
+- [ ] https://www.linkedin.com/jobs/view/4491828620 | Cvent | Senior Product Manager (CRM Integration) | posted=2026-11-18
+- [ ] https://www.linkedin.com/jobs/view/4491834341 | Clari5 - A Perfios Company | Product Manager(Enterprise Fraud) | posted=2026-11-18
+- [ ] https://www.linkedin.com/jobs/view/4492018223 | Johnson & Johnson MedTech | Sr. Product Manager - Wound Closure | posted=2026-11-18
+- [ ] https://www.linkedin.com/jobs/view/4490876895 | Brillio | Product Manager - R01573831 | posted=2026-11-18
+- [ ] https://job-boards.greenhouse.io/zenoti/jobs/8204626003 | Zenoti | Manager, Product Management (SaaS B2B) | posted=2026-11-17
+- [ ] https://www.linkedin.com/jobs/view/4477705599 | GSK | Senior Principal - Product Owner - Observability | posted=2026-11-18
+- [ ] https://www.linkedin.com/jobs/view/4490872745 | GSK | Associate Director, Product Owner - Workplace Experience | posted=2026-11-18
+- [ ] https://www.linkedin.com/jobs/view/4491824805 | VentraGate | Product Owner | posted=2026-11-18
+- [ ] https://www.linkedin.com/jobs/view/4490874680 | GSK | Associate Director, Product Owner - Corporate Security | posted=2026-11-18
+- [ ] https://jobs.lever.co/jobgether/01ec4fa5-94c2-4b73-90c9-ae577fd80a4c | Jobgether | Product Manager – AI-First EdTech (PO / Technical BA welcome) | posted=2026-11-18
+- [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Senior-Product-Manager_JR108978 | Sabre | Senior Product Manager | posted=2026-11-18
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

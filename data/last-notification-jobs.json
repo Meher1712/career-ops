@@ -1,26 +1,40 @@
 {
-  "generated_at": "2026-11-18T20:35:07.254Z",
+  "generated_at": "2026-11-19T11:44:03.496Z",
   "jobs": [
     {
       "n": 1,
-      "title": "Senior Product Manager, Self-Serve",
-      "company": "Jobgether",
-      "location": "India",
-      "url": "https://jobs.lever.co/jobgether/dd2b2cf9-eb16-4880-bafb-eaa2a0980edd"
+      "title": "Product Manager II - DAU Labs",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/ee1aa9f3-e5a1-4488-93fb-963127eebe0c"
     },
     {
       "n": 2,
-      "title": "GTM Technology Product Owner - Quote to Cash",
-      "company": "Harvey",
-      "location": "Remote",
-      "url": "https://jobs.ashbyhq.com/harvey/c440afde-e272-4580-99c5-d11cc4b720cc"
+      "title": "Senior Product Manager - Core Product Experience",
+      "company": "InMobi Advertising",
+      "location": "Bangalore",
+      "url": "https://job-boards.greenhouse.io/inmobi/jobs/8358144"
     },
     {
       "n": 3,
-      "title": "Principal Product Manager, Enterprise Governance",
-      "company": "UiPath",
-      "location": "Bangalore",
-      "url": "https://jobs.ashbyhq.com/uipath/2ca36395-0937-4a57-b502-ac5a6bfe388f"
+      "title": "Senior Product Manager - Monetisation & Payments ",
+      "company": "InMobi Advertising",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/inmobi/jobs/8358188"
+    },
+    {
+      "n": 4,
+      "title": "Senior Product Manager - Onboarding & Activation",
+      "company": "InMobi Advertising",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/inmobi/jobs/8358196"
+    },
+    {
+      "n": 5,
+      "title": "Staff Consultant (E-Commerce Product Manager)",
+      "company": "Nagarro",
+      "location": "Bengaluru, in",
+      "url": "https://api.smartrecruiters.com/v1/companies/nagarro1/postings/744000162472495"
     }
   ]
 }

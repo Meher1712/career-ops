@@ -6959,6 +6959,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.ashbyhq.com/harvey/c440afde-e272-4580-99c5-d11cc4b720cc | Harvey | GTM Technology Product Owner - Quote to Cash | posted=2026-11-18
 - [ ] https://jobs.ashbyhq.com/uipath/2ca36395-0937-4a57-b502-ac5a6bfe388f | UiPath | Principal Product Manager, Enterprise Governance | posted=2026-11-18
 
+- [ ] https://jobs.lever.co/meesho/ee1aa9f3-e5a1-4488-93fb-963127eebe0c | Meesho | Product Manager II - DAU Labs | posted=2026-11-16
+- [ ] https://job-boards.greenhouse.io/inmobi/jobs/8358144 | InMobi Advertising | Senior Product Manager - Core Product Experience | posted=2026-11-19
+- [ ] https://job-boards.greenhouse.io/inmobi/jobs/8358188 | InMobi Advertising | Senior Product Manager - Monetisation & Payments  | posted=2026-11-19
+- [ ] https://job-boards.greenhouse.io/inmobi/jobs/8358196 | InMobi Advertising | Senior Product Manager - Onboarding & Activation | posted=2026-11-19
+- [ ] https://api.smartrecruiters.com/v1/companies/nagarro1/postings/744000162472495 | Nagarro | Staff Consultant (E-Commerce Product Manager) | posted=2026-11-19
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

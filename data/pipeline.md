@@ -6965,6 +6965,11 @@ Pune, India | posted=2026-06-28
 - [ ] https://job-boards.greenhouse.io/inmobi/jobs/8358196 | InMobi Advertising | Senior Product Manager - Onboarding & Activation | posted=2026-11-19
 - [ ] https://api.smartrecruiters.com/v1/companies/nagarro1/postings/744000162472495 | Nagarro | Staff Consultant (E-Commerce Product Manager) | posted=2026-11-19
 
+- [ ] https://www.linkedin.com/jobs/view/4492493879 | Amazon | Sr. Product Manager - Tech, Buyer Abuse | posted=2026-11-19
+- [ ] https://jobs.lever.co/jobgether/f1f3c751-99b5-4979-ad3f-37a52c6811c9 | Jobgether | Product Manager, Phones Platform | posted=2026-11-19
+- [ ] https://api.smartrecruiters.com/v1/companies/nagarro1/postings/744000162584089 | Nagarro | Senior Staff Consultant (Ecommerce Product Manager) | posted=2026-11-19
+- [ ] https://careers.toasttab.com/jobs?gh_jid=8402925 | Toast | Senior Principal Product Manager - Vision AI | posted=2026-11-19
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -6970,6 +6970,11 @@ Pune, India | posted=2026-06-28
 - [ ] https://api.smartrecruiters.com/v1/companies/nagarro1/postings/744000162584089 | Nagarro | Senior Staff Consultant (Ecommerce Product Manager) | posted=2026-11-19
 - [ ] https://careers.toasttab.com/jobs?gh_jid=8402925 | Toast | Senior Principal Product Manager - Vision AI | posted=2026-11-19
 
+- [ ] https://jobs.lever.co/jumpcloud/ef852f8d-da6b-460e-ac2f-1407d9c85cf4 | JumpCloud® | Senior Product Manager, Authentication - India | posted=2026-11-06
+- [ ] https://jobs.lever.co/jobgether/0dc315c5-5dcc-45fe-8e87-aa94f64545bb | Jobgether | Full Stack Builder (B2B SaaS) | posted=2026-11-20
+- [ ] https://jobs.lever.co/coupa/3da65933-3927-436b-b1cd-31773a1dc673 | Coupa | Sr Product Manager - Expense Management - 11826 | posted=2026-08-14
+- [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Principal-Product-Manager_JR109011-1 | Sabre | Principal Product Manager | posted=2026-11-20
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

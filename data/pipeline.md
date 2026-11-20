@@ -6975,6 +6975,10 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/coupa/3da65933-3927-436b-b1cd-31773a1dc673 | Coupa | Sr Product Manager - Expense Management - 11826 | posted=2026-08-14
 - [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Principal-Product-Manager_JR109011-1 | Sabre | Principal Product Manager | posted=2026-11-20
 
+- [ ] https://www.linkedin.com/jobs/view/4492996296 | MyDigitalWork | Senior Product Manager, Asset Onboarding & DART | posted=2026-11-20
+- [ ] https://www.linkedin.com/jobs/view/4492932930 | JAC Recruitment | Product Owner | posted=2026-11-20
+- [ ] https://jobs.ashbyhq.com/pearl/bea18f59-1259-4f8e-9c83-2bd75438e727 | Pearl | Senior Product Manager | posted=2026-11-20
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

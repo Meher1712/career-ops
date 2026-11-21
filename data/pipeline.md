@@ -6979,6 +6979,18 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4492932930 | JAC Recruitment | Product Owner | posted=2026-11-20
 - [ ] https://jobs.ashbyhq.com/pearl/bea18f59-1259-4f8e-9c83-2bd75438e727 | Pearl | Senior Product Manager | posted=2026-11-20
 
+- [ ] https://www.linkedin.com/jobs/view/4458662033 | ModMed India | Technical Product Owner | posted=2026-11-21
+- [ ] https://www.linkedin.com/jobs/view/4485651223 | Amazon | Sr. Product Manager-Technical, Amazon Business | posted=2026-11-21
+- [ ] https://www.linkedin.com/jobs/view/4481816356 | GSK | Senior Principal - Product Owner - Cloud | posted=2026-11-21
+- [ ] https://www.linkedin.com/jobs/view/4482211301 | GSK | Senior Principal - Product Owner Network Capabilities | posted=2026-11-21
+- [ ] https://www.linkedin.com/jobs/view/4493289736 | Labcorp | Technical Product Owner | posted=2026-11-21
+- [ ] https://www.linkedin.com/jobs/view/4493107089 | Elsevier | Product Manager, Input Zone | posted=2026-11-21
+- [ ] https://www.linkedin.com/jobs/view/4492885962 | RELX | Product Manager, Input Zone | posted=2026-11-21
+- [ ] https://www.linkedin.com/jobs/view/4482219027 | GSK | Senior Principal - Product Owner Segmentation | posted=2026-11-21
+- [ ] https://www.linkedin.com/jobs/view/4481899776 | GSK | Senior Principal - Product Owner Perimeter | posted=2026-11-21
+- [ ] https://www.linkedin.com/jobs/view/4481825062 | GSK | Senior Principal - Atlassian + Tooling Product Owner | posted=2026-11-21
+- [ ] https://www.linkedin.com/jobs/view/4482217071 | GSK | Staff, AI Product Management (Global Functions) | posted=2026-11-21
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

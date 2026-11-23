@@ -6994,6 +6994,19 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4492356221 | GeneralMind | Senior Product Manager | posted=2026-11-22
 - [ ] https://www.linkedin.com/jobs/view/4489317988 | Luna Technologies Pvt. Ltd. | Product Manager – VFD | posted=2026-11-22
 
+- [ ] https://www.linkedin.com/jobs/view/4493771127 | QuadLabs | Product Manager / Senior Product Manager – Travel Tech | posted=2026-11-23
+- [ ] https://www.linkedin.com/jobs/view/4458422532 | Quickbase | Sr Product Manager | posted=2026-11-23
+- [ ] https://www.linkedin.com/jobs/view/4493788014 | American Express | Senior Manager-Digital Product Management | posted=2026-11-23
+- [ ] https://www.linkedin.com/jobs/view/4493657091 | Dr. Reddy's Laboratories | Principal Product Manager - MES | posted=2026-11-23
+- [ ] https://www.linkedin.com/jobs/view/4492600819 | Apollo Tyres Ltd | Product Manager HCV | posted=2026-11-23
+- [ ] https://www.linkedin.com/jobs/view/4487645160 | PDI Technologies | Product Owner III | posted=2026-11-23
+- [ ] https://www.linkedin.com/jobs/view/4493645343 | Fresenius Medical Care | DAIS Product Owner | posted=2026-11-23
+- [ ] https://www.linkedin.com/jobs/view/4493634658 | SiteRecon | Technical Product Manager | posted=2026-11-23
+- [ ] https://www.linkedin.com/jobs/view/4493763978 | American Express | Senior Associate-Digital Product Management | posted=2026-11-23
+- [ ] https://jobs.lever.co/sitetracker/9b872b3a-eb7a-44fa-bfb9-e0f27a7cbb69 | Sitetracker | Senior Product Manager | posted=2026-11-16
+- [ ] https://jobs.lever.co/jobgether/e64501a1-bf92-43e5-8c2d-a9b36949eb03 | Jobgether | Group Product Manager, Customer Acquisition | posted=2026-11-23
+- [ ] https://jobs.lever.co/jobgether/580fb9d8-f262-4440-8b9a-d696cdd470a5 | Jobgether | Sr Product Manager - Expense Management | posted=2026-11-23
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

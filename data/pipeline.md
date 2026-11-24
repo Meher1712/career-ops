@@ -7027,6 +7027,8 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4494376408 | Allegis Global Solutions | Product Owner II, Business Intelligence | posted=2026-11-24
 - [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/India-Remote/Lead-Product-Manager_JR108963-1 | Sabre | Lead Product Manager | posted=2026-11-24
 
+- [ ] https://stripe.com/jobs/search?gh_jid=8414351 | Stripe | Product Manager, Stripe Business Network | posted=2026-11-24
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

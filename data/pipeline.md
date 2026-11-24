@@ -7015,6 +7015,18 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.fivetran.com/careers/job?gh_jid=7818210003 | Fivetran | Senior Product Manager, Orchestration | posted=2026-11-23
 - [ ] https://fractal.wd1.myworkdayjobs.com/Careers/job/Bengaluru/Senior-Product-Manager---Cogentiq-CX_SR-47842 | Fractal Analytics | Senior Product Manager - Cogentiq CX | posted=2026-11-24
 
+- [ ] https://www.linkedin.com/jobs/view/4486198111 | Cin7 | Product Manager, AI | posted=2026-11-24
+- [ ] https://www.linkedin.com/jobs/view/4494094811 | LinkedIn India PM | Senior Product Manager | posted=2026-11-24
+- [ ] https://www.linkedin.com/jobs/view/4494358905 | Systango | Product Manager (SaaS Products) | posted=2026-11-24
+- [ ] https://www.linkedin.com/jobs/view/4486017890 | BitGo | Product Manager - Tokenisation & Stablecoin Infrastructure | posted=2026-11-24
+- [ ] https://www.linkedin.com/jobs/view/4494381089 | EloElo | Product Manager (Dolphin AI) | posted=2026-11-24
+- [ ] https://www.linkedin.com/jobs/view/4494367580 | Qloron Pvt Ltd | product manager | posted=2026-11-24
+- [ ] https://www.linkedin.com/jobs/view/4494142390 | HSBC | Snr Product manager - Customer Platforms | posted=2026-11-24
+- [ ] https://www.linkedin.com/jobs/view/4494132883 | The Premier Consultants ( Recruitment Company ) | Product Manager - Trade | posted=2026-11-24
+- [ ] https://www.linkedin.com/jobs/view/4494371433 | HCLTech | Product Owner- Cyber Resilience | posted=2026-11-24
+- [ ] https://www.linkedin.com/jobs/view/4494376408 | Allegis Global Solutions | Product Owner II, Business Intelligence | posted=2026-11-24
+- [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/India-Remote/Lead-Product-Manager_JR108963-1 | Sabre | Lead Product Manager | posted=2026-11-24
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

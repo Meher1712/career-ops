@@ -7007,6 +7007,14 @@ Pune, India | posted=2026-06-28
 - [ ] https://jobs.lever.co/jobgether/e64501a1-bf92-43e5-8c2d-a9b36949eb03 | Jobgether | Group Product Manager, Customer Acquisition | posted=2026-11-23
 - [ ] https://jobs.lever.co/jobgether/580fb9d8-f262-4440-8b9a-d696cdd470a5 | Jobgether | Sr Product Manager - Expense Management | posted=2026-11-23
 
+- [ ] https://stripe.com/jobs/search?gh_jid=8165265 | Stripe | Product Manager, Infrastructure | posted=2026-11-23
+- [ ] https://www.linkedin.com/jobs/view/4492665366 | Capgemini | FBS Agile Product Manager (Guidewire - Commercial) | posted=2026-11-24
+- [ ] https://www.linkedin.com/jobs/view/4492667299 | Capgemini | FBS Product Owner (Guidewire - Commercial) | posted=2026-11-24
+- [ ] https://job-boards.greenhouse.io/sumologic/jobs/8386576 | Sumo Logic | Director, Product Management | posted=2026-11-23
+- [ ] https://jobs.lever.co/tala/55173848-5c20-4cea-a320-7248d51796bc | Tala | Senior Product Manager, Fraud & Risk | posted=2026-10-02
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7818210003 | Fivetran | Senior Product Manager, Orchestration | posted=2026-11-23
+- [ ] https://fractal.wd1.myworkdayjobs.com/Careers/job/Bengaluru/Senior-Product-Manager---Cogentiq-CX_SR-47842 | Fractal Analytics | Senior Product Manager - Cogentiq CX | posted=2026-11-24
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

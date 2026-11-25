@@ -7029,6 +7029,20 @@ Pune, India | posted=2026-06-28
 
 - [ ] https://stripe.com/jobs/search?gh_jid=8414351 | Stripe | Product Manager, Stripe Business Network | posted=2026-11-24
 
+- [ ] https://jobs.lever.co/nium/1b8a2c56-d819-4fd9-8058-d0ecdce4fa12 | Nium | Sr Product Manager - Payments Platform | posted=2026-11-25
+- [ ] https://jobs.lever.co/nium/5ad487ff-a571-46b6-b23f-b6bd23386211 | Nium | Staff Product Manager  – Digital Assets | posted=2026-11-25
+- [ ] https://www.linkedin.com/jobs/view/4494639089 | Amazon | Sr. Product Manager-Tech, Amazon Supply Chain Services | posted=2026-11-25
+- [ ] https://www.linkedin.com/jobs/view/4494623797 | Aftershoot | Senior Product Manager | posted=2026-11-25
+- [ ] https://www.linkedin.com/jobs/view/4494629340 | HuntingCube | Senior Product Manager – Personal AI | posted=2026-11-25
+- [ ] https://www.linkedin.com/jobs/view/4493404910 | Ratch AI | Product Manager | posted=2026-11-25
+- [ ] https://www.linkedin.com/jobs/view/4494907549 | Teradata | Director Product Management (IC) - Sovereign AI | posted=2026-11-25
+- [ ] https://www.linkedin.com/jobs/view/4494912346 | Teradata | Sr. Staff Product Manager, Product Experience | posted=2026-11-25
+- [ ] https://www.linkedin.com/jobs/view/4494914364 | American Express | Manager-Digital Product Management | posted=2026-11-25
+- [ ] https://www.linkedin.com/jobs/view/4494901990 | AIOrdinate | Legal Product Manager - AI & LegalTech | posted=2026-11-25
+- [ ] https://www.linkedin.com/jobs/view/4494904843 | Umanist NA | Product Management Lead | posted=2026-11-25
+- [ ] https://api.smartrecruiters.com/v1/companies/Freshworks/postings/744000163610179 | Freshworks | Senior Staff Product Manager | posted=2026-11-25
+- [ ] https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Sr-Manager--AI-Builder_JR369425 | Salesforce | Sr. Manager, AI Builder | posted=2026-11-25
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

@@ -7043,6 +7043,12 @@ Pune, India | posted=2026-06-28
 - [ ] https://api.smartrecruiters.com/v1/companies/Freshworks/postings/744000163610179 | Freshworks | Senior Staff Product Manager | posted=2026-11-25
 - [ ] https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Sr-Manager--AI-Builder_JR369425 | Salesforce | Sr. Manager, AI Builder | posted=2026-11-25
 
+- [ ] https://www.linkedin.com/jobs/view/4493452657 | Optum | Senior Technical Product Manager, | posted=2026-11-25
+- [ ] https://www.linkedin.com/jobs/view/4494972120 | Infosys | Product Management | posted=2026-11-25
+- [ ] https://www.linkedin.com/jobs/view/4493451837 | OpenText | Lead/Principal Product Management - AI PDLC Coach | posted=2026-11-25
+- [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Senior-Manager--Product-Management---Sabre-Payments_JR109051 | Sabre | Senior Manager, Product Management - Sabre Payments | posted=2026-11-25
+- [ ] https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Remote/Product-Management-Senior-Director_JR369575 | Salesforce | Product Management Senior Director | posted=2026-11-25
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

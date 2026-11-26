@@ -7049,6 +7049,28 @@ Pune, India | posted=2026-06-28
 - [ ] https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Senior-Manager--Product-Management---Sabre-Payments_JR109051 | Sabre | Senior Manager, Product Management - Sabre Payments | posted=2026-11-25
 - [ ] https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Remote/Product-Management-Senior-Director_JR369575 | Salesforce | Product Management Senior Director | posted=2026-11-25
 
+- [ ] https://www.linkedin.com/jobs/view/4485516162 | HighLevel | Sr. Product Manager - Conversations | posted=2026-11-26
+- [ ] https://www.linkedin.com/jobs/view/4493812418 | HighLevel | Sr. Product Manager, Account Integrity | posted=2026-11-26
+- [ ] https://www.linkedin.com/jobs/view/4478443451 | Philips | Global Product Manager - Respiratory Accessories | posted=2026-11-26
+- [ ] https://www.linkedin.com/jobs/view/4493821343 | Netomi | Senior Technical PM, Applied AI | posted=2026-11-26
+- [ ] https://www.linkedin.com/jobs/view/4478853696 | Golden Opportunities | AI Product Owner - Head - GO/JC/4801/2026 | posted=2026-11-26
+- [ ] https://www.linkedin.com/jobs/view/4495021403 | The Customization Group | Product Owner, Agentic Platform (India) | posted=2026-11-26
+- [ ] https://www.linkedin.com/jobs/view/4495023216 | AIMLEAP | Product Manager - AI/ SaaS Products | posted=2026-11-26
+- [ ] https://www.linkedin.com/jobs/view/4495012391 | Vieroots Wellness Solutions Pvt Ltd | Product Manager – Nutraceuticals Division | posted=2026-11-26
+- [ ] https://www.linkedin.com/jobs/view/4495010565 | Michael Page | Product Manager - Gurugram | posted=2026-11-26
+- [ ] https://www.linkedin.com/jobs/view/4493810406 | Cosmofix® | Product Manager – Dermatology Rx (Brand & Portfolio) | posted=2026-11-26
+- [ ] https://www.linkedin.com/jobs/view/4495017500 | Titan Company Limited | Regional Product Manager – Taneira | posted=2026-11-26
+- [ ] https://jobs.ashbyhq.com/atlan/dbb8cec5-f9b8-46af-bbbe-9638c5646638 | Atlan | AI Native Builder - Frontend | posted=2026-11-26
+- [ ] https://www.linkedin.com/jobs/view/4495285811 | Weekday AI (YC W21) | Product Manager Devtools | posted=2026-11-26
+- [ ] https://www.linkedin.com/jobs/view/4495282839 | MakeMyTrip | Associate Product Manager - Connect | posted=2026-11-26
+- [ ] https://www.linkedin.com/jobs/view/4486584865 | IDFC FIRST Bank | Senior Product Manager-Credit Cards | posted=2026-11-26
+- [ ] https://www.linkedin.com/jobs/view/4493825085 | MyCareernet | Senior Product Owner_106639 | posted=2026-11-26
+- [ ] https://www.linkedin.com/jobs/view/4485514222 | GSK | Principal - Product Owner for Biometric Authentication Solution | posted=2026-11-26
+- [ ] https://www.linkedin.com/jobs/view/4486543495 | Kraken | Senior Director of Product - P2P Marketplace & Platform | posted=2026-11-26
+- [ ] https://www.linkedin.com/jobs/view/4495295382 | TE Connectivity | Specialist - Product Management | posted=2026-11-26
+- [ ] https://www.linkedin.com/jobs/view/4493825123 | Justus & Hogland | Assistant Product Manager | posted=2026-11-26
+- [ ] https://www.linkedin.com/jobs/view/4486599461 | IDFC FIRST Bank | Product Manager-Current Account | posted=2026-11-26
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

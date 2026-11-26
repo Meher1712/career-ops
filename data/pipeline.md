@@ -7071,6 +7071,8 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4493825123 | Justus & Hogland | Assistant Product Manager | posted=2026-11-26
 - [ ] https://www.linkedin.com/jobs/view/4486599461 | IDFC FIRST Bank | Product Manager-Current Account | posted=2026-11-26
 
+- [ ] https://jobs.lever.co/meesho/bb950ba6-dd50-4caf-9c52-00d5168a59a5 | Meesho | Kirana Club : Product Manager II - Commerce | posted=2026-11-18
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

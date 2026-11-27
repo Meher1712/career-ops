@@ -7085,6 +7085,8 @@ Pune, India | posted=2026-06-28
 - [ ] https://www.linkedin.com/jobs/view/4495094678 | Techfully | Senior Product Manager – Insurance Technology (P&C) | posted=2026-11-27
 - [ ] https://jobs.lever.co/coupa/83d6c2db-0807-4c1f-90d1-94a298752a75 | Coupa | Sr. Product Manager - Supply Chain Data Platform | posted=2026-11-18
 
+- [ ] https://www.linkedin.com/jobs/view/4494222290 | HotelHub | Product Owner – B2B Travel Technology | posted=2026-11-27
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z

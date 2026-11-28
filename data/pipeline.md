@@ -7087,6 +7087,10 @@ Pune, India | posted=2026-06-28
 
 - [ ] https://www.linkedin.com/jobs/view/4494222290 | HotelHub | Product Owner – B2B Travel Technology | posted=2026-11-27
 
+- [ ] https://www.linkedin.com/jobs/view/4496036071 | Target in India | Product Manager - Organic Social | posted=2026-11-28
+- [ ] https://www.linkedin.com/jobs/view/4494238871 | SAP | Agentic Product Creator – Supply Chain Management, Operate & Service (m/f/d) | posted=2026-11-28
+- [ ] https://www.linkedin.com/jobs/view/4496028262 | Valley Medical Center & Clinics | Agentic Product Creator – Supply Chain Management, Operate & Service (m/f/d) | posted=2026-11-28
+
 ## LinkedIn Scan — 2026-05-16 (PM & AI PM, India/Remote)
 
 - [x] https://www.linkedin.com/jobs/view/4413541350/ | Indegene | Gen AI Product Lead — Bengaluru, Karnataka, India | posted=2026-05-14 | posted_ts=2026-05-14T01:00Z
